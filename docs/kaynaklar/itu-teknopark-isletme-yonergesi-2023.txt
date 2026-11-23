@@ -1,0 +1,2374 @@
+          İTÜ TEKNOPARK
+TEKNOLOJİ GELİŞTİRME BÖLGESİ
+
+       İŞLETME YÖNERGESİ
+
+             17/02/2023
+                                                 İÇİNDEKİLER
+
+1. GİRİŞ............................................................................................................................................................. 1
+
+   1.1. Amaç............................................................................................................................................................ 1
+   1.2. Kapsam ........................................................................................................................................................ 1
+   1.3. Tanım ve Kısaltmalar ................................................................................................................................... 1
+   1.4. İlgili Mevzuat ............................................................................................................................................... 5
+
+2. İTÜ TEKNOPARK A.Ş. .................................................................................................................................... 6
+
+   2.1. Vizyon .......................................................................................................................................................... 6
+   2.2. Misyon ......................................................................................................................................................... 6
+   2.3. Hedefler....................................................................................................................................................... 6
+   2.4. Yönetim Kurulu............................................................................................................................................ 7
+   2.5. Yetki ve Görevleri ........................................................................................................................................ 7
+   2.6. Bilgi Raporlama.......................................................................................................................................... 12
+   2.7. Muafiyet, İstisnalar ve Destekler ............................................................................................................... 12
+   2.8. Hizmetler ve İşbirlikleri.............................................................................................................................. 18
+
+       2.8.1. Kuluçka Hizmetleri ............................................................................................................................. 19
+       2.8.2. Teknoloji Transfer Ofisi Hizmetleri..................................................................................................... 20
+       2.8.3. Teknoloji İşbirlikleri ............................................................................................................................ 21
+       2.8.4. Eğitim İşbirlikleri ................................................................................................................................ 21
+       2.8.5. Araştırma İşbirlikleri .......................................................................................................................... 21
+       2.8.6. Sosyal İşbirlikleri ................................................................................................................................ 22
+   2.9. Diğer İlişkili Kurallar ................................................................................................................................... 22
+
+3. 1773 İTÜ TEKNOPARK FAALİYET BAŞVURULARI .......................................................................................... 22
+
+   3.1. Ar-Ge ve/veya Tasarım Projesi Süreci ....................................................................................................... 22
+       3.1.1. Başvuru Adımı.................................................................................................................................... 22
+            3.1.1.1. Başvuru Formu ............................................................................................................................................ 23
+       3.1.2. Değerlendirme Adımı ......................................................................................................................... 24
+            3.1.2.1. Birinci Değerlendirme .................................................................................................................................. 24
+            3.1.2.2. İkinci Değerlendirme.................................................................................................................................... 24
+            3.1.2.3. Değerlendirme Formu ................................................................................................................................. 25
+       3.1.3. Karar Adımı ....................................................................................................................................... 27
+       3.1.4. Kabul Adımı....................................................................................................................................... 27
+       3.1.5. Takip Adımı ....................................................................................................................................... 27
+       3.1.6. Sonuçlandırma Adımı........................................................................................................................ 28
+
+   3.2. Teknolojik Ürün Proje Süreci ..................................................................................................................... 28
+       3.2.1. Teknolojik Ürünün Yatırımı ................................................................................................................ 28
+       3.2.2. Başvuru Adımı.................................................................................................................................... 28
+       3.2.3. Değerlendirme Adımı ......................................................................................................................... 29
+       3.3.4. Karar Adımı ........................................................................................................................................ 29
+
+   3.3. Gizlilik ........................................................................................................................................................ 30
+
+4. 1773 İTÜ TEKNOPARK FAALİYET KURALLARI ............................................................................................... 30
+
+   4.1. Belge ve Bilgilerin Doğruluğu .................................................................................................................... 30
+   4.2. Faaliyet Öncesi .......................................................................................................................................... 31
+   4.3. Faaliyet Başlangıcı ..................................................................................................................................... 32
+
+       4.3.1. Tadilat ve Dekorasyon ....................................................................................................................... 33
+   4.4. Faaliyetlerin Yürütülmesi........................................................................................................................... 34
+
+       4.4.1. Genel Faaliyet Kuralları...................................................................................................................... 34
+       4.4.3. Personel İstihdamı ............................................................................................................................. 36
+       4.4.4. Ofis Kuralları ...................................................................................................................................... 37
+       4.4.5. Ortak Alan Kuralları ........................................................................................................................... 39
+       4.4.6. Bölgeye Giriş Çıkışlar.......................................................................................................................... 40
+   4.5. Faaliyetlerin İzlenmesi ............................................................................................................................... 40
+       4.5.1. Faaliyet İzleme Formu........................................................................................................................ 40
+       4.5.2. Çalışan Personel Bilgi Formu.............................................................................................................. 40
+       4.5.3. SGK Bilgi Formu ................................................................................................................................. 41
+       4.5.4. Projelerin İzlenmesi............................................................................................................................ 41
+   4.6. Faaliyetlerin Denetlenmesi........................................................................................................................ 41
+       4.6.1. İTÜ Teknopark A.Ş.’nin Denetim Yetkisi ............................................................................................. 42
+       4.6.2. Bakanlık Denetim Yetkisi ................................................................................................................... 42
+   4.7. Bölgeden İhraç........................................................................................................................................... 43
+
+5. YÜRÜRLÜK.................................................................................................................................................. 44
+1. GİRİŞ
+
+1.1. Amaç
+İTÜ Teknopark Teknoloji Geliştirme Bölgesi (bundan sonra Bölge, Teknopark veya 1773 İTÜ
+Teknopark olarak anılacaktır) için hazırlanmış olan İşletme Yönergesinin amacı, 4691 sayılı
+Teknoloji Geliştirme Bölgeleri Yasası ile Teknoloji Geliştirme Bölgeleri Uygulama Yönetmeliği
+kapsamında Teknoloji Geliştirme Bölgesi olarak ilan edilen Bölge’nin T.C. Sanayi ve Teknoloji
+Bakanlığı’nın belirlediği Yasa ve Uygulama Yönetmeliğinin amaçlarına ve koşullarına uygun
+olarak işletilmesi, yönetilmesi ve denetlenmesine ilişkin hususları tespit etmektir. İş bu
+Yönerge Uygulama Yönetmeliği’nin 14. Maddesi (ğ) bendine uygun olarak, İTÜ Teknopark A.Ş.
+tarafından hazırlanmış ve yürürlüğe alınmıştır.
+
+1.2. Kapsam
+Yönerge, İTÜ Teknopark’taki girişimcilerin, firmaların ve İTÜ Teknopark A.Ş.’nin birbirlerine ve
+ilgili yasal mercilere karşı olan yükümlülüklerinin detaylarını belirlemekte ve bununla beraber
+Bölgede faaliyette bulunma koşullarını ortaya koymaktadır.
+
+1.3. Tanım ve Kısaltmalar
+Bu Yönergede geçen;
+
+• 1773 İTÜ Teknopark: İTÜ Teknopark Teknoloji Geliştirme Bölgesi’ni,
+
+• Araştırma ve Geliştirme (Ar-Ge): Kültür, insan ve toplumun bilgisinden oluşan dağarcığın
+    arttırılması ve bunun yazılım dâhil yeni süreç, sistem ve uygulamalar tasarlamak üzere
+    kullanılması için sistematik bir temelde yürütülen yaratıcı çalışmaları,
+
+• Araştırmacı: Ar-Ge faaliyetleri ile yenilik tanımı kapsamındaki projelerde, yeni bilgi, ürün,
+    süreç, yöntem ve sistemlerin tasarım veya oluşturulması ve ilgili projelerin yönetilmesi
+    süreçlerinde yer alan en az lisans mezunu uzmanları,
+
+• Ar-Ge’ye Dayalı Üretim Faaliyetleri: Bölgede faaliyet gösteren girişimcilerin ve/veya
+    firmaların, bu Bölgede gerçekleştirdikleri Ar-Ge faaliyetlerinin sonucunda ortaya çıkan
+    özgün süreç, hizmet, yöntem, üretim tekniği, faydalı araç gereç, malzeme, yazılım, ürün ve
+    sistemlerin Bölge içinde yer alan üretim birimlerinde ticari ürün haline getirilmesi,
+    üretilmesi faaliyetlerini,
+
+• Ar-Ge Merkez veya Enstitüleri: Kamuya ait, yetişmiş nitelikli insan gücü ile günün modern
+    teknolojilerine dayalı makine, donanım ve yazılımı içinde bulunduran, teknoloji ve ürün
+    geliştirilmesine yönelik Ar-Ge faaliyetlerinin yapıldığı mekânları,
+
+• Ar-Ge Binası: 1773 İTÜ Teknopark’ta Ar-Ge, tasarım ve yenilik faaliyeti yürüten
+    girişimcilere ve/veya firmalara tahsis edilecek ofislerin, ortak alanların ve 1773 İTÜ
+    Teknopark hizmetlerinin sunulması ile ilgili birimlerin yer aldığı yapıyı,
+
+• Ar-Ge Projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer
+    kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak aynî ve/veya nakdî destek tutarları,
+    sonuçta doğacak fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve Ar-Ge
+
+                                                        1
+    faaliyetlerinin her safhasını belirleyecek mahiyette ve bilimsel esaslar çerçevesinde
+    gerçekleştirilen ve araştırmacı ve/veya yazılımcı personel tarafından yürütülen projeyi
+
+• Ar-Ge Personeli: Ar-Ge faaliyetlerinde doğrudan görevli araştırmacı, yazılımcı ve
+    teknisyenleri,
+
+• Atölye: Girişimciler ve/veya firmalar tarafından Ar-Ge, yenilik ve tasarım faaliyetleri
+    kapsamında ihtiyaç duyulan makine ve ekipmanların bulunduğu yapıyı ya da alanı,
+
+• Bakan: T.C. Sanayi ve Teknoloji Bakanı’nı
+
+• Bakanlık: T.C. Sanayi ve Teknoloji Bakanlığı’nı,
+
+• Başvuru: Bölge kuruluşu, Bölgeye ek alan katılması veya Bölge sınırı değişikliği ya da Bölge
+    alanı iptali talebine ilişkin bu Yönetmelik kapsamında gerekli bilgi ve belgeleri içeren işlemi,
+
+• Bölge: İTÜ Teknopark Teknoloji Geliştirme Bölgesi’ni,
+
+• Bölge Alanı: Arazi üzerinde, koordinat değerleriyle sınırları belirlenmiş Bölgenin müstakil
+    her bir alanını,
+
+• Bölge İşletme Yönergesi veya Yönerge: 1773 İTÜ Teknopark’ta yer alacak girişimcilere
+    ve/veya firmalara sağlanacak hizmetler ve yürütülecek faaliyet ve uygulamalara ilişkin usul
+    ve esasları içeren, İTÜ Teknopark A.Ş. tarafından hazırlanan bu yönergeyi,
+
+• Destek: Bölgeler için gerekli altyapı, idare binası, Ar-Ge binası, atölye ve kuluçka merkezi
+    inşası, atölyelerde kullanılacak makine, ekipman ve yazılımlar ile Ar-Ge ve yenilik
+    faaliyetleri ile tasarım faaliyetlerini desteklemeye yönelik İTÜ Teknopark A.Ş.’de yürütülen
+    veya yürütülecek kuluçka programları, teknoloji transfer ofisi hizmetleri ve teknoloji iş
+    birliği programları ile ilgili giderler için Bakanlık bütçesine konulan ödeneği,
+
+• Desteklenecek Programlar: Yükseköğretim kurumlarının matematik, fizik, kimya ve
+    biyoloji lisans programları ile Yükseköğretim Kurulundan alınan görüş üzerine Bakanlıkça
+    belirlenecek diğer programları
+
+• Destek Personeli: Ar-Ge faaliyetlerine katılan veya bu faaliyetlerle doğrudan ilişkili
+    yönetici, teknik eleman, laborant, sekreter, işçi ve benzeri personeli,
+
+• Genel Müdürlük: Ar-Ge Teşvikleri Genel Müdürlüğünü,
+
+• Girişimci: Bölgedeki hizmet ve imkânlardan yararlanmak isteyen veya yararlanmakta olan
+    gerçek ve tüzel kişileri,
+
+• İdare Binası: İTÜ Teknopark A.Ş.’nin bölgede vereceği hizmetleri yürütebilmesi amacıyla
+    istihdam edeceği personel tarafından kullanılacak ofisleri, teknik ve sosyal bölümleri
+    içeren, içerisinde kuluçka merkezi ve teknoloji transfer ofislerinin, ayrıca ihtiyaç olması
+    halinde girişimcilerin ve/veya firmaların da yer alabileceği yapıyı,
+
+• İTÜ: İstanbul Teknik Üniversitesi’ni,
+
+• 1773 İTÜ Teknopark Kuluçka Merkezi: Özellikle genç ve yeni işletmeleri geliştirmek
+    amacıyla; girişimcilere 1773 İTÜ Teknopark içinde veya dışında ofis hizmetleri, ekipman
+    desteği, yönetim desteği, mali kaynaklara erişim, kritik iş ve teknik destek hizmetlerinin bir
+    çatı altında tek elden sağlandığı yapıları,
+
+                                                        2
+• Kuluçka Girişimcisi: 1773 İTÜ Teknopark Kuluçka Merkezi veya İTÜ Teknopark A.Ş.
+    tarafından gösterilen alanlarda yer alan Ar-Ge, teknolojik yenilik, yazılım ve tasarım
+    faaliyetlerinde bulunan, gerçek ya da tüzel kişiliğe sahip erken aşama girişimcileri,
+
+• Kuluçka Firması: İTÜ Teknopark A.Ş. tarafından yürütülen girişimcilik programlarına
+    katılarak şirketleşen veya Ar-Ge, teknolojik yenilik, yazılım ve tasarım faaliyetlerinde
+    bulunmak üzere doğrudan başvuran, en fazla üç yıllık, proje sahibi işletmeler olarak, 1773
+    İTÜ Teknopark Kuluçka Merkezi veya İTÜ Teknopark A.Ş. tarafından gösterilen alanlarda
+    yer alan firmalardır.
+
+• Kurucu Heyet: Bölgenin bulunduğu ilde yer alan, İstanbul Teknik Üniversitesi ve diğer
+    kurum ve kuruluş temsilcilerinden oluşan, İTÜ Teknopark A.Ş.’nin kuruluşuna kadar geçen
+    süreçte ilgili kurum ve kuruluşlar nezdinde Bölgenin kurulması ile ilgili tüm iş ve
+    işlemlerden sorumlu heyeti,
+
+• Ön kuluçka: İş fikri ya da hayata geçirmek istediği bir projesi olan henüz şirketleşmemiş
+    tekil veya birkaç kişiden oluşan girişimci grubuna, fikirlerinin ya da projelerinin
+    geliştirilmesi maksadıyla danışmanlık, mentorluk ve proje fikri doğrulamaya yönelik hizmet
+    süreçlerini içeren yapıları,
+
+• Proje Değerlendirme Komisyonu (PDK): Bölgede Ar-Ge veya tasarım faaliyetinde
+    bulunmak üzere yer almak isteyen girişimcilerin ve/veya firmaların münhasıran Bölgede
+    yürütecekleri her bir Ar-Ge veya tasarım projesini değerlendirmek üzere, İTÜ Teknopark
+    A.Ş.’nin belirleyeceği, konusunda uzman iki üyesi öğretim elemanı, bir üyesi ise sektör
+    uzmanı veya 15/2/2013 tarihli ve 28560 sayılı Resmî Gazete’de yayımlanan Bireysel Katılım
+    Sermayesi Hakkında Yönetmelik kapsamında lisansı olan bireysel katılım yatırımcısı olmak
+    üzere proje ile ilişkisi olmayan en az üç üyeden oluşan komisyonu, kuluçka girişimcilerine
+    ait Ar-Ge veya tasarım projesinde ise en az konusunda uzman bir öğretim üyesini
+    barındıran komisyonu,
+
+• Proje Bitirme Belgesi: Bölgede başlatılan Ar-Ge veya tasarım projelerinin Bölgede
+    sonuçlandırılmasını takiben, girişimcinin ve/veya firmanın talebi üzerine Genel
+    Müdürlükçe belirlenen formata uygun olarak İTÜ Teknopark A.Ş. tarafından düzenlenen ve
+    Genel Müdürlük tarafından elektronik ortamda onaylanan belgeyi
+
+• Proje Kabul Belgesi: Bölgede yürütülecek olan Ar-Ge veya tasarım projelerinin her birinin,
+    PDK görüşü çerçevesinde onaylanan veya başka bir kamu ve uluslararası Ar-Ge veya
+    tasarım destek programları kapsamında desteklenen ya da Ar-Ge veya tasarım projesi
+    olduğu belirtilmek üzere kamu kurum ve kuruluşlarınca oluşturulan projelerin kabulüne
+    ilişkin olarak İTÜ Teknopark A.Ş. tarafından düzenlenen ve Genel Müdürlükçe elektronik
+    ortamda oluşturulmuş proje kodunu içeren belgeyi
+
+• Stajyer: Yükseköğretim Kurulunca yükseköğretim kurumlarında veya T.C. Milli Eğitim
+    Bakanlığı’nca mesleki ve teknik eğitim okul ve kurumlarında verilmesi uygun görülen her
+    düzeydeki alana özgü olarak belirlenen teorik ve uygulamalı dersler dışında, öğretim
+    programlarıyla kazandırılması öngörülen mesleki bilgi, beceri, tutum ve davranışların
+    geliştirilmesi, sektörün tanınması, iş hayatına uyum, gerçek üretim ve hizmet ortamında
+    yetişmek amacıyla işletmelerde mesleki çalışma yapan öğrencileri,
+
+• Tasarım Faaliyeti: Sanayi alanında ve Cumhurbaşkanının uygun göreceği diğer alanlarda
+    katma değer ve rekabet avantajı yaratma potansiyelini haiz, ürün veya ürünlerin
+
+                                                        3
+    işlevselliğini artırma, geliştirme, iyileştirme ve farklılaştırmaya yönelik yenilikçi faaliyetlerin
+    tümünü,
+
+• Tasarım Projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer
+    kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak ayni veya nakdi destek tutarları,
+    sonuçta doğacak fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve tasarım
+    faaliyetlerinin her safhasını belirleyecek mahiyette ve bilimsel esaslar çerçevesinde
+    tasarımcı tarafından yürütülen projeyi,
+
+• Tasarım Personeli: Tasarım faaliyetlerinde doğrudan görevli tasarımcı ve teknisyenleri,
+
+• Tasarımcı: Tasarım faaliyetleri kapsamındaki projelerin gerçekleştirilmesi ve ilgili projelerin
+    yönetilmesi süreçlerinde yer alan, üniversitelerin; mühendislik, mimarlık veya tasarım ile
+    ilgili bölümlerinden mezun en az lisans derecesine sahip kişiler ile tasarım alanlarından
+    herhangi birinde en az lisansüstü eğitim derecesine sahip diğer kişileri,
+
+• Teknoloji Geliştirme Bölgesi (TGB): Yüksek/ileri teknoloji kullanan ya da yeni teknolojilere
+    yönelik firmaların, üniversite imkânlarından yararlanarak teknoloji veya yazılım
+    ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline
+    dönüştürmek için faaliyet gösterdikleri ve bu yolla ülkenin kalkınmasına katkıda
+    bulundukları, akademik, ekonomik ve sosyal yapının bütünleştiği Teknoloji Geliştirme
+    Bölgesi’ni,
+
+• Teknisyen: Mühendislik, fen ve sağlık bilimleri alanında yükseköğrenim görmüş ya da
+    meslek lisesi veya meslek yüksekokullarının teknik, fen ve sağlık bölümlerinden mezun,
+    teknik bilgi ve deneyim sahibi kişileri,
+
+• Teknoloji Transfer Ofisi (TTO): Teknoloji geliştiricisi Ar-Ge kurum ve kuruluşları ile
+    teknoloji kullanıcısı sanayi şirketleri veya diğer teknoloji ya da Ar-Ge kurum ve kuruluşları
+    arasında bilgilendirme, koordinasyon, araştırmayı yönlendirme, yeni Ar-Ge şirketlerinin
+    oluşturulmasını teşvik etme, işbirliği geliştirme, fikri mülkiyet haklarının korunması,
+    pazarlanması, satılması, fikri mülkiyetin satışından elde edilen gelirlerin yönetilmesi
+    konularında faaliyet gösteren yapıyı,
+
+• Teknolojik Ürün: Toplumsal ihtiyaçları karşılamak ve yaşam standardını yükseltmek
+    amacıyla nitelikli işgücü tarafından bilimsel bilgi ve teknolojik araştırmalar kullanılarak
+    ortaya çıkarılan, var olandan belirgin bir şekilde farklılık gösteren, katma değeri ve rekabet
+    edebilirliği yüksek ürünü,
+
+• Tek Pencere Sistemi: 20/3/2012 tarihli ve 28239 sayılı Resmî Gazete’de yayımlanan
+    2012/6 sayılı Başbakanlık Genelgesi çerçevesinde gümrük işlemlerine konu olan eşyaya
+    ilişkin olarak farklı kurumlarca düzenlenmesi gereken izin, onay ve belgelere ilişkin
+    başvuruların tek bir noktaya yapılarak (e-başvuru) ilgili kuruma iletildiği ve ilgili kurumca
+    düzenlenen belgelerin doğrudan gümrük işlemlerinde kullanılmak üzere elektronik
+    ortamda (e-belge) gönderildiği, T.C. Ticaret Bakanlığı tarafından kurulan ve yürütülen
+    sistemi,
+
+• TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+
+• Üniversite: Mühendislik ve temel bilimler dallarında yapılanmasını gerek insan gücü ve
+    teknik donanım olarak tamamlamış ve gerekse doktora öğrencisi seviyesinde yeterli
+    araştırma elemanı olduğu Yükseköğretim Kurulu tarafından onaylanan üniversiteleri,
+
+                                                        4
+• Üretim Birimleri: Bölge içerisinde Kanunun amacına uygun olarak faaliyette bulunan
+    gerçek veya tüzel kişilerce kurulan veya kullanılan, yeni ve yüksek teknolojilere dayalı ve
+    çevreye zarar vermeyen üretim birimlerini,
+
+• Üründe Yenilik: Teknolojik açıdan yeni ürün, önceki ürün kuşağıyla karşılaştırıldığında
+    malzemesi, parçaları ve yerine getirdiği işlevler açısından öze ilişkin, teknolojik farklar
+    gösteren bir ürünü,
+
+• Üretim Yöntemlerinde Yenilik: Geleneksel üretim tesislerinde üretilemeyen, yeni ya da
+    geliştirilmiş ürünlerin üretilmesinde veya halen üretilmekte olan ürünlerin yeni tekniklerle
+    üretilmesinde kullanılan yöntemi,
+
+• Yapılabilirlik Raporu: İlgili Yönetmeliğin ekinde yer alan Teknoloji Geliştirme Bölgesi
+    Yapılabilirlik Raporu Hazırlama Esaslarına göre hazırlanan raporu,
+
+• Yazılım: Bir bilgisayar, iletişim cihazı veya bilgi teknolojilerine dayalı bir diğer cihazın
+    çalışmasını ve kendisine verilen verilerle ilgili gereken işlemleri yapmasını sağlayan
+    komutlar dizisinin veya programların ve bunların kod listesini, işletim ve kullanım
+    kılavuzlarını da içeren belgelerin, belli bir sistematik içinde, tasarlama, geliştirme şeklindeki
+    ürün ve hizmetlerin tümü ile bu ürün ya da mal ve hizmetlerin lisanslama, kiralama ve tüm
+    hakları ile devretme gibi teslim şekillerinin tümünü,
+
+• Yazılımcı Personel: Yazılım olarak tanımlanan süreçte çalışıp program geliştiren, üreten,
+    alanında yeterli deneyime veya eğitime sahip nitelikli personeli,
+
+• Yenilik: Sosyal ve ekonomik ihtiyaçlara cevap verebilen mevcut pazarlara başarı ile
+    sunulabilecek ya da yeni pazarlar yaratabilecek; yeni bir ürün ya da mal, hizmet, uygulama,
+    yöntem veya iş modeli fikri ile oluşturulan süreçleri ve süreçlerin neticelerini,
+
+• YÖK: Yükseköğretim Kurulunu,
+
+• Yönetici Şirket: Kanuna uygun ve anonim şirket olarak kurulan, İTÜ Teknopark Teknoloji
+    Geliştirme Bölgesinin yönetimi ve işletmesinden sorumlu İTÜ Teknopark A.Ş.’yi, ifade eder.
+
+1.4. İlgili Mevzuat
+
+Yönergenin hazırlanmasında; 4691 sayılı Teknoloji Geliştirme Bölgeleri Yasası ile Teknoloji
+Geliştirme Bölgeleri Uygulama Yönetmeliği esas alınırken aşağıdaki kanun, yasa ve
+yönetmeliklerin de ilgili maddeleri dikkate alınmıştır.
+
+     • 5746 sayılı ARGE Faaliyetlerinin Desteklenmesi Hakkında Kanun,
+
+     • 5520 sayılı Kurumlar Vergisi Kanunun
+
+     • 3065 sayılı Katma Değer Vergisi Kanunu
+
+     • 6658 sayılı Kişisel Verilerin Korunması Kanunu
+
+     • 2872 sayılı Çevre Yasası,
+
+     • 3194 sayılı İmar Yasası,
+
+     • 6224 sayılı Yabancı Sermayeyi Teşvik Yasası,
+
+     • 6102 sayılı Türk Ticaret Yasası,
+
+     • 2547 sayılı YÖK Kanunu,
+                                                        5
+     • Katı Atık Yönetmeliği,
+     • Atık Su Yönetmeliği,
+     • Gürültü Yönetmeliği,
+     • Kamu Binalarının Yangından Korunması Hakkındaki Yönetmelik,
+     • Çevresel Etki Değerlendirmesi Yönetmeliği.
+
+2. İTÜ TEKNOPARK A.Ş.
+İstanbul Teknik Üniversitesi, üniversite sanayi ile işbirliği içerisinde ülkenin Ar-Ge faaliyetlerine
+katkıda bulunmak, işbirliği konusunda iyi örnek oluşturmak ve bu sayede teknoloji
+geliştirilmesine katkıda bulunmak amacıyla Teknopark kurma çalışmalarına başlamış ve 4691
+sayılı Teknoloji Geliştirme Bölgeleri Kanunu'na göre 28 Temmuz 2022 tarihli ve 31906 sayılı
+Resmî Gazete’de yayımlanan 5907 sayılı Cumhurbaşkanı Kararı ile İTÜ Teknopark Teknoloji
+Geliştirme Bölgesi (1773 İTÜ Teknopark) kurulmuştur.
+Teknoloji Geliştirme Bölgesi Yönetici Şirketi olarak İTÜ Teknopark A.Ş. kurularak 427282-5 sicil
+numarası ile tescil edilmiş ve Türkiye Ticaret Sicili Gazetesi’nin 09.12.2022 tarih ve 10772 sayılı
+nüshasında ilan edilmiştir.
+1773 İTÜ Teknopark hizmet tesisleri, İstanbul Teknik Üniversitesi’ne ait iki alanı
+kapsamaktadır:
+
+    • İTÜ Teknopark TGB-1: İTÜ Ayazağa yerleşkesi içinde, İTÜ Tasarım ve Prototip
+         Merkezi'ni de içeren 2.854 m2 lik bodrum ve yarım teras katı dahil dört katlı bir binayı
+         barındıran 40.221,204 m2 lik bir alan.
+
+    • İTÜ Teknopark TGB-2: İTÜ'nün Florya arazisi içinde, üzerinde İTÜ Makine Fakültesi'nin
+         geçmişte kullandığı yarım bodrum dahil üç katlı toplam kapalı alan 1.302 m2 olan bir
+         bina ve ek müştemilatlarını barındıran 60.001,682 m2 lik ikinci bir alan.
+
+2.1. Vizyon
+İTÜ yerleşkelerinde ve çevresinde dünyanın lider teknoloji geliştirme bölgelerini kurmak ve
+geliştirmektir.
+
+2.2. Misyon
+Girişimciler, firmalar ve araştırmacıların, yarının ihtiyaçlarına cevap veren ileri teknoloji ürün
+ve servislerini İTÜ rehberliğinde geliştirebilmeleri için en doğru ortam, koşul ve kaynakları
+sağlamak, ve sağladığı Üniversite - Sanayi işbirliği ortamı ve 1773 İTÜ Teknopark kaynaklarıyla,
+İTÜ'nün dünyanın lider üniversitelerinden biri haline gelmesine katkı sunmaktır.
+
+2.3. Hedefler
+     • Ülke sanayiinin katma değeri yüksek teknolojik ürünler ihraç edebilecek bir yapıya
+        ulaşması ve uluslararası rekabette güçlü olması için üniversiteler, araştırma kurumları
+        ve sanayiinin iş birliğini sağlamak,
+                                                        6
+     • Bilimsel bilgi ve teknoloji üretmek, ürün ve üretim yöntemleri geliştirmek,
+
+     • Ürün kalitesini ve standardını yükseltmek, verimliliği arttırmak, üretim maliyetlerini
+        düşürmek,
+
+     • Geliştirilen bilgi ve teknolojilerin topluma transferini, ticarileştirilmesini, uluslararası
+        pazarlara açılmasını sağlamak,
+
+     • Teknoloji bazlı girişimciliği teşvik etmek, girişimcileri desteklemek, melek yatırımcıların
+        ve yatırım sermayesinin girişimcilerle buluşmasını sağlamak,
+
+     • Küçük ve orta ölçekli işletmelerin yeni ve ileri teknolojilere uyumunu sağlamak,
+
+     • Araştırmacılara ve nitelikli kişilere iş imkânı yaratmak, araştırma potansiyelini üretim
+        ile buluşturmak,
+
+     • İleri teknoloji sahibi yabancı sermayenin yatırım yaparak ülkeye girişini hızlandıracak
+        alt yapıyı sağlamak.
+
+2.4. Yönetim Kurulu
+
+Genel Kurul tarafından Türk Ticaret Kanunu çerçevesinde seçilen İTÜ Teknopark A.Ş. Yönetim
+Kurulu, Yönetim Kurulu Başkanı, Başkan Vekili ve Üyelerden meydana gelen 9 kişiden oluşur.
+
+2.5. Yetki ve Görevleri
+
+    • İTÜ Teknopark A.Ş., bu yönergede olduğu gibi bir Teknopark İşletme Yönergesi
+         hazırlayarak T.C. Sanayi ve Teknoloji Bakanlığı Ar-Ge Teşvikleri Genel Müdürlüğü’ne
+         sunmakla ve gerekli hallerde güncellemekle ve güncellenmiş hallerini de yine aynı
+         makama sunmakla mükelleftir.
+
+    • Bölgeye ait planlama ve projelendirmenin yapılması, gerekli alt yapı ve üst yapı
+         hizmetlerinin yürütülmesi ile yetkili ve yükümlüdür.
+
+    • Yapı Denetimi Hakkında Kanun ve ilgili yönetmelik hükümleri uyarınca gerekli
+         işlemlerin yapılması ile yetkili ve yükümlüdür.
+
+    • Bölgede atık su, atık su alt yapı tesisleri, katı atık, toprak kirliliği, gürültü ve hava kirliliği,
+         tehlikeli tıbbi atık, radyoaktif madde ve tehlikeli kimyasalların yönetimi, yangından
+         korunma ve yangınla mücadele, acil durum planlarının hazırlanması ve koordinasyonu,
+         tahliye, ilk yardım ve acil tıbbi müdahale ile doğal afetleri kapsayan konularda ilgili
+         kurum ve kuruluşlarla koordinasyon içinde çalışarak ilgili mevzuat çerçevesinde gerekli
+         önlemlerin alınması ile yetkili ve yükümlüdür.
+
+    • Bölgede yangın ve doğal afetlere karşı tüm bina sigortalarının yaptırılması ile yetkili ve
+         yükümlüdür.
+
+    • Bölge için gerekli olan temizlik, elektrik, içme ve kullanma suyu, doğal gaz, akaryakıt,
+         ısıtma ve havalandırma, dağıtım şebekeleri, kanalizasyon, atık su, Bölge içi yollar,
+         ulaşım, ses ve veri iletişimi, internet hizmetleri ve diğer hizmetlerin sağlanması ve
+         kesintisiz olarak sürmesi için gerekli önlemlerin alınması, çalışma esaslarının
+         belirlenmesi, fiyatlandırmaların ve hesaplamaların yapılması ve uygulanması, her türlü
+         bakım ve onarım hizmetlerinin sağlanması, alt ve üst yapılara zarar verenlerin tespiti
+
+                                                        7
+    ile zararların tazmininin sağlanması, ayrıca Kanun ve Yönetmelik kapsamında Bölgede
+    yer alan kişilerin ihtiyaç duyacakları yeme, içme, eğlenme, dinlenme, dua etme yeri ve
+    barınma gibi ekonomik, sosyal ve kültürel gereksinimlerinin imkân dâhilinde
+    karşılanması ile yetkili ve yükümlüdür.
+
+• İTÜ Teknopark A.Ş., kiralanan alanın sözleşme süresince Girişimcinin ve/veya firmaların
+    istifadesine uygun durumda tutulmasını ve bu amaçla, duvarlar, çatı, ortak kullanılan
+    ısıtma sistemleri (kalorifer kazanı, pompaları, vrv sistem klimaları), sıhhi tesisat (soğuk
+    ve sıcak su) ve elektrik tesisatı, jeneratör, asansör, telefon santrali, merkezi su boruları,
+    kanalları ve benzeri demirbaşları yenileme, tamir ve bakımlarını sağlamak ile yetkili ve
+    yükümlüdür.
+
+• İTÜ Teknopark A.Ş., Girişimcilerin ve/veya firmaların, 1773 İTÜ Teknopark sınırları
+    içerisinde faaliyette bulundukları işlerle ilgili olarak ilgili kanun ve yönetmelikler
+    hükmünce gerekli güvenlik önlemlerini önceden alıp almadıklarını denetlemek ve
+    yaptırımda bulunmakla yükümlüdür.
+
+• İTÜ Teknopark A.Ş., girdi ve çıktı (atıklar) sayılabilecek maddelerin güvenliğiyle ve
+    uygun şekilde bertaraf edilmesiyle ilgili gerekli çalışmaları denetlemek ve yaptırımda
+    bulunmakla yükümlüdür. Girişimci ve/veya firma, önlemler alınsa bile, bu işlemler
+    sonucunda ortaya çıkabilecek tüm hasar ve zararı ödemekle sorumludurlar.
+
+• Girişimci ve/veya firmaların toplam personel mevcutları kendi içerisinde 50’yi
+    geçiyorsa 6331 sayılı kanunun İş Sağlığı ve Güvenliği Koordinasyonunun 23. Maddesi
+    uyarınca İSG Hizmeti alıp almadığını kontrol etmek ve kanun uyarınca gereklilikleri
+    yerine getirmesini sağlamak da İTÜ Teknopark A.Ş.’nin sorumluluğundadır.
+
+• İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark’ın alt ve üst yapılarına zarar verenlerin tespit
+    edilmesi ve bu zararların tazmininin sağlanması konusunda yetkilidir.
+
+• İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark ihtiyaçları doğrultusunda faaliyet gösteren
+    kurum ve kuruluşlara, eğitim ve teknoloji transferinin yanı sıra gerekli deneyimli uzman
+    personel istihdamı konularında yardımcı olur.
+
+• İTÜ Teknopark A.Ş., 4691 sayılı Kanun ve Teknoloji Geliştirme Bölgeleri Uygulama
+    Yönetmeliği hükümlerine aykırılığın önlenmesi bakımından, girişimcilere ve/veya
+    yükümlülükler öngörebilir ve bu yönerge kapsamında gereğini yapmaya yetkilidir.
+
+• Üniversite bünyesinde bulunan itfaiye araç ve gereçlerinden yararlandırılması, yeterli
+    sayıda itfaiye araç ve gereçlerinin hazır bulundurulmasının sağlanması Bölge alanına en
+    yakın ilgili kurum ve kuruluşlarla işbirliği yapılmasına yönelik gerekli önlemlerin
+    alınması ile yetkili ve yükümlüdür.
+
+• Bölgede; hizmet vermek amacıyla yer almak isteyen kurum, kuruluş, yerli ya da yabancı
+    tüzel veya gerçek kişiler ile Kanunun amacıyla örtüşen şekilde faaliyet gösteren ve
+    Bölge içerisinde yer almak isteyen Araştırma, Geliştirme ve Tasarım Faaliyetlerinin
+    Desteklenmesi Hakkında Kanun kapsamında kurulan Ar-Ge Merkezi veya Tasarım
+    Merkezi, Araştırma Altyapılarının Desteklenmesine Dair Kanun kapsamında yeterlik
+    alan araştırma altyapıları ile diğer kurum ve kuruluş taleplerinin değerlendirilmesi ve
+    uygun bulunanlara bu yönerge doğrultusunda yer tahsisinin yapılması ile yetkili ve
+    yükümlüdür.
+
+                                                   8
+• Bölgede Ar-Ge veya tasarım faaliyetinde bulunmak üzere yer almak isteyen girişimci
+    ve/veya firmaların münhasıran Bölgede yürütecekleri her bir Ar-Ge veya tasarım
+    projesinin, İTÜ Teknopark A.Ş.’nin belirleyeceği, konusunda uzman iki üyesi öğretim
+    elemanı, bir üyesi ise sektör uzmanı veya Bireysel Katılım Sermayesi Hakkında
+    Yönetmelik kapsamında lisansı olan bireysel katılım yatırımcısı olmak üzere proje ile
+    ilişkisi olmayan en az üç üyeli, kuluçkaya uygun girişimcilere ait Ar-Ge veya tasarım
+    projesinde ise konusunda uzman bir öğretim elemanı olmak üzere en az bir üyeli Proje
+    Değerlendirme Komisyonuna; proje süresi ile birlikte Bölge içi ve dışında geçirilmesi
+    gereken sürelerinin uygunluğu, yenilik barındıracak, herhangi bir alanda üretilebilir,
+    kullanılabilir, uygulanabilir olacak, uygulanan tekniğin bilinen durumunun aşıldığını
+    gösterecek, ticarileşme potansiyeli, ithal ikame veya ihracat potansiyeli olan yüksek
+    teknolojik ürünleri geliştirebilecek, üründe ve üretim yöntemlerinde yenilik
+    geliştirebilecek, ürün kalitesini veya standardını yükseltebilecek, verimliliği
+    artırabilecek, üretim maliyetlerini düşürebilecek, teknolojik bilgi üretilebilecek,
+    ürünlerin katma değerini artıracak, etkin bir üniversite-sanayi işbirliği
+    gerçekleştirebilecek bir Ar-Ge veya tasarım projesi olup olmadığı bakımından
+    inceletilmesi, inceleme sonucunun belgelendirilmesi, belgelerin arşivlenmesi, başka bir
+    kamu ve uluslararası Ar-Ge veya tasarım destek programları kapsamında desteklenen
+    ya da Ar-Ge veya tasarım projesi olduğu belirtilmek üzere kamu kurumu ve
+    kuruluşlarınca oluşturulan projelerin ise bu yönergede aksi yönde bir uygulama
+    öngörülmedikçe yeniden incelemeye ve onaya tabi tutulmaması, başka bir Bölgede
+    iken Ar-Ge veya tasarım faaliyeti yapan ve nakil talebinde bulunan girişimci ve/veya
+    firmanın Ar-Ge veya tasarım projesi ile ilgili bilgi ve belgelerinin temin edilmesi ve Ar-
+    Ge veya tasarım projesi ve süreci yönünden bu bent kapsamında yeniden incelenmesi,
+    incelemesi tamamlanan ve Ar-Ge veya tasarım projesi uygun görülen Bölgede yer
+    almak isteyen girişimci ve/veya firmalara, İTÜ Teknopark A.Ş., bu yönerge
+    doğrultusunda bu bent kapsamında proje kabul belgesi düzenlenmesi, Bölgede yer
+    tahsisinin yapılması, Bölgede kendilerine daha önce yer tahsis edilmiş olan girişimci
+    ve/veya firmaların Bölgede yeni başlatacakları her bir Ar-Ge veya tasarım projesinin bu
+    bent kapsamında değerlendirilmesi, İTÜ Teknopark A.Ş., bu yönerge doğrultusunda
+    girişimci ve/veya firmalara yer tahsisinin yenilenmesi, proje süresinin uzatılması
+    işlemlerinin de bu bent kapsamında yapılması, kira sözleşmesinin kira üst limiti Genel
+    Müdürlükçe belirlenmişse bu limiti geçmeyecek ve para birimi Türk Lirası olacak şekilde
+    Ar-Ge veya tasarım projesi süresi ve girişimci ve/veya firmanın Yönetmelik kapsamında
+    Bölgeden ihracının söz konusu olabileceği hususu dikkate alınarak düzenlenmesi ile
+    yetkili ve yükümlüdür.
+
+• Bölgenin yönetimi ve işletilmesi, Bölgede yer alacak girişimci ve/veya firma başvuruları
+    ile Bölgede yer alan girişimcilerce ve/veya firmalarla yürütülecek her bir yeni Ar-Ge
+    veya tasarım projesinin, projenin korunmasına ilişkin gizlilik şartlarına riayet edilerek
+    değerlendirilmesi, uygun görülenlere yer tahsisinin yapılması, teknolojik ürünün
+    üretilmesine izin veren Kanunun 8 inci maddesinin uygulanması, bu Yönetmeliğe uygun
+    kira kontratlarının düzenlenmesi, Ar-Ge veya tasarım personelinin Bölgede yürütülen
+    Ar-Ge veya tasarım projesi kapsamında ya da Ar-Ge veya tasarım personelinin yüksek
+    lisans veya doktora eğitimi kapsamında Bölge dışında geçirilecek sürelerin onay işlemi,
+    projelerin, girişimcilerin, firmaların ve ücreti gelir vergisinden istisna tutulacak
+    personelin izlenmesi, girişimcilerin ve/veya firmaların Bölgeden çıkarılması gibi
+    hususlar dahil Bölgede yürütülecek tüm faaliyet ve uygulamalara ilişkin usul ve esasları
+
+                                                   9
+    içeren ve Kanun kapsamında Bölgede yer alan tüm gerçek ve tüzel kişilerin uymakla
+    yükümlü olduğu Bu yönergenin, Kanun ve bu Yönetmeliğe uygun olarak hazırlanması
+    ve bir kopyasının İTÜ Teknopark A.Ş.’nin kuruluşunun Türkiye Ticaret Sicili Gazetesinde
+    yayımlanmasını takiben en fazla üç ay içerisinde veya güncel yönergede herhangi bir
+    değişiklik yapılması halinde en fazla bir ay içerisinde Genel Müdürlüğe iletilmesi ile
+    yetkili ve yükümlüdür.
+
+• Bölgede yer alan girişimcilerin ve/veya firmaların üniversitenin olanak, birikim, altyapı,
+    tesis, makine ve ekipmanlarından yararlanma yönündeki taleplerinin artırılmasına
+    yönelik faaliyetlerde bulunulması ve bu taleplerin ilgili birimlerle koordinasyon
+    içerisinde karşılanması ile yetkili ve yükümlüdür.
+
+• Bölgede yer alan girişimcilerin ve/veya firmaların bu yönerge kapsamında İTÜ
+    Teknopark A.Ş.’ye iletmekle yükümlü oldukları bilgi ve belgeleri süresinde iletmemeleri
+    veya projelerinin tamamlanma tarihinden itibaren yeni bir proje sunmayan girişimcinin
+    ve/veya firmanın son projesinin tamamlanma tarihinden itibaren; otuz gün içinde ilgili
+    vergi dairesine ve Sosyal Güvenlik Kurumuna bildirilmesi, üç ay içerisinde yeni bir Ar-
+    Ge veya tasarım projesi başlatılamaması halinde, mevcut kira sözleşmesi süresi dikkate
+    alınmaksızın kira sözleşmesinin fesih olunmuş sayılması ve girişimcinin ve/veya
+    firmanın Bölgeden ihraç edilmesini temin edecek gerekli işlemlerin yapılması ile yetkili
+    ve yükümlüdür.
+
+• Bölgede yer alan girişimci ve/veya firmaların, Ar-Ge veya tasarım projeleri ve Bölgede
+    istihdam edilen tüm Ar-Ge, tasarım ve destek personeli listelerinin, kayıt altına alınan
+    detayları ile birlikte aylık olarak belirlenerek arşivlenmesi, aylık tutulan arşivlerin
+    istenildiğinde ilgililere bildirilmesi ile yetkili ve yükümlüdür.
+
+• Kendisine ve Bölgede bulunan girişimcilerin ve/veya firmaların faaliyetlerine ilişkin
+    bilgilerin, Genel Müdürlükçe belirlenen şekle uygun olarak yazılı ve elektronik ortamda
+    günlük veya anlık tutulması, kendi serbest muhasebeci mali müşaviri veya yeminli mali
+    müşavirince onaylı yıllık bilgilerin her yılın Mayıs ayı sonuna kadar elektronik ortamda
+    Genel Müdürlüğe iletilmesi, bu bende uygun hareket edilmemesi halinde Haziran
+    ayından itibaren girişimcilerin ve/veya firmaların üç aylık muafiyet belgelerinin
+    onaylanmaması, üçüncü ayın sonuna kadar bilgilerin iletilmemiş olması durumunda
+    takip eden aydan itibaren aylık muafiyet belgelerinin onaylanmaması ve bu ay
+    içerisinde ilgili girişimcilerin ve/veya firmaların ihracına ilişkin işlemlerin başlatılması,
+    ayrıca İTÜ Teknopark A.Ş. olarak kendisinin her türlü hesap ve işlemlerinin yıllık olarak
+    Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre
+    yetkilendirilmiş yeminli mali müşavire inceletilmesi, mali denetim raporunun birer
+    örneğinin her yılın Mayıs ayı sonuna kadar aynı süre içinde kendisine ve Genel
+    Müdürlüğe iletilmesinin sağlanması ile yetkili ve yükümlüdür.
+
+Bölgede yer alan girişimcilerle ve/veya firmalarla ilgili olarak;
+
+• Girişimcinin ve/veya firmanın, Kanunda belirtilen amaca uygun olarak faaliyet
+    göstermesinin sağlanması, yürüttüğü faaliyetlere yönelik talep edilen her türlü
+    istatistiksel veriyi içeren belgenin, eksiksiz ve zamanında temin edilmesi için gerekli
+    denetimlerin yapılması,
+
+• Girişimcilerin ve/veya firmaların faaliyetleriyle ilgili Bakanlık tarafından talep edilen
+    bilgi ve belgelerin belirlenen süre ve formata uygun olarak iletilmesi,
+
+                                                   10
+• Girişimcinin ve/veya firmaların çalıştırdığı ücreti gelir vergisi istisnasından yararlanan
+    kişilerin Bölgede fiilen çalışıp çalışmadığının denetlenmesi,
+
+• Girişimcinin ve/veya firmanın çalıştırdığı ve istisna kapsamında olan destek personeli
+    sayısı ile Ar-Ge ve tasarım personeli sayısının birbirlerine olan oranının Kanun ve
+    Yönetmelikte belirtilen kriterlere uygun olup olmadığının denetlenmesi,
+
+• Girişimci ve/veya firma tarafından talep edilmesi halinde, girişimcilerin ve/veya
+    firmanın yürüttüğü Ar-Ge veya tasarım projesi kapsamında çalışan Ar-Ge veya tasarım
+    personelinin; Bölgede yürüttüğü görevle ilgili olarak Bölge dışında geçirilmesi gereken
+    sürelerin incelenmesi, uygun bulunanların onaylanması, Ar-Ge veya tasarım projesi
+    kapsamında dışarıda geçirilen fiili sürelere dair ilgili kurum ve kuruluştan temin edilen
+    belgelerin incelenerek arşivlenmesi,
+
+• Girişimcinin talep etmesi durumunda yukarıda sayılan kriterler gözetilerek proje
+    bitirme belgesi düzenlenmesi,
+
+         o Proje bitirme belgesi talep eden işletmeler Bölgede tamamlanan projeleri için
+             elektronik ortamda başvuruda bulunur.
+
+         o İTÜ Teknopark A.Ş., ilgili başvuruyu konusunda uzman en az bir öğretim
+             elemanı veya sektör temsilcisine inceleterek değerlendirir, elektronik ortamda
+             kabul eder ve imzalar.
+
+         o Genel Müdürlük başvuruyu değerlendirir, uygun bulması halinde söz konusu
+             başvuruyu onaylar.
+
+         o Bakanlık tarafından elektronik ortamda onaylanarak oluşturulan belge, İTÜ
+             Teknopark A.Ş. aracılığıyla girişimci ve/veya firmaya iletilir.
+
+• Girişimcilere ve/veya firmalara, Genel Müdürlük tarafından elektronik ortamda proje
+    kodu verilmiş proje kabul belgesi düzenlenmesi,
+
+• Girişimcilerin ve/veya firmaların, Kanuna, Yönetmeliğe, bu Yönergeye ve ilgili diğer
+    mevzuata göre düzenleyici amaçlı denetlenmesi, denetleme sonucunda aykırı
+    faaliyetlerin tespit edildiği tarihten itibaren aylık muafiyet belgelerinin
+    onaylanmaması, aykırı faaliyetlerin düzeltilmesi için girişimcilerin ve/veya firmaların
+    uyarılarak üç ayı geçmemek üzere belirli bir süre verilmesi, verilen süre sonunda aykırı
+    faaliyetlerini düzeltmeyen girişimcilerin ve/veya firmaların mevcut kira sözleşmesi
+    süresi dikkate alınmaksızın girişimcinin ve/veya firmanın Bölgeden ihraç edilmesini
+    temin edecek gerekli önlemlerin alınması,
+
+• İTÜ Teknopark A.Ş. kuruluş tarihinden itibaren ilk bir yıl içerisinde Bölgenin en az üç
+    yıllık stratejik planının hazırlanması, stratejik plan süresinin dolması durumunda ya da
+    ihtiyaç duyulması halinde yenilenmesi ve Genel Müdürlüğe iletilmesi,
+
+• Her yılın sonunda kendisine ve Bölgede yer alan Ar-Ge veya tasarım faaliyetinde
+    bulunan işletmelere sağlanan destek ve muafiyetlerin etki değerlendirmesini yapmak
+    üzere, Genel Müdürlükçe belirlenecek Teknoloji Geliştirme Bölgesi Etki Değerlendirme
+    Raporu Hazırlama Usul ve Esaslarına göre hazırlanan raporun, bir önceki yıl ile
+    karşılaştırmasının yapılması, grafiksel ortamda gösteriminin sağlanması ve her yıl
+    Haziran ayı içerisinde Genel Müdürlüğe iletilmesi, görevlerinin yerine getirilmesi ile
+    birlikte, Kanun ve Yönetmelik kapsamında Bölgenin yönetimi ve işletilmesi için gerekli
+    olan işlemleri yapmakla yükümlüdür. Ayrıca, Bakanlık tarafından verilen destekler
+
+                                                   11
+         kapsamında; İTÜ Teknopark A.Ş.’nin ve 1773 İTÜ Teknopark’ta yer alan işletmelerin
+         başvurularına ait bilgi ve belgelerde tutarsızlık veya Kanun ve bu Yönetmeliğe göre
+         uygunsuzluk tespit edilmesi halinde, bu durumdan başvuru sahibi işletme ile birlikte
+         sorumludur.
+
+    • Ayrıca İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark’ın ihtiyaçları doğrultusunda
+         girişimcilere ve firmalara eğitim, kuluçka, test, kalibrasyon ve kalite güvence ve benzeri
+         konularda teknik hizmetler ile fikri mülkiyet haklarının korunması ve lisans, devir ve
+         benzeri işlemleri, şirket kuruluşu, teknoloji transferi, finansman, vergisel ve hukuksal
+         uygulamalar, risk sermayesi, pazarlama ve ihracat gibi konularda hizmet vermesi veya
+         verilmesinin sağlanması, Bölgede faaliyet gösteren girişimcilerin ve/veya firmaların
+         ortak ihtiyaçları doğrultusunda, bunların tek başlarına almalarının veya yapmalarının
+         mali ve teknolojik açılardan mümkün olmadığı önemli üretim, test ve kontrol alet ve
+         makineleri ile ekipmanlarının satın alınması veya kiralanması yolları ile temin edilerek
+         amaca dönük olarak yeni ve yüksek teknoloji laboratuvarları, dijital (sayısal) üretim ve
+         tasarım laboratuvarları ve üretim birimlerinin kurulması, işletilmesi, bedeli karşılığında
+         ilgililerin kullanımına sunulması, gerektiğinde bu hizmetlerle ilgili olarak söz konusu
+         alet, makine ve ekipmanı kullanacak, işletmecilik faaliyetini yürütecek konusunda
+         uzmanlaşmış deneyimli personel istihdamı, bu konularla ilgili kişi ve kuruluşlarla gerekli
+         işbirliği ve koordinasyonun sağlanması ile birlikte Ar-Ge faaliyetlerinde de bulunabilir.
+
+    • Bölge içerisinde bulunan, Yönetmelik kapsamındaki TEKMER, Ar-Ge Merkezi veya
+         Tasarım Merkezi ile Araştırma Altyapıları kendi mevzuatına tabi olarak kurulur,
+         yönetilir, işletilir ve denetlenir. Bu yapılar ile birlikte başka mevzuat kapsamında
+         desteklenen ve Ar-Ge veya tasarım faaliyetinde bulunan girişimciler ve firmalar da
+         Bakanlık ve İTÜ Teknopark A.Ş. şirketine karşı, Yönetmelik kapsamında idari açıdan
+         sorumludurlar.
+
+2.6. Bilgi Raporlama
+
+    • Genel Müdürlük tarafından İTÜ Teknopark A.Ş.’den veya Girişimcilerden ve/veya
+         firmalardan talep edilen bilgiler, eksiksiz olarak verilen süre içerisinde Genel
+         Müdürlüğe iletilir, aksi durumlarda İTÜ Teknopark A.Ş. yaptırım uygulama hakkını saklı
+         tutar.
+
+    • Bakanlık portal bilgi girişleri çevrimiçi olarak firmalar ve İTÜ Teknopark A.Ş. tarafından
+         yapılabilir, eksik ve yanlış bilgilerden ve mevcut bilgilerin kontrolünden Girişimciler
+         sorumludur. Herhangi bir hak kaybı veya cezai müeyyide uygulanması durumunda İTÜ
+         Teknopark A.Ş. sorumlu tutulamaz.
+
+2.7. Muafiyet, İstisnalar ve Destekler
+
+    • Bölgede faaliyet gösteren gelir ve kurumlar vergisi mükelleflerinin, münhasıran bu
+         Bölgedeki yazılım ve/veya Ar-Ge faaliyetlerinden elde ettikleri kazançları 31/12/2028
+         tarihine kadar gelir ve kurumlar vergisinden müstesnadır. Bu istisnanın
+         uygulanabilmesi için mükellefler bağlı bulundukları vergi dairesine başvuruda
+         bulunurlar. Bu başvuruya, İTÜ Teknopark A.Ş.’den alınan söz konusu vergi mükellefinin
+         Bölgede yer aldığını ve mükellefin faaliyet alanlarını gösteren belge de eklenir, aksi
+         takdirde bu bent kapsamındaki istisna uygulanmaz.
+
+                                                       12
+• 31/12/2028 tarihine kadar, Bölgede çalışan Ar-Ge, tasarım ve destek personelinin bu
+    görevleri ile ilgili ücretleri üzerinden hesaplanan vergiden, 1/1/2022 tarihinden önce
+    31/12/1960 tarihli ve 193 sayılı Gelir Vergisi Kanununun 32 nci maddesinde
+    düzenlenen asgari geçim indirimi, 1/1/2022 tarihinden sonra 193 sayılı Kanunun 23
+    üncü maddesinin birinci fıkrasının (18) numaralı bendinde düzenlenen asgari ücret
+    istisnasına isabet eden vergi düşüldükten sonra kalan vergi tutarı; verilecek muhtasar
+    beyanname üzerinden tahakkuk eden vergiden indirilmek suretiyle terkin edilir.
+
+• Bölgede çalışan ve bu Yönetmeliğe göre tanımlanmış Ar-Ge ve destek personelinin bu
+    görevleri ile ilgili ücretleri 31/12/2028 tarihine kadar her türlü vergiden istisnadır. Bu
+    istisnanın uygulanabilmesi için, ilgili girişimci ve/veya firma, Bölgede çalışan ve bu
+    Yönetmeliğe göre tanımlanmış tüm Ar-Ge, yazılım, tasarımcı, destek personelini, Ar-Ge
+    projelerindeki görev tanımlarını, nitelik ve çalışma sürelerini gösteren listeyi aylık
+    olarak İTÜ Teknopark A.Ş.’ye onaylatır, inceleme ve denetimlerde ibraz edilmek üzere
+    saklar. İstisna kapsamındaki çalışma sürelerinin hesabında haftada kırk beş saatin
+    üzerindeki ve ek çalışma süreleri bu hesaplamada dikkate alınmaz. Hak kazanılmış
+    hafta tatili ve yıllık ücretli izin süreleri ile 17/3/1981 tarihli ve 2429 sayılı Ulusal Bayram
+    ve Genel Tatiller Hakkında Kanunda belirtilen tatil günleri gelir vergisi stopajı teşviki
+    uygulamasında dikkate alınır. Hesaplamada küsuratlı sayılar bir üst tamsayıya iblağ
+    edilir.
+
+• İstisna kapsamındaki destek personeli sayısı Ar-Ge personeli sayısının yüzde onunu
+    aşamaz. Destek personeli sayısı hesabında küsuratlı sayılar bir üst tamsayıya iblağ
+    edilir. Destek personelinin toplam Ar-Ge personeli sayısının %10’unu aşması hâlinde,
+    brüt ücreti en az olan destek personelinin ücretinden başlamak üzere her türlü vergi
+    istisnası uygulanır. Brüt ücretlerin aynı olması hâlinde, ücretine her türlü vergi istisnası
+    uygulanacak destek personeli ise çalıştığı girişimci ve/veya firma tarafından belirlenir.
+    Toplam personel sayısı on beşe (hariç) kadar olan Bölge firmaları için bu oran yüzde
+    yirmi olarak uygulanır. Ar-Ge ve destek personelinin bu Kanun kapsamında elde ettiği
+    tüm gelirler (ücret, prim, ikramiye ve benzeri ödemeler) istisna kapsamına dâhildir.
+
+• Girişimcinin çalıştırdığı Ar-Ge personeli, Bölgede çalıştığı muafiyete tabi mesai süresi
+    T.C. Çalışma ve Sosyal Güvenlik Bakanlığı mevzuatına da uygun şekilde en fazla 45 saat
+    olacaktır. Haftalık 45 saat üzerindeki çalışmalar muafiyet hesabına dâhil
+    edilmeyecektir. Haftalık 45 saati doldurması için kişi haftalık denkleştirme yapabilir.
+
+• 4857 sayılı İş Yasasının Çalışma Süresi ile ilgili "MADDE 63. - Genel bakımdan çalışma
+    süresi haftada en çok kırk beş saattir. Aksi kararlaştırılmamışsa bu süre, işyerlerinde
+    haftanın çalışılan günlerine eşit ölçüde bölünerek uygulanır. Tarafların anlaşması ile
+    haftalık normal çalışma süresi, işyerlerinde haftanın çalışılan günlerine, günde on bir
+    saati aşmamak koşulu ile farklı şekilde dağıtılabilir." denilmektedir. Bu durumda
+    muafiyete tabi mesai süresi günlük 11 (on bir) saatten fazla ise bunun en fazla 11 (on
+    bir) saati onaya tabi olacaktır. Mesai saatleri muafiyet hesaplanırken dikkate alınmaz.
+
+• 4857 sayılı İş Yasasının Ara Dinlenmesi ile ilgili “MADDE 68. - Günlük çalışma süresinin
+    ortalama bir zamanında o yerin gelenekleri ve işin gereğine göre ayarlanmak suretiyle
+    işçilere;
+
+         o Dört saat veya daha kısa süreli işlerde on beş dakika,
+         o Dört saatten fazla ve yedi buçuk saate kadar (yedi buçuk saat dâhil) süreli
+
+             işlerde yarım saat,
+
+                                                   13
+         o Yedi buçuk saatten fazla süreli işlerde bir saat,
+    dinlenme arası verilir. Bu dinlenme süreleri en az olup aralıksız verilir." denilmektedir.
+    Bu durumda muafiyete tabi mesai süresi hesaplanırken 7,5 (yedi buçuk) saatten fazla
+    olan çalışma sürelerinde 1 (bir) saat Ara Dinlenme süresi düşülerek hesaplanıp onay
+    verilecektir.
+
+• Söz konusu Muafiyet ve istisna hesaplamalardan doğan cezai işlemlerden İTÜ
+    Teknopark A.Ş. sorumlu değildir.
+
+• Girişimcinin ve/veya firmanın çalıştırdığı Ar-Ge personeli, mesai saatiyle ilgili olarak
+    tam muafiyet alabilmesi için Bölgeye giriş ve daha sonra Bölgeden çıkışını
+    gerçekleştirmiş olması gerekmektedir.
+
+• Bölgede yer alan işletmelerde çalışan Ar-Ge ve tasarım personelinin bu Bölgelerde
+    yürüttüğü projelerle doğrudan ilgili olmak şartıyla, proje kapsamındaki faaliyetlerin bir
+    kısmının Bölge dışında yürütülmesinin zorunlu olduğu durumlarda Bölge dışındaki bu
+    faaliyetlere ilişkin ücretlerinin yüzde yüzünü aşmamak şartıyla Cumhurbaşkanınca ayrı
+    ayrı veya birlikte belirlenecek kısmı gelir vergisi stopajı teşviki kapsamında
+    değerlendirilir. Buna ilave olarak gelir vergisi stopajı teşviki kapsamında Bölgede
+    çalışan personelin toplam sayısının veya teşvike konu edilen toplam çalışma sürelerinin
+    yüzde yirmisini aşmamak kaydıyla bu fıkrada belirtilen durumlar haricinde Bölge
+    dışında geçirilen süreler de gelir vergisi stopajı teşviki kapsamında değerlendirilir.
+    Cumhurbaşkanı, yüzde yirmi olarak belirlenen bu oranı belirleyeceği bölgesel ve/veya
+    sektörel alanlarda yüzde yetmiş beşe kadar artırmaya veya tekrar kanuni oranına kadar
+    indirmeye yetkilidir. Bu bent kapsamında teşvikten yararlanılması için İTÜ Teknopark
+    A.Ş.’nin onayının alınması ve Bakanlığın bilgilendirilmesi zorunludur.
+
+• Girişimci tarafından talep edilmesi halinde, proje geçme safhasında hakem tarafından
+    onaylanmış olup yürütülen Ar-Ge projesi kapsamında çalışan Ar-Ge personelinin;
+    Bölgede yürüttüğü görevle ilgili olarak Bölge dışında geçirilmesi gereken sürelerin
+    incelenmesi adına Ar-Ge projesi kapsamında dışarıda geçirilen fiili sürelere dair ilgili
+    kurum ve kuruluştan temin edilen belgeleri İTÜ Teknopark A.Ş.’ye onaylanması için
+    verecektir.
+
+• Yürürlükteki iş ve çalışma mevzuatına göre istihdam edilmeyen personelin niteliği ne
+    olursa olsun Ar-Ge personeli olarak kabul edilmeyecektir.
+
+• Girişimci çalıştırdığı tüm personelden kendisi sorumludur. Girişimci, muafiyet aldığı
+    personel ile ilgili Yönetim’e bildirilen tüm verilerin doğruluğunu kabul eder.
+
+• Girişimci, çalıştıkları kuruluşlardan aldıkları iznin belgelenmesi kaydıyla, kamu kurum
+    ve kuruluşları ile üniversite personelinden bölgedeki faaliyetlerinde hizmetine ihtiyaç
+    duyulanları Ar-Ge personeli olarak çalıştırabilir.
+
+• Bölge içerisinde faaliyette bulunan gelir veya kurumlar vergisi mükellefleri, yazılım
+    ve/veya Ar-Ge faaliyetleri dolayısıyla 4691 sayılı Kanunda yer alan vergisel teşviklerden
+    bütün halinde yararlanabilirler. Bu durumda aynı yazılım ve/veya Ar-Ge projesi için
+    13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu, 31/12/1960 tarihli ve 193
+    sayılı Gelir Vergisi Kanunu ile 28/2/2008 tarihli ve 5746 sayılı Araştırma ve Geliştirme
+    Faaliyetlerinin Desteklenmesi Hakkında Kanunda yer alan vergisel teşviklerden ayrıca
+    yararlanamazlar. Bölgede faaliyette bulunan girişimcilerden ve/veya firmalardan 5520
+    sayılı Kanun, 193 sayılı Kanun ve 5746 sayılı Kanunda yer alan vergisel teşviklerden
+
+                                                   14
+    yararlanmak isteyenler, bu durumu T.C. Hazine ve Maliye Bakanlığı’na ve İTÜ
+    Teknopark A.Ş.’ye eş zamanlı olarak ayrıca bildirirler.
+
+• Bölgede yer alan girişimcilerin ve firmaların yürüttükleri yazılım, tasarım ve/veya Ar-
+    Ge projesi kapsamında çalışan Ar-Ge personelinin, Bölgede yürüttüğü görevle ilgili
+    olarak İTÜ Teknopark A.Ş.’nin onayıyla, Bölge dışında geçirdiği sürelere ait bu
+    çalışmaları kapsamında elde ettikleri ücretlerinin yüzde yüzünü aşmamak şartıyla
+    Cumhurbaşkanlığı’nca ayrı ayrı veya birlikte belirlenecek kısmı gelir vergisi stopajı
+    teşviki kapsamında değerlendirilir. Bu istisnanın uygulanabilmesi için; girişimci ve/veya
+    firmanın yürüttüğü yazılım ve/veya Ar-Ge projesinin bir kısmının Bölge dışında
+    yürütülmesinin zorunlu olduğu hallerde, girişimci, firma, yazılım, tasarım ve/veya Ar-
+    Ge projesinin Bölge dışında geçirilmesi gereken kısımlarına ilişkin gerekçeli teklifi ile
+    çalışanların projeler itibarıyla sayıları ve nitelikleri, bu personelin projelerde görev
+    aldığı süreler, ücretlerine ilişkin bilgiyi İTÜ Teknopark A.Ş.’ye sunar. Girişimci şirket
+    tarafından sunulan gerekçeli teklif İTÜ Teknopark A.Ş. ve PDK tarafından incelenir ve
+    söz konusu yazılım, tasarım ve/veya Ar-Ge projesinin bir kısmının Bölge içinde
+    yürütülemeyeceğinin (Bölge dışında yapılmasının zorunlu olduğunun) tespit edilmesi
+    ile Bölge dışında yürütülen yazılım ve/veya Ar-Ge faaliyetlerinin Bölgede yürütülen aynı
+    yazılım ve/veya Ar-Ge projesi kapsamında olduğunun tespit edilmesi şartıyla, gerekçeli
+    teklif İTÜ Teknopark A.Ş. tarafından onaylanır. İTÜ Teknopark A.Ş.’nin onayı ile Bölge
+    dışında geçirilen sürenin Bölgede yürütülen görevle ilgili olmadığının tespit edilmesi
+    halinde, ziyaa uğratılan vergi ve buna ilişkin cezalardan ilgili işletme sorumludur.
+
+• Bölgede yer alan işletmelerde çalışan Ar-Ge ve tasarım personelinin yüksek lisans
+    yapanlar için bir buçuk yılı, doktora yapanlar için iki yılı geçmemek üzere Bölge dışında
+    geçirdiği sürelere ilişkin ücretlerin yüzde yüzünü aşmamak şartıyla
+    Cumhurbaşkanlığı’nca ayrı ayrı veya birlikte belirlenecek kısmı, gelir vergisi stopajı
+    teşviki kapsamında değerlendirilir. Bu kapsamda teşvikten yararlanılması için İTÜ
+    Teknopark A.Ş.’nin onayının alınması ve Bakanlığın bilgilendirilmesi zorunludur. İTÜ
+    Teknopark A.Ş.’nin onayı ile Bölge dışında geçirilen sürenin onay kapsamında
+    olmadığının tespit edilmesi halinde, ziyaa uğratılan vergi ve buna ilişkin cezalardan ilgili
+    işletme sorumludur. Bu bent kapsamındaki istisnanın uygulanabilmesi için lisansüstü
+    eğitimde geçirilecek süre, üniversiteden onaylı ders programı dikkate alınarak İTÜ
+    Teknopark A.Ş.’nin onayı ile hesaplanır. Bu hesaplamalarda lisansüstü eğitimde alınan
+    dersler kapsamında yapılacak araştırmalar da dikkate alınabilir. Bir buçuk ve iki yıllık
+    sürelerin uygulamasında kayıt dondurma kapsamında geçen süreler dikkate alınmaz.
+
+• Yükseköğretim kurumlarının matematik, fizik, kimya, biyoloji lisans programları ile
+    Yükseköğretim Kurulundan alınan görüş üzerine Bakanlıkça ilan edilecek alanlarda en
+    az lisans derecesine sahip Ar-Ge personeli istihdam eden Teknoloji Geliştirme Bölgeleri
+    firmalarının, bu personelin her birine ödedikleri aylık ücretin o yıl için uygulanan asgari
+    ücretin aylık brüt tutarı kadarlık kısmı, iki yıl süreyle Bakanlık bütçesine konulacak
+    ödenekten karşılanır. Bu kapsamda her bir Teknoloji Geliştirme Bölgesi firmasına
+    sağlanacak destek, ilgili ayda Teknoloji Geliştirme Bölgesi firmasında istihdam edilen
+    toplam personel sayısının yüzde onunu geçemez. Bu sayının küsuratlı çıkması halinde
+    tama iblağ edilir.
+
+• Bu destek, İTÜ Teknopark A.Ş.’de, kuluçka merkezinde ve teknoloji transfer ofisi
+    hizmetlerinde istihdam edilen desteklenecek program mezunu personele de aynen
+    uygulanır.
+
+                                                   15
+• Bu destekten yararlanabilmesi için istihdam edilecek yükseköğretim kurumlarının
+    matematik, fizik, kimya ve biyoloji lisans programlarından mezun personelin 1/7/2017
+    (dahil), Yükseköğretim Kurulundan alınan görüş üzerine Bakanlıkça ilan edilecek
+    alanlardan mezun personelin ise 3/2/2021 (dahil) tarihinden sonra işe alınması ve ilgili
+    Teknoloji Geliştirme Bölgesi firmasında ilk kez istihdam edilmesi esastır. İTÜ Teknopark
+    A.Ş., bu destek kapsamında istihdam edilen personelin işe alınması ve işten ayrılması
+    durumları ile ilgili hususları Bakanlığa yazılı veya elektronik ortamda bildirmekle
+    yükümlüdür.
+
+• Bu destekten yararlanacak işletmeler taleplerini İTÜ Teknopark A.Ş.’ye bildirir. İTÜ
+    Teknopark A.Ş., talebin uygun olup olmadığını değerlendirir. İTÜ Teknopark A.Ş. bu
+    kapsamda uygun gördüğü başvuruyu portal üzerinden Bakanlığa iletir. Bakanlık
+    başvuruyu değerlendirir, uygun bulması halinde söz konusu başvuruyu onaylar. Bu
+    desteğe ilişkin yapılacak ödemeler, destek kapsamındaki personele ilişkin sigorta prim
+    gün sayısı dikkate alınarak Bakanlıkça aylık dönemler halinde gerçekleştirilir.
+
+• Bu destek kapsamında ödemelerin yapılabilmesi için İTÜ Teknopark A.Ş. tarafından
+    kontrol edilerek onaylanan yukarıdaki şartların sağlandığını ve firma tarafından ilgili
+    personele dönem ücretlerinin ödendiğini gösteren raporun Bakanlığa sunulması
+    gerekmektedir. Bakanlıkça uygun görülen tutar, raporun teslim edildiği tarihi takip
+    eden üçüncü ayın sonuna kadar firmanın bildirdiği banka hesabına ödenir.
+
+• Bölgede çalışan Ar-Ge personelinin, yürüttüğü yazılım ve/veya Ar-Ge projesi ile ilgili
+    Bölge dışında geçirdiği süreye ilişkin yazılım ve/veya Ar-Ge çalışması yapılan kurum
+    veya kuruluştan aldığı onaylı belge veya diğer destekleyici belgeler İTÜ Teknopark
+    A.Ş.’ye sunulur.
+
+• Teknoloji Geliştirme Bölgelerinde yer alan firmaların, 3/2/2021 (dahil) tarihinden sonra
+    ilk kez istihdam ettikleri doktora öğrencisi Ar-Ge personeline o yıl için uygulanan asgari
+    ücretin aylık brüt tutarı kadarlık kısmı, iki yıl süreyle Bakanlık bütçesine konulacak
+    ödenekle sınırlı olmak üzere Bakanlık tarafından karşılanabilir.
+
+• Bu destekten yararlanabilecek firma tarafından istihdam edilen doktora öğrencisi Ar-
+    Ge personeline ödenen aylık taban ücreti, brüt asgari ücretin bir buçuk katından az
+    olamaz. Firma başına verilebilecek destek, üniversitelerin doktora programına kayıtlı
+    en fazla iki doktora öğrencisi ile sınırlıdır. Girişimci ve/veya firmaların bu destekten
+    yararlanabilmeleri için istihdam ettikleri doktora öğrencisinin başka kamu kurumundan
+    destek almıyor olması şartı aranır. Girişimci ve/veya firmanın bu destekten
+    yararlanabilmesi için istihdam edilecek doktora öğrencisinin Türkiye’deki
+    üniversitelerin doktora programına kayıtlı, ders dönemini tamamlamış ve tez
+    aşamasına geçmiş olması gerekir. İTÜ Teknopark A.Ş., bu destek kapsamında
+    firmalarda istihdam edilen personelin işe alınması, işten ayrılması, doktora
+    programından mezun olması ve ayrılması ile ilgili hususları takip etmek ve Bakanlığa
+    bildirmekle yükümlüdür.
+
+• Bu destekten yararlanacak firmalar taleplerini İTÜ Teknopark A.Ş.’ye bildirir. İTÜ
+    Teknopark A.Ş. talebin uygun olup olmadığını mevzuata uygunluğu açısından
+    değerlendirir. Bu kapsamda uygun gördüğü başvuruyu ve bu maddedeki şartların
+    sağlandığını gösteren raporu, portal üzerinden ilgili firmanın talebini takip eden ay
+    sonuna kadar Bakanlığa iletir. İTÜ Teknopark A.Ş., girişimci ve/veya firmaların
+    başvurularını kabulden imtina edemez, başvuruları yerindelik açısından
+
+                                                   16
+    değerlendiremez. Bu destek kapsamında düzenlenecek raporda bulunması gereken
+    asgari bilgiler ve ilgili diğer hususlar Bakanlıkça belirlenir. Bu desteğe ilişkin firmaya
+    yapılacak ödemeler, destek kapsamındaki personele ilişkin, ilgili ayın bildirilmiş sigorta
+    prim gün sayısı dikkate alınarak yapılacak hesaplamaya göre, Bakanlıkça, raporun
+    teslim edildiği tarihi takip eden üçüncü ayın sonuna kadar gerçekleştirilir. İTÜ
+    Teknopark A.Ş.’de istihdam edilen personel, bu desteğin kapsamı dışındadır.
+
+• Teknoloji geliştirme bölgesinde faaliyette bulunan girişimcilerin ve firmaların
+    kazançlarının gelir veya kurumlar vergisinden istisna bulunduğu süre içinde
+    münhasıran bu Bölgelerde ürettikleri ve sistem yönetimi, veri yönetimi, iş
+    uygulamaları, sektörel, internet, oyun mobil ve askeri komuta kontrol uygulama
+    yazılımı şeklindeki teslim ve hizmetlerinin, 25/10/1984 tarihli ve 3065 sayılı Katma
+    Değer Vergisi Kanunu kapsamında katma değer vergisinden müstesna tutulması için
+    İTÜ Teknopark A.Ş.’ye proje bilgilerinin olduğu bir dilekçe ile başvurulması ve bu
+    başvurunun PDK tarafından değerlendirilip uygun olup olmadığına karar verilmesi
+    gerekmektedir. Uygun görülen karar için girişimci ve/veya firmanın gerekli evraklar ile
+    ilgili Vergi Dairesine başvurulması gerekmektedir.
+
+• Kendisine ve Bölgede bulunan girişimcilerin ve/veya firmaların faaliyetlerine ilişkin
+    bilgilerin, Genel Müdürlükçe belirlenen şekle uygun olarak yazılı ve elektronik ortamda
+    günlük veya anlık tutulması, kendi serbest muhasebeci mali müşaviri veya yeminli mali
+    müşavirince onaylı yıllık bilgilerin her yılın Mayıs ayı sonuna kadar elektronik ortamda
+    Genel Müdürlüğe iletilmesi, bu bende uygun hareket edilmemesi halinde Haziran
+    ayından itibaren girişimcilerin ve/veya firmaların üç aylık muafiyet belgelerinin
+    onaylanmaması, üçüncü ayın sonuna kadar bilgilerin iletilmemiş olması durumunda
+    takip eden aydan itibaren aylık muafiyet belgelerinin onaylanmaması ve bu ay
+    içerisinde ilgili girişimcilerin ve/veya firmaların ihracına ilişkin işlemlerin başlatılması,
+    ayrıca İTÜ Teknopark A.Ş. olarak kendisinin her türlü hesap ve işlemlerinin yıllık olarak
+    1/6/1989 tarihli ve 3568 sayılı Serbest Muhasebeci Mali Müşavirlik ve Yeminli Mali
+    Müşavirlik Kanununa göre yetkilendirilmiş yeminli mali müşavire inceletilmesi, mali
+    denetim raporunun birer örneğinin her yılın Mayıs ayı sonuna kadar aynı süre içinde
+    kendisine ve Genel Müdürlüğe iletilmesinin sağlanması gerekmektedir.
+
+• Bölgede muafiyet ve istisnaların uygulanması ile ilgili işlemler T.C. Hazine ve Maliye
+    Bakanlığı’nın ilgili mevzuatlarına tabidir.
+
+• Bölgelerde Kanun kapsamında yürütülen yazılım, Ar-Ge, yenilik ve tasarım projeleri ile
+    ilgili araştırmalarda kullanılmak üzere ithal edilen eşya, gümrük vergisi ve her türlü
+    fondan, bu kapsamda düzenlenen kâğıtlar ve yapılan işlemler damga vergisi ve harçtan
+    istisnadır.
+
+• Bu istisna kapsamında ithal edilen eşya; Ar-Ge, yenilik ve tasarım projeleri ile ilgili
+    araştırmalarda kullanılmak üzere Genel Müdürlükçe onaylanarak Tek Pencere Sistemi
+    aracılığıyla T.C. Ticaret Bakanlığı’na gönderilecek izinde belirtilen eşyadan oluşur.
+
+• Bu istisnadan yararlanacak işletmeler Genel Müdürlükçe belirlenen başvuru formu ve
+    eklerine göre taleplerini İTÜ Teknopark A.Ş.’ye bildirir. İTÜ Teknopark A.Ş,
+    Yönetmeliğin 14. maddesi kapsamında projeye uygunluğu açısından ithal eşya
+    talebinin uygun olup olmadığını değerlendirir. İTÜ Teknopark A.Ş. bu kapsamda ithalini
+    uygun gördüğü eşyaya ilişkin bilgileri de içeren başvuruyu T.C. Ticaret Bakanlığı Tek
+    Pencere Sistemi üzerinden Genel Müdürlüğe iletir.
+
+                                                   17
+    • Genel Müdürlük başvuruyu değerlendirir, uygun bulması halinde söz konusu
+         başvuruyu onaylayarak gümrük işlemlerinde kullanılmak üzere Tek Pencere Sistemi
+         üzerinden T.C. Ticaret Bakanlığı’na bildirir.
+
+    • 1/1/2022 tarihinden itibaren verilecek yıllık gelir ve kurumlar vergisi beyannamesinde
+         Kanunun geçici 2. maddesi kapsamında istisna edilen kazançları tutarı 1.000.000 Türk
+         lirası ve üzerinde olan gelir ve kurumlar vergisi mükellefleri tarafından, bu tutarın yüzde
+         ikisi pasifte geçici bir hesaba aktarılır. Bu fıkra kapsamında aktarılması gereken tutar
+         yükümlülüğü, yıllık bazda 20.000.000 Türk lirası ile sınırlıdır. Bu tutarın, geçici hesabın
+         oluştuğu yılın sonuna kadar Türkiye’de yerleşik girişimcilere yatırım yapmak üzere
+         kurulmuş girişim sermayesi yatırım fonu paylarının satın alınması veya girişim
+         sermayesi yatırım ortaklıkları ya da Kanun kapsamındaki kuluçka merkezlerinde
+         faaliyette bulunan diğer girişimcilere sermaye olarak konulması şarttır. Söz konusu
+         tutarın ilgili yılın sonuna kadar aktarılmaması durumunda, bu Kanun kapsamında yıllık
+         beyanname üzerinden istisna edilen kazançlar tutarının yüzde yirmisi, ilgili yılda
+         yararlanılan gelir ve kurumlar vergisi istisnasına konu edilemez. Bu tutar nedeniyle
+         zamanında alınmayan vergiler vergi ziyaı cezası uygulanmaksızın tarh edilir.
+         Cumhurbaşkanı bu fıkrada yer alan tutar ve oranları birlikte ya da ayrı ayrı sıfıra kadar
+         indirmeye, beş katına kadar artırmaya yetkilidir.
+
+         Bu madde kapsamına giren TGB şirketleri kazanç tutarlarını, buna bağlı olarak pasifte
+         geçici hesaba aktaracakları tutarı ve bu tutarı ne şekilde değerlendirdiklerini süresi
+         içinde İTÜ Teknopark A.Ş.’ye bildirmek ve belgelerini sunmakla yükümlüdür.
+
+2.8. Hizmetler ve İşbirlikleri
+
+1773 İTÜ Teknopark içerisinde erişim sağlanabilecek imkan ve hizmetler genel olarak şu
+şekilde sayılabilir;
+
+    • Ar-Ge çalışmalarının tüm çeşitlerine hizmet sağlayacak, kiralanabilir ofis alanları,
+
+    • Çalışma istasyonları, açık ofisler ve kapalı ofislerden oluşan kuluçka alanı,
+
+    • Prototip üretim laboratuvarı,
+
+    • Toplantı ve seminer odaları,
+
+    • Kafeterya ve katlarda çay/kahve mutfakları,
+
+    • Sosyal alan/dinlenme alanları,
+
+    • Yüksek teknoloji Ar-Ge çalışmalarında firmaların talep etmesi durumunda
+         Üniversitenin laboratuvar vb. altyapı hizmetleri,
+
+    • İstanbul Teknik Üniversitesi altyapısında mevcut konferans ve toplantı salonları, kapalı
+         ve açık kültürel faaliyet alanları,
+
+    • İstanbul Teknik Üniversitesi Kütüphanesi,
+
+    • Çevre, bina güvenliği ve temizliği,
+
+    • 7/24 sağlıklı bir şekilde sunulan elektrik, mekanik, iklimlendirme ve internet altyapısı,
+
+    • Mali danışmanlık, hukuk danışmanlığı ve genel danışmanlık hizmetleri,
+
+    • Girişimcilerin ve/veya firmaların altyapısal sorunlarını giderme desteği.
+
+                                                       18
+2.8.1. Kuluçka Hizmetleri
+
+• İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark içerisinde 1773 İTÜ Teknopark Kuluçka
+    Merkezi’nde, bölge içerisinde uygun bulduğu diğer mahallerde ve bölge alanları dışında
+    açılan kuluçka merkezinde Ar-Ge ve yenilikçi firmaları yetiştirmek, genç ve yeni
+    işletmeleri geliştirmek amacıyla kuluçka merkezi faaliyetinde bulunur.
+
+• 1773 İTÜ Teknopark dışında açılan kuluçka merkezlerinde yer alacak kuluçka
+    girişimcisinin personel sayısının 10 kişiden az ve son üç yıl içerisinde kurulmuş teknoloji
+    tabanlı işletme olması şartı aranır.
+
+• İTÜ Teknopark A.Ş., kuluçka firmalarına kuluçka merkezinde, en fazla 36 ay olmak üzere
+    proje süresine göre Yönetmelik hükümleri kapsamında yer tahsisi yapar.
+
+• İTÜ Teknopark A.Ş. iş fikri ya da hayata geçirmek istediği bir projesi olan ve henüz gelir
+    ve kurumlar vergisine tabi bir işletme kurmamış girişimciyi değerlendirerek, uygun
+    bulduğu girişimcileri, ön kuluçka programına tabi tutar. Bu kapsamda girişimcilere
+    kademeli olarak toplam en fazla 18 ay olmak üzere kuluçka merkezini kullandırabilir.
+
+• İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark Kuluçka Merkezi’nde yer kalmadığında,
+    kuluçka firmalarına ya da yeni bir fikri olan gerçek kişilere, idare ofisi, Ar-Ge binası veya
+    diğer binalar içerisinde uygun ofisler bulunması halinde yer verebilir.
+
+• 1773 İTÜ Teknopark içerisinde yer alan kuluçka firma sayısı toplam firma sayısının
+    yüzde onundan az olamaz ve yönetici şirket Bölge alanı içerisinde yer alan kuluçka
+    firmalarına binanın toplam kiralanabilir alanının en az yüzde beşi oranında yer ayırır.
+    Hesaplamalarda küsurat tama tamamlanır. 1773 İTÜ Teknopark dışında açılan kuluçka
+    merkezlerinde yer alan kuluçka firmaları bu hesaba dahil değildir.
+
+• 1773 İTÜ Teknopark Kuluçka programları kapsamında İTÜ Teknopark A.Ş.; aşağıdaki
+    hizmet ve destekleri, imkanları dahilinde, girişimcilerin ihtiyaçları doğrultusunda
+    sağlar:
+
+         o Ofis imkanı, mobilya ve ekipman sağlanması, ihtiyaç duyulan altyapının ve
+              ortak mekanların oluşturulması,
+
+         o Sekretarya ve destek hizmetlerinin sunulması, donanım ve yazılımlara erişimin
+              sağlanması,
+
+         o Yarışma ve benzeri girişimciliği teşvik edici programların organize edilmesi,
+
+         o İlgili eğitim, seminer ve atölyelerin düzenlenmesi,
+
+         o Yönetim desteği, kritik iş ve teknik desteklerin verilmesi,
+
+         o Teknik ve idari konularda danışmanlık ve mentorluk hizmetlerinin sağlanması,
+
+         o Şirketleşme, ticarileşme, uluslararasılaşma ve benzeri alanlarda desteklerin
+              sağlanması,
+
+         o Ar-Ge ve yenilik faaliyetleri ile tasarım faaliyetleriyle ilgili finansmana erişim
+              konusunda danışmanlık sunulması ve mevcut programlara yönlendirilmesi
+              veya uygun yapılar ile bir araya gelinmesine destek olunması,
+
+         o Kuluçka firmalarının kendi aralarında ve Bölgede yerleşik diğer firmalarla
+              etkileşim ve işbirliklerinin sağlanması.
+                                                   19
+• Bölge yönetici şirketince, kuluçka girişimcilerine, Bölgede uygulanan birim metrekare
+     kira ücretlerinin; kamu destekli Ar-Ge projesine sahip olanlar için yüzde yirmi
+     beşinden, diğerleri için yüzde ellisinden fazla olamaz. Ar-Ge projesi süresi esas alınarak
+     kuluçka firmalarına en fazla 36 aya kadar yer tahsis edilir. Yer tahsis edilirken diğer
+     firmalardan tamamen ya da kısmen ayrıştırılmış ofis alanlarının oluşturulmasına özen
+     gösterilir.
+
+• Yönetmelik kapsamında sağlanan destek, teşvik, muafiyet ve istisnalar, 1773 İTÜ
+    Teknopark dışında açılan kuluçka merkezlerine de aynen uygulanır.
+
+2.8.2. Teknoloji Transfer Ofisi Hizmetleri
+İTÜ Teknopark A.Ş, iştiraki hüviyetindeki 1773 İTÜ Teknopark Teknoloji Transfer Ofisi A.Ş.
+ile düzenlenen ilgili protokol çerçevesinde bir teknoloji transfer ofisi kurmuştur. 1773 İTÜ
+Teknopark TTO’da firmaların, girişimcilerin, üniversitenin ve bölgesel inovasyon
+ekosistemindeki paydaşların ihtiyaçları doğrultusunda, aşağıda belirtilen hizmet ve
+destekler sağlanır.
+
+• Teknoloji geliştiricisi Ar-Ge veya tasarım kurum ve kuruluşları ile 1773 İTÜ Teknopark
+     firmaları, girişimcileri, teknoloji kullanıcısı sanayi şirketleri, kamu kurumları veya diğer
+     teknoloji ya da Ar-Ge veya tasarım kurum ve kuruluşları arasında bilgilendirme,
+     koordinasyon ve araştırma arz ve talebini yönlendirme çalışmalarının yürütülmesi,
+
+• Yeni Ar-Ge ve tasarım şirketlerinin kurulmasının teşvik edilmesi, desteklenmesi ve
+     işbirliğinin sağlanması,
+
+• Fikri mülkiyet haklarına konu araştırma sonuçlarının tespiti, teknik olgunluk ve
+     zamanlamasının değerlendirilmesi, hakların korunması, değerinin belirlenmesi,
+     transfer modelinin belirlenmesi, pazarlanması, lisanslanması, lisanslamadan elde
+     edilen gelirlerin yönetilmesi,
+
+• Üniversiteler ile firmalar arasında sözleşmeli veya ortak Ar-Ge ve yenilik veya tasarım
+     projelerini teşvik edecek çalışmaların yürütülmesi,
+
+• Üniversite-sanayi işbirliği kapsamında öğretim elemanlarının ve şirketlerin araştırma
+     ve geliştirme çalışmalarının organizasyonel yönüyle desteklenmesi,
+
+• Bilimsel bulguların, buluş ve teknolojilerin en kısa zamanda ve verimli şekilde ürüne
+     dönüşmesinin ve ticarileştirilmesinin desteklenmesi,
+
+• Üretilen ürünün yurtiçinde ve dışındaki potansiyel alıcılara tanıtılmasına,
+     pazarlamasına ve ulusal ve uluslararası alanlarda ticarileştirilmesine yönelik
+     desteklerin sağlanması ve ilgili hizmetlerin sunulması,
+
+• Fikri mülkiyet hakları ile ilgili lisanslama çalışmaları esnasında gizlilik taahhüdü, bilgi
+     değişimi ve gizlilik anlaşması gibi tedbirlerle alakalı faaliyetlerin yürütülmesi,
+
+• Strateji ve hedefler çerçevesinde orta ve uzun vadeli teknoloji transfer strateji ve
+     politikalarının oluşturulması.
+
+                                                   20
+2.8.3. Teknoloji İşbirlikleri
+• İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark’ta faaliyet gösteren firmaların bölge içi, yurt
+
+    içindeki ve yurtdışındaki firmalar, araştırmacılar ve araştırma kuruluşları ve ilgili
+    kuruluşlar ile Ar-Ge ve teknoloji odaklı işbirlikleri oluşturulmasını sağlamak amacıyla
+    imkânları dâhilinde bu maddede belirtilen hizmet ve destekleri sağlar.
+• İTÜ Teknopark A.Ş., bu kapsamda heyet ziyaretleri yapabilir, proje pazarları
+    düzenleyebilir, fuar, seminer, kongre, panel ve benzeri etkinlikler düzenleyebilir, bu tür
+    etkinliklere katılımı sağlamaya yönelik çalışmalar yürütebilir, kümeleşme
+    faaliyetlerinde bulunabilir, iş birliği platformları, kümeleri ve ağları kurabilir, var olan
+    benzeri yapılara üye olabilir ya da var olan yapılarla iş birliği yapabilir, ortak çalışmalar
+    yürütebilir, teknoloji talep ve arzlarını buluşturmaya yönelik eşleştirme faaliyetlerinde
+    bulunabilir.
+• İTÜ Teknopark A.Ş., ayrıca 1773 İTÜ Teknopark’ta yer alan şirketlerin; yürüttükleri
+    projelerde karşılaştıkları sorunlara, teknolojik bir çözüm getirilmesi amacıyla şirketler,
+    üniversiteler ya da diğer Ar-Ge kurum ve kuruluşları arasında koordinasyon faaliyeti
+    yürütebilir.
+• İTÜ Teknopark A.Ş., yurtiçi ve yurtdışındaki teknoloji geliştirme bölgeleri ve benzeri
+    yapılanmalarla birlikte teknoloji işbirliği programları kapsamında çalışmalar yürütebilir.
+
+2.8.4. Eğitim İşbirlikleri
+• İTÜ Teknopark A.Ş. girişimcilerin ve/veya firmaların vizyonlarını genişletmek,
+
+    kapasitelerini geliştirmek, rekabet güçlerini arttırmak amacıyla çeşitli eğitimler
+    düzenleyebilir. Ayrıca Teknoloji Geliştirme Bölgesi’nde çalışan kişilere, İTÜ
+    ekosisteminde yer alan şirketlerin çalışanlarına ve başta İTÜ olmak üzere
+    üniversitelerin akademisyen ve öğrencilerine yönelik eğitimler organize edebilir. Bu
+    organizasyonlarda başta İTÜ Sürekli Eğitim Merkezi ve İTÜ’nün diğer birim ve iştirakleri
+    olmak ve bunlarla sınırlı kalmamak üzere çeşitli kurum ve kuruluşlar ile işbirlikleri
+    yapabilir.
+
+2.8.5. Araştırma İşbirlikleri
+• Üniversite bünyesinde görevli öğretim üyeleri; 4691 Sayılı Teknoloji Geliştirme
+
+    Bölgeleri Kanununun getirdiği avantajlardan faydalanarak gerek kendilerinin
+    yürütücülüğünü yaptıkları projelerde gerekse Bilimsel/Akademik Danışman ünvanı ile
+    hali hazırda sanayi firmalarınca yürütülen projelerde yer alabilecek ve hizmetlerinin
+    karşılığı olarak maddi kazanç sağlayabileceklerdir. Ayrıca Teknopark’ta yer alan firmalar
+    üniversitenin laboratuvar, prototip atölyesi vb. araştırma/geliştirme birimlerinden ve
+    araştırma merkezlerinden ilgili üniversitenin belirlediği koşullar altında
+    yararlanabilecektir.
+
+                                                   21
+    2.8.6. Sosyal İşbirlikleri
+
+    • İTÜ Teknopark A.Ş., sosyal amaçlı işbirlikleri kurmak amacıyla çeşitli kuruluşlarla
+         işbirlikleri kurmak için görüşmeler yapabilir, 1773 İTÜ Teknopark sınırları içerisinde
+         kampanyalar düzenleyebilir, düzenlettirebilir.
+
+    • Girişimci ve/veya firma, bu tür sosyal amaçlı işbirliği projelerini 1773 İTÜ Teknopark
+         sınırları içerisinde gerçekleştirmek için İTÜ Teknopark A.Ş.’den yazılı izin talebinde
+         bulunur. Onay verilmesi durumunda her türlü sorumluluğu kendisine ait olmak üzere
+         çalışmasını yapabilir.
+
+2.9. Diğer İlişkili Kurallar
+
+    • Girişimci ve/veya firma, Bölge’nin belirlemiş olduğu diğer bazı hizmetlerinden özel
+         şartlarla ve indirimlerle yararlanabilir.
+
+    • Girişimcilerin ve/veya firmaların yararlanabileceği bu hizmetler ve şartları, İTÜ
+         Teknopark A.Ş. ve ilgili kuruluşlar arasında yapılacak görüşmelere göre belirlenecek ve
+         alınan kararlar İTÜ Teknopark A.Ş. tarafından Girişimcilere ve/veya firmalara
+         bildirilecektir.
+
+    • Girişimci ve/veya firma bu imkânlardan yararlanabilmek için ilgili kuruluşun getirdiği
+         her türlü sınırlamaya uyacaktır.
+
+    • Girişimci ve/veya firma personeli, akademik ve sosyal hizmetlerden (sosyal tesisler,
+         kütüphane, kurs ve seminerler vb.) yararlanabilmek için, İTÜ Teknopark A.Ş.’ye gerekli
+         bilgi aktarımını yapar ve bilgi talebinde bulunur. İTÜ Teknopark A.Ş., girişimci ve/veya
+         firma personelini, ilgili kuruluşun verdiği izin ve koşullar ile yararlandırabilir.
+
+     • İTÜ Teknopark A.Ş., girişimcilerin ve/veya firmaların taleplerini belirleyerek ilgili
+        kuruluşa gerekli bilgi aktarımını yapar. Girişimci ve/veya firma, sınırlı kapasite ve aşırı
+        talep vb. nedenlerle ilgili kuruluşun getirebileceği her türlü sınırlamaya uymak
+        zorundadır.
+
+3. 1773 İTÜ TEKNOPARK FAALİYET BAŞVURULARI
+
+3.1. Ar-Ge ve/veya Tasarım Projesi Süreci
+    1773 İTÜ Teknopark, bünyesinde Ar-Ge veya Tasarım faaliyetinde bulunmak için yer almak
+    isteyen girişimci ve/veya firmaların taleplerinin alınması, değerlendirilmesi ve uygun
+    bulunanlara yer tahsisinin yapılması ile yetkilidir. Proje, 1773 İTÜ Teknopark’ta devam
+    ettiği süre boyunca İTÜ Teknopark A.Ş. tarafından uygun biçimde takip edilir. Proje süresi
+    sonunda proje sahibi, eğer devam eden başka bir projesi yoksa, tahsisini sona erdirerek
+    bölgeden ayrılır. Bu madde Başvuru, Değerlendirme, Karar, Kabul, Takip ve Sonuçlandırma
+    adımlarını ve ilişkili gizlilik şartlarını tarif etmektedir.
+
+    3.1.1. Başvuru Adımı
+
+    • 1773 İTÜ Teknopark’da Ar-Ge veya tasarım faaliyetinde bulunmak üzere yer almak
+         isteyen girişimciler ve/veya firmalar, kendilerine daha önce yer tahsis edilmiş olan
+                                                       22
+         girişimciler ve/veya firmalar, başka bir teknoparkta iken Ar-Ge veya tasarım faaliyeti
+         yapan ve nakil talebinde bulunan girişimciler ve/veya firmalar Ar-Ge veya tasarım
+         projeleriyle başvuru yapabilirler.
+    • Başvuru yapan girişimciler ve firmalar 1773 İTÜ Teknopark başvuru formunu elektronik
+         ortamda doldurarak ve başvuru form ve değerlendirme bedelini bankaya yatırarak
+         başvuru yaparlar.
+
+3.1.1.1. Başvuru Formu
+
+    Yönetmelik uyarınca, proje başvuru formunda asgari olarak aşağıdaki bilgiler alınacaktır:
+
+    • Firma Bilgileri (Firma kurulu ise): Firma ünvanı; Firma adresi; İnternet sitesi; Firma
+         telefonu; Firma iletişim eposta adresi; vergi dairesi; vergi numarası.
+
+    • Başvuru Sahibi İletişim Bilgileri: İsim; Soyad; İletişim telefonu; İletişim eposta adresi.
+
+    • Ar-Ge Ofisi Talebi: Talep edilen en düşük alan (m2); Talep edilen en yüksek alan (m2);
+         Alanda istihdam edilmesi planlanan Ar-Ge personeli sayısı; Alanda istihdam edilmesi
+         planlanan destek personeli sayısı; Alanda istihdam edilmesi planlanan kapsam dışı
+         personel sayısı.
+
+    • Proje Künye Bilgileri: Proje adı, Proje türü (Ar-Ge/Tasarım/Yazılım), Hedeflenen Proje
+         Başlangıç Tarihi, Hedeflenen Proje Süresi, Nace Kodu, Proje Anahtar Kelimeleri (asgari
+         5 adet), Tahmini Proje Bütçesi (TL)
+
+    • Proje Ar-Ge Kategori Bilgisi (birden fazla seçilebilir): (a) Ar-Ge projesine doğrudan bağlı
+         endüstriyel tasarım ve çizim; (b) Bir yenilik unsuru içeren yazılım geliştirme; (c)
+         Geliştirilen kavramdan tasarıma geçiş sürecinde yer alan laboratuvar vb. çalışmalar; (d)
+         Kavram geliştirme; (e) Patent ve lisans çalışmaları; (f) Teknolojik/Teknik ve ekonomik
+         yapılabilirlik etüdü; (g) Yeni/iyileştirilmiş ürünler/süreçler için prototip geliştirilmesiyle
+         doğrudan ilişkili sınai mühendislik; (h) Yeni/iyileştirilmiş ürünler/süreçler için prototip
+         geliştirme.
+
+    • Proje Nitelik Bilgileri: Hedef müşteri kitlesinin tanımı, büyüklüğü, dağılımı ve ölçeği;
+         Projenin kısa özeti; Projenin detaylı anlatımı; Projenin Ar-Ge niteliği; Projenin yenilikçi
+         yönü; Projenin ticarileşme potansiyeli; Projenin hedeflenen kazanım, sonuç ve etkileri;
+         Proje kapsamında yapılacak akademik işbirlikleri; Akademik işbirliği yapılması
+         öngörülen araştırmacılar ve bu kişilerle mevcut işbirlikleri; Halen bir Ar-Ge destek
+         programından destek alınıyorsa buna ilişkin bilgi; Halen bir Ar-Ge destek kurumundan
+         destek alıyorsa buna ilişkin bilgi.
+
+    • Ar-Ge Proje Ekibi Kırılımı: Araştırmacı personel sayısı, Yazılımcı personel sayısı,
+         Teknisyen sayısı, Destek personeli sayısı, Tasarım personeli sayısı.
+
+    • Firma halen başka bir teknoloji geliştirme bölgesinde Ar-Ge veya tasarım faaliyeti
+         yürütmekte olup olmadığı. Eğer yürütüyorsa belirtilen projenin başka bir bölgede iken
+         nakil talebine konup olup olmadığı. Eğer nakil talebi bulunuyorsa bu durumun teyidi ve
+         ilgili bilgi ve belgelerinin temin edilerek başvuruya eklenmesi.
+
+    • Projenin, yer tahsisi yapıldığı takdirde, münhasıran 1773 İTÜ Teknopark’ta
+         yürütülmesine ilişkin talebin başvuru sahiplerince teyidi.
+
+                                                       23
+    • Bölge Dışı Çalışma Talebi: Bölge dışı çalışma talebiniz var mı? (E/H); Toplam bölge dışı
+         çalışma süresi; Bölge dışı çalışma talebi gerekçesi.
+
+    3.1.2. Değerlendirme Adımı
+
+    • İTÜ Teknopark A.Ş.’ye yapılan her başvuru için iki bölümde değerlendirilir. Birinci
+         bölümde proje dosyası üzerinden yazılı, ikinci bölümde proje sahiplerinin yapacağı
+         sözlü sunumu takiben soru cevap oturumu ışığında projeler değerlendirilir.
+
+    • Yapılan her proje başvurusu, İTÜ Teknopark A.Ş.'nin birinci ve ikinci bölümlerde
+         atayacağı bağımsız ve çıkar çelişkisi olmadığını önceden beyan etmiş hakemler
+         tarafından değerlendirilir.
+
+    • Her bir birinci bölüm değerlendirme raporları ve ikinci bölümde hakemlerin yaptığı
+         değerlendirmeler belgelendirilir. Bu belgeler Proje Bilgi Formu ile birlikte arşivlenir.
+         Halihazırda kamu ve/veya uluslararası Ar-Ge veya tasarım desteği alıp ayrıca
+         değerlendirmeden geçirilmeyen projeler için Destek onay sözleşmesi de Proje Bilgi
+         Formu ile birlikte arşivlenir.
+
+3.1.2.1. Birinci Değerlendirme
+
+    • Birinci değerendirme adımında, projeye atanan hakemler, birer hakem değerlendirme
+         raporu oluşturulur.
+
+    • Birinci değerlendirme aşamasında, Yönetmelik Madde 14.1.’in g bendinde göre İTÜ
+         Teknopark A.Ş. tarafından atanan, kuluçka firmaları için 1 akademik hakem, diğer
+         başvurular için 2 akademik hakem ve 1 sektör uzmanı veya ilgili mevzuat kapsamında
+         lisanı olan 1 bireysel katılım yatırımcısı tarafından yazılı değerlendirme yapılır.
+
+    • Özellikle akademik hakemlerin belirlenmesinde projelerin başvuru aşamasında
+         bildirilen anahtar kelimeleriyle, akademisyenlerin uzmanlık alanları arasındaki uyuma
+         dikkat edilir.
+
+    • Hakemler yaptıkları yazılı değerlendirmeleri içerecek şekilde birer değerlendirme
+         raporu oluştururlar. Bu amaçla İTÜ Teknopark A.Ş. tarafından tasarlanmış, bu
+         içyönerge kapsamında Bakanlık tarafından onaylanmış ve 3.1.2.3. maddesinde
+         açıklanan değerlendirme formu kullanılır.
+
+    • Projenin birini adımda katılan tüm hakemlerden aldığı puanların ortalaması 65/100 ve
+         üzerinde ise projenin ikinci bölümde yaptığı değerlendirme aşamasına geçilir. Birinci
+         bölümde bu seviyeden ortalamada daha düşük puan alan projeler başarısız sayılır.
+
+3.1.2.2. İkinci Değerlendirme
+
+    • Değerlendirme ikinci bölüme geçen proje sahipleri, tarihi makul bir süre öncesinden
+         ilan edilmiş bir toplantıda, ikinci bölümde değerlendirme yapan hakemlere sözlü olarak
+         projelerini sunarlar.
+
+    • PDK’nın bir parçası olarak ikinci aşamada değerlendirme yapan hakemler birinci
+         adımdaki hakemlerden farklı olarak belirlenir.
+
+    • İkinci değerlendirme aşamasında, İTÜ’nün değerlendirilen projelerin konu olarak ilgili
+         fakültelerinin dekan ve/veya Ar-Ge’den sorumlu dekan yardımcıları (toplam en az 2
+         kişi), 1773 İTÜ Teknopark A.Ş. Genel Müdürü (1 kişi) ve sunulacak projelerle çıkar
+         rekabeti olmadığı önceden teyid edilen sektör uzmanları, Türkiye’de faaliyet gösteren
+
+                                                       24
+         girişim sermayesi yaıtırım fonlarının yatırım kararı alma yetkisine sahip yöneticileri ile
+         yine çıkar çelişkisi olmadığı önceden teyid edilen bireysel katılım yatırımcıları (toplam
+         en az 2 kişi) davet edilir.
+    • Sunumun sonunda soru cevap için vakit ayırılarak hakemlerin sorularının proje
+         sahiplerince yanıtlanması sağlanır.
+    • İkinci bölüm değerlendirmesi, sunulan projeyi yine Yönetmelik’te belirtilen ölçütlere
+         göre inceler ve yine aynı değerlendirme formunu kullanarak puanlar.
+    • PDK ikimci değerlendirmesini yapan hakemler gerek gördükleri hallerde proje
+         sahiplerinden ek bilgi ve belge talep edilebilir.
+    • İkinci bölüm değerlendirmesinde hakemlerin verdiği puanlarla daha önce birinci
+         bölümde projeyi değerlendirmiş hakemlerin verdiği puanlar ile birlikte hesaba dahil
+         edilip ortalama alınarak proje puanı hesaplanır.
+    • Yapılan nihayi değerlendirme sonucuyla ilgili olarak başvuru sahibine bilgi verilir.
+
+    • İTÜ Fakülteleri, sektör uzmanları ve yatırımcılardan davet edilen katılımcılar, sunulan
+         proje çeşitliliğindeki değişime göre zaman içerisinde farklı oturumlar için farklılık
+         gösterebilir. Son 12 ay içerisinde bu değerlendirma adımına katılan hakemlerin kimler
+         olduğu 1773 İTÜ Teknopark İnternet sitesinde kamuya ilan edilir.
+
+3.1.2.3. Değerlendirme Formu
+
+    • Yönetmelik Madde 14.1.’in g bendinde başvuruya konu olan projenin atanan bağımsız
+         hakemler tarafından “proje süresi ile birlikte Bölge içi ve dışında geçirilmesi gereken
+         sürelerinin uygunluğu, yenilik barındıracak, herhangi bir alanda üretilebilir,
+         kullanılabilir, uygulanabilir olacak, uygulanan tekniğin bilinen durumunun aşıldığını
+         gösterecek, ticarileşme potansiyeli, ithal ikame veya ihracat potansiyeli olan yüksek
+         teknolojik ürünleri geliştirebilecek, üründe ve üretim yöntemlerinde yenilik
+         geliştirebilecek, ürün kalitesini veya standardını yükseltebilecek, verimliliği
+         artırabilecek, üretim maliyetlerini düşürebilecek, teknolojik bilgi üretilebilecek,
+         ürünlerin katma değerini artıracak, etkin bir üniversite-sanayi işbirliği
+         gerçekleştirebilecek bir Ar-Ge veya tasarım projesi olup olmadığı bakımından
+         inceletilmesi” gerektiği ifade edilmektedir. Yine aynı bölümde, yapılan
+         değerlendirmede “başka bir kamu ve uluslararası Ar-Ge veya tasarım destek
+         programları kapsamında desteklenen ya da Ar-Ge veya tasarım projesi olduğu
+         belirtilmek üzere kamu kurumu ve kuruluşlarınca oluşturulan projelerin ise Bölge
+         işletme yönergesinde aksi yönde bir uygulama öngörülmedikçe yeniden incelemeye ve
+         onaya tabi tutulmaması” gerektiği belirtilmektedir.
+
+    • Yukarıda anılan düzenlemede belirtilen değerlendirmelerin, başka konuların arasında
+         seyreltilmeden, münhasıran ve müstakilen yapılması amacıyla, PDK’ya atanan
+         hakemlerden, incelenen projeye ilişkin aşağıda belirtilen kapsamlarda ayrı ayrı
+         değerlendirmeler yapması istenecektir. Her bir husus için her bir hakemin temel
+         sorularda Evet/Hayır yanıtı ile ve değerlendirme sorularında 5-li Likert ölçeği ile
+         değerlendirme yapması istenecektir. Bu değerlendirmeyi takiben serbest form
+         alanında yapılan değerlendirmeyi yazılı olarak gerekçelendirmesi istenecektir.
+         Değerlendirmeye konu olan her bir husus için (parantez içinde belirtilen ağırlık dikkate
+         alınarak), hakem başına değerlendirme puanı (tam puan 100 üzerinden
+         ölçeklendirilerek) hesaplanacaktır.
+
+                                                       25
+    TEMEL SORULAR
+         1. Önerilen proje süresi projenin gerçeleştirilmesi için ne ölçüde uygun ve
+             yeterlidir? (E/H)
+         2. KDV Kanunu’nun geçici 20. Maddesi uyarınca, 4691 Sayılı Kanun’a göre
+             Teknoloji Geliştirme Bölgesinde faaliyet gösteren girişimci firmaların
+             kazançlarının gelir veya kurumlar vergisinden istisna bulunduğu süre içinde
+             münhasıran bu bölgelerde ürettikleri; Sistem Yönetimi, veri yönetimi, iş
+             uygulamaları; Sektörel, internet, oyun, mobil uygulamalar; Askeri komuta
+             kontrol uygulama yazılımları şeklindeki teslim edilen ürün ve hizmetler,
+             25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu kapsamında
+             katma değer vergisinden müstesnadır. Başvuruda belirtilen proje ne ölçüde ve
+             hangi açılardan bu kapsama dahildir? (E/H)
+         3. Proje kapsamında talep edilen bölge dışında geçirilecek süre proje gerekleri
+             açısından uygun mudur? (E/H)
+
+    DEĞERLENDİRME SORULARI
+
+         4. Öngörülen proje ne ölçüde ürün ve/veya teknoloji yeniliği barındırmaktadır
+             ve/veya hedeflemektedir? (%10)
+
+         5. Önerilen proje ne ölçüde üretilebilir, kullanılabilir ve uygulanabilir nitelik
+             taşımaktadır? (%6)
+
+         6. Öngörülen proje çıktıları tekniğin bilinen durumunu ne ölçüde aşmaktadır?
+             (%6)
+
+         7. Öngörülen proje çıktıları ne ölçüde ticarileşme potansiyeline sahiptir? (%15)
+         8. Öngörülen proje çıktılarının ne ölçüde halen ithal edilen bir teknolojik ürünün
+
+             yerine geçmesi ve/veya teknolojik ihracat potansiyeli taşıması beklenmektedir?
+             (%15)
+         9. Öngörülen proje çıktıları kendi alanındaki ürün kalitesini veya standardını ne
+             ölçüde geliştirmesi beklenmektedir? (%5)
+         10. Öngörülen proje çıktıları süreç/faktör verimliliğini ne ölçüde artırabilecektir?
+             (%5)
+         11. Öngörülen proje çıktıları ilgili sektörde ve/veya kullanıcı sektörlerde (B2B)
+             /hanelerde (B2C) üretim, işletim ve/veya kullanım maliyetlerini ne ölçüde
+             iyileştirmesi beklenir? (%6)
+         12. Öngörülen proje ne ölçüde teknolojik bilgi ve know-how yaratabilir? (%10)
+         13. Öngörülen proje çıktıları ne ölçüde ve nasıl katma değer yaratacak veya
+             yaratılmasına katkıda bulunacaktır? (%6)
+         14. Öngörülen proje işleyişinde ne ölçüde etkin bir üniversite-sanayi işbirliği
+             gerçekleştirilmesi beklenmektedir? (%10)
+         15. Proje kapsamında önerilen proje ekibi gerekli uzmanlık bilgisine sahip midir.
+             (%6)
+
+• Değerlendirmenin sonunda her bir hakemden değerlendirilen projenin 1773 İTÜ
+    Teknopark bünyesinde yürütülmesi ile ilgili nihayi kanaatini serbet metin olarak yazılı
+    bildirmesi ve açıklaması istenir.
+         16. Sonuç olarak, sunulan projenin “AR‐GE/Yazılım/Tasarım Projesi” olarak
+             yürütmesinin uygun olup olmadığına ilişkin nihayi kanaatinizi gerekçeleri ile
+             belirtiniz.
+
+                                                   26
+3.1.3. Karar Adımı
+
+• PDK sonucunda temel sorularda ağırlıklı olarak “Hayır” değerlendirmesi almış proje
+    sahipleriyle görüşülerek projenin bu yönde revize edilmesi değerlendirilir.
+
+• PDK sonucunda değerlendirme sorularında aldığı puan daha önce 1773 İTÜ
+    Teknopark'ta yer almayan girişimci ve firmaların projeleri için 70/100 ve üzeri olduğu
+    takdirde, ilgili proje teknoparka kabul için İTÜ Teknopark A.Ş. Yönetim Kurulu'na
+    sunulur. Yönetim Kurulu'nda projeye ilişkin PDK’dan çıkan sonuç puanı ve PDK Raporu
+    ile birlikte incelenerek başvurunun kabul edilip edilmeyeceği karara bağlanır. İTÜ
+    Teknopark A.Ş. Yönetim Kurulunda görüşülen proje oy çokluğu ilkesiyle kabul edilir, ya
+    da reddedilir.
+
+• Teknoparkta halihazırda yer tahsisi bulunan girişimcilerin ve firmaların yeni proje
+    başvurularında ise PDK’dan 70/100 ve üzeri puan aldığı takdirde proje kabul edilir. Yeni
+    yer tahsisi yapılmadığından proje Yönetim Kurulu'nda görüşülmeden, İTÜ Teknopark
+    A.Ş.’nin ilgili yönetim birimlerince karara bağlanır.
+
+• Ayrıca bir kamu ve/veya uluslararası Ar-Ge veya tasarım destek programları
+    kapsamında halihazırda desteklenen projeler Değerlendirme Kurulu'na gönderilmez ve
+    yer tahsisi için yeterli kabul edilir.
+
+3.1.4. Kabul Adımı
+
+• İncelemesi tamamlanan, projesi uygun görülen ve daha önceden yer tahsisi yapılmamış
+    veya ek alan talebi bulunan girişimcilere ve firmalara, 1773 İTÜ Teknopark'ta yeterli
+    miktarda halen tahsis edilmemiş kiralanabilir alan olduğu takdirde yönetmelik uyarınca
+    yer tahsisi teklif edilir. Teklif sırası için değerlendirme adımında projelerin aldıkları
+    nihayi ortalama puan önceliğine göre öncelik verilir. Daha yüksek puan almış projelere
+    daha önce yer teklifi yapılır.
+
+• Yer tahsisinde firma çalışanları başına makul bir alan düşmesine dikkat edilir. T.C.
+    Sanayi ve Teknoloji Bakanlığı Ar-Ge Teşvikleri Genel Müdürlüğü, firmaların personel
+    başına düşen asgari ofis alanını belirleme yetkisine sahiptir.
+
+• Kendilerine İTÜ Teknopark A.Ş. tarafından yer tahsisi teklif edilen firmalar sunulan yeri
+    uygun bulurlarsa ilgili Kira Sözleşmesi’ni karşılıklı imzalayarak 1773 İTÜ Teknopark’a
+    kabul edilir.
+
+• 1773 İTÜ Teknopark’ta yeterli miktarda halen tahsis edilmemiş kiralanabilir alan
+    olmaması durumunda değerlendirilmiş ve kabul kararı alınmış başvurular, yer
+    açıldığında, değerlendirme aşamasında aldıkları puanın önceliğine göre tahsis yapılmak
+    üzere bekleme listesine kaydedilir ve başvuru sahibine bilgi verilir.
+
+3.1.5. Takip Adımı
+
+• Kabul edilen girişimcilerin ve firmaların yürüttükleri Ar-Ge ve tasarım projelerin seyri,
+    İTÜ Teknopark A.Ş. ekibi tarafından proje boyunca izlenir ve projenin sağlıklı bir şekilde
+    yürümesi ve sonuçlanması için ihtiyaç tespit edilen noktalarda TTO ve ilgili diğer
+    ekiplerin katkısıyla destek hizmetleri sunulur.
+
+• 1773 İTÜ Teknopark'ta yer alan girişimcilerin ve firmaların yürüttükleri Ar-Ge veya
+    tasarım projelerine ilişkin revizyon (ek süre, ek ekip, TGB dışında geçirilecek süre, KDV
+    muafiyeti, gümrük vergisi muafiyeti) ve proje bitirme belgesi taleplerini ilgili projenin
+    bitiş tarihinden en az 30 gün önce yaparlar. İlgili talebin portal üzerinden eksiksiz ve
+
+                                                   27
+         zamanında gerçekleştirilerek proje revizyon belgesinin değerlendirmeye tam ve
+         vaktinde sunulmasına dikkat edilmelidir.
+    • Revizyon talepleri, Değerlendirme Kurulu tarafından Yönetmelik’te belirtilen kriterlere
+         göre incelenir ve karara bağlanır.
+
+    3.1.6. Sonuçlandırma Adımı
+
+    • Süresi sonunda projesi tamamlanan proje sahibi girişimci veya firma İTÜ Teknopark
+         A.Ş. ile imza edilen kira sözleşmesini sona erdirerek ayrılır.
+
+    • Süresini uzatmak ve İTÜ Teknopark'ta yer almaya devam etmek isteyen girişimciler ve
+         firmalar yürüttükleri Ar-Ge veya tasarım projeleri sonlanmadan en az 30 gün önce
+         sunacakları yeni proje başvurularını portal üzerinden eksiksiz bir şekilde yapıp, İTÜ
+         Teknopark A.Ş.’nin değerlendirmesine sunmakla yükümlüdür.
+
+    • İTÜ Teknopark A.Ş., girişimcilere ve firmalara yer tahsisinin yenilenmesi işlemini
+         yönetmelikteki ilgili maddesi kapsamında yapılmasını sağlar. Tahsisin yenilenmesine
+         imkan olmayan hallerde kira sözleşmesi sona erdirilerek firma İTÜ Teknopark'tan
+         ayrılır.
+
+    • Girişimci ve/veya firmanın 1773 İTÜ Teknopark’tan ihracına ilişkin haller ve ilgili süreç
+         bu yönergede açıklanmıştır.
+
+3.2. Teknolojik Ürün Proje Süreci
+
+    • İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark’ta teknolojik ürünün üretilmesine izin veren
+         3/6/2011 tarihli ve 635 sayılı T.C. Sanayi ve Teknoloji Bakanlığı’nın Teşkilat ve Görevleri
+         Hakkında Kanun Hükmünde Kararnamenin 8 inci maddesi kapsamında üretim yapmak
+         isteyen işletmelere Kanun, Yönetmelik ve bu Yönergeye uygun olarak yer tahsisinin
+         yapılması ile yetkili ve yükümlüdür.
+
+    3.2.1. Teknolojik Ürünün Yatırımı
+
+    • Girişimciler, firmalar, 1773 İTÜ Teknopark’ta başlatıp sonuçlandırdıkları Ar-Ge veya
+         tasarım projeleri sonucu elde ettikleri teknolojik ürünün üretilmesi için gerekli olan
+         yatırımı, İTÜ Teknopark A.Ş.’nin uygun bulması ve Bakanlığın izin vermesi şartıyla,
+         herhangi bir TGB içerisinde yapabilirler.
+
+    • Söz konusu yatırıma konu olan teknolojik ürünün üretim izin belgeleri, ilgili kurum ve
+         kuruluş tarafından Bakanlık görüşü alınarak, öncelikle verilir. Bu yatırımlara ilişkin
+         faaliyetler, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu gereğince tutulması zorunlu
+         defterlerde, yatırım yapan işletmelerin 1773 İTÜ Teknopark’ta yürüttükleri Ar-Ge veya
+         tasarım faaliyetlerinden ayrı olarak izlenir.
+
+    3.2.2. Başvuru Adımı
+
+    • Başvuru sahibi, teknolojik ürün yatırım başvurusu için Yönetmelikteki ilgili madde
+         doğrultusunda Teknolojik Ürün Tanımlama Belgesini oluşturur ve yatırım alanı,
+         makine teçhizat bilgisi, yatırım maliyet tutarı, üretim teknolojisi, süreci, sürecin ve
+         ürünün neden olabileceği çevre kirliliği ile çevre ve insan sağlığını korumak için alınacak
+         tedbirleri, personel ihtiyacı, işletme maliyeti, pazar araştırması, arıtma tesisi konusu ve
+                                                       28
+    benzeri başlıkları içeren yatırıma yönelik hazırlanmış Yatırım Fizibilite Raporu ile
+    birlikte yazılı olarak İTÜ Teknopark A.Ş.’ye müracaat eder. Başvuru sahibi bu belgede;
+    elde ettiği ürünün Ar-Ge faaliyet tanımını, sürecini, kullanım ve tasarım amacını, teknik
+    özelliklerini detaylı bir şekilde ifade eder.
+
+• Girişimciler ve/veya firmalar, 1773 İTÜ Teknopark’ta başlatıp sonuçlandırdıkları Ar-Ge
+    veya tasarım projeleri sonucu elde ettikleri teknolojik ürünün üretilmesi için gerekli
+    olan yatırım başvurusunu portal üzerinden de yapıp, İTÜ Teknopark A.Ş. tarafından
+    belirlenmiş bir ücrete tabi ise ilgili banka hesap numarasına yatırdıktan sonra
+    Teknolojik Ürün Tanımlama Belgesini ve Yatırım Fizibilite Raporunu İTÜ Teknopark
+    A.Ş.’nin değerlendirmesine sunmakla yükümlüdür.
+
+3.2.3. Değerlendirme Adımı
+
+Teknolojik Ürün Tanımlama Belgesi ve Yatırım Fizibilite Raporu’nun İTÜ Teknopark
+A.Ş.’ye teslimini takiben, üçü öğretim elemanı ve yine ikisi sektör uzmanı olmak üzere, en
+az beş kişilik, Teknolojik Ürün Değerlendirme Kurulu İTÜ Teknopark A.Ş. tarafından
+oluşturulur ve bir ay içerisinde bu Kurul tarafından teknolojik ürün olup olmadığına ve 1773
+İTÜ Teknopark içerisinde yatırımının uygunluğuna yönelik gerekli inceleme ve
+değerlendirme yapılır.
+
+3.3.4. Karar Adımı
+
+• Kurul yaptığı incelemede ürünü;
+
+         1. Bilimsel bir bilgiyi kullanmak veya geliştirmek suretiyle tasarlanıp
+             tasarlanmadığı,
+
+         2. Var olan bir ihtiyacı daha iyi düzeyde karşılayıp karşılamadığı,
+
+         3. Ürünün ihracat veya ithal ikamesi potansiyelinin olup olmadığı,
+
+         4. Yaşam standardının yükselmesine katkıda bulunup bulunmayacağı,
+
+         5. Sahip olduğu teknik özelliklerin ve/veya farklılıklarının teknolojik düzeydeki
+             yenilikçiliği temsil edip etmediği,
+
+         6. Ürün malzemelerinin, parçalarının ve yerine getirdiği işlev/işlevlerin birbiriyle
+             uyum gösterip göstermediği,
+
+         7. Ürünün tasarım özelliklerinin geliştirmeye açık olup olmadığı,
+
+         8. Ürünün piyasa standartlarına ve ilgili yönetmeliklere uygun olarak test edilip
+             edilmediği,
+
+         9. Üretim ve üretim sürecinin çevreye olumsuz etkisi olup olmayacağı
+             hususlarında değerlendirir.
+
+• İncelemesi tamamlanan ve Teknolojik ürünün yatırımı uygun görülen projelere İTÜ
+    Teknopark A.Ş. tarafından Teknolojik Ürün Belgesi verilir.
+
+• 1773 İTÜ Teknopark’ta Teknolojik ürünün yatırımında bulunmak üzere yer almak
+    isteyen girişimciler ve/veya firmalar ile ilgili olarak Teknolojik Ürün Değerlendirme
+    Kurulundan alınan değerlendirme raporları Yönetim Kurulunda değerlendirilerek
+
+                                                   29
+         girişimcinin ve/veya firmaların başvurusunun kabul edilip edilmeyeceği karara
+         bağlanır.
+    • Değerlendirmenin olumlu bulunması durumunda, İTÜ Teknopark A.Ş.’nin uygun
+         görüşü ile birlikte, Teknolojik Ürün Değerlendirme Kurul Raporu, teknolojik ürün
+         yatırımının yapılacağı binanın da gösterildiği 1773 İTÜ Teknopark alanının tümünü
+         kapsayan vaziyet planı ile aynı binaya ilişkin uygulama projeleri İTÜ Teknopark A.Ş.
+         tarafından yatırım izni için Bakanlığa iletilir.
+    • Bakanlık, Kanun ve bu Yönetmelik çerçevesinde yatırım talebini inceler ve uygun
+         bulması durumunda İTÜ Teknopark A.Ş.’ye bildirir. Bu bildirimi takiben, üretim yapmak
+         isteyen işletmelere Kanun, - Yönetmelik ve bu yönergeye uygun olarak İTÜ Teknopark
+         A.Ş. tarafından yer tahsisi yapılır.
+    • İlgili kurum ve kuruluşlardan alınacak gerekli üretim izin belgeleri İTÜ Teknopark A.Ş.
+         aracılığı ile Genel Müdürlüğe iletilir.
+    • Teknolojik ürün yatırımı için gerekli olan bina ve tesis yapılaşma miktarı 1773 İTÜ
+         Teknopark’ın toplam yapılaşma hakkının %5’inden fazla olamaz.
+    • Teknolojik ürünün yatırım talebinin Teknolojik Ürün Değerlendirme Kurulu tarafından
+         olumsuz bulunması halinde sonuç başvuru sahibine yazılı olarak bildirilir.
+
+3.3. Gizlilik
+    • 1773 İTÜ Teknopark'ta yürütülmek üzere başvurusu yapılan her bir Ar-Ge, tasarım veya
+         teknolojik ürün projeleri tüm ilgililer tarafından projenin korunmasına ilişkin gizlilik
+         şartlarına azami dikkat gösterilerek işlenir.
+
+    • Kişisel Veri Korumasına ilişkin mevzuata göre hazırlanmış İTÜ Teknopark A.Ş.
+         politikaları, İTÜ Teknopark A.Ş. Internet sitesinde buna ilişkin oluşturulmuş bölümde
+         kamuoyuna ilan edilir.
+
+4. 1773 İTÜ TEKNOPARK FAALİYET KURALLARI
+
+4.1. Belge ve Bilgilerin Doğruluğu
+    • Girişimci ve/veya firma, T.C. Hazine ve Maliye Bakanlığı’na ve T.C. Sanayi ve Teknoloji
+         Bakanlığı’na sunulmak amacıyla İTÜ Teknopark’in onayına sunduğu bilgi ve belgeleri
+         doğru ve eksiksiz olarak hazırlayıp vermekle yükümlüdür.
+    • Girişimci ve/veya firma, kanunda belirtilen amaca uygun olarak faaliyet göstermek ve
+         yürüttüğü faaliyetlere yönelik İTÜ Teknopark A.Ş. tarafından talep edilen her türlü veri,
+         istatistik ve belgeyi doğru, eksiksiz ve zamanında sunmakla ve bu yönde gerekli
+         denetimlerin yapılmasına izin vermekle yükümlüdür. İTÜ Teknopark A.Ş. ve 1773 İTÜ
+         Teknopark’ta yer alan girişimci ve firmaların başvurularına ait bilgi ve belgelerde
+         tutarsızlık veya Kanun ve bu Yönetmeliğe göre uygunsuzluk tespit edilmesi halinde, bu
+         durumdan başvuru sahibi işletme ile birlikte sorumludur.
+
+                                                       30
+    • Girişimci ve/veya firma, İTÜ Teknopark A.Ş. tarafından talep edilen bilgileri İTÜ
+         Teknopark’in belirlediği süre ve biçimde teslim etmelidir.
+
+    • Yasal yükümlülüklere, Kira Sözleşmesine ve işbu Yönergeye uymayan Girişimciler
+         ve/veya firmalar uyarılacak ve en kısa sürede uygunsuzluk ortadan kaldırılacaktır. Yazılı
+         ihtar ve verilen süre içerisinde eksikliğin düzeltilmemesi veya ihtardan sonra aynı
+         hatanın tekrarlanması halinde Girişimci ve/veya firma 1773 İTÜ Teknopark’tan
+         çıkarılabilecektir.
+
+    • Girişimci ve/veya firma, T.C. Hazine ve Maliye Bakanlığı’na ve T.C. Sanayi ve Teknoloji
+         Bakanlığı’na sunulmak amacıyla İTÜ Teknopark’ın onayına sunduğu bilgi ve belgeleri
+         doğru ve eksiksiz olarak hazırlayıp vermekle yükümlüdür. İTÜ Teknopark A.Ş. ve 1773
+         İTÜ Teknopark’ta yer alan işletmelerin başvurularına ait bilgi ve belgelerde tutarsızlık
+         veya Kanun ve bu Yönetmeliğe göre uygunsuzluk tespit edilmesi halinde, bu durumdan
+         başvuru sahibi işletme ile birlikte İTÜ Teknopark A.Ş. de sorumludur.
+
+    • Girişimci ve/veya firma, 1773 İTÜ Teknopark’ın tabi olduğu kanun, yönetmelik, tebliğ,
+         genelge ve benzeri tüm yasal düzenlemelere uymakla yükümlüdür. Ayrıca Girişimci
+         ve/veya firma, imzalayacağı Kiralama Sözleşmesi’nde yer alan hüküm ve
+         düzenlemelere uymakla yükümlüdür.
+
+    • Girişimci ve/veya firma, kanunda belirtilen amaca uygun olarak faaliyet göstermek ve
+         yürüttüğü faaliyetlere yönelik İTÜ Teknopark A.Ş. tarafından talep edilen her türlü veri,
+         istatistik ve belgeyi doğru, eksiksiz ve zamanında sunmakla ve bu yönde gerekli
+         denetimlerin yapılmasına izin vermekle yükümlüdür. Girişimci ve/veya firma, İTÜ
+         Teknopark A.Ş. tarafından talep edilen bilgileri İTÜ Teknopark’in belirlediği süre ve
+         biçimde teslim edecektir.
+
+    • Yasal yükümlülüklere, Kira Sözleşmesine ve işbu Yönergeye uymayan Girişimciler
+         ve/veya firmalar uyarılacak ve en kısa sürede uygunsuzluk ortadan kaldırılacaktır. Yazılı
+         ihtar ve verilen süre içerisinde eksikliğin düzeltilmemesi veya ihtardan sonra aynı
+         hatanın tekrarlanması halinde Girişimci ve/veya firma 1773 İTÜ Teknopark’tan
+         çıkarılabilecektir.
+
+4.2. Faaliyet Öncesi
+
+    • Girişimcinin ve/veya firmanın, Yönetmeliğin 6. Bölümde belirtilen muafiyet, indirim ve
+         istisnalardan faydalanabilmesi için İTÜ Teknopark A.Ş.’den aldığı faaliyet onay
+         belgesiyle Vergi Dairesine ve SGK’ ya başvuruda bulunması gerekmektedir. Girişimcinin
+         ve/veya firmanın bu onay belgesini alabilmesi için, portal üzerinden bilgi ve belgeleri
+         eksiksiz olarak doldurup 1773 İTÜ Teknopark’ta çalışmaya başladığı andan itibaren en
+         geç 10 gün içerisinde İTÜ Teknopark A.Ş.’ye sunması gerekmektedir.
+
+    • Girişimci ve/veya firma, 'Firma Ana Sözleşmesi'nin (Ticaret Sicil Gazetesi’nde
+         yayımlanan veya noter onaylı olarak) son halini İTÜ Teknopark A.Ş.’ye teslim ederek,
+         kuruluş amaç ve konularının 1773 İTÜ Teknopark’ta yer alması için uygunluğunu
+         onaylatacaktır. Firma Ana Sözleşmesi’nde yapılan değişiklikler, değişikliği takip eden ilk
+         10 gün içerisinde İTÜ Teknopark A.Ş.’ye bildirilecektir.
+
+    • Girişimci ve/veya firma, İTÜ Teknopark A.Ş.'nin gerek mail ortamında gerek yazılı
+         gerekse ilanen talep ettiği tüm belgeleri hazırlayıp vermekle yükümlüdür. Bu konuda
+
+                                                       31
+         firmanın eksikliklerinden doğan herhangi bir ceza zarar vb. husus konusunda İTÜ
+         Teknopark A.Ş. sorumlu değildir.
+
+    • Girişimci ve/veya firma, İTÜ Teknopark A.Ş.’nin tabi olduğu kanun, yönetmelik,
+         yönerge, tebliğ, genelge ve benzeri tüm yasal düzenlemelere uymakla yükümlüdür.
+         Ayrıca Girişimci ve/veya firma, imzalayacağı Teknopark Kiralama Sözleşmesi’nde ve
+         İşletme Yönergesinde yer alan hüküm ve düzenlemelere uymakla yükümlüdür.
+         Girişimci ve/veya firma, İTÜ Teknopark A.Ş.’nin gerek İşletme Yönergesinde gerekse
+         Kira Sözleşmesinde günün şartlarına göre yaptığı yapacağı değişikliklere de uymakla
+         yükümlüdür.
+
+    • Girişimci ve/veya firma, yürürlükte olan tüm kural ve ikazlara uymakla yükümlüdür.
+         Uymadığı bütün kural ve ikazların sonucunda oluşabilecek tüm zarar ve ziyandan
+         girişimci ve/veya firma sorumludur ve bu zarar ve ziyanı ödemekle yükümlüdür.
+
+    • Girişimciler ve/veya firmalar, Teknopark sınırları içerisinde faaliyette bulundukları
+         yerler ve işlerle ilgili olarak İş kanunları ve 6331 sayılı iş sağlığı ve güvenliği kanunu, bu
+         kanuna bağlı tebliğ ve yönetmelikler hükmü ile iş sağlığı ve güvenliği ile ilgili
+         yönetmelikler hükmünce gerekli tedbirleri almak, çalışan sayısına göre ilgili Kanunlarda
+         gösterilen sürelerde, İş Güvenliği uzmanı ve iş yeri hekimi ile diğer sağlık personeli
+         bulundurmakla veya bir ortak sağlık güvenlik biriminden hizmet almakla
+         yükümlüdürler. Girişimci ve/veya firma, iş sağlığı ve güvenliği ile ilgili nasıl hizmet
+         aldığını, yaptırdığı risk analizlerini gösterir belgelerin bir örneğini İTÜ Teknopark A.Ş.’ye
+         vermekle yükümlüdür. Risk analizlerini İTÜ Teknopark A.Ş. ile paylaşmayan girişimci
+         ve/veya firmalar hakkında yasal işlem yapılacaktır. Girişimci ve/veya firma,
+         çalışanlarının iş güvenliği eğitimlerinden sorumludur.
+
+    • Girişimci ve/veya firma, uymadığı herhangi bir kanun, kural ve yönetmelik yüzünden
+         uğrayacağı maddi tazminatlar, manevi tazminatlar, SGK’nın rücu tazminatları, Borçlar
+         kanunundan oluşan tazminatlar ve 3. Şahıs zararlarından oluşan tazminatlardan, İTÜ
+         Teknopark A.Ş. sorumlu değildir.
+
+    • Girişimciler ve/veya firmalar, Teknopark sınırları içerisinde faaliyette bulundukları işler
+         ve işyerleri ile ilgili olarak, ilgili kanun ve yönetmelikler hükmünce gerekli güvenlik
+         önlemlerini önceden almakla ve toplu korunma yöntemlerine öncelik vermekle
+         yükümlüdür. Girdi ve çıktı (atıklar) sayılabilecek maddelerin güvenliğiyle ve uygun
+         şekilde bertaraf edilmesiyle ilgili gerekli çalışmaları yaptırmakla ve belgelerini İTÜ
+         Teknopark A.Ş.’yle paylaşmakla yükümlüdür. Girişimci ve/veya firma, önlemler alınsa
+         bile, bu işlemler sonucunda ortaya çıkabilecek tüm hasar ve zararı ödemekle
+         sorumludurlar.
+
+4.3. Faaliyet Başlangıcı
+
+    • Girişimci ve/veya firma, TIR ve kamyon gibi aşırı yüklü araçların 1773 İTÜ Teknopark’a
+         sokulması gerektiği durumlarda İTÜ Teknopark A.Ş.’nin iznini almak zorundadır.
+         Mağduriyet yaşanmaması açısından hafta sonları yapılacak taşınma ve tadilat
+         işlemlerinde önceden bilgi verilip izin alınması zorunludur. Bilgilendirmeler ve izinler
+         yazılı ya da e-posta ile olmalıdır.
+
+    • Girişimci ve/veya firma, 1773 İTÜ Teknopark kurallarına, ortak mekân ve araçların
+         kullanım esaslarına uyacaktır.
+
+                                                       32
+• Ofis alanının iç tadilat ve dekorasyonu firmaya aittir.
+
+• Kiracı, kiraladığı alanda binanın ana taşıyıcı yapısına, elektrik, mekanik ve güvenlik
+    altyapısına zarar vermemek şartıyla inşaat ile ilgili bir değişiklik yapmak isterse,
+    değişiklikleri gösteren mimari, elektrik ve mekanik projelerini hazırlar ve İTÜ Teknopark
+    A.Ş. onayına sunar. Kiracı yapmak istediği tadilat ve dekorasyon ile ilgili olarak İTÜ
+    Teknopark A.Ş. tarafından kendisine bildirilen kullanılması zorunlu veya kullanılması
+    yasak malzemeler listesine kesinlikle uyacaktır.
+
+• Çalıştırılacak personel çalışma alanına çıkmadan tüm bilgileri İTÜ Teknopark A.Ş. ile
+    paylaşılmalıdır. Hafta sonlarına denk gelecek çalışmalar için en geç Cuma günü mesai
+    bitimine kadar izin alma süreci tamamlanmış olmalıdır. Bu sürecin takibinden girişimci
+    ve/veya firma sorumludur.
+
+• Girişimci ve/veya firma kiraladığı alandan çıkarken ofis alanını İTÜ Teknopark A.Ş. talep
+    ederse eski haline getirme yükümlülüğünü peşinen kabul eder.
+
+• Sözleşme süresi dolmuş ve/veya taşınmak isteyen girişimci ve/veya firmalar; Yönetim
+    adına Yetkili kişilere ofisi teslim etmek zorundadır. Teslim alma şartları, Teslim edilirken
+    sunulan demirbaşlar ve teknik şartnameye uygun altyapı ve üst yapı kalemlerinin aynı
+    şekilde teslim alınmasını kapsar.
+
+• Girişimci ve/veya firma dekorasyon ve diğer konularda çalışmakta olduğu kişilerin,
+    taşeron olarak çalışanların; isim listelerini ve çalışma süresini İTÜ Teknopark A.Ş.’ye işe
+    başlamadan önce bildirmeleri gerekir. Aksi halde isimleri bildirilmeyen kişilerin 1773
+    İTÜ Teknopark’a girişlerine ve burada çalışma yapmalarına izin verilmez.
+
+4.3.1. Tadilat ve Dekorasyon
+
+• Tadilat ve dekorasyon çalışmaları sırasında kullanılacak elektrik bağlantı noktaları ve
+    bağlantılar yönetim tarafından kontrol edilecektir. Topraklama hattı bağlanmayan,
+    kaçak akım rölesi çalışır vaziyette olmayan panolar kabul edilmez. Bağlantıların uygun
+    bulunmaması durumunda, problem düzeltilene kadar ilgili bağımsız bölüm enerjisi
+    kesilebilir.
+
+• Çalışmalar Yönetiminin belirleyeceği gün ve saatlerde yürütülür. Aksi bir durum
+    olmadığı sürece çalışma saatleri hafta içi mesai saatleri dışında saat 18:00 ile 08:00
+    saatleri içerisinde; hafta sonu cumartesi 13.00 ‘den sonra, Pazar günü ise tam gün
+    yapılır.
+
+• Gürültülü ve darbeli cihazların çalıştırılma saatleri 18:00 ile 08:00 arasıdır.
+
+• Yapım sırasında tadilat ve dekorasyon malzemeleri, tadilat ve dekorasyon atıkları,
+    hafriyat ve benzeri maddeler yollara, ortak alanlara veya bitişik mahallere konulamaz
+    ve dökülemez. Bu maddeler çuvallanarak 1773 İTÜ Teknopark dışına taşınır, taşınma
+    esnasında sadece izin verilen asansör kullanılabilir, diğer asansörler kesinlikle
+    kullanılamaz.
+
+• Tadilat sırasında oluşacak yığınların herhangi bir nedenle çevreye yayılmasını önlemek
+    amacı ile gereken tedbirler, girişimci ve/veya firma tarafından alınır.
+
+• Tadilat ve dekorasyon sebebi ile çevre ve ortak alanlar dolaylı ve doğrudan kirletildiği
+    takdirde girişimci ve/veya firma bunları temizlemekle yükümlüdür. Gecikmesi
+
+                                                   33
+         durumunda girişimci ve/veya firma adına belirlenen alan temizlettirilir ve bedeli ilgili
+         kiracı firmadan tahsil edilir.
+
+    • Çalışma saatleri bitiminde binada çalışan işçilerin binayı terk etmeleri zorunludur.
+         Konaklamak yasaktır. 18:00 ile 08:00 saatleri arasında çalışmak üzere gelen işçiler
+         binayı konaklama amaçlı kullanamazlar, aksi takdirde binayı terk etmeleri istenir.
+
+    • Tadilat ve dekorasyon çalışmalarında Kiracı tarafından mahallin çalışma güvenliği
+         mutlaka alınacaktır. Alınacak tedbirler (6331 sayılı İş Sağlığı ve Güvenliği kanun ve
+         yönetmeliklerine uygun olarak) İTÜ Teknopark A.Ş.’nin belirlediği standartta olacaktır.
+         Aksi durumlarda İTÜ Teknopark A.Ş. tarafından standarda uymayan tedbirler alınarak
+         çalışma yapılmasına müsaade edilmez ve çalışmalar durdurulur.
+
+    • Bina güvenliğini sağlayan sistemler Yönetim’e bildirilmeden yerinden sökülemez,
+         açılamaz, yeri değiştirilemez. (örn. Yangın algılama sensörleri, güvenlik kameraları vb.)
+
+    • Güvenlik Elemanlarının, Teknik Kontrollerin ve İSG Uzmanın uyarılarına aynen uyulur.
+
+    • Çalışma sırasında ortak alanlara ve komşu mahallere verilecek zararlar, ilgili kiracı firma
+         tarafından karşılanır.
+
+    • Mevcut merkezi sistem aynen korunur.(ısıtma-soğutma sistemleri, yangın sistemleri)
+
+    • Bağımsız bölümlerinde çalışanlar ile onlarla ilgili kişilerin bina ortak alanlarında
+         meydana getirdikleri zararları ve hasarı kiracı üstlenir ve derhal ödemeyi yapar. (Kat
+         Mülkiyeti Yasası Madde:19)
+
+    • İş bu Prosedürlere uyulmadığı takdirde yönetim talimatında belirlenen cezai
+         yaptırımlar uygulanır.
+
+4.4. Faaliyetlerin Yürütülmesi
+
+    4.4.1. Genel Faaliyet Kuralları
+
+    • Girişimci ve/veya firmalar, 1773 İTÜ Teknopark’taki faaliyetlerinde 4691 Sayılı
+         Teknoloji Geliştirme Bölgeleri Kanunu, yönetmelik ve ilgili tüm ikincil düzenlemelere
+         uygun hareket etmek zorundadır.
+
+    • Girişimci ve/veya firmalar, faaliyetleri sırasında, İTÜ Teknopark A.Ş.’nin koyduğu
+         kurallara ve yönetmeliklere uygun hareket etmek zorundadır.
+
+    • Girişimci ve/veya firma, kiralanan alanda/binada İTÜ Teknopark A.Ş.’nin izni olmadan
+         hiçbir değişiklik yapmayacak, kendine ayrılan alan dışındaki yerleri işgal etmeyecek, İTÜ
+         Teknopark A.Ş. tarafından bu amaçla tahsis edilmiş kiralanabilir alan dışında depolama
+         yapmayacaktır. Buna uymaması halinde işgal ettiği alanın boşaltılması veya işgal
+         konusu malzemenin kaybolmasından İTÜ Teknopark A.Ş. sorumlu tutulamaz.
+
+    • Girişimci ve/veya firma, evsel katı atıklarını İTÜ Teknopark A.Ş.’nin bildireceği
+         zamanlarda, İTÜ Teknopark A.Ş.’nin bildirdiği yerlerde mevcut bulunan çöp toplama
+         istasyonlarında kendileri biriktirmekle yükümlüdür. Ortak alanların temizliğinden
+         sorumlu genel temizlik personelinin bu atıkları atık kutusuna atmasını talep edemez ve
+         atması için ofis kapısına bırakamaz. Ofis kapısına bırakılan atıkların belli bir süre
+         depolanması sonucu oluşturduğu sağlıksız ortam nedeniyle Girişimci ve/veya firma,
+         İTÜ Teknopark A.Ş.’nin uyarısına gerek kalmaksızın atık toplama yerlerine bırakmakla
+
+                                                       34
+    yükümlüdür. İTÜ Teknopark A.Ş. tarafından konulması durumunda, geri
+    dönüştürülebilir atık toplama kutularına amacına uygun içi sıvı içermeyecek ve koku
+    yapmayacak atıklar atılabilir. Bu kutuların dış tarafına hiçbir şekilde atık vb. maddeler
+    konulmayacaktır.
+
+• Girişimci ve/veya firma, faaliyetlerinden kaynaklanan tehlikeli atıkları 'Tehlikeli
+    Atıkların Kontrolü Yönetmeliği'ne uygun olarak İTÜ Teknopark A.Ş.’nin denetiminde
+    bertaraf etmekle yükümlüdür. Girişimci, İTÜ Teknopark’ta bu tür atıklarından
+    kaynaklanan her türlü zarardan İTÜ Teknopark A.Ş.’e ve üçüncü kişilere karşı şahsen
+    sorumludur. Konu ile ilgili gelebilecek tüm zarar ve ziyan hastalık davalarından birinci
+    derece sorumlu olduğunu kabul eder ve bu konuda zarara uğrayan tüm mağdurların
+    zararını ödemekle yükümlüdür.
+
+• Girişimci ve/veya firma, güvenlikle ilgili yapılacak olan kontrol, arama veya denetleme
+    çalışmalarına, kendi işi ile ilgili gizlilik gözetilmek kaydıyla yardımcı olmakla
+    yükümlüdür. Girişimci ve/veya firma güvenlik konularına azami derecede dikkat
+    etmekle ve güvenlik personelinin uyarı ve ikazlarını dikkate almakla yükümlüdür.
+
+• Girişimci ve/veya firma kendisine tahsis edilmiş alanlardaki tüm güvenlik önlemlerini
+    alacaktır. İTÜ Teknopark A.Ş. tarafından önerilen ek güvenlik sistemlerine de uymakla
+    yükümlüdür. Uyulmayan uyarılardan doğan Güvenlik açığından dolayı oluşabilecek
+    herhangi bir zarar ve ziyandan İTÜ Teknopark A.Ş. mesul tutulamaz.
+
+• Girişimci ve/veya firma kendi kullanım alanının güvenliği ve temizliğinin yanı sıra kendi
+    malzeme ve teçhizatının sigortalanmasından yükümlü olacaktır. Bulunduğu alanın ve
+    malzemelerin sigorta evraklarını İTÜ Teknopark A.Ş.’ye vermekle yükümlüdür.
+
+• Kiracı, İTÜ Teknopark A.Ş.’nin tabi olduğu yasa, yönetmelik, tüzük, tebliğ, genelge ve
+    benzeri tüm yasal düzenlemelere uymakla yükümlüdür.
+
+• Kiracılar yasada belirtilen amaca uygun olarak faaliyet ve yürüttüğü faaliyetlere yönelik
+    İTÜ Teknopark A.Ş., Bakanlık ve ilgili diğer kamu, kurum ve kuruluşları tarafından talep
+    edilen her türlü veri, istatistik ve belgeyi doğru, eksiksiz ve zamanında sunmakla ve bu
+    yönde gerekli denetimlerin yapılmasına izin vermekte yükümlüdürler.
+
+• Yasal yükümlülüklere uymayan firmalar uyarılacak, hatanın/eksikliğin düzeltilmemesi
+    veya tekrar edilmesi veya devamında ısrar edilmesi durumunda firmanın ihracına
+    yönelik işlemler başlatılacaktır.
+
+• Kiracılar, İTÜ Teknopark A.Ş. tarafından uygun görülecek her türlü bağımsız denetim
+    kuruluşlarınca yapılacak denetimlere izin verecekler ve bedellerini ödeyeceklerdir. (
+    6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile ilgili uygulama yönetmeliklerine tam olarak
+    uyacaklardır.)
+
+• Kiracılar, iş sağlığı ve güvenliği kapsamında, kiralanan ofis alanında tüm güvenlik
+    önlemlerin alınmasından ve istihdam ettiği personelin konuyla ilgili eğitimleri alarak,
+    bunlara uygun davranmasından sorumludur.
+
+• Kiracılar, bu yönergedeki koşullara ek olarak İTÜ Teknopark A.Ş. ile yaptıkları kira
+    sözleşmesinde belirtilen yükümlülüklerini de yerine getirmek zorundadır.
+
+• Kiracılar, faaliyet başlangıcında aşağıda belirtilen belge ve bilgileri İTÜ Teknopark
+    A.Ş.’ye iletecek ve değişiklik ihtiyacı gerektikçe güncelleyecektir.
+
+                                                   35
+• İş güvenliği uzmanı ve iş yeri hekimi ile yapılan sözleşmelerin ıslak imzalı çıktıları teslim
+    edilmelidir.
+
+• Çalışanların İş Sağlığı ve Güvenliği kapsamında alınan eğitim belgelerinin fotokopileri,
+    Risk Analizleri, Acil Durum Planları, İSG Kurul Tutanakları(50 ve üstü çalışanı olan
+    firmalarda) teslim edilecektir.
+
+• Kiracı, teslim aldığı ofis içi tadilatlarını, eksiklikleri kendi yapar. (Malzeme ve cihaz
+    özellikleri hususunda Yönetimden onay alması zorunludur.)
+
+4.4.2. İşletim Giderleri
+
+• Girişimci ve/veya firma, değişken giderlerini faturalarda belirtilen günde, aidat
+    ödemelerini bildirimi takip eden 5 (beş) iş günü içinde bildirilen banka hesabına
+    ödeyecektir. Zamanında yapılmayan ödemelerden dolayı oluşacak ve yönetim
+    kurulunca belirlenecek gecikme faizlerini ve cezaları da ödemekle yükümlüdür.
+
+• Genel gider dağılımı metotları İTÜ Teknopark A.Ş.’nin insiyatifi doğrultusunda
+    Girişimciler ve/veya firmalar arası hakkaniyet esası göz önüne alınarak belirlenir ve
+    gerekli görüldüğünde İTÜ Teknopark A.Ş. tarafından günün şart ve ihtiyaçlarına göre
+    yeniden değiştirilir.
+
+• Girişimci ve/veya firma, kiraladığı alana ilişkin elektrik, su, ısıtma ve soğutma, telefon,
+    faks ve internet giderlerini ödemekle yükümlüdür. saatlerin okunması ile yapılması
+    gereken ödemeler var ise doğrudan İTÜ Teknopark A.Ş.’ye, belirlenen sistem
+    doğrultusunda ve bildirilen son ödeme tarihine kadar Girişimci ve/veya firma
+    tarafından ödenir. Girişimci ve/veya firma, ödeme aksaklıklarından doğan zararı
+    gidermekle yükümlüdür.
+
+• Girişimcinin ve/veya firmanın kullanacağı bilişim ve iletişim (telefon, internet v.b.)
+    hizmetler için binada yapacağı her türlü tadilat ve tamirat vb. Girişimci ve/veya firma
+    tarafından yapılır. Yapılması gerektiği halde yapılmayan ve diğer girişimcileri ve/veya
+    firmaları etkileyen tamiratlar İTÜ Teknopark A.Ş. tarafından yapılır ve ücreti kiracıdan
+    tahsil edilir.
+
+• Girişimci ve/veya firma, kiraladığı alanın içinde bulunduğu binanın ortak kullanım ve
+    yönetim giderlerinden işletme bütçesine göre hesaplanacak metrekare birim maliyeti
+    ile kiralanan metrekare alanının çarpımı sonucu ortaya çıkacak miktar kadar
+    sorumludur. Girişimci ve/veya firma, söz konusu giderlerden payına düşen tutarı aylık
+    olarak İTÜ Teknopark A.Ş.’ye ödeyecektir. Bu bedeller İTÜ Teknopark A.Ş. tarafından
+    günün şartlarına ve gereklerine bağlı olarak yeniden belirlenebilir.
+
+4.4.3. Personel İstihdamı
+
+• İTÜ Teknopark A.Ş.’de ve 1773 İTÜ Teknopark’ta yer alan faaliyetlerde yürürlükteki iş
+    ve çalışma mevzuatına göre personel istihdam edilir.
+
+• 1773 İTÜ Teknopark’ta 4875 sayılı Doğrudan Yabancı Yatırımlar Kanunu, 6735 sayılı
+    Uluslararası İşgücü Kanunu ve ilgili mevzuat hükümleri çerçevesinde yabancı uyruklu
+    yönetici ve en az lisans mezunu Ar-Ge veya tasarım personeli çalıştırılabilir.
+
+                                                   36
+• 1773 İTÜ Teknopark’ta yer alan firmalar tarafından T.C. Çalışma ve Sosyal Güvenlik
+    Bakanlığı’na yapılan başvurularda Genel Müdürlüğün uygun görüşü alınır ve bu
+    doğrultuda 1773 İTÜ Teknopark’ta Ar-Ge veya tasarım personeli istihdam edilebilir.
+
+• Üniversite bünyesinde görevli öğretim üyeleri, 4691 sayılı Teknoloji Geliştirme
+    Bölgeleri Kanunu kapsamında sanayiye yönelik olarak hizmet vermeleri mümkündür.
+    İlgili görevlilerin bu kapsamda elde edilecek gelirler üniversite döner sermaye kapsamı
+    dışında tutulur.
+
+• Akademisyenler, üniversite bünyesinde yaptığı çalışmalar neticesinde geliştirdikleri
+    projelerin ticarileştirilmesini sağlamak amacıyla Üniversite Yönetim Kurulu’nun izni ile
+    Teknoloji Geliştirme Bölgesi kapsamında şirket kurabilir, kurulu bir şirkete ortak olabilir
+    ve/veya bu şirketin yönetiminde görev alabilirler.
+
+4.4.4. Ofis Kuralları
+
+• Ofis alanının iç dekorasyonu Girişimciye ve/veya firmaya ait olacak, her türlü malzeme
+    kullanımı ve imalat yöntemi için İTÜ Teknopark A.Ş.’nin yazılı onayı alınacak ve girişimci
+    ve/veya firma bu işlem esnasında ortaya çıkabilecek olan dekorasyon çöp ve atıklarının
+    1773 İTÜ Teknopark dışına çıkarılmasından kendi sorumlu olacaktır.
+
+• Girişimci ve/veya firma, kiraladığı alanda inşai bir değişiklik yapmak isterse,
+    değişiklikleri gösteren mimari, elektrik ve mekanik projelerini ibraz ederek uygulamaya
+    başlamadan önce İTÜ Teknopark A.Ş.’nin önonayını almak zorundadır. Bu şekilde
+    yapılacak olan tadilatlar İTÜ Teknopark’ın genel mimari yapısına uygun olacaktır.
+    Elektrik ve mekanik projeleri bir bütünlük arz ettiğinden İTÜ Teknopark A.Ş.’nin
+    yaptırdığı işlerin standardını sağlayacak firmalara yaptırmakla yükümlüdür.
+
+• Girişimci ve/veya firma, binanın ana taşıyıcı yapısına zarar vermemek şartıyla kiralanan
+    alanda faaliyet konusunun ve kullanım amacının gerektirdiği her türlü dekorasyon,
+    tadilat ve tamiratı (bölmeler, asma tavanlar vb.) İTÜ Teknopark’ın izni ile yapabilir. Bu
+    tadilatlar sırasında meydana gelebilecek arızalar ve hataların teknik ve hukuki
+    sorumluluğu Girişimciye ve/veya firmaya ait olacak ve bunların düzeltilmesine ait
+    masraflar girişimci ve/veya tarafından ödenecektir.
+
+• Girişimci ve/veya firma, kendine ayrılan yerde bina içini ve dış cephesini etkileyen tüm
+    tadilat ve yeni yapılacak düzenlemeler için İTÜ Teknopark’tan yazılı izin almak
+    zorundadır.
+
+• Girişimci ve/veya firma, kiraladığı alanın bakım ve onarımından kendisi sorumludur ve
+    kiraladığı alanda meydana gelen tesisata ilişkin arızaların giderilmesinde bina
+    sorumlusundan yardım isteyebilir. Ayrıca, alanında yapacağı her türlü dekorasyon ve
+    tamirat çalışmalarındaki gürültülü imalatları çalışma saatleri dışında yapacaktır.
+
+• Girişimci ve/veya firma, kendine tahsis edilen elektrik gücünün üzerine çıkmayacak ve
+    elektrik kesintisi halinde devreye girecek jeneratörden gelen gücün verimli
+    kullanılabilmesi için gereken dikkati gösterecektir.
+
+• Girişimci ve/veya firma, kiraladığı alanda İTÜ Teknopark A.Ş. tarafından yapılacak her
+    türlü kontrol, inceleme ve denetlemeye izin vermek ve kolaylık sağlamakla
+    yükümlüdür.
+
+                                                   37
+• Girişimciye ve/veya firmaya tahsis edilmiş bölümde veya bu bölümdeki tesislerde
+    meydana gelen bir arızanın giderilebilmesi için bu bölüme veya tesislere girilmesi
+    gerektiği zaman, o bölümün girişimcileri ve/veya firmaları, giriş müsaadesi vermeye ve
+    gereken işlerin yapımına yardımcı olmaya mecburdur. Ancak, bu çalışmalardan
+    doğacak bir zarar söz konusu ise bu zararın bedeli sorunun çıkış sebebine göre, lehine
+    müsaade edilen bölüm sahibi veya Yönetim tarafından derhal ödenir veya hasar telafi
+    edilir.
+
+• Girişimci ve/veya firma, kiraladığı alan ve ortak kullanım mekânlarında tehlikeli madde
+    bulundurmayacaktır. Faaliyetlerinden dolayı tehlikeli maddeler bulundurması gerektiği
+    durumlarda güvenlik önlemlerini alıp, gerekli güvenlik testlerini yetkili akredite
+    kuruluşlara yaptırmakla ve belgelerini İTÜ Teknopark A.Ş. ile paylaşmakla yükümlüdür.
+    Bu durum sonucunda oluşabilecek tüm patlama kaza ve benzeri durumların sonucu
+    oluşabilecek zarar ve ziyanı ödemekle yükümlüdür.
+
+• Girişimci ve/veya firma, kiraladığı alan ve ortak kullanım mekânlarında sebep olduğu
+    her türlü zararı karşılayacaktır.
+
+• Girişimci ve/veya firma, kiraladığı alanın haricinde ortak kullanım alanlarında meydana
+    gelen arızalara kendisi müdahale etmeden durumu Yönetime bildirecektir. Müdahale
+    yapılırsa oluşacak zararlardan girişimci ve/veya firma sorumludur ve ödemekle
+    yükümlüdür.
+
+• Girişimci ve/veya firma, ortak kullanıma açık alanlardan (toplantı salonu, kütüphane,
+    konferans salonu açık ve kapalı otopark vb.) kullanım esasları dâhilinde önceden
+    sorumlulardan izin alınması suretiyle ve ücretli olanlardan bedeli karşılığında
+    yararlanabilir.
+
+• Girişimci ve/veya firma ofisin girişine ve İTÜ Teknopark A.Ş.’ye vereceği farklı alanlarda,
+    İTÜ Teknopark A.Ş. tarafından belirtilecek özellikle boyutta tanıtıcı tabelasını asacaktır.
+    İTÜ Teknopark A.Ş.’nin onayı olmadan reklam, afiş, pano veya tanıtıcı tabela asamaz.
+
+• Girişimci ve/veya firma personeli, kendi alanında (varsa balkon dahil) veya ortak
+    alanlarda tütün mamulleri kullanmayacaktır. Kullanılması durumunda girişimci ve/veya
+    firma İTÜ Teknopark A.Ş. tarafından uyarılır. Tütün mamulleri kullanımının tekrarı
+    Kiralama sözleşmesine ve bu yönergeye aykırılık teşkil eder ve Kiralama sözleşmesi için
+    geçerli fesih sebebi sayılır. İTÜ Teknopark A.Ş.’in uygun gördüğü alanlarda tütün
+    mamulleri kullanımı herhangi bir sözleşme veya bu yönergenin ihlali sayılmayacaktır.
+
+• Girişimci ve/veya firma, kiralanan alanda/binada İTÜ Teknopark A.Ş.’nin yazılı izni
+    olmadan hiçbir değişiklik yapmayacak, kendine ayrılan alan dışındaki yerleri işgal
+    etmeyecek, İTÜ Teknopark A.Ş. tarafından bu amaçla tahsis edilmiş alan dışında
+    depolama yapmayacaktır.
+
+• Ofis alanının iç dekorasyonu girişimciye ve/veya firmaya ait olacak, her türlü malzeme
+    kullanımı ve imalat yöntemi için İTÜ Teknopark A.Ş.’nin onayı alınacak, firma bu işlem
+    esnasında ortaya çıkabilecek olan dekorasyon çöp ve atıklarının 1773 İTÜ Teknopark
+    dışına çıkarılmasından sorumlu olacaktır. Bu kapsamda mesai saatleri içerisinde
+    Malzeme Çıkış talebi İTÜ Teknopark A.Ş. tarafından onaylanmalıdır.
+
+• Girişimci ve/veya firma, kiralanan alanı tahliye ederken, kendisine teslim edilen
+    demirbaşlar haricinde, yapmış olduğu ofis içi dekorasyonu, hareketli ve sökülebilen
+    demirbaşları ana yapıya hiçbir zarar vermemek şartıyla söküp alabilir veya kiralayan
+
+                                                   38
+    kabul ederse tahliye edilen alandaki demirbaşları kiralayana bırakabilir. Söküm
+    esnasında verilecek her türlü zarardan firma sorumludur. Sökülemeyecek durumda
+    olan malzeme ve demirbaşlar ile ana yapı ile bağlantılı tadilatlar kiralayanın
+    mülkiyetine geçer. Girişimci ve/veya firma, kira süresinin sonunda kiralananı normal
+    kullanmadan kaynaklanan normal aşınma ve yıpranmalar hariç olmak üzere, teslim
+    aldığı gibi İTÜ Teknopark A.Ş.’ye teslim etmekle yükümlüdür.
+
+• Girişimci ve/veya firma, kiraladığı alanın bakım onarımından kendisi sorumludur.
+    Kiraladığı alanda meydana gelen tesisata ilişkin arızaların giderilmesinde bina
+    sorumlusundan yardım isteyebilir ve kontrolünde yürütür.
+
+• Girişimci ve/veya firma, kiraladığı alanda İTÜ Teknopark A.Ş. tarafından yapılacak her
+    türlü kontrol, inceleme ve denetlemeye izin vermek ve kolaylık sağlamakla
+    yükümlüdür.
+
+• Girişimci ve/veya firma, evsel katı atıklarını İTÜ Teknopark A.Ş.’nin bildireceği
+    zamanlarda ve göstereceği çöp toplama istasyonlarında biriktirmekle yükümlüdür.
+
+• Girişimci ve/veya firma, faaliyetlerinden kaynaklanan tehlikeli atıkları “Tehlike Atıkların
+    Kontrolü Yönetmeliği” ne uygun olarak İTÜ Teknopark A.Ş.’nin denetiminde bertaraf
+    etmekle yükümlüdür. Girişimci ve/veya firma, 1773 İTÜ Teknopark’ta bu tür
+    atıklarından kaynaklanan her türlü zarardan İTÜ Teknopark A.Ş.’ye karşı sorumludur.
+
+• Girişimci ve/veya firma kendi kullanım alanının güvenliği, temizliği ve kendi
+    malzeme/teçhizatının sigortalanmasından yükümlü olacaktır.
+
+• Girişimci ve/veya firma kendisine tahsis edilmiş alanlardaki tüm güvenlik önlemlerini
+    alacaktır. İTÜ Teknopark A.Ş. tarafından önerilen ek güvenlik sistemlerine de uymakla
+    yükümlüdür.
+
+• Girişimci ve/veya firma, güvenlikle ilgili yapılacak olan kontrol, arama veya denetleme
+    çalışmalarına, kendi işiyle ilgili gizlilik hakkı gözetilmek kaydıyla yardımcı olmakla
+    yükümlüdür.
+
+• Girişimci ve/veya firma ve konukları, İTÜ Teknopark A.Ş.’nin özel kurallara uyacaktır.
+    TIR ve kamyon gibi aşırı yüklü araçların 1773 İTÜ Teknopark’a sokulması gerektiği
+    durumlarda İTÜ Teknopark A.Ş.’nin izninin alınması kesinlikle zorunludur.
+
+4.4.5. Ortak Alan Kuralları
+
+• Girişimci ve/veya firma, İTÜ Teknopark A.Ş.’nin onayı olmadan reklam, afiş, pano veya
+    tanıtıcı tabela asamaz. Onaya bağlı olarak İTÜ Teknopark A.Ş.’nin uygun gördüğü
+    mekân ve ortak alanlarda afiş panolarına asabilir.
+
+• Girişimci ve/veya firma personeli, kendi alanı dahil binanın her yerinde 'Tütün
+    Mamullerinin Zararlarının Önlenmesine dair Kanun' ile getirilen kısıtlamalara tabi
+    olacaktır. Uymayanlar konusunda alınacak cezalardan ilgili personel ve personelin
+    şirketi sorumludur. Ortak alanlarda tütün mamulleri kullanımı Kiralama sözleşmesine
+    ve bu yönergeye aykırılık teşkil eder ve Kiralama sözleşmesi için geçerli fesih sebebi
+    sayılır. İTÜ Teknopark’ın uygun gördüğü alanlarda tütün mamulleri kullanımı herhangi
+    bir sözleşme veya bu yönergenin ihlali sayılmayacaktır.
+
+                                                   39
+    4.4.6. Bölgeye Giriş Çıkışlar
+    • Girişimcinin ve/veya firmanın çalıştırdığı personellerin, 1773 İTÜ Teknopark’ta fiilen
+
+         çalışıp çalışmadığı İTÜ Teknopark A.Ş. tarafından denetlenecektir. Söz konusu çalışma
+         saatleri ile ilgili denetim, İTÜ Teknopark A.Ş. tarafından kurulup işletilen PDKS
+         uygulaması ile sağlanmaktadır.
+    • Girişimcinin ve/veya firmanın çalıştırdığı personeller, resmi mesai saatleri içinde ve
+         dışında binaya İTÜ Teknopark A.Ş. tarafından kurulan PDKS sistemlerini kullanarak
+         giriş-çıkış yapacaktır. PDKS sisteminin bulunduğu alanlar kameralarla denetim altında
+         tutulup , tüm giriş ve çıkışlar kayıt altına alınmaktadır.
+    • Girişimci ve/veya firma, çalıştırdığı tüm personelden kendisi sorumludur. Bu
+         kapsamda, girişimci ve/veya firma çalıştırdığı personelin bilgilerini portala girmekle
+         yükümlüdür. İTÜ Teknopark A.Ş. de, portalde yer alan personel bilgilerini PDKS
+         sistemine kayıt edecektir. Portalde bulunan personelin ayrılması veya yeni personel
+         alınması durumunda girişimci ve/veya firma, İTÜ Teknopark A.Ş.’ye bilgi vermekle
+         yükümlüdür.
+    • Girişimci ve/veya firma personeli, 1773 İTÜ Teknopark dâhilinde güvenlikle ilgili her
+         türlü uyarı ve yönlendirmeye uymakla yükümlüdür. Girişimci ve/veya firma,
+         personelinin uygunsuz davranışlarından dolayı da sorumlu tutulacaktır.
+    • Girişimci ve/veya firma ziyaretçileri, 1773 İTÜ Teknopark kurallarına, ortak mekân ve
+         araçların kullanım esaslarına uyacaktır.
+    • Girişimci ve/veya firma ziyaretçilerine güvenlikle ilgili her türlü uyarıyı yapmakla
+         yükümlüdür.
+    • Ziyaretçiler, ziyaretleri süresince kimliklerini göstererek aldıkları ‘Ziyaretçi Kart’ını
+         görülecek şekilde taşıyacaklardır.
+
+4.5. Faaliyetlerin İzlenmesi
+
+    4.5.1. Faaliyet İzleme Formu
+    Girişimci ve/veya firma tarafından düzenli olarak teslim edilmesi gereken Aylık Muafiyet
+    Raporu ve Yıllık Dönem Raporudur. Bu formlar portal sistemi üzerinden doldurulup İTÜ
+    Teknopark A.Ş.’ye girişimci ve/veya firma yetkili imzası ve firma kaşesi veya elektronik
+    imzalı ve zaman damgalı olacak şekilde teslim edilecektir.
+
+    4.5.2. Çalışan Personel Bilgi Formu
+    Girişimciler ve/veya firmalar çalışan personellerin tüm bilgilerini ve belirtilen belgeleri
+    portal sistemine eklemekle yükümlüdür. İTÜ Teknopark A.Ş. çalışan personellerin
+    denetimini ve raporlamalarını portal sistemi üzerinden yapar.
+
+                                                       40
+    4.5.3. SGK Bilgi Formu
+
+    Girişimci ve/veya firma, Aylık Muafiyet raporunu İTÜ Teknopark A.Ş.’ye teslim etmekle
+    yükümlüdür. İTÜ Teknopark A.Ş. sadece Ar-Ge personellerinin ve mevzuatın uygun
+    gördüğü destek personellerinin aldığı muafiyetleri denetlemekle yükümlüdür. SGK ile ilgili
+    formlar SGK Müdürlüklerinden temin edilebilmektedir.
+
+    4.5.4. Projelerin İzlenmesi
+
+    1773 İTÜ Teknopark’ta yer alan ve projelerinin tamamlanma tarihinden itibaren yeni bir
+    proje sunmayan girişimcinin ve/veya firmanın son projesinin tamamlanma tarihinden
+    itibaren; 30 gün içinde ilgili vergi dairesine ve Sosyal Güvenlik Kurumuna bildirilmesi, üç ay
+    içerisinde yeni bir Ar-Ge veya tasarım projesi başlatılamaması halinde, mevcut kira
+    sözleşmesi süresi dikkate alınmaksızın girişimcinin ve/veya firmanın 1773 İTÜ
+    Teknopark’tan ihraç edilmesini temin edecek gerekli işlemler yapılır.
+
+4.6. Faaliyetlerin Denetlenmesi
+
+    • Girişimci ve/veya firma, Yönetmelik ve bu Yönergenin Tanımlar ve Kısaltmalar
+         bölümüne uygun olarak 1773 İTÜ Teknopark’ta çalışan araştırmacı, yazılımcı, Ar-Ge ve
+         destek personelinin bu görevleri ile ilgili ücretlerinin her türlü vergiden istisna edilmesi
+         için, personel listesini, Ar-Ge projelerindeki görev tanımlarını, nitelik ve çalışma
+         sürelerini içeren (Personel Bilgi Formu) Ar-Ge ve Yazılım Projelerinde Çalışan Personel
+         Listesi’ni 1773 İTÜ Teknopark’ta faaliyet göstermeye başladığı ilk 15 gün içerisinde ve
+         faaliyete devam ettiği sürece de her ayın ilk 15 günü içerisinde doldurarak İTÜ
+         Teknopark A.Ş.’ye teslim edecek ve onaylanan rapor, inceleme ve denetimlerde ibraz
+         edilmek üzere saklanır. 3 ay üst üste Aylık Muafiyet Raporunu teslim etmeyen girişimci
+         ve/veya firmaların resmi yazı ile uyarı gönderilir.
+
+    • Girişimci ve/veya firma, Personel Bilgi Formu’nda belirttiği Ar-Ge, yazılım ve tasarım
+         projelerinde çalıştığını beyan ettiği personelin diploma fotokopilerini, yazılımcı,
+         tasarımcı olduğunu belgeleyen onaylı evrakları veya hala üniversite öğrencisi
+         konumunda olanların transkriptlerini 1773 İTÜ Teknopark’ta faaliyet göstermeye
+         başladığı andan itibaren 10 gün içerisinde İTÜ Teknopark A.Ş.’ye teslim etmekle
+         yükümlüdür. Girişimci ve/veya firma, aylık olarak beyan edeceği personel listesinde bir
+         değişiklik olması durumunda ilgili aya ait değişiklikleri içeren diploma ve transkriptleri
+         de, o ayın ilk 10 günü içerisinde İTÜ Teknopark A.Ş.’ye teslim edecektir.
+
+    • Girişimci ve/veya firma, 1773 İTÜ Teknopark’ta faaliyete başladığı ilk 15 gün içerisinde
+         ve faaliyete devam ettiği her ayın ilk 15 gününde, bölgede çalışan tüm personeli
+         gösterir listeyi ve listedeki personelin girişimcide ve/veya firmada çalıştığına dair SSK
+         bildirimlerini İTÜ Teknopark A.Ş.’ye teslim etmekle yükümlüdür.
+
+    • Teknoparkta şirket kuracak girişimciler ve/veya firmalar, aşağıdaki belgeleri şirketin
+         kuruluşunu takiben ilk 10 gün içinde İTÜ Teknopark A.Ş.’ye teslim edecektir. Bu
+         belgelerde değişiklikler meydana gelmesi durumunda, belgelerin son halini değişikliği
+         takiben ilk 10 gün içerisinde teslim edecektir.
+
+         - Vergi Levhası,
+
+         - İmza Sirküleri,
+
+                                                       41
+    - Ticaret Sicil Gazetesi
+
+    - İmza yetkilisinin kimlik fotokopisi,
+
+    - Faaliyet Belgesi
+
+4.6.1. İTÜ Teknopark A.Ş.’nin Denetim Yetkisi
+
+• İTÜ Teknopark A.Ş., girişimcilerin, firmaların veya bunlarla ilişkili üçüncü şahısların
+    kanun amacına aykırı faaliyetlerinin tespiti, aykırı faaliyetlerin düzeltilmesi için
+    girişimcilerin ve/veya firmaların uyarılarak belirli bir süre verilmesi ve bu süre içinde
+    aykırı faaliyetlerini düzeltmeyen girişimcilerin ve/veya firmaların İTÜ Teknopark’tan
+    ihraç edilmesini/edilmelerini temin edecek gerekli önlemlerin alınması ve
+    şartnamelerin hazırlanması ile yetkili ve yükümlüdür.
+
+• İTÜ Teknopark A.Ş., bölgede istihdam edilen tüm araştırmacı, yazılımcı, Ar-Ge
+    personelinin listesinin, Ar-Ge projelerindeki görev tanımlarının, nitelik ve çalışma
+    sürelerinin aylık olarak belirlenerek arşivlenmesi, istenildiğinde ilgililere bildirilmesi ile
+    yetkili ve yükümlüdür.
+
+• İTÜ Teknopark A.Ş., Ar-Ge çalışması kapsamında Bölge dışında geçirilecek sürelerin
+    onay işlemi için, Girişimci ve/veya firma tarafından talep edilmesi halinde, girişimcilerin
+    ve/veya firmaların yürüttüğü Ar-Ge projesi kapsamında çalışan Ar-Ge personelinin;
+    Bölgede yürüttüğü görevle ilgili olarak Bölge dışında geçirilmesi gereken sürelerin, süre
+    dışarıda geçirilmeden önce Ar-Ge projesi kapsamında dışarıda geçirilen fiili sürelere
+    dair ilgili kurum ve kuruluştan temin edilen belgeler ve Ar-Ge personelinin bilgilerinin
+    (kişi, görev tanımı ve dışarıda geçirilecek süre vb.) de yer aldığı belgeler, PDK tarafından
+    değerlendirilip uygun bulunanların onaylanması ve onay belgelerinin arşivlenmesi ile
+    yetkilidir.
+
+• Bölgede yer alan işletmelerde çalışan Ar-Ge ve tasarım personelinin yüksek lisans
+    yapanlar için bir buçuk yılı, doktora yapanlar için iki yılı geçmemek üzere Bölge dışında
+    geçirdiği sürelere ilişkin uygunluğunun denetlenmesi ve üniversite onaylı ders
+    programının arşivlenmesi ile yetkilidir.
+
+• Girişimci ve/veya firma, Bakanlık veya İTÜ Teknopark A.Ş. tarafından gerekli görülen
+    denetimlerde her türlü bilgi ve belgeyi denetim elemanına vermekle yetkili ve
+    yükümlüdür.
+
+• İTÜ Teknopark A.Ş. ve Bölgede faaliyet gösteren girişimciler ve/veya firmalar, Bölgede
+    çalışan Ar-Ge ve destek personelinin yararlandıkları istisna ve muafiyetleri yönünden
+    T.C. Hazine ve Maliye Bakanlığı’nca denetlenir. Bu denetim, İTÜ Teknopark A.Ş.’nin
+    sorumluluğunu kaldırmaz.
+
+• İTÜ Teknopark A.Ş.’nin onayı ile Bölge dışında geçirilen sürenin Bölgede yürütülen
+    görevle ilgili olmadığının tespit edilmesi halinde, ziyana uğratılan vergi ve buna ilişkin
+    cezalardan ilgili girişimci ve/veya firma sorumludur.
+
+4.6.2. Bakanlık Denetim Yetkisi
+
+• Bakanlık, İTÜ Teknopark A.Ş.’nin ve girişimcilerin ve/veya firmaların faaliyet ve
+    uygulamalarını gerekli gördüğü durumlarda denetler. Gerektiğinde ilgili kurum ve
+                                                   42
+         kuruluşlarla işbirliği yapar. Denetim sürecinde İTÜ Teknopark A.Ş. ve girişimciler
+         ve/firmalar firmalar her türlü bilgi ve belgeyi denetim elemanlarına vermekle
+         yükümlüdür.
+
+4.7. Bölgeden İhraç
+
+    • İTÜ Teknopark A.Ş., 1773 İTÜ Teknopark’ta yer alan girişimci ve/veya firmanın ilgili
+         mevzuata aykırı faaliyette bulunduğunu tespit etmesi halinde, ilgili girişimci ve/veya
+         firmayı bölgeden ihraç edebilir.
+
+    • Kira Sözleşmesi herhangi bir nedenle sona eren girişimci ve/veya firmaların, Kira
+         Sözleşmesi’ndeki hükümlere uygun olarak kiralananı tahliye etmesi ve Bölgeden kendi
+         isteğiyle ayrılması esastır. Aksi takdirde girişimci ve/veya firma, İTÜ Teknopark’ın
+         uğrayacağı her türlü zararın tazmininden ve yasal yollara başvuru sebebiyle doğacak
+         avukatlık ücreti ve yargılama giderlerinden sorumlu olur.
+
+    • İlgili girişimci ve/veya firma, yürüttüğü projeyi tamamlayıp, süresi içerisinde yeni bir
+         Ar-Ge veya tasarım projesi sunamadığı veya başlatamadığı için bölgeden ihraç
+         edilebilir.
+
+             o İTÜ Teknopark A.Ş., bölgede yer alan ve projesinin tamamlanma tarihine 1 ay
+                  kala girişimciye ve/veya firmaya son projesinin tamamlanacağı tarihi, bu tarihe
+                  kadar yeni bir proje sunmasını, aksi takdirde son projesinin tamamlanma tarihi
+                  itibariyle Bölgedeki hizmet ve imkanlardan yararlanamayacağını ihtar eder.
+
+             o İTÜ Teknopark A.Ş., bölgede yer alan ve projesinin tamamlanma tarihinden
+                  itibaren yeni bir proje sunmayan girişimcinin ve/veya firmanın son projesinin
+                  tamamlanma tarihinden itibaren 30 gün içinde ilgili vergi dairesine ve Sosyal
+                  Güvenlik Kurumuna bildirimde bulunur.
+
+             o İTÜ Teknopark A.Ş., girişimcinin ve/veya firmanın üç ay içerisinde yeni bir Ar-
+                  Ge veya tasarım projesi başlatmaması halinde, mevcut Kira Sözleşmesi’nin
+                  süresini dikkate almaksızın girişimciyi ve/veya firmayı Bölgeden ihraç etmek
+                  adına Kira Sözleşmesi’ni fesheder ve Girişimcinin ve/veya firmanın, Kira
+                  Sözleşmesi’ne uygun olarak kiralananı tahliye etmemesi ve Bölgeden kendi
+                  isteğiyle ayrılmaması halinde yasal yollara başvurur.
+
+    • Mali müşavir onaylı yıllık bilgilerin sunulmaması nedeniyle girişimci ve/veya firma
+         bölgeden ihraç edilebilir.
+             o İTÜ Teknopark A.Ş. her yılın Nisan ayı içinde girişimci ve/veya firma serbest
+                  muhasebeci mali müşavir veya yeminli mali müşavir onaylı yıllık bilgilerini
+                  Mayıs ayı sonuna kadar sunmasını ihtar eder.
+             o Girişimci ve/veya firma her yılın Mayıs ayı sonuna kadar onaylı yıllık bilgilerini
+                  sunmaması halinde, İTÜ Teknopark A.Ş., Haziran ayından itibaren girişimci
+                  ve/veya firmanın üç aylık muafiyet belgelerini onaylamaz.
+             o Girişimci ve/veya firmanın her yılın Ağustos ayı sonuna kadar onaylı yıllık
+                  bilgilerini sunmaması halinde, İTÜ Teknopark A.Ş., Eylül ayından itibaren aylık
+                  muafiyet belgeleri onaylamaz ve bu ay içerisinde Girişimci ve/veya firmanın
+                  mevcut Kira Sözleşmesi’nin süresini dikkate almaksızın Girişimci ve/veya
+                  firmayı Bölgeden ihraç etmek adına Kira Sözleşmesi’ni fesheder ve girişimci
+
+                                                       43
+                  ve/veya firmanın Kira Sözleşmesi’ne uygun olarak kiralananı tahliye etmemesi
+                  ve Bölgeden kendi isteğiyle ayrılmaması halinde yasal yollara başvurur.
+    • Denetleme sonucunda aykırı faaliyetlerin tespit edilmesi nedeniyle girişimci ve/veya
+         firma bölgeden ihraç edilebilir.
+             o İTÜ Teknopark A.Ş. girişimci ve/veya firmayı Kanuna, Yönetmeliğe, Bölge
+                  İşletme Yönergesine ve ilgili diğer mevzuata göre düzenleyici amaçlı denetler.
+             o İTÜ Teknopark A.Ş. denetleme sonucunda girişimci ve/veya firmanın aykırı
+                  faaliyetlerini tespit etmesi halinde, tespit tarihinden itibaren girişimci ve/veya
+                  firmanın aylık muafiyet belgelerini onaylamaz ve aykırı faaliyetlerin düzeltilmesi
+                  için üç ayı geçmemek üzere belirli bir süre vererek girişimci ve/veya firmayı
+                  uyarır.
+             o Girişimci ve/veya firmanın aykırı faaliyetleri verilen süre sonunda düzeltmemesi
+                  halinde, İTÜ Teknopark A.Ş. mevcut Kira Sözleşmesi’nin süresini dikkate
+                  almaksızın girişimci ve/veya firmayı Bölgeden ihraç etmek adına Kira
+                  Sözleşmesi’ni fesheder ve girişimci ve/veya firmanın Kira Sözleşmesi’ne uygun
+                  olarak kiralananı tahliye etmemesi ve Bölgeden kendi isteğiyle ayrılmaması
+                  halinde yasal yollara başvurur.
+    • İTÜ Teknopark A.Ş.’nin Türk Borçlar Kanunu’nun ve/veya akdedilen Kira Sözleşmesi’nin
+         hükümlerine dayanarak girişimci ve/veya firmayı tahliye etme hakkı saklıdır.
+
+5. YÜRÜRLÜK
+    • Bu Yönerge; 26/06/2001 tarihli ve 4691 sayılı ‘Teknoloji Geliştirme Bölgeleri Kanunu’
+         ile 10/07/2018 Tarihli ve 30474 sayılı Resmi Gazetede yayımlanan 1 Saylı
+         Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı kararnamesinin 389.
+         maddesine ve 10.02.2022 tarihli ve 31746 sayılı Resmi Gazete’de yayımlanarak
+         tarihinde yürürlüğe giren ‘Teknoloji Geliştirme Bölgeleri Uygulama Yönetmeliği’nin 14.
+         Maddesine uygun olarak, İTÜ Teknopark A.Ş. tarafından hazırlanmıştır. Bu yönerge, İTÜ
+         Teknopark A.Ş. tarafından gerekli görülen durumlarda güncellenecek ve T.C. Sanayi ve
+         Teknoloji Bakanlığı’nın onayıyla yürürlüğe girecektir.
+    • Bu Yönerge imza tarihi itibariyle yürürlüğe girer.
+
+                                           YÖNERGE ONAYI
+
+                                                       44
+

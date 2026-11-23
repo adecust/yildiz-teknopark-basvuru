@@ -1,0 +1,2124 @@
+YTÜ YILDIZ TEKNOPARK
+
+BÖLGE İŞLETME YÖNERGESİ
+İÇİNDEKİLER
+1. YÖNERGENİN AMACI......................................................................................................................... 4
+2. YÖNERGENİN KAPSAMI.................................................................................................................... 4
+3. TANIM VE KISALTMALAR................................................................................................................ 4
+4. İLGİLİ MEVZUATLAR ........................................................................................................................ 7
+5. GENEL HUSUSLAR .............................................................................................................................. 8
+
+   5.1. YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİ VİZYONU ........................................................ 8
+   5.2. YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN MİSYONU................................................. 8
+   5.3. YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN AMAÇLARI.............................................. 8
+   5.4. YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN YÖNETİM KURULU .............................. 9
+6. BÖLGEYE İLİŞKİN BİLGİLER .......................................................................................................... 9
+   6.1. BÖLGE SINIRLARI....................................................................................................................... 9
+   6.2. BÖLGE İMAR PLANI ................................................................................................................... 9
+   6.3. PARSELASYON PLANI ................................................................................................................ 9
+   6.4. ARAZİ DURUMU ......................................................................................................................... 10
+   6.5. BÖLGE ARAZİSİNİN KULLANIMI ......................................................................................... 10
+7. GİRİŞİMCİLERİN BÖLGEDE BULUNMA SÜRECİ ..................................................................... 10
+   7.1. GİRİŞİMCİLERİN YÜKÜMLÜLÜKLERİ ve BÖLGE KURALLARI.................................. 10
+
+      7.1.1. Temel Yükümlülükler ........................................................................................................... 10
+      7.1.2. Girişimcilerin Bölgeye Taşınmadan Tamamlanması Gereken İşlemler........................... 10
+      7.1.3. Girişimciler Bölgeye Taşınırken Uyulması Gereken Kurallar.......................................... 10
+      7.1.4. Tadilat-Dekorasyon Çalışmaları Sırasında Uyulması Gereken Kurallar ........................ 11
+      7.1.5. Bölgede Bulunulan Sürece Uyulması Gereken Kurallar ................................................... 12
+      7.1.6. Ofis ve Co-Working/Co-Making Alanlarında Uyulması Gereken Kurallar.................... 15
+      7.1.7. Ortak Alanlarda Uyulması Gereken Kurallar.................................................................... 16
+      7.1.8. Bölgeye Giriş ve Çıkışlar....................................................................................................... 17
+      7.1.9. Girişimcinin Bölgede Personel Çalıştırırken Uyması Gereken Kurallar ......................... 18
+      7.1.10. Bölgeden Ayrılma, Fesih veya İhraç Süreçleri.................................................................... 19
+   7.2. GİRİŞİMCİLERİN BÖLGEDE YER ALMA SEÇENEKLERİ .............................................. 19
+      7.2.1. Ofis Alanı Kiralama .............................................................................................................. 19
+      7.2.2. Bina İnşa Etme....................................................................................................................... 21
+      a. Girişimcilerin Kendi Binasını İnşa Etmesi.................................................................................. 21
+      b. Yatırımcı Olarak Ar-Ge Binası İnşa Edilmesi ............................................................................ 21
+8. YÖNETİCİ ŞİRKET HİZMETLERİ.................................................................................................. 22
+   8.1. GİRİŞİMCİLERE PROJELER VE TEŞVİKLER HUSUSUNDA DANIŞMANLIK
+   HİZMETLERİ ........................................................................................................................................... 23
+      8.1.1. Proje Danışmanlığı ................................................................................................................ 23
+      8.1.2. Teşvik Danışmanlığı .............................................................................................................. 23
+   8.2. TEKNOLOJİ TRANSFER OFİSİ HİZMETLERİ .................................................................... 23
+      8.2.1. Üniversite Sanayi İş Birliği ................................................................................................... 23
+      8.2.2. Uluslararası Projeler ............................................................................................................. 23
+      8.2.3. Patent ve Lisanslama............................................................................................................. 24
+   8.3. TEKNİK VE İDARİ HİZMETLER ............................................................................................ 24
+      8.3.1. Güvenlik ................................................................................................................................. 24
+      8.3.2. Temizlik .................................................................................................................................. 24
+      8.3.3. Ulaşım ..................................................................................................................................... 24
+      8.3.4. Sosyal ve Kültürel Hizmetler ................................................................................................ 24
+      8.3.5. Çevre Düzenleme ................................................................................................................... 24
+   8.4. INNOVATION HUB ..................................................................................................................... 24
+   8.5. KULUÇKA GİRİŞİMCİSİ NETWORK DESTEĞİ .................................................................. 24
+   8.6. ADAY GİRİŞİMCİ DANIŞMANLIK DESTEĞİ....................................................................... 25
+   8.7. YURTDIŞI OFİSLERİNDE YER ALAN GİRİŞİMCİLERE DANIŞMANLIK DESTEĞİ.. 25
+9. YÖNETİCİ ŞİRKET YETKİ VE GÖREVLERİ ............................................................................... 25
+10. PROJE BAŞVURU SÜREÇLERİ ................................................................................................... 26
+   10.1. ADAY GİRİŞİMCİ BAŞVURU ve KOMİSYON DEĞERLENDİRME SÜRECİ .............. 26
+      10.1.1. Projesi Onaylanan Aday Girişimcinin Kira Sözleşmesi Süreci......................................... 26
+      10.1.2. Girişimci Faaliyet Onayı ....................................................................................................... 27
+   10.2. BÖLGEDE YER ALAN GİRİŞİMCİNİN PROJE BAŞVURU SÜRECİ ............................ 27
+      10.2.1. Proje Karar Süreci ................................................................................................................ 27
+   10.3. PROJE REVİZYON BAŞVURU SÜRECİ ............................................................................. 28
+   10.4. PROJE BİTİRME BELGESİ BAŞVURU SÜRECİ .............................................................. 28
+11. İSTİSNA BAŞVURULARI ............................................................................................................... 28
+   11.1. GÜMRÜK VERGİSİ İSTİSNASI BAŞVURU VE KABUL SÜRECİ .................................. 28
+   11.2. YAZILIM PROJELERİNDE KDV İSTİSNA BAŞVURUSU ve KABUL SÜRECİ ........... 29
+   11.3. MAKİNE TEÇHİZAT KDV İSTİSNASI BAŞVURU ve KABUL SÜRECİ ....................... 29
+12. TEKNOLOJİK ÜRÜN PROJE BAŞVURUSU VE KABUL......................................................... 29
+   12.1. TEKNOLOJİK ÜRÜNÜN YATIRIMI ................................................................................... 30
+   12.2. BAŞVURU SÜRECİ.................................................................................................................. 30
+   12.3. DEĞERLENDİRME SÜRECİ ................................................................................................. 30
+   12.4. KARAR SÜRECİ ...................................................................................................................... 30
+   12.5. BELGE VE BİLGİLERİN DOĞRULUĞU ............................................................................ 31
+13. BÖLGEDEKİ FAALİYETLERİN İZLENMESİ ........................................................................... 31
+   13.1. YÖNETİCİ ŞİRKETE YAPILACAK AYLIK VE YILLIK RAPORLAMALARLA
+   İLGİLİ YÜKÜMLÜLÜKLER ................................................................................................................. 31
+   13.2. ÇALIŞAN PERSONEL BİLGİ FORMU ................................................................................ 32
+   13.3. SGK BİLGİ FORMU ................................................................................................................ 32
+   13.4. DIŞARIDA GEÇİRİLEN SÜRELER FORMU...................................................................... 32
+   13.5. ÜCRETLİ YILLIK İZİN FORMU .......................................................................................... 33
+   13.6. KİŞİSEL VERİLERİN KORUNMASI ................................................................................... 33
+14. GİRİŞİMCİLERİN BÖLGEDEKİ FAALİYETLERİNİN DENETLENMESİ .......................... 33
+15. KULUÇKA GİRİŞİMCİSİ SÜREÇLERİ....................................................................................... 33
+   15.1. ADAY KULUÇKA GİRİŞİMCİSİ KOMİSYON DEĞERLENDİRME SÜRECİ.............. 33
+   15.2. KULUÇKA MERKEZİ HİZMETLERİ ................................................................................. 34
+   15.3. PERFORMANS DEĞERLENDİRME .................................................................................... 34
+   15.4. KAPALI VE AÇIK OFİSLER ................................................................................................. 34
+   15.5. KULUÇKA SÜRECİNİN TAMAMLANMASI VE TAHSİS EDİLEN ALANIN
+   BOŞALTILMASI ...................................................................................................................................... 34
+   15.6. KULUÇKA GİRİŞİMCİLERİNİN YÜKÜMLÜLÜKLERİ ................................................. 35
+
+16. ÜNİVERSİTE İLE OLAN İŞ BİRLİĞİ VE İLİŞKİLER.............................................................. 35
+   16.1. ÖĞRETİM ÜYELERİNİN BÖLGEDE ÇALIŞMASI........................................................... 35
+   16.2. EĞİTİM İŞ BİRLİĞİ ................................................................................................................ 35
+   16.3. ARAŞTIRMA İŞ BİRLİĞİ....................................................................................................... 36
+   16.4. SOSYAL AMAÇLI İŞ BİRLİKLER ....................................................................................... 36
+   16.5. ÜNİVERSİTE ALAN VE EKİPMANININ KULLANIMI ................................................... 36
+   16.6. TEKNOLOJİ TRANSFER OFİSİ İLE İLGİLİ YÜKÜMLÜLÜKLER .............................. 36
+
+17. AYKIRI FAALİYET UYGULAMA YETKİSİ .............................................................................. 37
+18. YÖNETİCİ ŞİRKETİN DENETİM YETKİSİ............................................................................... 39
+19. GENEL MÜDÜRLÜĞE VERİLECEK BİLGİLER ...................................................................... 39
+20. BAKANLIĞIN DENETİM YETKİSİ ............................................................................................. 40
+21. YÖNERGENİN YÜRÜRLÜĞE GİRMESİ VE DEĞİŞİKLİKLER ............................................ 40
+       1. YÖNERGENİN AMACI
+       Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. adına hazırlanmış olan İşletme
+Yönergesinin amacı; 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu ile Teknoloji Geliştirme
+Bölgeleri Uygulama Yönetmeliği kapsamında, Teknoloji Geliştirme Bölgesi olarak ilan edilen ve
+faaliyet göstermekte olan Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.’nin, Sanayi ve
+Teknoloji Bakanlığının belirlediği Yasa ve Uygulama Yönetmeliğinin amaçlarına ve koşullarına
+uygun olarak işletilmesi, yönetilmesi ve denetlenmesine ilişkin hususları tespit etmek amacıyla,
+Yönetmeliğe uygun olarak, Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. tarafından
+hazırlanmış ve yürürlüğe alınmıştır.
+
+       2. YÖNERGENİN KAPSAMI
+       Bu Yönerge, Bölgede yer alacak girişimciler ve Yönetici Şirketin hak, sorumluluk ve
+yükümlülüklerini, Bölgede yürütülecek faaliyetlerin usul ve esaslarını belirlemektedir. İlgili yasal
+mercilere karşı olan yükümlülüklerin detaylarını belirlemekte ve bununla beraber Bölgede faaliyette
+bulunma esas ve koşullarını ortaya koymaktadır.
+
+       3. TANIM VE KISALTMALAR
+       Bu Yönergede geçen;
+       Açık Ofis/Co-Working Alanı: Girişimcilerin tasarımlarını yapabilecekleri ve donanımsal
+olmayan çalışmalarını yürütebilecekleri alanları,
+       Akademisyen: Bağlı bulunduğu kurumdan aldığı onay ile Ar-Ge projelerinde danışmanlık
+ve/veya yürütücülük yapan akademisyen personeli, kurucuyu,
+       Araştırma ve Geliştirme (Ar-Ge): Kültür, insan ve toplumun bilgisinden oluşan dağarcığın
+arttırılması ve bunun yazılım dâhil yeni süreç, sistem ve uygulamalar tasarlamak üzere kullanılması
+için sistematik bir temelde yürütülen yaratıcı çalışmaları,
+       Araştırmacı: Ar-Ge faaliyetleri ile yenilik tanımı kapsamındaki projelerde, yeni bilgi, ürün,
+süreç, yöntem ve sistemlerin tasarım veya oluşturulması ve ilgili projelerin yönetilmesi süreçlerinde
+yer alan en az lisans mezunu uzmanları,
+       Ar-Ge Binası: Bölgelerde Ar-Ge, tasarım ve yenilik faaliyeti yürüten Girişimcilere tahsis
+edilecek ofislerin, ortak alanların ve Bölge hizmetlerinin sunulması ile ilgili birimlerin yer aldığı
+yapıyı,
+       Ar-Geye Dayalı Üretim Faaliyetleri: Bölgede faaliyet gösteren Girişimcilerin, bu Bölgede
+gerçekleştirdikleri Ar-Ge faaliyetlerinin sonucunda ortaya çıkan özgün süreç, hizmet, yöntem, üretim
+tekniği, faydalı araç gereç, malzeme, yazılım, ürün ve sistemlerin Bölge içinde yer alan üretim
+birimlerinde ticari ürün haline getirilmesi, üretilmesi faaliyetlerini,
+       Ar-Ge Merkez veya Enstitüleri: Kamuya ait, yetişmiş nitelikli insan gücü ile günün modern
+teknolojilerine dayalı makine, donanım ve yazılımı içinde bulunduran, teknoloji ve ürün
+geliştirilmesine yönelik Ar-Ge faaliyetlerinin yapıldığı mekânları,
+       Ar-Ge Personeli: Ar-Ge faaliyetlerinde doğrudan görevli araştırmacı, yazılımcı ve
+teknisyenleri,
+       Ar-Ge Projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer
+kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak aynî ve/veya nakdî destek tutarları, sonuçta
+doğacak fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve Ar-Ge faaliyetlerinin her
+safhasını belirleyecek mahiyette ve bilimsel esaslar çerçevesinde gerçekleştirilen ve araştırmacı
+ve/veya yazılımcı personel tarafından yürütülen projeyi,
+       Atölye: Girişimciler tarafından Ar-Ge, yenilik ve tasarım faaliyetleri kapsamında ihtiyaç
+duyulan makine ve ekipmanların bulunduğu yapıyı ya da alanı,
+       Bakan: Sanayi ve Teknoloji Bakanını,
+       Bakanlık: Sanayi ve Teknoloji Bakanlığını,
+       Bilişim Personeli: Fakültelerin dört yıllık bilgisayar, elektronik ya da yazılım ile ilgili
+bölümlerinden ya da bunlara denkliği Yükseköğretim Kurulunca kabul edilmiş yurt dışındaki
+yükseköğretim kurumlarından mezunlar ile yukarıda belirtilenler dışında kalan fakülte, meslek
+yüksek okulu ve meslek lisesi mezunlarından yazılım, tasarım (çip tasarımı, sistem tasarımı, donanım
+mimarisi tasarımı vb.), analiz, ağ bağlantıları veya bunlarla ilgili test, bakım gibi alanlarda teknoloji
+geliştirme Bölgeleri ile Ar-Ge ve tasarım merkezlerinde görev alan personeli,
+
+       Bölge: YTÜ Yıldız Teknoloji Geliştirme Bölgesini,
+       Bölge Alanı: Arazi üzerinde, koordinat değerleriyle sınırları belirlenmiş Bölgenin müstakil her
+bir alanını,
+       Bölge İşletme Yönergesi: Bölgede yer alacak Girişimcilere sağlanacak hizmetler ve Bölgede
+yürütülecek faaliyet ve uygulamalara ilişkin usul ve esasları içeren, Yönetici Şirket tarafından
+hazırlanan iş bu yönergeyi,
+       Co-Making Alanı: Girişimcilerin donanımsal olarak çalışabileceği Bölgeye bağlı atölyelerin
+tümünü,
+       Destek Personeli: Ar-Ge faaliyetlerine katılan veya bu faaliyetlerle doğrudan ilişkili yönetici,
+teknik eleman, laborant, sekreter, işçi ve benzeri personeli,
+       Desteklenecek Programlar: Yükseköğretim kurumlarının matematik, fizik, kimya ve biyoloji,
+biyokimya, biyoteknoloji, endüstriyel tasarım, endüstriyel tasarım mühendisliği, metalurji ve
+malzeme mühendisliği, moleküler biyoloji, genetik lisans programları ile Yükseköğretim Kurulundan
+alınan görüş üzerine Bakanlıkça belirlenecek diğer programları,
+       Genel Müdürlük: Sanayi ve Teknoloji Bakanlığı Ar-Ge Teşvikleri Genel Müdürlüğünü,
+       Genel Müdür: Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. Genel Müdürünü,
+       Girişimci: Bölgedeki hizmet ve imkânlardan yararlanmak isteyen veya yararlanmakta olan tüm
+gerçek ve tüzel kişileri; işbu İşletme Yönergesinde geçen Girişimci ibareleri, Bölgede faaliyette
+bulunacak Girişimci veya Kuluçka Girişimcisi fark etmeksizin her kişiyi ifade eder.
+       Girişimci Değerlendirme Komisyonu: Bölgeye girmek isteyen ya da Bölgede faaliyet gösteren
+Girişimcilerin, nitel ve nicel çıktılarını inceleyen, Girişimcinin Bölgeye dahline ya da sürekliliğine
+onay/ret veren, alanında uzman ve çok yönlü değerlendirme yapan, Yönetici Şirket tarafından
+oluşturulmuş kurulu,
+       İdare Binası: Yönetici Şirketin Bölgede vereceği hizmetleri yürütebilmesi amacıyla istihdam
+edeceği personel tarafından kullanılacak ofisleri, teknik ve sosyal bölümleri içeren, içerisinde
+Kuluçka Merkezi ve Teknoloji Transfer Ofislerinin yer alabileceği yapıyı,
+       Kanun: 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu’nu,
+       Komisyon: Bölgede faaliyet göstermek üzere başvuruda bulunan Girişimcilerin Bölgeye kabul
+süreçlerinde çok yönlü olarak değerlendirmesini gerçekleştiren alanında uzman kişilerden oluşan
+değerlendirme kurulunu,
+       KOSGEB: Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığını,
+       Kuluçka Girişimcisi: Kuluçka Merkezlerinde yer alan Ar-Ge, teknolojik yenilik, yazılım ve
+tasarım faaliyetlerinde bulunan, gerçek ya da tüzel kişiliğe sahip en fazla 3 yıllık çalışması bulunan
+erken aşama Girişimcileri,
+       Kuluçka Merkezi (inkübatör): Özellikle genç ve yeni işletmeleri geliştirmek amacıyla;
+Girişimcilere Bölge içinde veya dışında ofis hizmetleri, ekipman desteği, yönetim desteği, mali
+kaynaklara erişim, kritik iş ve teknik destek hizmetlerinin bir çatı altında tek elden sağlandığı yapıları,
+       Ön Kuluçka: İş fikri ya da hayata geçirmek istediği bir projesi olan henüz şirketleşmemiş tekil
+veya birkaç kişiden oluşan Girişimci grubuna, en fazla 6 (altı) ay süre ile fikirlerinin ya da
+projelerinin geliştirilmesi maksadıyla danışmanlık, mentörlük ve proje fikri doğrulamaya yönelik
+hizmet süreçlerini içeren yapıları,
+       Proje Bitirme Belgesi: Bölgede başlatılan Ar-Ge veya tasarım projelerinin Bölgede
+sonuçlandırılmasını takiben, Girişimcinin talebi üzerine Genel Müdürlükçe belirlenen formata uygun
+olarak Yönetici Şirket tarafından düzenlenen belgeyi,
+       Proje Değerlendirme Komisyonu: Yönetici Şirketin belirleyeceği, Girişimci için konusunda
+uzman iki üyesi öğretim elemanı, bir üyesi ise sektör uzmanı veya Bireysel Katılım Sermayesi
+Hakkında Yönetmelik kapsamında lisansı olan bireysel katılım yatırımcısı olmak üzere proje ile
+ilişkisi olmayan en az üç üyeli; Kuluçka Girişimcisi adayları için ise aynı minvalde Ar-Ge veya
+tasarım projesinde konusunda uzman bir öğretim elemanı olmak üzere en az bir üyeli oluşturulan
+komisyonu,
+       Proje Kabul Belgesi: Bölgede yürütülecek olan Ar-Ge veya tasarım projelerinin her birinin,
+proje değerlendirme komisyonu görüşü çerçevesinde onaylanan veya başka bir kamu ve uluslararası
+Ar-Ge veya tasarım destek programları kapsamında desteklenen ya da Ar-Ge veya tasarım projesi
+olduğu belirtilmek üzere kamu kurum ve kuruluşlarınca oluşturulan projelerin kabulüne ilişkin olarak
+Yönetici Şirket tarafından düzenlenen ve Genel Müdürlükçe elektronik ortamda oluşturulmuş proje
+kodunu içeren belgeyi,
+
+       Proje Süresi: Yazılım, Ar-Ge veya tasarım projeleri ile ilgili olarak Proje Değerlendirme
+Komisyonunca onaylanmış, Bölge içi veya Bölge dışı tüm bölümleri kapsayan projenin başlangıç ve
+bitiş tarihleri arasında geçen süreyi,
+
+       Sektör Uzmanı: İlgili sektörde en az 7 yıl deneyimli veya TÜBİTAK, KOSGEB, Kalkınma
+Ajansı gibi kurum projelerinden en az birinde yönetim tecrübesi olan ve ilgili alanda en az lisans
+derecesi sahibi olup sektörel gelişmeleri güncel olarak takip eden kişiyi,
+
+       Tasarım Faaliyeti: Sanayi alanında ve Bakanlar Kurulunun uygun göreceği diğer alanlarda
+katma değer ve rekabet avantajı yaratma potansiyelini, haiz ürün veya ürünlerin işlevselliğini artırma,
+geliştirme, iyileştirme ve farklılaştırmaya yönelik yenilikçi faaliyetlerin tümünü,
+
+       Tasarım Projesi: Amacı, kapsamı, genel ve teknik tanımı, süresi, bütçesi, özel şartları, diğer
+kurum, kuruluş, gerçek ve tüzel kişilerce sağlanacak ayni veya nakdi destek tutarları, sonuçta doğacak
+fikri mülkiyet haklarının paylaşım esasları tespit edilmiş ve tasarım faaliyetlerinin her safhasını
+belirleyecek mahiyette ve bilimsel esaslar çerçevesinde tasarımcı tarafından yürütülen projeyi,
+
+       Tasarım Personeli: Tasarım faaliyetlerinde doğrudan görevli tasarımcı ve teknisyenleri,
+       Tasarımcı: Tasarım faaliyetleri kapsamındaki projelerin gerçekleştirilmesi ve ilgili projelerin
+yönetilmesi süreçlerinde yer alan, üniversitelerin mühendislik, mimarlık veya tasarım ile ilgili
+bölümlerinden mezun en az lisans derecesine sahip kişiler ile tasarım alanlarından herhangi birinde
+en az lisansüstü eğitim derecesine sahip diğer kişileri,
+       Teknoloji Geliştirme Bölgesi: Yüksek/ileri teknoloji kullanan ya da yeni teknolojilere yönelik
+firmaların, Yıldız Teknik Üniversitesi ve Bölge imkânlarından yararlanarak teknoloji veya yazılım
+ürettikleri/geliştirdikleri, teknolojik bir buluşu ticari bir ürün, yöntem veya hizmet haline
+dönüştürmek için faaliyet gösterdikleri ve bu yolla Bölgenin kalkınmasına katkıda bulundukları, aynı
+üniversite alanı içinde veya yakınında akademik, ekonomik ve sosyal yapının bütünleştiği Yıldız
+Teknoloji Geliştirme Bölgesini,
+       Teknisyen: Mühendislik, fen ve sağlık bilimleri alanında yükseköğrenim görmüş ya da meslek
+lisesi veya meslek yüksekokullarının teknik, fen ve sağlık bölümlerinden mezun, teknik bilgi ve
+deneyim sahibi kişileri,
+       Teknoloji Transfer Ofisi (TTO): Teknoloji geliştiricisi Ar-Ge kurum ve kuruluşları ile
+teknoloji kullanıcısı sanayi şirketleri veya diğer teknoloji ya da Ar-Ge kurum ve kuruluşları arasında
+bilgilendirme, koordinasyon, araştırma, yönlendirme, yeni Ar-Ge şirketlerinin oluşturulmasını teşvik
+etme, iş birliği geliştirme, fikri mülkiyet haklarının korunması, pazarlanması, satılması, fikri
+mülkiyetin satışından elde edilen gelirlerin yönetilmesi konularında faaliyet gösteren yapıyı, Yıldız
+Teknopark Teknoloji Transfer Ofisini,
+       Teknolojik Ürün: Toplumsal ihtiyaçları karşılamak ve yaşam standardını yükseltmek amacıyla
+nitelikli işgücü tarafından bilimsel bilgi ve teknolojik araştırmalar kullanılarak ortaya çıkarılan, var
+olandan belirgin bir şekilde farklılık gösteren, katma değeri ve rekabet edebilirliği yüksek ürünü,
+       Tek Pencere Sistemi: 20/03/2012 tarihli ve 28239 sayılı Resmî Gazete’de yayımlanan 2012/6
+sayılı Cumhurbaşkanlığı Kararnamesi çerçevesinde gümrük işlemlerine konu olan eşyaya ilişkin
+olarak farklı kurumlarca düzenlenmesi gereken izin, onay ve belgelere ilişkin başvuruların tek bir
+noktaya yapılarak (e-başvuru) ilgili kuruma iletildiği ve ilgili kurumca düzenlenen belgelerin
+doğrudan gümrük işlemlerinde kullanılmak üzere elektronik ortamda (e-belge) gönderildiği, Ticaret
+Bakanlığı tarafından kurulan ve yürütülen sistemi,
+       TÜBİTAK: Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu,
+       UTPO: Uluslararası Ticaret ve Pazarlama Ofisini,
+       Uluslararası Programlar ve HİB: Hizmet İhracatçıları Birliğini,
+       Üniversite: Mühendislik ve temel bilimler dallarında yapılanmasını gerek insan gücü ve teknik
+donanım olarak tamamlamış ve gerekse doktora öğrencisi seviyesinde yeterli araştırma elemanının
+olduğu Yükseköğretim Kurulu tarafından onaylanan üniversiteleri, Yıldız Teknik Üniversitesi’ni
+
+       Üretim Birimleri: Bölge içerisinde Kanun’un amacına uygun olarak faaliyette bulunan gerçek
+veya tüzel kişilerce kurulan veya kullanılan, yeni ve yüksek teknolojilere dayalı ve çevreye zarar
+vermeyen üretim birimlerini,
+
+       Üründe Yenilik: Teknolojik açıdan yeni ürün, önceki ürün kuşağıyla karşılaştırıldığında
+malzemesi, parçaları ve yerine getirdiği işlevler açısından öze ilişkin, teknolojik farklar gösteren bir
+ürünü,
+
+       Üretim Yöntemlerinde Yenilik: Geleneksel üretim tesislerinde üretilemeyen, yeni ya da
+geliştirilmiş ürünlerin üretilmesinde veya halen üretilmekte olan ürünlerin yeni tekniklerle
+üretilmesinde kullanılan yöntemi,
+
+       Yatırımcı: Girişimcilerin projelerine mali destek sağlayan gerçek ve tüzel kişileri,
+       Yazılım: Bir bilgisayar, iletişim cihazı veya bilgi teknolojilerine dayalı bir diğer cihazın
+çalışmasını ve kendisine verilen verilerle ilgili gereken işlemlerin yapmasını sağlayan komutlar
+dizisinin veya programların ve bunların kod listesini, işletim ve kullanım kılavuzlarını da içeren
+belgelerin, belli bir sistematik içinde, tasarlama, geliştirme şeklindeki ürün ve hizmetlerin tümü ile
+bu ürün ya da mal ve hizmetlerin lisanslama, kiralama ve tüm hakları ile devretme gibi teslim
+şekillerinin tümünü,
+       Yazılımcı Personel: Yazılım olarak tanımlanan süreçte çalışıp program geliştiren, üreten,
+alanında yeterli deneyime veya eğitime sahip nitelikli personeli,
+       Yenilik: Sosyal ve ekonomik ihtiyaçlara cevap verebilen mevcut pazarlara başarı ile
+sunulabilecek ya da yeni pazarlar yaratabilecek; yeni bir ürün ya da mal, hizmet, uygulama, yöntem
+veya iş modeli fikri ile oluşturulan süreçleri ve süreçlerin neticelerini,
+       Yerleşke: 6.4. maddesinde belirtilen arazilerin yer aldığı kampüs, site veya sair hangi nam
+altında olursa olsun bulunduğu yerin tamamını,
+       Yerleşke Yönetimi: Girişimcinin faaliyette bulunduğu alana göre bağlı olduğu Yıldız Teknik
+Üniversitesi Rektörlüğü veya site ve alanın işletmesini yürüten Yönetici Şirketini,
+       YÖK: Yüksek Öğretim Kurulunu,
+       Yönetici Şirket: Kanun’a uygun ve anonim şirket olarak kurulan, Yıldız Teknik Üniversitesi
+Teknoloji Geliştirme Bölgesinin yönetimi ve işletmesinden sorumlu Yıldız Teknoloji Geliştirme
+Bölgesi Teknopark A.Ş.’yi, ifade eder.
+       Yönetmelik: Teknoloji Geliştirme Bölgeleri Uygulama Yönetmeliğini
+
+       4. İLGİLİ MEVZUATLAR
+       İş bu Yönerge; 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu ile Teknoloji Geliştirme
+Bölgeleri Uygulama Yönetmeliğine göre hazırlanmıştır. Gözetilen diğer mevzuatlar şöyledir;
+       • 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun
+       • 7263 sayılı Teknoloji Geliştirme Bölgeleri Kanunu ile Bazı Kanunlarda Değişiklik
+Yapılmasına Dair Kanun
+       • 7346 sayılı Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun
+       • 7033 sayılı Sanayinin Geliştirilmesi ve Üretimin Desteklenmesi Amacına Dair Kanun
+       • 3065 sayılı Katma Değer Vergisi Kanunu
+       • 2872 sayılı Çevre Kanunu
+       • 3194 sayılı İmar Kanunu
+       • 6224 sayılı Doğrudan Yabancı Yatırımlar Kanunu
+       • 6102 sayılı Türk Ticaret Kanunu
+       • 2547 sayılı Yükseköğretim Kanunu
+       • Atık Yönetimi Yönetmeliği
+       • Su Kirliliği Kontrolü Yönetmeliği
+       • Elektrik İç Tesisleri Yönetmeliği
+       • Atıksu Toplama ve Uzaklaştırma Sistemleri Hakkında Yönetmelik
+       • Çevresel Gürültü Kontrol Yönetmeliği
+       • Binaların Yangından Korunması Hakkında Yönetmelik
+       • Kamu Binalarının Yangından Korunması Hakkındaki Yönetmelik
+       • Çevresel Etki Değerlendirmesi Yönetmeliği
+       • 2016 / 9091 sayılı Bakanlar Kurulu Kararnamesi
+       • 2017 / 10821 sayılı Bakanlar Kurulu Kararnamesi
+       • 6698 sayılı Kişisel Verilerin Korunması Kanunu
+       • 6331 sayılı İş Sağlığı ve Güvenliği Kanunu
+       • 4857 sayılı İş Kanunu
+       • 5070 sayılı Elektronik İmza Kanunu
+
+       5. GENEL HUSUSLAR
+       5.1.YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİ VİZYONU
+       Küresel gelişmelere ilham verici araştırma, inovasyon ve ticarileşme faaliyetleri ile yeni
+fikirlerin değer yaratan çıktılara dönüşmesi sürecinin bütün aşamalarında yer alan "Bölgede lider,
+globalde söz sahibi" uluslararası bir iş birliği merkezi olmak. Sektördeki yenilikleri takip ederek yeni
+fikirleri ticarileştirmek, uluslararası iş birlikleri kurmak, sürdürülebilirlik odaklı inovasyon projeleri
+geliştirmek ve etkili pazarlama ile iletişim stratejileri kullanarak uluslararası düzeyde bir inovasyon
+merkezi olmak.
+
+       5.2.YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN MİSYONU
+       Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. olarak, üniversitedeki bilgi birikiminin
+geleceğe yön vererek katma değeri yüksek teknolojik ürünlere dönüşmesini sağlayacak bir ortam
+sunma odağında; Ar-Ge, inovasyon ve Girişimcilik ekosistemini geliştirerek 5 yıl içinde en az 1
+Yıldız Teknopark Girişimini 1 milyar $ değerine ulaştırmak.
+
+       5.3.YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN AMAÇLARI
+       • Yıldız Teknoparkın sunmuş olduğu ürün ve hizmetlerin çeşitliliğini, kalitesini arttırmak,
+       • Girişimciler ihtiyaç analizi ve segmentasyon çalışmalarını tamamlayıp bu bilgiler üzerine
+stratejik planlamayı oluşturmak,
+       • Yenilediğimiz kurumsal kimliğimize uygun olarak vizyon sahibi projeleri hayata geçirmek,
+       • Oluşturduğumuz stratejik plan çerçevesinde üniversite-sanayi iş birliğini kuvvetlendirmek,
+       • ESG (Environmental, Social and Governance) olarak tanımlanan çevresel, sosyal, yönetişim
+kavramlarını kapsayan kurumsal yönetim ilkelerini ortaya koymak,
+       • Çevre ve enerji teknolojileri odağında hareket etmek,
+       • Çevreye karşı duyarlılığımızı her alanda gösterecek projeler uygulamak,
+       • Sürdürülebilirlik kavramını ön plana alarak "Sustainable Development Zone" olmak,
+       • Yeni nesil iş modeli geliştirerek prototip atölyeleri ile Girişimciliğe destek olmak,
+       • Dijital dönüşümü tamamlayarak örnek ve sektöre yön veren bir Bölge olarak farkımızı ortaya
+koymak,
+       • Hedeflerimiz doğrultusunda hayata geçirdiğimiz projelerimiz ile katma değeri yüksek
+unicornlar ortaya çıkarmak,
+       • 8 dikey sektörde (Fintech, Insurtech, Mobility, Energytech, Gametech, Healthtech, Retailtech,
+Agritech) Girişimcilere odaklanarak katma değerli bir ekosistem yaratmak,
+       • İleri teknolojiye ve yüksek standartlara sahip, üretken Girişimciler için cazibe merkezi bir
+teknopark olmak,
+       • Savunma, biyoteknoloji, temiz enerji ve dijital teknolojiler alanlarında yerli/milli projelerin
+destekçisi olmak,
+       • Güçlü bir kurum kültürü oluşturarak hem kurum içindeki Girişimcilerin hem de kurum
+çalışanlarının aidiyetini en üst seviyeye çıkarmak,
+       • Gelişen ve değişen dünya dinamiklerine uygun bir biçimde iyi yönetim ilkelerinin
+uygulayıcısı ve takipçisi olmak,
+       • Kurum içinde ve dışındaki tüm paydaşlara yaratılacak maddi değeri arttırmak ve kurumun
+finansal sürdürülebilirliğini sağlamak,
+
+       • Etkin çatı kurum marka stratejilerinin oluşturulmasıyla mevcut ve hedef pazarlardaki kurum
+algısını en üst seviyeye çıkarmak
+
+       • Kurumun stratejik ve operasyonel hedeflere en verimli şekilde ulaşabilmesi için kurum içi
+süreçleri olgunlaştırmak
+
+       • Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. olarak projelerimizi hem ulusal hem de
+uluslararası alanda hayata geçirerek bölgesel liderliği almak, global rekabette söz sahibi olmak,
+
+       • Finans, sigorta, sağlık ve oyun teknolojileri hamleleriyle paydaşlarımıza öncülük etmek,
+
+       5.4.YTÜ TEKNOLOJİ GELİŞTİRME BÖLGESİNİN YÖNETİM KURULU
+       Genel Kurul tarafından Türk Ticaret Kanunu çerçevesinde seçilecek YTÜ Yıldız Teknoloji
+Geliştirme Bölgesi Teknopark A.Ş. Yönetim Kurulu Başkanı, Başkan Vekili ve üyelerden meydana
+gelen 7 kişiden oluşur.
+
+       6. BÖLGEYE İLİŞKİN BİLGİLER
+       Yıldız Teknik Üniversitesi, sanayi ile iş birliği içerisinde ülkenin Ar-Ge faaliyetlerine katkıda
+bulunan 21. yüzyılın Girişimci üniversite modeli doğrultusunda teknopark kurulması çalışmalarına
+başlamış ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu'na göre Bakanlar Kurulunun
+22/03/2003 tarih ve 5390 sayılı kararı ile YTÜ Teknoloji Geliştirme Bölgesi kurulmuştur.
+       Bölge genel yapılanmaları içerisinde erişim sağlanabilecek hizmetler şu şekilde açıklanabilir;
+       • Ar-Ge çalışmalarının tüm çeşitlerine hizmet sağlayacak, kiralanabilir ofis alanları kullanımı,
+       • Alt ve üst yapı destek ve hizmeti,
+       • Yüksek teknoloji Ar-Ge çalışmalarında Girişimcilerin talep etmesi durumunda üniversitenin
+laboratuvar gibi birikim, altyapı, tesis, yüksek teknolojili konferans ve toplantı salonları, kapalı ve
+açık spor tesisleri, kültürel faaliyet alanları olanak ile hizmetlerinin kullandırılması,
+       • Genel danışmanlık ve mentörlük hizmetleri,
+       • Prototip proje uygulama atölyeleri, co-making co-working atölyeleri kullanımı,
+       • Yeme, içme, eğlenme, dinlenme gibi sosyal, ekonomik ve kültürel ihtiyaçların karşılanacağı
+mekanlar,
+       6.1.BÖLGE SINIRLARI
+       YTÜ Teknoloji Geliştirme Bölgesi, Yıldız Teknik Üniversitesi Davutpaşa Yerleşkesinde 2003
+yılında faaliyetine başlamıştır. 2014 yılı sonunda İkitelli OSB ek alanının, 2022 yılında da
+Maslak1453 ek alanının hizmete girmesiyle üç yerleşkede birden hizmet vermektedir.
+       Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. Davutpaşa Yerleşkesi 147.394,03 m2 alan
+üzerine kurulu 100.435,95 m2’lik kapalı alanda toplam 11 adet binada faaliyet sürdürmektedir.
+       İkitelli OSB yerleşkesinde 23.427,95 m2 alan üzerine kurulu 26.463,58 m2’lik kapalı alana
+sahip bir adet bina ve Maslak1453 ek alanında da 1.310,90 m2 alan üzerine kurulu 20.997,00 m2’lik
+kapalı alana sahip bir adet binada faaliyet sürdürmektedir.
+
+       6.2.BÖLGE İMAR PLANI
+       İstanbul Büyükşehir Belediyesi, 28057 dosya numaralı imar plan tadilatını 22 Nisan 2014’te
+onaylamıştır. YTÜ Teknoloji Geliştirme Bölgesi Teknopark ek alanı imar plan tadilatı, ilanen
+çıkarıldığı askıdan 30 Haziran 2014 Pazartesi günü indirilmiştir.
+       10 Nisan 2003 gün ve 25075 sayılı Resmi Gazete’de yayımlanarak yasalaşan 17 Mayıs 2013
+gün ve 28650 sayılı Resmi Gazete’de yayımlanarak sınır değişikliği yapılan YTÜ Teknoloji
+Geliştirme Bölgesi ek alan sınırı esas alınarak onanmıştır.
+       28 Şubat 2019 gün ve 30700 sayılı Resmi Gazete’de yayımlanarak 799 sayılı Cumhurbaşkanlığı
+Kararı gereğince YTÜ Teknoloji Geliştirme Bölgesi ek alan sınırı esas alınarak onanmıştır.
+
+       6.3.PARSELASYON PLANI
+       Yönetici Şirket, planlama sürecinde çevre düzeni planlarını da dikkate alarak 3194 sayılı İmar
+Kanunu ve ilgili yönetmeliklerine göre projelendirme süreçlerini yürütmektedir.
+       6.4.ARAZİ DURUMU
+       YTÜ Teknoloji Geliştirme Bölgesi;
+       • Davutpaşa Yerleşkesi: 147.394,03 m2
+       • İkitelli OSB Yerleşkesi: 23.427,95 m2
+       • Maslak1453 Ek Alanı Yerleşkesi: 1.310,90 m2
+
+       6.5.BÖLGE ARAZİSİNİN KULLANIMI
+       Bölge olarak belirlenen araziler hiçbir şekilde Kanun amacı dışında başka amaçlarla
+kullanılamaz.
+       Yönetici Şirket, Bölgede akademik, ekonomik ve sosyal yapının oluşturulmasını sağlamak
+Bölgenin toplam yapılaşma hakkının %25’ini aşmayacak kesimi üzerinde Bölge amaçları
+doğrultusunda gerçekleştirilecek faaliyetlere etkinlik kazandırmak ve Bölgenin ihtiyaç duyduğu
+ekonomik, sosyal ve kültürel altyapıyı oluşturmak üzere Bölge içerisinde veya Bölgede yeterli alan
+kalmaması halinde Bölge dışında gerekli bina ve tesisleri kurabilir, işletebilir, kiraya verebilir.
+       Bölge içerisinde yer alan Yönetici Şirket ile kamu kurumu ya da kuruluşlarına ait
+gayrimenkullerin satışı yapılamaz.
+
+       7. GİRİŞİMCİLERİN BÖLGEDE BULUNMA SÜRECİ
+       7.1.GİRİŞİMCİLERİN YÜKÜMLÜLÜKLERİ ve BÖLGE KURALLARI
+       Girişimci, aşağıda belirlenen yükümlülükleri ihlali halinde Bölgeye kabul edilmez. Girişimci
+Bölgeye kabul edilmişse; Yönetici Şirket tarafından işbu ihlalin tespit edildiği tarihten itibaren 30
+(otuz) gün içerisinde Bölgeden tahliye edilir.
+       Girişimci için belirlenen yükümlülük ve kurallar, Girişimci nezdinde çalışmakta olan
+personelleri ve konukları için de aynen uygulama alanı bulur. Girişimci, personel ve konuklarının
+işbu yükümlülük ve kurallara uymasından bizzat sorumludur.
+
+       7.1.1. Temel Yükümlülükler
+       Girişimci, Kanun, Yönetmelik, Yönetici Şirket ile imzalanan her türlü belge ve Yönetici Şirket
+tarafından duyurulan her türlü düzenlemeye riayet etmek ve bu doğrultuda faaliyet göstermek
+zorundadır.
+
+       7.1.2. Girişimcilerin Bölgeye Taşınmadan Tamamlanması Gereken İşlemler
+       • Girişimcinin, TGB Uygulama Yönetmeliği 6. bölümde belirtilen teşvik, indirim ve
+istisnalardan faydalanabilmesi için Yönetici Şirketten aldığı faaliyet onay belgesiyle bağlı bulunduğu
+vergi dairesine ve SGK’ya başvuruda bulunması gerekmektedir. Girişimci bu onay belgesini ve
+elektronik personel kartlarını alabilmesi için, bilgi ve belgeleri eksiksiz olarak Yönetici Şirketin
+belirttiği online platform üzerinden beyan ederek Bölgede çalışmaya başladığı andan itibaren en geç
+10 (on) gün içerisinde Yönetici Şirkete sunmakla yükümlüdür.
+       • Girişimci, ana sözleşmesinin (Ticaret Sicil Gazetesi’nde yayımlanan veya noter onaylı olarak)
+son halini Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.’ye, kendisine belirtilen teslim
+yöntemi ile teslim ederek, kuruluş amaç ve konularının Teknoloji Geliştirme Bölgesinde yer alması
+için uygunluğunu onaylatacaktır. Girişimci ana sözleşmesindeki son değişiklikler, değişikliği takip
+eden ilk 10 (on) gün içerisinde Yönetici Şirkete bildirilecektir.
+
+       7.1.3. Girişimciler Bölgeye Taşınırken Uyulması Gereken Kurallar
+       • Girişimci, tır, kamyon ve kamyonet gibi aşırı yüklü araçların yerleşkeye sokulması gerektiği
+durumlarda hafta içi ve bir gün önceden Yönetici Şirketin ve YTÜ’nün ve yerleşkeye göre ilgili
+makamların iznini almak zorundadır. Mağduriyet yaşanmaması açısından hafta sonları yapılacak
+taşınma ve tadilat işlemlerinde önceden bilgi verilip izin alınması zorunludur.
+       • Girişimci, faaliyette bulunduğu veya bulunacağı yerleşke kurallarına ve ayrıca Yıldız
+Teknoloji Geliştirme Bölgesi Teknopark A.Ş. kurallarına, ortak mekân ve araçların kullanım
+esaslarına, Üniversitenin belirlediği özel kurallara uyacaktır.
+       • Girişimciler, co-making alanlarında inşai değişiklik talep etmeleri durumunda, talep ettikleri
+değişikliklerin görsel düzeni bozmayacak ve diğer Girişimcilerin çalışmalarını engellemeyecek
+şekilde olmasını sağlamakla yükümlüdürler.
+
+       • Girişimciler co-making alanlarında kullanacakları hammadde, çeşitli el aletleri, iş güvenliği
+koruyucu ekipmanları vb. ürünleri düzenli bir şekilde saklayacakları alanları organize etmekle
+sorumludurlar.
+
+       • Girişimciler, makineleri, teknik tüm malzeme ve teçhizatı, yetkililerin uygun gördükleri alana
+yerleştirilmesini, istenildiği takdirde tahsis edilen atölyede yerinin değiştirilebileceğini hatta atölye
+dışına çıkarılabileceğini kabul etmekle yükümlüdürler,
+
+       • Girişimci nezdinde çalışmaya başlayacak personellerin tüm bilgileri ve özellikle sigorta
+evrakları, Bölgeye giriş yapmadan en geç 1 (bir) gün önceye kadar Yönetici Şirket ile paylaşılmalıdır.
+Girişimci, nezdinde çalışmaya başlayacak personele ait olan kişisel verilerin edinilmesi, işlenmesi ve
+üçüncü kişilere aktarılması (yurt içi veya yurt dışı) konusunda KVKK kapsamında personelin açık
+rızasını alacak ve aydınlatma yükümlülüğünü yerine getirecektir. Aksi takdirde tüm sorumluluk
+Girişimciye aittir.
+
+       • Girişimci kiraladığı alandan çıkarken ofis/co-making alanını Yönetici Şirket talep ederse eski
+haline getirme yükümlülüğünü peşinen kabul edecektir. Tüm bu işlemler Tadilat ve Dekorasyon
+Formu ile kontrol altında tutulacaktır.
+
+       • Sözleşme süresi dolmuş ve/veya taşınmak isteyen Girişimciler; Yönetici Şirket adına yetkili
+kişilere ofis/co-making alanını teslim etmek zorunluluğundadır. Teslim alma şartları, teslim edilirken
+sunulan demirbaşlar ve teknik şartnameye uygun altyapı ve üst yapı kalemlerinin aynı şekilde teslim
+alınmasını kapsar. Bu şartlar Ofis Teslim Alma Formu ile sağlanır.
+
+       • Girişimcinin dekorasyon ve diğer konularda çalışmakta olduğu kişilerin, taşeron olarak
+çalışanların isim listelerini ve çalışma süresini işe başlamadan önce Yönetici Şirkete bildirmekle
+yükümlüdür. Çalışacak kişi veya kişilerin 6331 sayılı İş Sağlığı ve Güvenliği Kanunu gereği istenen
+belgelerinin Yönetici Şirkete bildirilmesi ve onay alması zorunludur. Bölgeye giriş yapacak taşeron
+çalışanlarının KVKK kapsamında yazılı onayları Girişimci tarafından temin edilir. Aksi halde
+isimleri ve belgeleri bildirilmeyen kişilerin Bölgeye girişlerine ve çalışma yapmalarına izin verilmez.
+
+       7.1.4. Tadilat-Dekorasyon Çalışmaları Sırasında Uyulması Gereken Kurallar
+       • Girişimci, kendisine tahsis edilen alanda gerçekleştireceği tadilat, dekorasyon ve sair her türlü
+çalışma için Yönetici Şirketin yazılı iznini almak zorundadır. Girişimci alanda yapacağı tadilat ve
+dekorasyon çalışmalarının masraflarını bizzat ödeyecek olup kendi ticari faaliyeti için Yönetici
+Şirkete rücu etmeksizin yapacaktır. Yapılacak tadilatlar hususunda alınması gereken izinler ve
+bunların masraflarından Girişimci sorumludur.
+       • Tadilat ve dekorasyon çalışmaları sırasında kullanılacak elektrik bağlantı noktaları ve
+bağlantılar Yönetici Şirket tarafından kontrol edilecektir. Topraklama hattı bağlanmayan, kaçak akım
+rölesi çalışır vaziyette olmayan panolar kabul edilmez. Bağlantıların uygun bulunmaması durumunda,
+problem düzeltilene kadar ilgili bağımsız bölümün enerjisi kesilebilir.
+       • Yönetici Şirket tarafından onaylanan ve Girişimciye bildirilen saatler harici gelen ve yasak
+saatini bekleyecek olan araçlar Yönetici Şirket tarafından belirlenen bekleme sahasına alınacaktır.
+       • Çalışmalar, Yönetici Şirketin belirleyeceği gün ve saatlerde yürütülür. Aksi bir durum
+olmadığı sürece çalışma saatleri hafta içi mesai saatleri dışında saat 18:00 ile 08:00 saatleri içerisinde;
+hafta sonu cumartesi 13:00’ten sonra, pazar günü ise tam gün yapılır.
+       • Gürültülü ve darbeli cihazların çalıştırılma saatleri 18:00 ile 08:00 arasıdır.
+       • Yapım sırasında tadilat ve dekorasyon malzemeleri, tadilat ve dekorasyon atıkları, hafriyat ve
+benzeri maddeler yollara veya bitişik mahallere konulamaz ve dökülemez. Bu maddeler çuvallanarak
+Bölge dışına taşınır, taşınma esnasında asansörler kesinlikle kullanılamaz.
+       • Tadilat sırasında oluşacak yığınların herhangi bir nedenle çevreye yayılmasını önlemek amacı
+ile gereken tedbirler, Girişimci tarafından alınır.
+       • Tadilat ve dekorasyon sebebi ile çevre ve ortak alanlar dolaylı ve doğrudan kirletildiği
+takdirde Girişimci bunları temizlemekle yükümlüdür. Gecikmesi durumunda Girişimci adına
+belirlenen alan temizlettirilir ve bedeli ilgili Girişimciden tahsil edilir.
+
+       • Çalışma saatleri bitiminde binada çalışan işçilerin binayı terk etmeleri zorunludur. Ofislerde
+konaklamak yasaktır.
+
+       • Bölge sınırları içerisinde trafik kurallarına ve levhalarına kesinlikle uyulmalıdır.
+       • Girişimcinin kendisine tahsis edilen alanda yapacağı tadilatlar nedeni ile herhangi bir
+yaptırım, ceza veya ödeme ortaya çıkması halinde tüm sorumluluk müstakilen ve münhasıran
+Girişimciye aittir. Girişimci, ihlalleri masrafları kendisine ait olmak üzere giderir.
+       • Kendisine tahsis edilen alanda yapılacak tadilat ve dekorasyon işlemlerinde Girişimci, binanın
+kolon ve kirişlerinde, ana taşıma sisteminde, statiğinde ve mimari sistematiğine herhangi bir
+müdahaleye sebep olmayacak şekilde tadilat ve düzenleme yapacak, imar mevzuatına aykırılık
+oluşturmayacak, daire değerini düşürmeyecek şekilde hareket edecek, izinsiz ya da yasaya aykırı
+şekilde hiçbir tadilat ya da değişiklik yapmayacaktır. Dekorasyon ve tadilat çalışmaları öncesinde
+projenin detaylarını Yönetici Şirkete sunacaktır. Aksi halde Girişimci, kendisine tahsis edilen alanda
+izinsiz olarak yapmış olduğu her türlü çalışma ve tadilatı eski haline getirecek olup Yönetici Şirket
+nezdinde oluşacak zararı ayrıca tazmin edecektir.
+
+       • Yapılacak tadilatlar esnasında Girişimci, komşuların haklarına da saygı gösterecek, çalışma
+saatlerini tatil ve komşuların çalışma saatlerine göre düzenleyecek, komşuları rahatsız etmeyecek
+tedbirleri alacaktır.
+
+       • Girişimci, kendisine tahsis edilen alandaki demirbaşları ve ilgili teknik gereksinimlerini bizzat
+karşılayacaktır. Tadilat, bakım ve onarım için Yönetici Şirketten yardım isteyebilir.
+
+       • Girişimci, iş sağlığı ve iş güvenliği konusunda her türlü tedbirleri alacak, sağlık ve güvenlik
+risklerine karşı koruyucu, önleyici ve düzenleyici faaliyetlerde bulunacak ve mevzuat uyarınca
+gerekli bildirimleri yapacaktır. Girişimci, nezdinde çalışmakta olan ve/veya alanda bulunan her kişiye
+gerekli yönlendirme ve talimatlarda bulunacak; gözetiminde bulunduracaktır. Gerekli tedbirleri
+ve/veya önlemleri almaması sebebiyle ortaya çıkan veya doğacak her türlü zarar, ziyan, hasar ve sair
+tazminat kalemlerinden Girişimci sorumludur.
+
+       • Bölge veya blok güvenliğini sağlayan sistemler Yönetici Şirkete bildirilmeden yerinden
+sökülemez, açılamaz, yeri değiştirilemez. (Yangın algılama sensörleri vb.)
+
+       • Güvenlik elemanlarının, teknik kontrolörlerin ve İSG uzmanın uyarılarına aynen uyulur.
+       • Çalışma sırasında ortak alanlara ve komşu mahallere verilecek zararlar, ilgili Girişimci
+tarafından karşılanır.
+       • Mevcut merkezi sistem aynen korunur. (ısıtma-soğutma sistemleri, yangın sistemleri vb.)
+       • Bağımsız bölümlerde çalışanlar ile onlarla ilgili kişilerin Bölge ortak alanlarında meydana
+getirdikleri zararları ve hasarı müstakilen ve münhasıran Girişimci üstlenir ve Yönetici Şirketin talebi
+ile derhal ödemeyi yapar.
+       • İşbu prosedürlere uyulmadığı takdirde Yönetici Şirket talimatında belirlenen cezai yaptırımlar
+uygulanır.
+
+       7.1.5. Bölgede Bulunulan Sürece Uyulması Gereken Kurallar
+       • Girişimci, Yönetici Şirketin, yerleşke yönetiminin, yetkili tüm resmi kurum ve kuruluşların
+düzenleme, kural ve talimatlarına, mevzuat hükümlerine uymakla yükümlüdür. Girişimci, Yönetici
+Şirketin bu kapsamda duyuracağı her türlü değişikliğe de aynen uymalıdır. Aksi takdirde tüm
+sorumluluk Girişimciye aittir.
+       • Girişimci, Yönetici Şirketin gerek elektronik posta ortamında gerek yazılı gerekse ilanen talep
+ettiği tüm bilgi ve belgeleri talep edildiği şekilde, eksiksiz olarak ve zamanında hazırlayıp vermekle
+yükümlüdür. Girişimcinin eksik veya zamanında sunmadığı bilgi ve belgelerden Yönetici Şirket
+sorumlu tutulamaz. Yönetici Şirket gecikmeler hususunda yaptırım uygulama hakkını saklı tutar.
+       • Girişimci, Bölge içerisinde faaliyette bulundukları yerler ve işlerle ilgili olarak İş Kanunları
+ve 6331 sayılı İş Sağlığı ve Güvenliği Kanunu, İş Sağlığı ve Güvenliği ve ilgili sair tüm yasal mevzuat
+uyarınca gerekli tedbirleri almak, çalışan sayısına göre ilgili kanunlarda gösterilen sürelerde, iş
+güvenliği uzmanı ve iş yeri hekimi ile diğer sağlık personelini bulundurmak veya bir OSGB’den
+(Ortak Sağlık Güvenlik Birimi) hizmet almak zorundadır. Girişimci, iş sağlığı ve güvenliği ile ilgili
+nasıl hizmet aldığını ve yaptırdığı risk analizlerini gösterir belgelerin bir örneğini Yönetici Şirkete
+vermekle yükümlüdür. Girişimci, çalışanlarının iş güvenliği eğitimlerinden sorumludur.
+
+       • Girişimci, Bölge içerisinde faaliyette bulundukları alan ve işbu alanda yürüttükleri çalışmalar
+ile ilgili olarak, ilgili tüm yasal mevzuat uyarınca gerekli önlemlerini önceden almakla, güvenlik ve
+toplu korunma yöntemlerine öncelik vermekle yükümlüdür. Girdi ve atık sayılabilecek maddelerin
+güvenliğiyle ve uygun şekilde bertaraf edilmesiyle ilgili gerekli çalışmaları yaptırmakla ve belgelerini
+Yönetici Şirket ile paylaşmakla yükümlüdür. Girişimci, önlemler alınsa bile, bu işlemler sonucunda
+ortaya çıkabilecek tüm hasar ve zararı herhangi bir sınırlama olmaksızın ödemekle sorumludurlar.
+
+       • Girişimci, kendisine tahsis edilen alan üzerindeki faaliyetlerini Yönetici Şirketin mevzuat ile
+belirlenen yükümlülüklerini hiçbir zaman ihlal etmeyecek şekilde yerine getirecektir. Yönetici
+Şirketin herhangi bir konuyla ilgili herhangi bir merciden izin ya da onay almasının, bilgi, belge ve
+sair kayıt sunmasının gerekmesi halinde Yönetici Şirket tarafından talep edilen her türlü bilgi ve
+belgeleri gecikmeksizin temin edecektir.
+
+       • Girişimcinin, TGB Kanunu ve ilgili mevzuat ile Yönetici Şirket İşletme Yönergesi, emir,
+talimat ve sair kurallarına uygun olarak faaliyette bulunması ve sözleşme süresince de bulunacak
+olması Bölgede faaliyette bulunmasının esaslı unsurudur. Bu amaç doğrultusunda alanda faaliyet
+gösterilirken faaliyet konusunun bir araştırma geliştirme projesi olduğu hiçbir zaman göz ardı
+edilmeyecek; alandaki ticarileşme ve diğer faaliyetlerin Ar-Ge faaliyetlerine göre yoğunluk
+kazanmasına karşı önlemler alacaktır.
+
+       • Girişimci, Sözleşme süresince faaliyet konusunu değiştiremez. Değiştirmesi durumunda
+Yönetici Şirket ile yeni durum şartlarına göre sözleşmesini yenilemek ile yükümlüdür.
+
+       • Girişimci, faaliyeti gereği kullandığı malzeme, teçhizat ve emtia, ortaya çıkardığı atık ve depo
+etmesi halinde depodaki emtialar konusunda uluslararası mevzuat, Avrupa Birliği Standartları; Çevre
+Kanunu; Umumi Hıfzıssıhha Kanunu; Atık Yönetimi Yönetmeliği; Tehlikeli Atıkların Kontrolü
+Yönetmeliği; Hafriyat Toprağı, İnşaat ve Yıkıntı Atıklarının Kontrolü Yönetmeliği; İş Sağlığı ve
+Güvenliğine ilişkin her türlü mevzuata riayet edecektir. Girişimci, ofis alanlarında yanıcı, yakıcı,
+patlayıcı, zararlı kimyasallar bulunduramaz. Yürütülen proje gereği bulundurulması gereken bu
+nevden maddeler için Yönetici Şirkete bilgi vermek ve kendisine konulan adet/ağırlık sınırını
+aşmamakla mükelleftir. Olumsuz gelişen koşullar halinde zararı karşılamak zorunluluğundadır.
+
+       • Girişimci kendisine ofis olarak tahsis edilen alanı amacının dışında (depo, stüdyo, konaklama,
+atölye) olarak kullanamayacaktır. Sözleşme amacı dışında kullanıldığı tespit edilmesi durumunda
+Yönetici Şirket durumu aykırı faaliyet kapsamında değerlendirerek yaptırım hakkını saklı tutar.
+
+       • Girişimci, kendisine tahsis edilen alanda ve çevrede oturanlara iyi niyet kuralları içinde
+davranmaya, komşuluk hukukuna ve haklarına saygılı olmaya mecbur olup tüm mekanlardaki
+faaliyetlerinin çevre uyumlu olmasına özen gösterecektir.
+
+       • Girişimci, ortak alanları Yönetici Şirket, yerleşke yönetimi ve resmi kurum ile kuruluşlar
+tarafından belirlenen kurallar ve düzenlemeler doğrultusunda kullanacak ve hareket edecektir.
+
+       • Girişimci, mutat sözleşme dönemlerinde yetkili tayin edilmiş Girişimci Değerlendirme
+Komisyonu tarafından Teknoloji Geliştirme Bölgesi misyon ve amacı dahilinde faaliyet gösterip
+göstermediği konusunda değerlendirilir. Ticarileşme faaliyetlerini taahhüt ettiği şekilde Ar-Ge
+faaliyetleri üzerinden gerçekleştirmeyen, katma değer üretmeme hususunda istikrarlı olan,
+Yönetmelik gereği beyan etmekle yükümlü olduğu mali verilerini ve raporlamalarını Yönetici
+Şirketin belirlediği sistemler üzerinden girmeyen, aykırı faaliyet gösteren, Yönetici Şirkete karşı
+mükellef olduğu ödemelerini düzenli olarak yerine getirmeyen, Bölgeyi ve milli menfaatleri zarara
+uğratacağı öngörülen davranışları sergileyen Girişimcilerin bahsi geçen komisyondan alınan görüş
+ile sözleşmelerinin yenilenip yenilenmeyeceğine Yönetici Şirket karar vermeye yetkilidir. Bu
+olumsuz koşulların biri ya da birkaçı komisyonun olumsuz görüş belirtmesine hak doğurur. Yönetici
+Şirket sözleşme feshi ve Bölgeden ihraç konusundaki haklarını saklı tutar.
+       • Girişimci, Yönetici Şirkete her ay düzenli olarak Faaliyet İzleme Formu (Aylık Muafiyet
+Raporu), SGK Bilgi Formu, Çalışan Personel Bilgi Formu ve Proje İzleme Formunu tam, eksiksiz ve
+doğru bir şekilde beyan etmekle yükümlüdür.
+
+       • Alanın, Girişimci tarafından herhangi bir sebeple tahliyesi halinde Tahliye Prosedürü
+uygulanacaktır. Girişimcinin Tahliye Prosedürüne aykırı hareket etmesi halinde doğacak her türlü
+zarar, ziyan, hasar ve sair tazminat kalemlerinden sorumludur.
+
+       • Girişimci, iş sağlığı ve iş güvenliği konusunda her türlü tedbirleri alacak, sağlık ve güvenlik
+risklerine karşı koruyucu, önleyici ve düzenleyici faaliyetlerde bulunacak ve mevzuat uyarınca
+gerekli bildirimleri yapacaktır. Girişimci, nezdinde çalışmakta olan ve/veya Girişimciye tahsis edilen
+alanda bulunan her kişiye gerekli yönlendirme ve talimatlarda bulunacak; gözetiminde
+bulunduracaktır. Girişimci istihdam ettiği personele İSG eğitimi aldırmakla ve bilgilendirmekle
+yükümlüdür. Gerekli tedbirleri ve/veya önlemleri almaması sebebiyle ortaya çıkan veya çıkacak
+doğacak her türlü zarar, ziyan, hasar ve sair tazminat kalemlerinden Girişimci sorumludur.
+
+       • Girişimci, kendisine tahsis edilen alanı İşletme Yönergesi ve Yönetici Şirket ile imzaladığı
+sözleşmeden kaynaklanan hak ve alacaklarını, düzenleme ve yetkilerini, Yönetici Şirketin açık ve
+yazılı muvafakati olmadığı sürece üçüncü kişilere kısmen veya tamamen devir veya ciro edemez;
+herhangi bir surette kendisine tahsis edilen alanı üçüncü kişilere kısmen ya da tamamı ile kiralayamaz,
+alt kiralama yapamaz, kullanımına izin veremez, devir yapamaz, bu konuda herhangi bir anlaşma
+yapamaz veya bu minvalde bir teşvikte bulunamaz. Söz konusu alanı bedelli ya da bedelsiz şekilde
+üçüncü kişilere hukuken ve/veya fiilen kullandıramaz, sözleşme veya proje süresi sona erdiğinde ya
+da Yönetici Şirket ile imzaladığı sözleşme devam ederken söz konusu alanı, sözleşme ya da
+sözleşmeden kaynaklanan haklarını hava parası ya da benzeri bedel ile üçüncü kişilere kiralayamaz,
+devredemez; işbu alanın herhangi bir şekilde ya da nedenle kiralanmasına aracılık edemez.
+
+       • Sözleşme veya proje süresi dolmuş ve/veya taşınmak isteyen Girişimci; Yönetici Şirket adına
+yetkilendirilmiş kişilere ofisi teslim etmek zorunluluğundadır. Teslim alma şartları, teslim edilirken
+sunulan demirbaşlar ve teknik şartnameye uygun altyapı ve üst yapı kalemlerinin aynı şekilde teslim
+alınmasını kapsar. Temizlik dâhil olmak üzere bu şartlar Ofis Teslim Alma Formu ile sağlanır.
+
+       • Girişimci, kiralanan alanda/binada Yönetici Şirketin izni olmadan hiçbir değişiklik
+yapmayacak, kendine ayrılan alan dışındaki yerleri işgal etmeyecek, Yönetici Şirket tarafından bu
+amaçla tahsis edilmiş kiralanabilir alan dışında depolama yapmayacaktır. Buna uyulmaması halinde
+işgal ettiği alan, Yönetici Şirket tarafından işgalin tespit edildiği tarihten itibaren 10 (on) gün sonunda
+boşaltılacak ve Girişimciye ait eşyalar depo edilecektir. İşgal edilen alanın boşaltılmasından veya
+işgal konusu malzemenin kaybolmasından Yönetici Şirket sorumlu tutulamaz.
+
+       • Girişimci, evsel katı atıklarını Yönetici Şirketin bildireceği zamanlarda, bulundukları yapının
+yakınında mevcut bulunan çöp toplama istasyonlarında biriktirmekle yükümlüdür. Ortak alanların
+temizliğinden sorumlu genel temizlik personelinin bu atıkları atık kutusuna atmasını talep edemez ve
+atması için ofis kapısına bırakamaz. Ofis kapısına bırakılan atıkların belli bir süre depolanması
+sonucu oluşturduğu sağlıksız ortam için Yönetici Şirketin uyarısına gerek kalmaksızın atık toplama
+yerlerine bırakmakla yükümlüdür. Yönetici Şirket tarafından temin edilmesi durumunda, geri
+dönüştürülebilir atık toplama kutularına amacına uygun içi sıvı içermeyecek ve koku yapmayacak
+atıklar atılabilir. Bu kutuların dış tarafına hiçbir şekilde atık vb. maddeler konulmayacaktır.
+
+       • Girişimci, faaliyetlerinden kaynaklanan tehlikeli atıkları Atık Yönetimi Yönetmeliğine uygun
+olarak Yönetici Şirketin denetiminde bertaraf etmekle yükümlüdür. Girişimci, Bölgede bu tür
+atıklarından kaynaklanan her türlü zarardan Yönetici Şirkete ve üçüncü kişilere karşı sorumludur.
+Konu ile ilgili gelebilecek tüm zarar ve ziyan hastalık davalarından birinci derece sorumlu olduğunu
+kabul eder ve bu konuda zarara uğrayan tüm mağdurların zararını ödemekle yükümlüdür.
+
+       • Girişimci, güvenlikle ilgili yapılacak olan kontrol, arama veya denetleme çalışmalarına, kendi
+işi ile ilgili gizlilik gözetilmek kaydıyla yardımcı olmakla yükümlüdür. Girişimci, güvenlik
+konularına azami derecede dikkat etmekle ve güvenlik personelinin uyarı ve ikazlarını dikkate
+almakla yükümlüdür.
+
+       • Girişimci kendisine tahsis edilmiş alanlardaki tüm güvenlik önlemlerini alacaktır. Yönetici
+Şirket tarafından önerilen ek güvenlik sistemlerine de uymakla yükümlüdür. Uyulmayan kurallardan
+doğan güvenlik açığından dolayı oluşabilecek herhangi bir zarar ve ziyandan Yönetici Şirket mesul
+tutulamaz.
+
+       • Girişimci, kendi malzeme ve teçhizatının sigortalanmasından yükümlü olacaktır. Bulunduğu
+alanın ve malzemelerinin sigorta evraklarını Yönetici Şirkete vermekle yükümlüdür.
+
+       • Yasal yükümlülüklere uymayanlar uyarılacak, hatanın/eksikliğin düzeltilmemesi, tekrar
+edilmesi ya da devamında ısrar edilmesi durumunda Girişimci hakkında gerekli yasal süreç
+başlatılacaktır.
+
+       • Girişimciler, Yönetici Şirket tarafından uygun görülecek her türlü bağımsız denetim
+kuruluşlarınca yapılacak denetimlere izin verecekler ve bedellerini ödeyeceklerdir.
+
+       • İş güvenliği uzmanı ve iş yeri hekimine ait İSG-KATİP programı üzerinden yapılan
+sözleşmelerin imzalı çıktıları Yönetici Şirkete beyan edilmelidir.
+
+       • Çalışanların iş sağlığı ve güvenliği kapsamında alınan eğitim belgelerinin fotokopileri, risk
+analizleri, acil durum planları, İSG kurul tutanakları Yönetici Şirkete teslim edilecektir.
+
+       • Girişimci, teslim aldığı ofisin iç tadilatlarını kendi yapar, esiklerini giderir. Malzeme kalitesi
+hususunda Yönetici Şirketten onay alması zorunludur. Bu işlemler sırasında Teknoloji Geliştirme
+Bölgesi faaliyetlerinin başlangıcı için Girişimciye ayrıca bir tadilat süresi verilmemektedir. Ofisin
+anahtarının Girişimci tarafından teslim alınmasından itibaren kira sözleşmesi başlayacaktır.
+
+       • Girişimciler, co-making alanlarında çalışırken Innovation Hub Kullanım Taahhütnamesi ile
+YTÜ Yıldız Teknopark Innovation Hub Hizmet Sözleşmesi çerçevesinde tanımlanan tüm kurallara
+uymak zorundadır.
+
+       • Girişimciler, şahsi ya da resmi kargo ve/veya her türlü postasını bireysel alıcının ya da
+girişimci firma yetkilisinin bulunduğu adrese vermekle yükümlüdür. Bulunduğu bloğun adresini
+vermeyen Girişimcilerin posta ve kargoları farklı bloklardaki görevlilerce teslim alınmayacak ve
+gönderene iade edilecektir. Kargo ya da postanın kaybolmasından Yönetici Şirket kesinlikle mesul
+değildir.
+
+       • Girişimci, Yönetici Şirket tarafından kurulan araç, personel, faaliyet, afetten korunma, siber
+güvenlik gibi tüm dijital takip sistemlerine dahil olmak ve belirlenen kurallara aynen uymak
+zorunluluğundadır. Girişimci, Bölge ve bilgi güvenliği açısından alınan tüm dijital güvenlik
+kurallarına peşinen uyacağını kabul ve taahhüt eder. Kurallara itiraz ya da muhalefetinden doğan tüm
+zararı karşılamak ile mükelleftir. Bu hususta sürdürdüğü aykırı faaliyeti sürdürmesi durumunda
+Yönetici Şirket yaptırım hakkını saklı tutar.
+
+       • Girişimci ortak kullanıma açık alanlardan (toplantı salonu, kütüphane, konferans salonu vb.)
+kullanım esasları dâhilinde önceden sorumlulardan izin alınması suretiyle ve ücretli olanlardan bedeli
+karşılığında yararlanabilir. Ücretli olanlar için Açık Ofis/Co-working Kullanım Prosedürünü
+imzalamak ve sözleşmede yer alan maddelere aynen uymak yükümlülüğündedir. Girişimci,
+düzenleyeceği etkinliğin içeriğini, program akışını ve varsa katılımcılarını Yönetici Şirkete sözleşme
+öncesinde bildirmek ve belge ile beyan etmek yükümlülüğündedir. Yönetici Şirketin içeriği uygun
+bulmaması durumunda değişiklik isteme ya da reddetme hakkı vardır.
+
+       7.1.6. Ofis ve Co-Working/Co-Making Alanlarında Uyulması Gereken Kurallar
+       • Girişimciler, logo/markasının yer alacağı standart tabelayı kapının sağ tarafına 40x25 cm
+ebatlarında şeffaf pleksi malzeme ile yaptırmalıdır. Standart dışı tabelaların sökülmesi ve alanda
+oluşan hasarın giderilmesi Girişimciye aittir. Yazılı ikaz yapılmasına karşın gerekli düzenlemelerin
+Girişimci tarafından yapılmaması durumunda, Yönetici Şirket gerekli düzenlemeleri yapar ve
+Girişimciye fatura eder.
+       • Ofis/Co-Making alanının iç dekorasyonu Girişimciye aittir, her türlü malzeme kullanımı ve
+imalat yöntemi için Yönetici Şirketin yazılı onayı alınacak ve Girişimcinin bu işlem esnasında ortaya
+çıkabilecek olan çöp ve atıklarının kampüs dışına çıkarılmasından kendi sorumlu olacaktır.
+       • Girişimci, kendine ayrılan yerde bina içini ve dış cephesini etkileyen tüm tadilat ve yeni
+yapılacak düzenlemeler için Yönetici Şirketten yazılı izin almak zorundadır.
+       • Girişimci, kendisine tahsis edilen alanı özenle kullanacak ve değerinin korunması hususunda
+üzerine düşen yükümlülükleri yerine getirecek, bakım ve idame masraflarını da Yönetici Şirkete
+ödediği bedellerden mahsup etmeksizin karşılayacaktır. Söz konusu alanın iadesi anında alanda
+mevcut ya da Girişimci tarafından yapılmış mütemmim cüzlerde ya da sökülen herhangi bir eklenti
+yerinde hasar olması, zarar/ziyan olması ya da alana ait abonelik borcu olması ya da Girişimcinin
+aidat vs. borcu bulunması halinde Yönetici Şirket, bu zararları ve sair bedelleri doğrudan talep
+edecektir. Bu kapsamda alandaki eşyalara hapis hakkını kullanabileceği gibi güvence bedelinden de
+mahsup edebilecektir.
+
+       • Girişimci kendine tahsis edilen elektrik gücünün üzerine çıkmayacak ve elektrik kesintisi
+halinde devreye girecek jeneratörden gelen gücün verimli kullanılabilmesi için gereken dikkati
+gösterecektir.
+
+       • Girişimci, kiraladığı alanda Yönetici Şirket tarafından yapılacak her türlü kontrol, inceleme
+ve denetlemeye izin vermek ve kolaylık sağlamakla yükümlüdür.
+
+       • Girişimcinin kendine tahsis edilen bölümünde veya bu bölümdeki tesislerde meydana gelen
+bir arızanın giderilebilmesi için başka bir Girişimciye tahsis edilen bölüme girilmesi gerektiği zaman,
+o bölümün kullanıcıları, giriş müsaadesi vermeye ve gereken işlerin yapımına yardımcı olmaya
+mecburdur. Ancak, bu çalışmalardan doğacak bir zarar söz konusu ise bu zararın bedeli sorunun çıkış
+sebebine göre, müsaade edilen bölüm sahibi tarafından derhal ödenir veya hasar telafi edilir.
+
+       • Girişimci, yerleşkenin herhangi bir yerinde patlayıcı, yanıcı, tehlikeli madde
+bulundurmayacaktır. Faaliyetlerinden dolayı bu tür tehlikeli maddeleri bulundurması gerektiği
+durumlarda güvenlik önlemlerini alıp, tüm güvenlik testlerini yetkili akredite kuruluşlara yaptırmakla
+ve belgelerini Yönetici Şirketle paylaşmakla yükümlüdür. Bu durum sonucunda oluşabilecek tüm
+patlama kaza ve benzeri durumların sonucu oluşabilecek zarar ve ziyanı ödemekle yükümlüdür.
+
+       • Girişimci, faaliyet gösterdiği yerleşkede sebep olduğu her türlü zararı karşılayacaktır.
+       • Girişimci, kiraladığı alanın haricinde ortak kullanım alanlarında da meydana gelen arızalara
+kendisi müdahale etmeden durumu Yönetici Şirkete bildirecektir. Müdahale yapılırsa oluşacak
+zararlardan Girişimci sorumludur ve ödemekle yükümlüdür.
+       • Girişimci personeli, kendi alanı veya bu amaçla ayrılmış alanlar dışındaki ortak alanlarda
+Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun ile getirilen kısıtlamalara
+tabi olacaktır.
+       • Girişimci kiraladığı alanın bakım/onarımından (iklimlendirme sistemleri hariç) kendisi
+sorumludur. Kiraladığı alanda meydana gelen tesisata arızalarının giderilmesinde Yönetici Şirketten
+yardım isteyebilir ve kontrolünde yürütür.
+       • Girişimci, evsel katı atıklarını Yönetici Şirketin bildireceği zamanlarda ve göstereceği çöp
+toplama istasyonlarında biriktirmekle yükümlüdür.
+       • Girişimci, faaliyetlerinden kaynaklanan tehlikeli atıkları Tehlike Atıkların Kontrolü
+Yönetmeliğine uygun olarak Yönetici Şirketin denetiminde bertaraf etmekle yükümlüdür. Bölgede
+bu tür atıklarından kaynaklanan her türlü zarardan Yönetici Şirkete karşı sorumludur.
+       • Girişimci, güvenlikle ilgili yapılacak olan kontrol, arama veya denetleme çalışmalarına, kendi
+işiyle ilgili gizlilik hakkı gözetilmek kaydıyla yardımcı olmakla yükümlüdür.
+       • Girişimci, mesai saatleri dışında prototip atölyesinde kullanılan üretim, co-working, co-
+making alanları yanı sıra, eklemeli imalat atölyesi, PCB atölyesi, mekanik atölyesi vb. atölyelerden
+hiçbirine girmeyecektir. Aksi durum aykırı faaliyet kapsamında değerlendirilir.
+       • Donanımsal olarak çalışan Girişimcilerin, ortak kıyafet kullanımı konusunda YTÜ Yıldız
+Teknopark Innovation Hub Hizmet Sözleşmesine uyması zorunludur.
+
+       7.1.7. Ortak Alanlarda Uyulması Gereken Kurallar
+       • Girişimci, Yönetici Şirketin onayı olmadan reklam, afiş, pano veya tanıtıcı tabela asamaz.
+Onaya binaen Yönetici Şirketin uygun gördüğü mekân ve ortak alanlarda afiş panolarına asabilir.
+       • Girişimci ve personeli, kendi alanı veya bu amaçla ayrılmış alanlar dışındaki ortak alanlarda
+Tütün Ürünlerinin Zararlarının Önlenmesi ve Kontrolü Hakkında Kanun ile getirilen kısıtlamalara
+tabi olacaktır. Uymayanlar konusunda alınacak cezalardan personel ve personelin çalışmakta olduğu
+Girişimci şirket sorumludur.
+       • Prototip atölyesinde Girişimciler ortak alanlarda herhangi bir mekanik, elektrik vb. çalışma
+faaliyetinde bulunamaz.
+
+       • Girişimci kendi ofis alanları haricindeki ortak kullanım alanlarında diğer Girişimci ve
+çalışanlarını rahatsız edecek çalışma, kutlama, tebrik ve tören faaliyetlerinde bulunmayacaktır.
+Kurum içi etkinlik ve eğlencelerinde diğer Girişimcilerin çalışma düzenini etkileyecek şekilde yüksek
+sesli müzik ve temsil konuşmaları gerçekleştirmeyecektir. Bu hususta önceden Yönetici Şirketten
+onay alarak Açık Ofis/Co-working Kullanım Prosedürü aynen uyacaktır. İzinsiz düzenlenen
+etkinliklerin şikayeti ve tespiti durumunda aykırı faaliyet prosedürü uygulanacaktır.
+
+       • Girişimci ve ziyaretçileri otopark alanlarının kullanımı konusunda Yönetici Şirketin
+belirlemiş olduğu kurallara ve Otopark Kullanımı Prosedürüne aynen uymakla yükümlüdür. Buna
+muhalif hareket eden Girişimci, ziyaretçisi ya da personelinin oluşturduğu ziyan Girişimciden tahsil
+edilir ve aykırı faaliyet prosedürü uygulanır.
+
+       • Girişimci ve ziyaretçisi araç şarj istasyonlarını kullanırken Otopark Kullanımı Prosedürüne
+aynen uymakla birlikte istasyonları kullanırken yüklenici firmaya ait mobil uygulamada belirtilen
+yönlendirmelere uymalıdır. Bu kurallara uyulmamasından doğan hiçbir ziyandan Yönetici Şirket
+sorumlu tutulamaz. Yönetici Şirket ziyanı Girişimciden tahsil etmeye yetkidir.
+
+       7.1.8. Bölgeye Giriş ve Çıkışlar
+
+       • Girişimcinin çalıştırdığı Ar-Ge, yazılım ve tasarım personelinin, Bölgede fiilen çalışıp
+çalışmadığı Yönetici Şirket tarafından denetlenecektir. Söz konusu denetim, kurulan dijital sistemler
+(Kişiselleştirilmiş çipli kart, parmak izi, QR, NFC vb.) ile sağlanmaktadır.
+
+       • Dijital takibin sağlanması Girişimci, personeli için Yönetici Şirkete talepte bulunulacak, eğer
+personelin Bölge içinde çalışması Yönetici Şirket tarafından onay almış ise 3 (üç) iş günü içinde
+kurulu sistemlere personel entegre edilecektir.
+
+       • Girişimcinin nezdinde çalışan Ar-Ge, yazılım ve tasarım personeli, Yönetici Şirket tarafından
+kişiye özel tanımlanan dijital sistemle giriş-çıkışlarını belirtilen okuyucu/turnike ile yapacaktır.
+Okuyucu/turnike bölgesi kameralarla denetim altında tutulup Bölgeye giriş-çıkış yapan tüm
+personeller kayıt altına alınacaktır.
+
+       • Ar-Ge, yazılım ve tasarım personelinin Ar-Ge çalışma sürelerini tespiti sağlayan dijital
+sistemleri kullanmaması, düzensiz kullanması ya da unutması durumlarından tamamen Girişimci
+sorumludur.
+
+       • Girişimci, çalıştırdığı tüm personellerden kendisi sorumludur. Bu kapsamda, Girişimci
+çalıştırdığı personelin adı-soyadı ve görev tanım listesini Yönetici Şirkete verecektir ve sistem
+kayıtlarını gerçekleştirecektir. Girişimci, bu kapsamda bilgisini vermiş olduğu tüm personel ve
+üçüncü kişilerin KVKK kapsamında aydınlatma, açık rızalarının alınması ve sair yükümlülüklerini
+yerine getirecektir. Yönetici Şirket de listeye göre dijital takip sistemleri kaydını ve yerleşkeye giriş
+için taşıt geçiş iznini (bedeli karşılığında) verecektir. Bu listede bulunan personelin ayrılması veya
+yeni personel alınması durumunda, Girişimci Yönetici Şirkete bilgi vermek ve takip sistemlerinden
+personelin kaydının silinmesini talep etmekle yükümlüdür, aksi takdirde tüm sorumluluk Girişimciye
+aittir. Yönetici Şirket, dijital takip sisteminde bulunmayan veya bu listede olmayan kişileri ziyaretçi
+olarak kaydedip kayıtlarını tutabilecektir. Girişimci bu bağlamda KVKK kapsamında yerine
+getirilmesi gereken usul ve esasları yerine getirecektir.
+
+       • Girişimci personeli ve ziyaretçileri, yerleşkeler dahilinde ve/veya yerleşke yönetimince
+belirlenen güvenlikle ilgili her türlü uyarı ve yönlendirmeye uymakla yükümlüdür. Girişimci,
+personelinin uygunsuz davranışlarından dolayı personeli ile müteselsilen sorumlu tutulacaktır.
+
+       • Girişimcilerin ziyaretçileri, Yıldız Teknik Üniversitesi Davutpaşa Kampüs kurallarına, ortak
+mekân ve araçların kullanım esaslarına uyacaktır. Girişimci, ziyaretçilere güvenlikle ilgili her türlü
+uyarıyı yapmakla yükümlüdür. Girişimcinin tüm ziyaretçileri Açık Ofis/Co-working Kullanım
+Prosedürünü eksiksiz uymakla yükümlüdür. Yönetici Şirket prosedüre aykırı hareket eden
+ziyaretçinin, ziyarete geldiği Girişimci ile ilgili yaptırım hakkını saklı tutar.
+
+       • Girişimciler ve ziyaretçileri afet ve acil durumlarda Bölge güvenlik ve sorumlularının
+yönlendirmelerine uymakla yükümlüdür. Yönlendirmelere uymayan ve yetkili personele güçlük
+çıkaranlar oluşacak mal ve can kaybından Yönetici Şirketi mesul tutamaz. Yönetici Şirket mal ve can
+kaybına sebebiyet verdiği tespit edilen kişilerden resmi makamlar aracılığı maddi manevi kaybını
+tazmin eder.
+
+       7.1.9. Girişimcinin Bölgede Personel Çalıştırırken Uyması Gereken Kurallar
+       Personel Profillerinin Hazırlanması;
+       Bölge içerisinde Ar-Ge, destek ve tasarım personeli olarak çalışacak personellerin tanım ve
+vasıfları 4691 sayılı Kanun ile belirlenmiştir. Girişimciler, projelerinde çalıştırmak üzere istihdam
+edecekleri personelleri bu kriterlere göre seçmelidir.
+       Girişimci, Yönetici Şirketçe belirtilen, personele ait işe giriş evraklarını eksiksiz olarak
+kullanılmakta olan portal üzerinden beyan etmeli ve personelin işe başlangıç tarihine kadar Yönetici
+Şirkete onaylatmış olmalıdır. Personelin işe başlangıcından sonra oluşturulmuş veya çeşitli
+nedenlerle onaya gönderilmesi geciktirilmiş personeller için Yönetici Şirketin teşvikler bakımından
+hiçbir sorumluluğu bulunmamaktadır ve Girişimci, SGK bildirimlerinde bu durumu göz önünde
+bulundurmalıdır.
+       Bilişim personeli olarak oluşturulan taleplerin Kanun’da belirtilen kriterlere uygunluk
+sağlaması ve Yönetici Şirket tarafından belirlenecek SGK meslek kodlarına göre işe giriş işlemlerinin
+yapılmış olması gerekmektedir. Yönetici Şirket personelin geliştirilen Ar-Ge kapsamında işe alınmış
+olduğuna onay vermez ise personel Bilişim Personeli olarak faaliyet gösteremez.
+
+       Dijital Takip Sistemi Tanımı;
+       • Girişimci, Bölgede çalışması onaylanan personeli için dijital takip sistemi kaydı için talepte
+bulunmalıdır. (Kişiselleştirilmiş çipli kart, parmak izi, QR, NFC vb.) Sistem kaydı ortalama 3 (üç) iş
+günü içinde hazırlanır. Zamanında oluşturulmamış ve aktif kullanılmayan kayıtlarla ilgili Yönetici
+Şirketin sorumluluğu bulunmamaktadır.
+       • Girişimci, dijital takip sistem şartları ile ilgili personelini bilgilendirmekle yükümlüdür.
+Personel bir başkası adına sisteme/Bölgeye giriş-çıkış yapamaz, kişiselleştirilmiş kaydını kullanması
+için bir başkasına veremez. Yetkisiz kullanımın tespit edilmesi durumunda Girişimcinin kendisi
+sorumludur. Bu eylem aykırı faaliyet kapsamında değerlendirilir ve Yönetici Şirket, Girişimciden
+savunma yazısı isteme hakkına sahiptir. Yetkisiz kullanım yapan personelin tespit edilen gün/günler
+için teşvik bildirimi yapılamaz. Yapılır ise Yönetici Şirket, bildirimin iptal edilmesini isteme hakkına
+sahiptir.
+       • İşten ayrılan personelin dijital takip sistemi kaydı, süre geçmeksizin nezdinde çalıştığı
+Girişimci tarafından Yönetici Şirkete bildirilmelidir. SGK kaydı sonlandırılmış olmasına karşın
+personelin Bölgeye giriş-çıkışı mevcut ise tüm sorumluluk Girişimciye aittir. İşbu durumda Yönetici
+Şirketin herhangi bir sorumluluğu ya da telafi işlemi olmaz.
+       • İşten ayrılan ya da kurum bağı devam eden personelin Girişimci ile hukuki süreçte olduğu
+durumlarda, personelin ya da Girişimcinin dijital takip sistemlerine ait mesai kayıtlarını talep etmesi
+ancak resmi makamlarca talep gerçekleştiğinde kabul görür. Resmi olmayan yolla gerçekleştirilen
+hiçbir talep Yönetici Şirket tarafından olumlu karşılanmaz. Mahkeme kararı ile gerçekleştirilen talebe
+Yönetici Şirket yine ilgili mahkemeyi muhatap alarak dönüş gerçekleştirir.
+
+       Kiralanan Ofis Alanına Göre Personel İstihdamı;
+       Girişimci, yeni personel istihdamında kiraladığı alanın metrekaresini göz önünde
+bulundurmalıdır. Bölgede metrekareye oranla personel çalıştırma sınırını, Bakanlığın belirlediği
+sınırın üstüne çıkmamak koşulu ile Yönetici Şirket belirler. Girişimci toplam kiralanan alana göre
+istihdam sağlamaz ise Yönetici Şirket bu sayının düşürülmesini istemeye yetkilidir. Girişimci, m2/kişi
+oranının aşılmamasını peşinen kabul ve taahhüt eder. Personel istihdamında kapsam dışı personel için
+gözetilmesi gereken sınır Ar-Ge personeline oranla %15’tir. Yönetici Şirket bu oranın üzerinde
+istihdam edilen personelin Bölgede çalışmasına onay/ret yetkisine sahiptir. Ret alan kapsam dışı
+personeller dijital takip sistemlerine kaydedilemezler ve Bölgeye girişlerine müsaade edilmez.
+       7.1.10. Bölgeden Ayrılma, Fesih veya İhraç Süreçleri
+
+       • Girişimci, kendi isteği ile Bölgeden ayrılmak ister ise bunu en geç 30 (otuz) gün önce Yönetici
+Şirkete bildirmelidir. Ayrılış işlemlerini tamamlamadan önce proje sonlandırma, raporlama, ödemeler
+ve sözleşmeler hususundaki süreçlerini tamamlamalıdır. Yönetici Şirket ile yapacağı fesih
+protokolüne ve bunula birlikte Bölgeye girerken imzalamış olduğu kira sözleşmesine aynen uymak
+yükümlülüğündedir.
+
+       • Girişimci, kendisine tahsis edilen alanı tahliye ederken, yapmış olduğu ofis içi dekorasyonu,
+hareketli ve sökülebilen demirbaşları ana yapıya hiçbir zarar vermemek şartıyla söküp alabilir veya
+tahliye edeceği alana kabul edilen diğer Girişimci uygun görürse tahliye edilen alandaki demirbaşları
+işbu diğer Girişimciye bırakabilir. Söküm esnasında verilecek her türlü zarardan Girişimci
+sorumludur. Sökülemeyecek durumda olan malzeme ve demirbaşlar ile ana yapıyla bağlantılı
+tadilatlar Yönetici Şirket mülkiyetine geçer. Girişimci, sözleşme süresinin sonunda alanı normal
+kullanmadan kaynaklanan normal aşınma ve yıpranmalar hariç olmak üzere, teslim aldığı gibi
+Yönetici Şirkete teslim etmekle yükümlüdür.
+
+       • Girişimci, alanı tahliye ederken işbu tahliye tarihine kadar ödemiş olduğu kullanım ve sair
+bedellerin iadesini herhangi bir surette talep edemez. Girişimci, tahliye sebebiyle Yönetici Şirketin
+uğradığı zararı tazmin eder.
+
+       • Girişimcinin, 90 (doksan) gün projesiz kalması ya da göstermiş olduğu aykırı faaliyetler
+neticesinde Aykırı Faaliyet Tespit ve Uygulama Kurulu tarafından ihraç kararı alması durumunda,
+Yönetici Şirketin tebliğinden itibaren 10 (on) içinde Bölgeden ayrılış işlemlerini tamamlayarak
+tahliyesini gerçekleştirmesi gerekmektedir. Bu süreçte tüm tahliye prosedürlerine ve Yönetici
+Şirketin yönlendirmelerine uymakla yükümlüdür. Girişimcinin tahliyeyi geciktirmesi ya da
+yürütmemesi durumunda Yönetici Şirket ofis alanında yer alan tüm taşınır eşyayı depolama ve rehin
+hakkına sahiptir. Girişimcinin konu hakkında uzlaşmaması durumunda Yönetici Şirket yasal
+haklarını uygular ve hukuki süreci başlatır.
+
+       • Fesih veya ihraç yolu ile Bölgeden ayrılmış girişimci, aynı tabela, unvan, proje ve vergi
+numarası ile Bölgeye tekrar giriş yapamaz
+
+       7.2. GİRİŞİMCİLERİN BÖLGEDE YER ALMA SEÇENEKLERİ
+       7.2.1. Ofis Alanı Kiralama
+       • Girişimci, değişken giderlerini faturalarda belirtilen günde, aidat ödemelerini, bildirimi takip
+eden 10 (on) iş günü içinde, bildirilen banka hesabına ödeyecektir. Zamanında yapılmayan
+ödemelerden dolayı oluşacak vade farkı ve faizleri de ödemeyi taahhüt ve kabul eder.
+       • Girişimci, kendisine tahsis edilen alana ilişkin mevzuat doğrultusunda 1 (bir) kira/kullanım
+bedeli ödemekle yükümlüdür. Söz konusu bedeller Yönetici Şirket Yönetim Kurulu tarafından her
+yıl belirlenir. Süzme saatlerin okunması ile yapılması gereken ödemeler var ise doğrudan Yönetici
+Şirket tarafından düzenlenen fatura tarihi itibariyle Girişimci tarafından ödenir. Belirlenen
+birim/metrekare fiyatı üzerinden her sene düzenli olarak hesaplanır ve Girişimcinin ilgili dönem
+faturasına yansıtılır.
+       • Girişimci, kiraladığı alana ilişkin elektrik, su, ısıtma ve soğutma, telefon, faks ve internet
+giderlerini ödemekle yükümlüdür. Süzme saatlerin okunması ile yapılması gereken ödemeler var ise
+doğrudan Yönetici Şirkete, belirlenen sistem doğrultusunda ve bildirilen son ödeme tarihine kadar
+ödenir. Ödemelerde yaşanan gecikmeleri Yönetici Şirket yasal oranda faiz işleterek tahsil edecektir.
+       • Girişimci, kendisine tahsis edilen alanın içinde bulunduğu binanın ortak kullanım ve işletme
+giderlerinden, işletme bütçesine göre hesaplanacak metrekare/birim maliyeti ile kullandığı metrekare
+alanının çarpımı sonucu ortaya çıkacak miktar kadar sorumludur. Girişimci, söz konusu giderlerden
+payına düşen tutarı aylık olarak Yönetici Şirkete ödeyecektir. Bu bedeller her yıl Yıldız Teknoloji
+Geliştirme Bölgesi Teknopark A.Ş. Yönetim Kurulu kararı ile yeniden belirlenir ve Girişimciye yeni
+belirlenen metrekare/birim fiyatları uygun araçlarla duyurulur. Yönetim Kurulu tarafından belirlenen
+işletme bedeli, ilgili Yönetim Kurulu Kararının verildiği tarihten bir sonraki ayın faturasına aynen
+yansıtılır. Bölgede kendi binasını inşa edecek Girişimci de kullanım alanı üzerinden diğer
+Girişimcilerle aynı sistemle işletme katkı payı ödemekle yükümlüdür. İşletme katkı payları, her ayın
+ilk iş günü fatura edilir ve 10 (on) iş günü içerisinde Yönetici Şirket tarafından belirlenen banka
+hesaplarına ödenir. Katkı payları Yönetici Şirket tarafından her yıl için tayin ve ilan edilir.
+Ödemelerde yaşanan gecikmeleri Yönetici Şirket yasal oranda faiz işleterek tahsil edecektir.
+
+       • Girişimci, değişken giderlerini faturalarda belirtilen günde, kullanım/kira bedeli ile işletme
+gideri ödemelerini, bildirimi takip eden 10 (on) iş günü içinde ve bildirilen banka hesabına
+ödeyecektir. Girişimcinin işbu tutarları ödememesi halinde vade tarihinden itibaren mevduata
+uygulanan en yüksek faiz uygulanır. Ayrıca bir zarar oluşması halinde Girişimci ek olarak zararı da
+tazmin edecektir. Girişimci, kiraladığı alan için 3 (üç) aylık kira bedelini güvence bedeli olarak kira
+sözleşmenin imzalanması akabinde 3 (üç) gün içerisinde ödemelidir. Girişimci, her kira döneminde
+düzenli olarak kira bedeline uygun bir şekilde güvence bedelini arttıracaktır. Ofis alanının sözleşmeye
+aykırı veya erken tahliye edilmemiş olması kaydıyla, Girişimcinin alanı tam, eksiksiz, boş, temiz ve
+aldığı gibi teslim ettiği tarihten itibaren 3 (üç) ay içerisinde Girişimciye ilişkin bir yasal süreç
+işletilmez ise ve Girişimcinin Yönetici Şirket ya da resmi kurum veya kuruluşlar nezdinde herhangi
+bir borç veya yükümlülüğü bulunmaması halinde söz konusu 3 (üç) aylık kullanım bedeli talebi
+üzerine Girişimciye iade edilebilecektir. Girişimci, kira sözleşmesi veya mevzuat tahtındaki herhangi
+bir yükümlülüğünü yerine getirmezse; Yönetici Şirket, herhangi bir ihtar ve/veya ihbara gerek
+kalmaksızın alacaklarını işbu güvence bedelinden tahsil edebilir.
+
+       • Girişimci, Yönetici Şirket tarafından belirlenen sistemlere güncel iletişim adreslerini
+kaydetmemesi durumunda ödemelerin gecikmesi ile ilgili bildirimlerde oluşacak her türlü zararın
+sorumluluğunun kendisine ait olduğunu kabul eder.
+
+       • Girişimcilerin sözleşme yenileme ve ayrılış işlemlerinden önce cari hesaplarına yönelik borç
+bakiyelerini kapatmaları gerekmektedir. Borcun kapatılmaması durumunda ilgili süreçlere yönelik
+işlemler gerçekleştirilmeyecektir. Oluşacak maddi ve manevi zararı Yönetici Şirket Girişimciden
+talep etme hakkına sahiptir.
+
+       • Girişimcinin borç bilgilerine yönelik iletişim kanalları aracılığıyla iletilen konularda dönüş
+alınamaması durumunda Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. konu ile ilgili gerekli
+hukuki süreçleri uygulayacaktır. Ödemelerinde vade sürelerini geçiren Girişimciden uyarılara rağmen
+ödeme konusunda dönüş alınamaz ise yasal süreç başlatılır ve tahliye işlemleri uygulanır.
+
+       • Girişimcilerin taraflarına kesilen tüm fatura ödemelerinde Yıldız Teknoloji Geliştirme
+Bölgesi Teknopark A.Ş.’nin kabul ettiği ödeme yöntemi banka havale/eft yoluyla gerçekleştirilir.
+
+       • Girişimci, kira sözleşmelerinde belirtildiği üzere kira, işletme ve aidat bedeli ödemelerini her
+ayın ilk 10 (on) gününde gerçekleştirmesinin zorunlu olduğunu kabul eder. Vadesinde ödenmeyen
+fatura bedellerine yönelik uygulanacak vade farklarını taahhüt ve kabul eder. Aksi durum aykırı
+faaliyet olarak kabul edilir. Girişimcinin fatura edilen tutarlara yönelik ödeme gecikmelerinden dolayı
+Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. uğrayacağı tüm maddi zararları Girişimciden
+talep etme hakkına sahiptir.
+
+       • Girişimci, Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.’ye ait toplantı salonu,
+konferans salonu, Tekno-Teras, üniversite içindeki Kongre Merkezi, orta bahçe alanı gibi alanları
+ihtiyaç duyması ve Yönetici Şirket tarafından uygun görülmesi halinde Yönetici Şirketin belirlenmiş
+olduğu güncel tutarlar üzerinden saat ücreti veya günlük kiralama bedeli karşılığında kiralama
+gerçekleştirebilecektir. Bu kiralama işlemi esnasında kiralanan alanda herhangi bir hasar ve maddi
+kayıp yaratacak herhangi bir faaliyette bulunmayacaktır. Girişimci, planlanan organizasyon ve
+organizasyon katılımcıları ile ilgili detaylı bilgiyi Yönetici Şirkete belge ile sunmakla yükümlüdür.
+Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.’ye kiralanan alanın belirtilen maksat veya tema
+haricinde kullanımının tespiti ve katılımcı veya davetlilerden spekülatif kişilerin tespiti durumunda
+Yönetici Şirket organizasyonu ve kiralamayı iptal etme ve aykırı faaliyet prosedürü uygulama hakkını
+saklı tutacaktır.
+
+       • Yönetici Şirket ofis alanı dışında güncel koşul, şart, mücbir sebeplerle birlikte trendleri ve
+akımları da takip ederek çeşitli format ve konseptlerde kiralama gerçekleştirebilir. Girişimci
+kendisine belirtilen tüm koşulları ve sözleşmeleri aynen kabul eder.
+       7.2.2. Bina İnşa Etme
+    a. Girişimcilerin Kendi Binasını İnşa Etmesi
+
+       • Gerçekleştirilecek inşaat işlerine ilişkin tüm borç ve sorumluluklar müstakilen ve münhasıran
+Girişimciye aittir.
+
+       • Bölgede bina inşa etmek isteyen Girişimci, Bölgede geçerli olan her ölçekteki kentsel tasarım
+projeleri, imar planları ve bunlara bağlı diğer planlardan belirlenen yapılaşma esaslarına uymakla
+yükümlüdür. Bölgede imar planlarında ve 4691 sayılı Kanunda belirtilen kullanımlara ait yapılar
+haricinde yapı yapılamaz.
+
+       • Bölgede kendi binalarını inşa etmek isteyen Girişimci, Yönetici Şirketin belirlediği esas ve
+koşullar ile imzaladıkları sözleşmeye uymakla yükümlüdür.
+
+       • Girişimci, Yönetici Şirket ile imzaladığı sözleşmeye ek olarak inşa edeceği yapıya ait yapı
+ruhsatına esas avan projelerini Yönetici Şirkete teslim edecektir.
+
+       • Yönetici Şirket, Girişimciye ait avan proje üzerinde Bölgenin genel görünümüne uygun olmak
+kaydıyla gerekli değişiklikleri önermeye ve buna yönelik Girişimci tarafından yapılacak önerileri
+değerlendirmeye yetkilidir. Planlarda yapılan tüm değişiklikler Yönetici Şirketin kontrolüne tabidir.
+
+       • Yönetici Şirketin yazılı olarak onaylamadığı hiçbir çalışma yapılamaz.
+       • Girişimci, Bölgede inşaata başlayabilmek için yapıya ilişkin mimari, statik, makine ve elektrik
+tesisat projelerini hazırlayıp/hazırlatıp Yönetici Şirkete onaylatmak üzere teslim edecektir.
+       • Yönetici Şirket, projeleri inceleyerek eksik olması durumunda 10 (on) gün içinde
+tamamlanmak üzere Girişimciye iade eder. Girişimci, ilgili TMMOB Meslek Odalarından,
+onaylanmış bu projelerin vizelerini yaptırarak Yönetici Şirkete teslim edecektir. Yönetici Şirket,
+onaylanmış bu projeler sonucunda inşaata ait yapı ruhsatını Girişimciye teslim edecektir.
+       • İnşaat sırasında mimari, inşaat, makine ve elektrik mühendisliği denetiminden geçmesi
+gereken iş konularının kontrolü Yönetici Şirketin belirleyeceği teknik personel tarafından
+yapılacaktır. Yönetici Şirket tarafından seçilen kontrolör personel, aylık raporlar düzenleyerek
+Yönetici Şirkete bilgi verecektir. Kontrol esnasında hatalı imalat ve/veya eksik malzeme tespiti
+halinde Yönetici Şirket Girişimciyi uyaracaktır.
+       • İnşaat sırasında Çevre Şehircilik ve İklim Değişikliği Bakanlığı ve İstanbul Belediye İmar
+Müdürlüğünün mevcut ve ileride çıkması muhtemel kanun, yönetmelik ve şartnamelerinin belirlediği
+esaslar ile emniyet standartları, deprem ve yangın şartnamesinde belirtilen esaslara uyulacaktır.
+İnşaatla ilgili tüm sorumluluk Girişimciye ait olacaktır.
+       • Yapının iç ve dış mekânlarının inşaatı tamamlanıp, yapı kullanıma hazır hale geldiğinde,
+Yönetici Şirket tarafından ilgili kontroller ve kabul işlemleri (geçici kabul ve kesin kabul) yapıldıktan
+sonra Girişimciye yapı kullanma izin belgesi verilir. Bu belgenin alınmasıyla inşaat süresi sona erer.
+       • Bölgede yapılan binanın mülkiyeti Yönetici Şirkete ait olacaktır. Binanın kullanım hakkı,
+aralarında imzalanan sözleşmeyle belirlenen süre boyunca Girişimcide olacak, daha sonra Yönetici
+Şirkete tüm hakları ile devredilecektir.
+       • Harçlar ve Belediyeler Kanununa göre yapılaşmaya dair İstanbul Belediyesince ve diğer resmi
+kurumlarca istenecek her türlü ücret, Yönetici Şirket tarafından yazılı olarak bildirilecek ve
+Girişimciden tahsil edilecektir.
+
+    b. Yatırımcı Olarak Ar-Ge Binası İnşa Edilmesi
+
+       • Gerçekleştirilecek inşaat işlerine ilişkin tüm borç ve sorumluluklar müstakilen ve münhasıran
+Girişimciye aittir.
+
+       • Yatırımcı olarak Bölgede Ar-Ge binası inşa edecek olan yatırımcıların başvuruları
+değerlendirilmek üzere Yönetim Kuruluna sunulmaktadır.
+
+       • İnşaat koşulları, teknik şartnameyle Girişimci tarafından Yönetici Şirkete sunulacaktır.
+Projede yapılacak tadilat ve revizyonun öncelikle Yönetici Şirket onayından geçmek
+zorunluluğundadır.
+
+       • İnşaatın süresi, Girişimcinin yapı ruhsatını almasıyla, yapı kullanma izin belgesinin
+alınmasına kadar geçen süredir. Girişimci bu süre boyunca, Yıldız Teknik Üniversitesi Yapı İşleri ve
+Teknik Daire Başkanlığının inşaatta uyulması gereken kurallarına uyacak, Yıldız Teknik
+Üniversitesi’nin ve Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.’nin düzenini bozacak ya da
+güvenliğine zarar verecek durumlara yer vermeyecektir.
+
+       • Girişimciye, Yönetici Şirket tarafından belirlenen bir bölgede stok sahası da dikkate alınarak
+bir şantiye sahası ayrılacaktır. Girişimci bu bölge çevresindeki yolları kesmeyecek ve başka alanları
+işgal etmeyecek şekilde çalışacaktır.
+
+       • İnşaat sırasında tüm araç trafiği Davutpaşa Kampüsü içerisinden Teknopark alanı giriş yolu
+üzerindeki kapısından sağlanacaktır. Yıldız Teknik Üniversitesi Yerleşkesi kesinlikle aşırı yük
+güzergahı olarak kullanılmayacaktır.
+
+       • Hafriyat araçları şantiye sahası dışına çıkarken gerekli araç temizliği sağlanacak ve gerekli
+tedbirler alınacaktır. (Hafriyatın üzerine branda çekilmesi vb.)
+
+       • İhtiyaç duyulan toprak, stabilize, çakıl vb. dolgu malzemesi Yıldız Teknik Üniversitesi
+Davutpaşa Kampüsü dışından temin edilecektir.
+
+       • Hafriyat malzemesi, Yıldız Teknik Üniversitesi’nin ihtiyacı halinde kampüs içinde gösterilen
+yere dökülecek, aksi takdirde belediyenin gösterdiği döküm alanına götürülecektir.
+
+       • Şantiye binası (şantiye şefi, mühendisler, muhasebe, kontrolör personel, sekreter ofisleri,
+bilgisayar hizmetleri, mutfak, yemek salonu, toplantı odası vb.) tüm ihtiyaçları karşılayacak nitelikte
+olacaktır. Şantiye sahasında ya da etrafında Yönetici Şirketin izni olmadan yatakhane ve koğuş
+bulundurulmayacak ve fazla mesai dışında, çalışan inşaat işçisi konaklamayacaktır.
+
+       • Şantiye alanının etrafı gürültü kirliliğinin önlenmesi ve emniyetin sağlanması için tahta ya da
+saç ile kapatılacak ve Yönetici Şirketin istediği renge boyanacaktır. Bu koruma duvarına uygun
+görülen ölçü, renk ve aralıklarla emniyet uyarı levhaları asılacaktır.
+
+       • İnşaat girişine dışarıdan görülebilecek şekilde inşaat tanıtım tabelası (işin adı, yüklenici firma,
+kontrolör, birinci keşif bedeli, bitim tarihi vb. bilgileri) konacaktır.
+
+       • Şantiyede çalıştırılacak teknik ve destek personelin (yatılı ve yatılı olmayan) kimlik bilgileri
+Yönetici Şirkete sunulacaktır. Bu personelle ilgili her türlü emniyetin ve güvenliğin temin edilmesi
+Girişimciye aittir.
+
+       • Elektrik ve su altyapısı, Yönetici Şirket tarafından şantiye sahasına yakın yerden verilecek;
+dağıtımı ve ücreti Girişimci tarafından karşılanacaktır.
+
+       • Su, elektrik, telefon vb. ihtiyaçlar için gereken abonelik işlemleri ve onay alımları, Yönetici
+Şirket onayıyla Girişimci tarafından yapılacaktır.
+
+       • Girişimci, şantiyesi için yaptırdığı abonelikleri (su, elektrik, telefon, vb.) inşaatın bitiminden
+sonra hesap kesme işlemini yaptırdıktan sonra bir tutanakla kapatacaktır.
+
+       • İnşaat sırasında yanıcı ve patlayıcı maddelerin depolanması ve/veya kullanılması için Yönetici
+Şirketten ve ilgili resmi kurumlardan özel izin alınacaktır.
+
+       • İnşaat sırasında mevcut elektrik, haberleşme hatları ve su kanalları gibi altyapıya zarar
+verilmemesine dikkat edilecek, meydana gelen her türlü zarar Girişimciden hemen tazmin edilecektir.
+
+       • Girişimci, Yönetici Şirketin izni dışında, bina etrafı dolgu malzemesi olarak çakıl ve stabilize
+dışında başka bir malzeme kullanmayacaktır.
+
+       • Müteahhit firma ve inşaat çalışanları, Yıldız Teknik Üniversitesi Davutpaşa Kampüsü’nde
+kendilerine tanımlanan alan dışında dolaşamaz.
+
+       • Sözleşmeye dayalı yatırım ve inşai işlerle ilgili vadelerimiz hakkediş imzalandıktan sonra en
+geç 90 (doksan) gün içerisinde ödenir.
+
+       8. YÖNETİCİ ŞİRKET HİZMETLERİ
+       Yönetici Şirketin, Bölgede sunduğu hizmetlerin bir kısmını kesebilme hak ve yetkisi
+bulunmaktadır. Bölgede destek ve hizmetlerin kesilmesi, durdurulması veya ortadan kaldırılması
+halinde Yönetici Şirketin herhangi bir borç, yükümlülük ve sair sorumluluğu doğmamaktadır. Bu
+kapsamda Girişimci, herhangi bir hak, alacak ve sair iddia ile talepte bulunmayacaktır.
+       Yönetici Şirket, aşağıda belirtilen hizmetleri arttırabilir, sonlandırabilir; bu hizmetlerden bedel
+alıp almama konusundaki haklarını saklı tutar.
+       8.1.GİRİŞİMCİLERE PROJELER VE TEŞVİKLER HUSUSUNDA DANIŞMANLIK
+           HİZMETLERİ
+
+       8.1.1. Proje Danışmanlığı
+       Girişimciye, Bölgede yer alma aşamasından itibaren alanında donanımlı uzmanlar, proje yazımı
+ve sistem kullanımı hakkında bilgilendirici eğitimler düzenlemektedirler. Girişimcinin Bölgede
+kaldığı süre boyunca proje süreçleri ile ilgili ihtiyaç duydukları destek sağlanmaktadır. Yönetici
+Şirket bu hizmeti ücretlendirebilir, tamamen ücretsiz verebilir ya da hizmeti sonlandırabilir. Bu
+hususta inisiyatif yetkili uzman görüşüne tabidir.
+
+       8.1.2. Teşvik Danışmanlığı
+       Girişimci, Bölgede yer alma aşamasından itibaren alanında donanımlı uzmanlar, Teknoloji
+Geliştirme Bölgeleri teşvikleri ve kullanılan sistemler hakkında Girişimciye bir dizi eğitim düzenler.
+Girişimcinin Bölgede kaldığı süre boyunca düzenlenen Teknoloji Geliştirme Bölgeleri teşvikleri
+seminerleri ve anlık olarak ihtiyaca binaen oluşturulan danışmanlık görüşmelerinden faydalanması
+mümkündür. Bununla birlikte Bölge dışında yer alan gerçek ya da tüzel kişilerin TGB teşvikleri ile
+ilgili bilgi taleplerine düzenlenen eğitimler ile destek verilir. Yönetici Şirket bu hizmeti
+ücretlendirebilir, tamamen ücretsiz verebilir ya da hizmeti sonlandırabilir. Bu hususta inisiyatif
+yetkili uzman görüşüne tabidir.
+
+       8.2.TEKNOLOJİ TRANSFER OFİSİ HİZMETLERİ
+       8.2.1. Üniversite Sanayi İş Birliği
+       • Bölge içerisinde yer alan Girişimci ile aynı alanda çalışmaları bulunan üniversite
+akademisyenlerinin ortak proje geliştirilmesi için görüşebilmesi ve bir araya gelmeleri sağlanır.
+       • Teknopark Girişimcilerinin akademik danışmanlık talepleri için sözleşme süreçlerini
+yönetilir, akademisyenin görevlendirme süreci takip edilir.
+       • Bölge içerisinde yer alan Girişimcilerin talebi doğrultusunda proje fikirlerini değerlendirir ve
+uygun olan fon programları için yönlendirmede bulunur.
+       • TGB içerisinde yer alan Girişimcilerin Yıldız Teknik Üniversitesi öğrencileri ile
+geliştirebileceği iş birlikleri için alternatifler sunulur ve sürecin idari koordinasyonu sağlanır.
+       • Bölge içerisinde yer alan Girişimcilerin ulusal fon programlarına (TÜBİTAK, KOSGEB)
+yönelik hazırlayacağı projeler için başvuru danışmanlığı hizmeti verilir.
+       • Bölge içerisinde yer alan Girişimciler için ulusal fon programları hakkında bilgilendirme
+etkinlikleri ve eğitimler düzenlenir.
+       • TGB içerisinde yer alan Girişimcilerle sektördeki öncü kurumların, üniversite-sanayi iş
+birliklerinin katma değer yaratacak ve yeni gelir kanalları yaratacak şekilde koordinasyonu sağlanır.
+       • Üniversite sanayi iş birliği kapsamında yürütülecek olan faaliyetler için Girişimcilerden bütçe
+talep edilmesi Yönetici Şirketin inisiyatifindedir.
+
+       8.2.2. Uluslararası Projeler
+       • Avrupa Birliği ve diğer uluslararası fonlayıcı kuruluşlar tarafından yayımlanan hibe
+programlarının takibi ve Bölge Girişimcilerine duyurulması sağlanır.
+       • Bölge içerisinde yer alan Girişimciler için uluslararası fon programları hakkında bilgilendirme
+etkinlikleri ve eğitimler düzenlenir.
+       • TÜBİTAK Avrupa Birliği Çerçeve Programları Destek ve Ödül programları için
+araştırmacıların hazırlayacağı başvurulara danışmanlık hizmetleri sunulur.
+       • Uluslararası projeler için bütçe hazırlama, ortak bulma; bulunması halinde eşleştirme
+hizmetleri sunulur.
+       • Bölge içerisinde yürütülecek olan uluslararası fon programlarının ve akademisyen projelerinin
+bir program kapsamına yerleştirilmesi ve bunların sponsorluk, kurumsal iş birlikleri bütününde
+yürütülmesi faaliyetleri yürütülür.
+       8.2.3. Patent ve Lisanslama
+       • Yeni buluşların akademisyenlerden ve Bölge Girişimcilerinden toplanarak patentlenebilirlik
+kriterleri çerçevesinde değerlendirilmesinin yapılması sağlanır.
+       • Patent tescili için gerekli olan araştırma, inceleme raporu gibi süreçlerin buluşçular ve vekil
+Girişimcilerle koordineli bir şekilde yapılması sağlanır.
+       • Talep edilen fikri hakların portföyü oluşturulur ve takibi yapılır.
+       • Üniversite ve Girişimcilere çeşitli seviyelerde eğitimler verilmesi ve organizasyonu yürütülür.
+       • Talep halinde Bölgede faaliyet gösteren ve Bölge dışındaki Girişimcilerle FMH eğitimleri ve
+danışmanlığı hizmetinin verilmesini organize eder.
+
+       8.3. TEKNİK VE İDARİ HİZMETLER
+       8.3.1. Güvenlik
+       Bina ve ortak alanların güvenliği 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun ve ilgili
+mevzuat çerçevesinde Yönetici Şirket tarafından sağlanır. Girişimci, kendisine tahsis edilen alanın
+güvenliğinden bizzat kendisi sorumludur. Girişimcinin özel güvenlik hizmeti talep etmesi durumunda
+Yönetici Şirket gerekli yönlendirmeyi yapar ya da ücretlendirme ile destek sağlar.
+
+       8.3.2. Temizlik
+       Yönetici Şirket, binaların ve ortak kullanım alanlarının temizliğinden sorumludur. Girişimci ise
+kendisine tahsis edilen alanın temizliğinden bizzat sorumludur. Girişimcinin özel temizlik hizmeti
+talep etmesi durumunda Yönetici Şirket gerekli yönlendirmeyi yapar ya da ücretlendirme ile destek
+sağlar.
+
+       8.3.3. Ulaşım
+       Bölgede yer alan Girişimci talepleri dikkate alınarak, Bölge konumu itibarıyla Yönetici Şirketin
+belirlemiş olduğu uygun lokasyondan ortak ring servisleri ile ulaşım desteği sağlanmaktadır. Ring
+servis hizmeti Yönetici Şirketin inisiyatifindedir. Yeterli sayıda çalışanı olan Girişimci kendi servis
+sistemini de kurgulayabilmekte, Yönetici Şirket bu konularda yönlendirmeler yaparak kolaylaştırıcı
+bir rol üstlenmektedir. Yerleşke Yönetimi, işbu hususta ayrıca bir düzenleme, emir ve talimat
+bildirirse Girişimci aynen uygulayacaktır.
+
+       8.3.4. Sosyal ve Kültürel Hizmetler
+       Girişimci ve çalışanları kampüs içerisinde bulunan sosyal ve kültürel hizmetlerden ücreti
+mukabilinde yararlanabilirler. Üniversite kontrolünde olan sosyal alanlardan, Üniversite yönetiminin
+uygun bulması durumunda ücretsiz ya da ücreti karşılığında faydalanabilirler.
+
+       8.3.5. Çevre Düzenleme
+       Bölgede yeşil alan ve ortak alanların bakımı Yönetici Şirket tarafından yapılır. Yerleşke
+yönetiminin düzenleme, kural, emir ve talimatları Bölgede aynen uygulanır.
+
+       8.4.INNOVATION HUB
+       Bölgede yer alan Girişimciler ihtiyaçları doğrultusunda YTÜ Yıldız Teknopark Innovation
+Hub’ın laboratuvar, makine-teçhizat, malzemelerini vb. kullanabilirler. Kullanım için öncelikli olarak
+Innovation Hub ile iletişime geçilerek imalatı yapılacak projelerin (CAD – CAM, 3D ve 2D Tasarım,
+Kodlama yazılımı vb.) belgelerinin gönderilmesi gerekmektedir. Kullanımın uygunluğunun ilgili
+birim tarafından değerlendirilmesiyle Girişimciye müspet ya da menfi dönüş sağlanır. Girişimcinin
+kullanımı için ücret talep edilebilir. Kullanım koşulları, ilgili laboratuvarın sorumlusu/akademisyeni
+tarafından belirlenecektir. Girişimciler belirlenen kullanım koşulları dışına çıkamaz.
+
+       8.5.KULUÇKA GİRİŞİMCİSİ NETWORK DESTEĞİ
+       Kuluçka Girişimcisine, Bölgede yer alma aşamasından itibaren alanında donanımlı uzmanlar,
+projelerinin sektörel olarak pazar ve mentörleri ile buluşması konusunda destek sağlanır. Bu hususta
+eğitim ve etkinlikler düzenlenir. Yönetici Şirket bu hizmeti ücretlendirebilir, tamamen ücretsiz
+verebilir ya da hizmeti sonlandırabilir. Bu hususta inisiyatif yetkili uzman görüşüne tabidir.
+       8.6.ADAY GİRİŞİMCİ DANIŞMANLIK DESTEĞİ
+       Bölgeye girmek isteyen 3 (üç) yaşından küçük Kuluçka Girişimcisi ya da 3 (üç) yaşından büyük
+Girişimci için, şirket kurma, Teknoloji Geliştirme Bölgelerine özel muhasebe, hukuk, proje yazımı
+ve teşvikler konusunda alanında uzman personel tarafından profesyonel destek sağlanır. Yönetici
+Şirket bu hizmeti ücretlendirebilir, tamamen ücretsiz verebilir ya da hizmeti sonlandırabilir. Bu
+hususta inisiyatif yetkili uzman görüşüne tabidir.
+       8.7.YURTDIŞI OFİSLERİNDE YER ALAN GİRİŞİMCİLERE DANIŞMANLIK
+
+           DESTEĞİ
+       Bölgede faaliyet gösteren Girişimcilerin yurtdışı ofislerinde yer almak istemesi durumunda,
+bulunulan ülke özelinde muhasebe, hukuk, ofis kiralama, network oluşturma gibi süreçlerinde
+danışmanlık hizmeti verilmektedir. Yönetici Şirket bu hizmeti ücretlendirebilir, tamamen ücretsiz
+verebilir ya da hizmeti sonlandırabilir. Bu hususta inisiyatif yetkili uzman görüşüne tabidir.
+       Yurtdışı ofislerinde yer almak isteyen Girişimciler Yurtdışı Ofis Kabul ve Kullanım
+Şartnamesine uymakla yükümlüdür.
+
+       9. YÖNETİCİ ŞİRKET YETKİ VE GÖREVLERİ
+       • Yönetici Şirket, Bölgede, atık su altyapı tesisleri, atık su, tehlikeli tıbbi atık, katı atık, gürültü
+ve hava kirliliği, toprak kirliliği, radyoaktif madde ve tehlikeli kimyasalların yönetimi, yangından
+korunma ve yangın söndürme sistemi ile doğal tehlikeleri kapsayan konular hakkında ilgili kurum ve
+kuruluşlarla koordinasyon içinde çalışır ve ilgili mevzuatlar çerçevesinde gerekli önlemleri almakla
+görevlidir.
+       • Bölge için gerekli olan, elektrik, içme ve kullanma suyu, kanalizasyon, doğalgaz ve akaryakıt,
+temizlik, güvenlik sağlanması ve kontrol sorumluluğu, ısıtma ve havalandırma, dağıtım şebekeleri,
+Bölge içi yollar, ses ve veri iletişimi, internet hizmetleri ve diğer hizmetlerin sağlanması ve kesintisiz
+olarak sürmesi için gerekli önlemlerin alınması, çalışma esaslarının/şartnamelerinin belirlenmesi,
+fiyatlandırma yapılması ve uygulanması gibi hizmetler Yönetici Şirketin yetkisinde ve
+yükümlülüğündedir.
+       • Gerekli altyapı projelendirme ve yerleşim planları değişiklikleri, eklemeleri için önerilerde
+bulunmak, Sanayi ve Teknoloji Bakanlığı, Ar-Ge Teşvikleri Genel Müdürlüğünden onay alınan
+öneriler için gerekenlerin yapılması Yönetici Şirketin yetkisinde ve sorumluluğundadır.
+       • Bölgede yer alan ya da alacak Girişimcinin, Üniversite veya Ar-Ge merkez ve enstitülerinin
+olanaklarından yararlanma yönündeki talepleri Yönetici Şirket tarafından değerlendirilir. Taleplerin
+mevzuata uygun olması halinde Yönetici Şirket tarafından işbu husus ilgili birimlere iletilerek
+koordinasyon sağlanır.
+       • Yönetici Şirket, Bölgeyi Kanun ve ilgili mevzuat doğrultusunda kullanım amacına uygun bir
+şekilde yönetir.
+       • Bölge bünyesinde yangın araç ve gereçlerinin bulundurulması, Yönetici Şirketin yetkisinde
+ve sorumluluğundadır.
+       • Bölgedeki tüm binaların yangın ve doğal afetlere karşı sigortasını yaptırmak, yangın önleme
+ve su boşaltma ile yeterli sayıda itfaiye araç ve gereçlerini hazır bulundurmak Yönetici Şirketin
+yetkisi ve sorumluluğundadır. Girişimciye tahsis edilen alan ve alan içerisindeki her türlü demirbaş,
+malzeme ve sair eşyaların sigortasının yaptırılması ise Girişimcinin sorumluluğundadır. Üniversite
+bünyesinde bulunan itfaiye araç ve gereçlerinden yararlandırılması için gerekli girişimler Yönetici
+Şirket tarafından yapılacaktır.
+       • Yönetici Şirket, Girişimcilerin Bölge sınırları içerisinde faaliyette bulundukları işlerle ilgili
+olarak ilgili Kanun ve Yönetmelikler hükmünce gerekli güvenlik önlemlerini önceden alıp
+almadıklarını denetlemek ve yaptırımda bulunmakla yükümlüdür.
+       • Yönetici Şirket, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği ek
+– III uyarınca Girişimciye tahsis edilen alan dışındaki binanın geneline ait makine teçhizatlarının
+(klima, havalandırma, asansör, gaz springleri, sıfır yangın tüpleri vs.) periyodik bakımlarını yaptırır,
+kontrol eder ve takibini yürütür.
+       • Girişimcinin nezdinde çalışan personel sayısı 50’yi (elli) geçiyorsa 6331 sayılı Kanunun İş
+Sağlığı ve Güvenliği Koordinasyonunun 23. maddesi uyarınca İSG hizmeti alıp almadığını kontrol
+etmek ve Kanun uyarınca gereklilikleri yerine getirmesini sağlamak Yönetici Şirket
+sorumluluğundadır.
+
+       • Yönetici Şirket, Bölgeye, binalarına, bağlantılarına, eklentilerine, ortak alanlarına ve Bölgenin
+alt ile üst yapılarına zarar verenlerin tespit edilmesi, zararın önlenmesi için gereken iş ve işlemlerin
+yürütülmesi ile bu zararların tazmininin sağlanması konusunda yetkilidir. Girişimci, işbu konuda
+Yönetici Şirketin emir ve talimatlarına aynen uyacaktır.
+
+       • Yönetici Şirket, Kanun, Yönetmelik ve ilgili mevzuat hükümlerine aykırılığın önlenmesi
+bakımından, Girişimciye borç ve yükümlülükler öngörebilir. Yönetici Şirket, işbu Yönerge
+kapsamında gereğini yapmaya yetkilidir.
+
+       10. PROJE BAŞVURU SÜREÇLERİ
+       10.1. ADAY GİRİŞİMCİ BAŞVURU ve KOMİSYON DEĞERLENDİRME SÜRECİ
+       • Bölgede yer almak isteyen Girişimciler resmi web sitesinde yer alan “başvuru” kısmından
+online başvurularını gerçekleştirebilmektedir. Başvuru, Aday Girişimci Değerlendirme Komisyonu
+tarafından bir ön incelemeye tabi tutulur. Bu değerlendirme hem başvuru konusu projeyi hem aday
+Girişimciyi çok yönlü olarak ele alır. Girişimci, başvuru aşamasında Yönetici Şirketin talep ettiği
+tüm evrakı ve bilgiyi eksiksiz ve doğru olarak sunmakla yükümlüdür. Eksik ya da hatalı beyanın
+tespiti durumunda Yönetici Şirket başvuruyu yok sayacaktır. Girişimcinin projesinin niteliği ve
+ticarileşme açısından niceliği değerlendirme ölçütlerindendir. Teknoloji Geliştirme Bölgeleri
+misyonuna uygun bulunmayan, Bölgeye ve milli sanayiye/teknolojiye katkısının olması görüşünü
+sağlamayan Girişimciler ön değerlendirmeden olumlu görüş ile geçemezler. Proje süresi en az 6 (altı)
+en çok 12 (on iki) ay ile sınırlıdır. Yönetici Şirket bu süreyi arttırmaya ve düşürmeye yetkilidir.
+Girişimcinin komisyon görüşüne itirazı kabul görmez. Ön değerlendirme sonucu 60 (altmış) gün
+içerisinde Girişimciye bildirilir.
+       • Aday Girişimci Değerlendirme Komisyonundan kabul alan Girişimci, sistem
+entegrasyonunun sağlanmasından sonra projesini Proje Değerlendirme Komisyonu
+değerlendirmesine gönderilmek üzere hazırlarlar. Başvuru sahibi Girişimci, proje başvuru ücretini bu
+aşamada Yönetici Şirketin belirttiği yöntemle ve belirtilen banka hesabına yatırmakla ve ücrete ilişkin
+dekontu sistem üzerinden Yönetici Şirkete beyan etmekle yükümlüdür.
+       • Bakanlık tarafından belirlenen başka bir kamu ve/veya uluslararası Ar-Ge destek programı
+kapsamında desteklenen projelerden başvuru ücreti alınıp alınmaması Yönetici Şirketin
+inisiyatifindedir.
+       • Hakem Heyeti tarafından değerlendirmesi tamamlanan ve projesi kabul gören Girişimcilere
+Yönetici Şirket uygun bulması durumunda yönetmelikteki ilgili bent kapsamında Bölgede yer
+tahsisinin yapılmasını sağlar. Bu süreçte Girişimci, ilgili birim/departman ile müzakeresine başlar.
+Kiralanabilir alan olmaması durumunda 6 ay içerisinde faaliyete başlayamayan Girişimcilerin
+Yönetici Şirket tarafından belirlenen başvuru ücretini ilgili banka hesap numarasına kendisine
+belirtilen usulle tekrardan yatırarak başvurusunu yinelemesi gerekmektedir.
+       • Yönetici Şirket tarafından talep edilmesi durumunda Girişimcinin Bölge yer alabilmesine ve
+bedelleri karşılayabileceğine dair findeks raporunu (borç ödeme kabiliyeti ve düzenliliğinin tespiti),
+resmi kurumlardan borç yoktur belgesini (Maliye, SGK, Belediye vb.) ilgili birime/departmana
+sunması gerekmektedir. Belgeleri zamanında beyan etmeyen ya da eksik evrak beyan eden
+Girişimcilerin sözleşmesi yürürlüğe girmeden tek taraflı olarak Yönetici Şirket tarafından feshedilir.
+
+       10.1.1. Projesi Onaylanan Aday Girişimcinin Kira Sözleşmesi Süreci
+       • Komisyondan geçen, proje başvurusu onaylanan ve Bölgede talep edilen alanda yer olması
+durumunda müzakere süreçleri başlatılır. Girişimcinin kaç m2 alan talep ettiği, Yönetim Kurulu kararı
+ile ilgili yılda belirlenen tutarlar nezdinde (m2/birim fiyatı, işletme gideri ve diğer bedeller)
+Girişimciye iletilir. Karşılıklı uzlaşılması halinde kira sözleşmesi imza aşamasına geçilir.
+       • Girişimci yetkili veya yetkililerinin sözleşmeyi imzalamasının ardından Yönetici Şirket
+yetkili veya yetkilileri sözleşmeyi imzalar, Yönetici Şirket yetkilisi gözetiminde Girişimciye tahsis
+edilecek alanın teslimi gerçekleştirilir.
+
+       • Yönetici Şirket Kira Sözleşmesini Proje Süresi ile sınırlı tutmaya yetkilidir.
+
+       10.1.2. Girişimci Faaliyet Onayı
+       • Kira sözleşmesi süreci tamamlanan Girişimciye, talebi doğrultusunda Faaliyet Onay Yazısı e-
+imzalı olarak iletilir. Faaliyet başlangıcı, ilgili yazının hazırlanma tarihi olarak kabul edilir. Girişimci
+Faaliyet Onay Yazısını talep etmeden önce ivedilikle kendisinden istenilen bilgi ve belgelerle tanımlı
+sistem profillerini eksiksiz olarak doldurmalı ve bu hususta Yönetici Şirket yetkili personeline bilgi
+ve talebini iletmelidir. Talebi geciktirilmiş Faaliyet Onay Yazılarının Girişimci nezdinde oluşturacağı
+hiçbir ziyandan Yönetici Şirket mesul tutulamaz. Yazı, Girişimci tarafından bağlı bulundukları vergi
+dairesi ve SGK il müdürlüğüne ibraz edilmelidir.
+
+       10.2. BÖLGEDE YER ALAN GİRİŞİMCİNİN PROJE BAŞVURU SÜRECİ
+       • Bölgede yer alan Girişimciler, yürütülen Ar-Ge, yazılım veya tasarım projeleri sonlanmadan
+en az 60 (altmış) gün önce yeni proje başvurularını yaparlar. Girişimciler, başvuru ücretini Yönetici
+Şirketin belirtmiş olduğu ödeme yöntemi ile ilgili banka hesap numarasına yatırdıktan sonra tüm
+belgeleri Yönetici Şirketin değerlendirmesine sunmakla yükümlüdür.
+       • Yönetici Şirket, başvuruyu ön incelemeye tabii tutar ve başvuru tarihini takiben 21 (yirmi bir)
+gün içerisinde projeyi değerlendirecek Proje Değerlendirme Komisyonuna sunar. Proje
+Değerlendirme Komisyonu 21 (yirmi bir) günlük değerlendirme süre hakkını kullanır. Değerlendirme
+sonucu başvuru sahibine kullanılan sistemler üzerinden bildirilir. Başvurusu olumlu bulunan
+Girişimciler, yeni proje çalışmalarına başlayabilmektedirler.
+       • Proje başvurusunda bulunan Girişimcinin ilgili tarihte geçerli kira sözleşmesi bulunmuyor ise
+Yönetici Şirket proje başvurusunu dikkate almaz ve Girişimcinin sözleşme sürecini başlatmasını ister.
+Bu aşamada 7.1.5 maddesinde yer alan Girişimci Değerlendirme Komisyonu misyonu aynen
+uygulanır.
+
+       10.2.1. Proje Karar Süreci
+       • Proje Değerlendirme Komisyonu, 12 (on iki) ayı geçmemek şartıyla proje süresi ile birlikte
+Bölge içinde ve dışında geçirilmesi gereken sürelerinin uygunluğunu, yenilik barındıracak, herhangi
+bir alanda üretilebilir, kullanılabilir, uygulanabilir olduğunu, uygulanan tekniğin bilinen durumunun
+aşıldığını gösterecek, ticarileşme potansiyeli, ithal ikame veya ihracat potansiyeli olan yüksek/ileri
+teknolojik ürünleri geliştirebilecek, üründe ve üretim yöntemlerinde yenilik geliştirebilecek, ürün
+kalitesini veya standardını yükseltebilecek, verimliliği artırabilecek, üretim maliyetlerini
+düşürebilecek, teknolojik bilgi üretilebilecek, ürünlerin katma değerini artıracak, etkin bir üniversite-
+sanayi iş birliği gerçekleştirebilecek bir Ar-Ge, yazılım veya tasarım projesi olup olmadığı
+bakımından inceler, inceleme sonucunda görüşlerini bildirir ve değerlendirme raporunu Yönetici
+Şirkete iletir. Bu kapsamda Girişimcinin projesi, Bölgede bulunmayan Girişimcilerle aynı şekilde ve
+herhangi bir farklı ya da eksik aşama olmaksızın incelenir. Proje süresi 12 (on iki) ay ile sınırlıdır.
+Yönetici Şirket bu süreyi arttırmaya ve düşürmeye yetkilidir.
+       • Bölgede faaliyet gösteren Girişimcilerin Bölgede yeni başlatacakları Ar-Ge, yazılım veya
+tasarım projesinin Proje Değerlendirme Komisyonunca değerlendirilmeye alınması gereklidir. Proje
+Değerlendirme Komisyonunca salt çoğunluk görüşü ile proje kabul edilir.
+       • Bölgede faaliyet gösteren bir Girişimcinin herhangi bir projesinin kabul olunmaması halinde
+Bölgede ancak mevcut projesinin süresi kadar faaliyette bulunabilecektir. Proje süresi sona eren
+Girişimci ile yeni bir sözleşme imzalanmaz. Yeni potansiyel girişimcilere alan sağlamak adına
+faaliyette bulunamayan Girişimcinin sözleşmeleri feshedilerek Bölgeden ihraç ve tahliye işlemleri
+yürütülür. Bu kapsamda Girişimci, proje süresinin bitim tarihinden itibaren 10 (on) gün içerisinde
+Bölgeyi tahliye eder. Bu duruma itiraz ederek mukavemet gösteren Girişimci için Yönetici Şirket
+Tahliye Prosedürünü uygulayarak gerekli hukuki süreci başlatır ve derhal ofis tahliyesini
+gerçekleştirir ve eşyasını yalnızca 1 ay süre ile depolayarak saklar. İşbu 1 aylık süre içerisinde
+eşyalarını almayan Girişimcinin tüm eşyaları imha edilir.
+
+       10.3. PROJE REVİZYON BAŞVURU SÜRECİ
+       • Bölgede yer alan Girişimcilerin yürüttükleri Ar-Ge, yazılım veya tasarım projelerine ilişkin
+revizyon (ek süre, ek ekip, proje yöneticisi değişikliği, Bölge dışında geçirilecek süre, KDV istisnası)
+talepleri, projeyi daha önce değerlendirmiş Proje Değerlendirme Komisyonu üyelerinden en az birine
+iletilir. Yapılan başvurunun proje revizyonu komisyon üyesi tarafından uygun bulunması durumunda
+Yönetici Şirket tarafından nihai kararı verilir.
+       • Girişimci, her bir revizyon türü için bir kereye mahsus talepte bulunabilir. Başvurusu
+reddedilen revizyonlar için ikinci bir başvuru kabul edilmez. Proje sonlanmasına 30 (otuz) günden az
+süresi kalan Girişimci hiçbir revizyon türü için başvuruda bulunamaz.
+       • Proje ek süre taleplerinde Girişimci statüsündeki firmalar için toplam proje süresinin
+maksimum %30’u; Kuluçka statüsündeki firmalar için toplam proje süresinin maksimum %20’si
+kadar ek süre uygulanır. Proje Bitiş tarihi geçmiş projeler için ve 1 (bir) kez uzatma talebinde
+bulunulmuş projeler için ikinci kez uzatma talebi gerçekleştirilemez. Yönetici Şirket Kira Sözleşme
+bitiş tarihini ve Girişimci Değerlendirme Komisyonunun Görüşünü göz önünde bulundurarak proje
+süresi uzatma talebini kabul etmemeye yetkilidir.
+
+       10.4. PROJE BİTİRME BELGESİ BAŞVURU SÜRECİ
+       Girişimciler, proje bitirme belgesi için başvurularını sistem üzerinden yaparlar. Girişimciler,
+proje bitirme belgesi talep formunu, Yönetici Şirketin değerlendirmesine sunmakla yükümlüdür.
+
+       Proje Bitirme Belgesi Değerlendirme Süreci
+       • Başvuru, Yönetici Şirket tarafından projeyi daha önce değerlendiren Proje Değerlendirme
+Komisyon üyelerinden birine gönderilir.
+       • Girişimci, Proje Bitirme Belgesi Talep Formunu ayrıca e-imza ile Yönetici Şirkete sunmalıdır.
+       • Değerlendirme olumlu sonuçlandığında başvurunun onayı Yönetici Şirket yetkilisi tarafından
+elektronik ortamda verilir ve Bakanlık değerlendirmesine sunulur.
+       • Bakanlık değerlendirmesi olumlu sonuçlanan başvuruya ait bitirme belgesi elektronik
+ortamda Yönetici Şirket tarafından hazırlanarak Girişimciye e-imzalı şekilde iletilir.
+       • Bitirme Belgesi kademeli bir onay sürecinden geçtiğinden Girişimci satış ve faturalandırma
+planlamasını buna göre yapmalıdır. Belgelendirme süresi ortalama 30 (otuz) gündür.
+       • Bölgeden sözleşme feshi ile ayrılacak olan Girişimcinin ayrılış işlemlerini tamamlamadan
+önce varsa bitirme belgesi taleplerini 30 (otuz) günlük evrak temin süresini göz önünde bulundurarak
+gerçekleştirmesi gerekir. İhraç ya da fesih ile Bölgeden ayrılma işlemlerinin sonlanmasından sonra
+gerçekleştirilen belge talepleri Yönetici Şirket tarafından olumsuz yanıtlanır.
+
+       11. İSTİSNA BAŞVURULARI
+       11.1. GÜMRÜK VERGİSİ İSTİSNASI BAŞVURU VE KABUL SÜRECİ
+       Gümrük Vergisi istisnası, Bölgede Kanun kapsamında yürütülen Ar-Ge, yazılım veya tasarım
+projeleri ile ilgili araştırmalarda kullanılmak üzere ithal edilen eşyalar için uygulanmaktadır. Bu
+kapsamda ithal edilen eşya, Gümrük Vergisi ve her türlü fondan, bu kapsamda düzenlenen kâğıtlar
+ve yapılan işlemler damga vergisi ve harçtan istisnadır.
+       İstisna kapsamında Gümrük Vergisi istisnasına konu eşya satın almak isteyen Girişimcilerin,
+satın alacakları eşyalar için Yönetici Şirkete sistem üzerinden başvuruda bulunmaları gerekmektedir.
+İthal Eşya Gümrük Vergisi İstisnası Değerlendirme Komisyonunun değerlendirmesinin ardından
+onay alan başvurulara ait talep formunu e-imza ile Yönetici Şirkete teslim etmekle ve imzalı belgenin
+saklanmasıyla yükümlüdür.
+       Bu istisnadan yararlanacak Girişimciler, başvurularını Ticaret Bakanlığı Tek Pencere Sistemi
+üzerinden Teknoloji Geliştirme Bölgesi Girişimcisi İthal Eşya Talep Formu ile yapar. Başvuru
+Yönetici Şirket tarafından değerlendirilir ve onay verilmesi durumunda Sanayi ve Teknoloji
+Bakanlığına aktarılır. Bakanlığın onay vermesi halinde Gümrük Müdürlüğü, gümrüğe gelen ürünü
+denetler ve talebe uygun ise onay verir.
+
+       Gümrük Vergisi İstisnası talebi her proje özelinde bir kereye mahsus olarak talep
+edilebilmektedir. Girişimciler evrak ve talep süreçlerindeki eksik ve gecikmelerden dolayı yaşanan
+ziyandan Yönetici Şirketi mesul tutamaz.
+
+       11.2. YAZILIM PROJELERİNDE KDV İSTİSNA BAŞVURUSU ve KABUL
+           SÜRECİ
+
+       Bölgede faaliyette bulunan Girişimcilerin kazançlarının Gelir ve Kurumlar Vergisinden istisna
+bulunduğu süre içinde münhasıran bu Bölgelerde ürettikleri sistem yönetimi, veri yönetimi, iş
+uygulamaları, sektörel, internet, oyun, mobil ve askeri komuta kontrol uygulama yazılımı şeklindeki
+teslim ve hizmetlerinin, 25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanunu kapsamında
+Katma Değer Vergisinden müstesna tutulması için Yönetici Şirketten onay alarak ilgili vergi
+dairesine başvuruda bulunulur.
+
+       Başvuru ve Değerlendirme Süreci
+       Girişimciler taleplerini proje başvuru aşamasında yapabildikleri gibi proje devam ederken
+revizyon şeklinde de Yönetici Şirkete iletebilirler. Girişimci, KDV istisnasını revizyon şeklinde talep
+etmesi halinde Yönetici Şirket, başvuruyu projeyi daha önce değerlendiren Proje Değerlendirme
+Komisyon üyelerinden birine göndererek Teknoloji Geliştirme Bölgeleri Uygulama
+Yönetmeliğindeki kriterlere göre incelenmesini sağlar. Başvurunun uygun bulunması halinde
+Yönetici Şirket, Girişimcinin vergi dairesine ibraz etmesi için istisna yazısını hazırlayarak
+Girişimciye iletir.
+
+       11.3. MAKİNE TEÇHİZAT KDV İSTİSNASI BAŞVURU ve KABUL SÜRECİ
+       Teknoloji Geliştirme Bölgelerinde Ar-Ge, yazılım ve tasarım faaliyetlerinde bulunanlara,
+münhasıran bu faaliyetlerinde kullanılmak üzere yapılan yeni makina ve teçhizat teslimleri 1/5/2018
+tarihinden itibaren geçerli olmak üzere KDV’den istisnadır. İstisna yeni makine ve teçhizat
+teslimlerine tanındığından, istisna kapsamında teslime konu edilecek makine ve teçhizatın
+kullanılmamış olması gerekmektedir. Diğer taraftan, makine ve teçhizatın aksam, parça, aksesuar ve
+teferruatları istisna kapsamında değerlendirilmez. İstisna kapsamında alınan makina ve teçhizatın,
+teslim tarihini takip eden takvim yılının başından itibaren üç yıl içinde ar-ge, yenilik ve tasarım
+faaliyetleri dışında kullanılmaması, elden çıkarılmaması gerekmektedir.
+
+       Değerlendirme Süreci
+       Girişimciler taleplerini proje başvuru aşamasında yapabildikleri gibi proje devam ederken
+makine teçhizat KDV istisnası talebi şeklinde de Yönetici Şirkete iletebilirler. Girişimcinin makine
+teçhizat KDV istisnasını revizyon şeklinde talep etmesi halinde Yönetici Şirket, başvuruyu projeyi
+daha önce değerlendiren Proje Değerlendirme Komisyon üyelerinden birine ileterek Teknoloji
+Geliştirme Bölgeleri Uygulama Yönetmeliğindeki kriterlere göre incelenmesini sağlar. Makine
+teçhizat KDV istisnası talebi her proje özelinde bir kereye mahsus olarak talep edilebilmektedir.
+
+       12. TEKNOLOJİK ÜRÜN PROJE BAŞVURUSU VE KABUL
+       Yönetici Şirket, Bölgede teknolojik ürünün üretilmesine izin veren 03/06/2011 tarihli ve 635
+sayılı Sanayi ve Teknoloji Bakanlığının Teşkilat ve Görevleri Hakkında Kanun Hükmünde
+Kararnamenin 8’inci maddesi kapsamında üretim yapmak isteyen işletmelere Kanun, Yönetmelik ve
+Bölge İşletme Yönergesine uygun olarak yer tahsisinin yapılması ile yetkili ve yükümlüdür.
+       Yatırımcı, başarı ile tamamlanan her bir Ar-Ge ve yenilik projesi veya faaliyeti sonucunda
+ortaya çıkan teknolojik ürünün yatırımı için destek unsurlarından yalnızca bir defa yararlandırılır.
+       Yatırım konusu teknolojik ürün, yurt içinde üretime ilk defa konu olması halinde destek
+kapsamında değerlendirilir.
+       26/06/2001 tarihli ve 4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu kapsamında kurulan
+Teknoloji Geliştirme Bölgelerinde yer alan işletmelerin, Bölgede başlatıp sonuçlandırdıkları Ar-Ge
+ve yenilik projeleri sonucunda ortaya çıkan teknolojik ürünün Bölge içerisinde yatırımının Yönetici
+Şirket tarafından oluşturulacak Teknolojik Ürün Değerlendirme Komisyonunca uygun bulunması
+veya yatırıma konu ürünün teknolojik ürün özelliği taşıdığına dair olumlu rapor verilmesi halinde
+işletmelerin gerek Bölge içinde gerekse Bölge dışında yapacakları yatırımlar destek kapsamında
+değerlendirilir.
+
+       12.1. TEKNOLOJİK ÜRÜNÜN YATIRIMI
+       • Girişimciler, Bölgede başlatıp sonuçlandırdıkları Ar-Ge veya tasarım projeleri sonucu elde
+ettikleri teknolojik ürünün üretilmesi için gerekli olan yatırımı, Yönetici Şirketin uygun bulması ve
+Bakanlığın izin vermesi şartıyla, herhangi bir Bölge içerisinde yapabilirler.
+       • Söz konusu yatırıma konu olan teknolojik ürünün üretim izin belgeleri, ilgili kurum ve kuruluş
+tarafından Bakanlık görüşü alınarak verilir. Bu yatırımlara ilişkin faaliyetler, 04/01/1961 tarihli ve
+213 sayılı Vergi Usul Kanunu gereğince tutulması zorunlu defterlerde, yatırım yapan işletmelerin
+Bölgede yürüttükleri Ar-Ge veya tasarım faaliyetlerinden ayrı olarak izlenir.
+       • Bu yatırımlar nedeniyle Girişimci nezdinde Bölgede çalışan personellerin giderleri ve bu
+yatırımlarından elde edilecek kazançlar, Bölge dışında faaliyet gösteren işletmelerin ve bunların
+personelinin tabi olduğu esaslara göre vergilendirilir.
+
+       12.2. BAŞVURU SÜRECİ
+       • Başvuru sahibi, teknolojik ürün yatırım başvurusu için Yönetmelikteki ilgili madde
+doğrultusunda Teknolojik Ürün Tanımlama Belgesini oluşturur ve yatırım alanı, makine teçhizat
+bilgisi, yatırım maliyet tutarı, üretim teknolojisi, prosesi, prosesin ve ürünün neden olabileceği çevre
+kirliliği ile çevre ve insan sağlığını korumak için alınacak tedbirleri, personel ihtiyacı, işletme
+maliyeti, pazar araştırması, arıtma tesisi konusu ve benzeri başlıkları içeren yatırıma yönelik
+hazırlanmış yatırım fizibilite raporu ile Yönetici Şirkete müracaat eder. Başvuru sahibi bu belgede,
+elde ettiği ürünün Ar-Ge faaliyet tanımını, sürecini, kullanım ve tasarım amacını, teknik özelliklerini
+detaylı bir şekilde ifade eder.
+       • Girişimciler, Bölgede başlatıp sonuçlandırdıkları Ar-Ge veya tasarım projeleri sonucu elde
+ettikleri teknolojik ürünün üretilmesi için gerekli olan yatırım başvurusunu yapıp, Yönetici Şirket
+tarafından belirlenen başvuru ücretini belirtilen yöntemle ilgili banka hesap numarasına yatırdıktan
+sonra teknolojik ürün tanımlama belgesini ve yatırım fizibilite raporunu Yönetici Şirketin
+değerlendirmesine sunmakla yükümlüdür.
+
+       12.3. DEĞERLENDİRME SÜRECİ
+       Teknolojik ürün tanımlama belgesi ve yatırım fizibilite raporunun Yönetici Şirkete teslimini
+takiben, üçü öğretim elemanı ve ikisi sektör uzmanı olmak üzere, en az 5 (beş) kişilik Teknolojik
+Ürün Değerlendirme Komisyonu, Yönetici Şirket tarafından oluşturulur ve 30 (otuz) gün içerisinde
+bu komisyon tarafından teknolojik ürün olup olmadığına, Bölge içerisinde yatırımının uygunluğuna
+yönelik gerekli inceleme ve değerlendirme yapılır.
+
+       12.4. KARAR SÜRECİ
+       Komisyon yaptığı incelemede ürünün;
+    • Bilimsel bir bilgiyi kullanmak veya geliştirmek suretiyle tasarlanıp tasarlanmadığı,
+    • Var olan bir ihtiyacı daha iyi düzeyde karşılayıp karşılamadığı,
+    • İhracat veya ithal ikamesi potansiyelinin olup olmadığı,
+    • Yaşam standardının yükselmesine katkıda bulunup bulunmayacağı,
+    • Sahip olduğu teknik özelliklerin ve/veya farklılıklarının teknolojik düzeydeki yenilikçiliği
+
+         temsil edip etmediği,
+    • Malzemelerinin, parçalarının ve yerine getirdiği işlev/işlevlerin birbiriyle uyum gösterip
+
+         göstermediği,
+    • Tasarım özelliklerinin geliştirmeye açık olup olmadığı,
+    • Piyasa standartlarına ve ilgili yönetmeliklere uygun olarak test edilip edilmediği,
+    • Üretim ve üretim sürecinin çevreye olumsuz etkisi olup olmayacağı hususlarında
+
+         değerlendirir.
+       İncelemesi tamamlanan ve teknolojik ürünün yatırımı uygun görülen projelere Yönetici Şirket
+tarafından teknolojik ürün belgesi verilir.
+       • Yıldız Teknik Üniversitesi Teknoloji Geliştirme Bölgesinde teknolojik ürün yatırımında
+bulunarak yer almak isteyen Girişimcilerin, Teknolojik Ürün Değerlendirme Komisyonundan alınan
+değerlendirme raporları, Yönetim Kurulunda değerlendirilerek başvurunun kabul edilip edilmeyeceği
+karara bağlanır.
+       • Değerlendirmenin olumlu bulunması durumunda, Yönetici Şirketin uygun görüşü ile
+teknolojik ürün değerlendirme komisyon raporu, teknolojik ürün yatırımının yapılacağı binanın da
+gösterildiği, Bölge alanının tümünü kapsayan vaziyet planı ile aynı binaya ilişkin uygulama projeleri,
+Yönetici Şirket tarafından yatırım izni için elektronik ortamda Bakanlığa iletilir.
+       • Bakanlık, Kanun ve Yönetmelik çerçevesinde yatırım talebini inceler ve uygun bulması
+durumunda Yönetici Şirkete bildirir. Bu bildirimi takiben, üretim yapmak isteyen işletmelere Kanun,
+Yönetmelik ve Bölge İşletme Yönergesine uygun olarak Bölge Yönetici Şirketince yer tahsisi yapılır.
+       • İlgili kurum ve kuruluşlardan alınacak gerekli üretim izin belgeleri Bölge Yönetici Şirketi
+aracılığı ile Genel Müdürlüğe iletilir.
+       • Teknolojik ürün yatırımı için gerekli olan bina ve tesis yapılaşma miktarı Bölgenin toplam
+yapılaşma hakkının %35’inden fazla olamaz. Bu oran her bir yerleşke için ayrı ayrı hesaplanır.
+       • Teknolojik ürün yatırımı için tahsis edilecek alan şartları Teknolojik Ürün Yatırım Tesisi
+Hizmet Sözleşmesi ile belirlenir.
+       • Teknolojik ürünün yatırım talebinin Teknolojik Ürün Değerlendirme Komisyonu tarafından
+olumsuz bulunması halinde sonuç başvuru sahibine bildirilir.
+
+       12.5. BELGE VE BİLGİLERİN DOĞRULUĞU
+       Girişimci, Hazine ve Maliye Bakanlığına ve Sanayi ve Teknoloji Bakanlığına sunulmak
+amacıyla Yıldız TGB Teknopark A.Ş.’nin onayına sunduğu bilgi ve belgeleri doğru ve eksiksiz olarak
+hazırlayıp vermekle yükümlüdür.
+       Girişimci, Kanunda belirtilen amaca uygun olarak faaliyet göstermek ve yürüttüğü faaliyetlere
+yönelik Yıldız TGB Teknopark A.Ş tarafından talep edilen her türlü veri, istatistik ve belgeyi doğru,
+eksiksiz ve zamanında sunmakla ve bu yönde gerekli denetimlerin yapılmasına izin vermekle
+yükümlüdür. Girişimci, eklerde verilen ve gerekli görülen durumlarda güncellenecek olan formları
+doldurmak suretiyle istenilen bilgileri Yıldız TGB Teknopark A.Ş.’nin belirlediği süre ve biçimde
+teslim edecektir.
+       Yasal yükümlülüklere uymayan Girişimciler uyarılacak ve en fazla 10 (on) gün içerisinde
+yükümlülüklerin yerine getirilmesi talep edilecektir. Yazılı ihtar ve verilen süre içerisinde eksikliğin
+düzeltilmemesi veya ihtardan sonra aynı hatanın 1 (bir) yıl içerisinde tekrarlanması halinde
+Girişimcinin proje süresi dolmasa dahi sözleşmeleri derhal ve haklı nedenle feshedilerek Girişimci
+Bölgeden tahliye edilecektir.
+
+       13. BÖLGEDEKİ FAALİYETLERİN İZLENMESİ
+       13.1. YÖNETİCİ ŞİRKETE YAPILACAK AYLIK VE YILLIK
+
+           RAPORLAMALARLA İLGİLİ YÜKÜMLÜLÜKLER
+       Aylık Muafiyet Raporları ve Teşvike Konu Süre Kontrolü;
+       • Girişimci, Kanun uyarınca aylık ilerlemelerini Yönetici Şirketin belirlediği rapor formatı ile
+Yönetici Şirkete sunmak ve onaylatmakla yükümlüdür. Raporların düzenli teslim edilmemesi aykırı
+faaliyettir.
+       • Aylık muafiyet raporu, takip eden ayın ilk 20 (yirmi) günü içerisinde elektronik imza sistemi
+ile Yönetici Şirket onayına sunulmalıdır. İmzacı, Girişimcinin resmi imza yetkilisi olmalı ve imza
+sirkülerinde ilgili belgeye imza yetkisi bulunduğu belirtilmiş olmalıdır. Rapor, Yönetici Şirketin
+belirtmiş olduğu evraklarla eksiksiz olarak iletilmelidir.
+
+       • Personellerin teşvike konu sürelerini gösterir liste, detaylı olarak muafiyet raporu dökümünde
+yer almalıdır. Yönetici Şirketin tarafından tespit edilen usulsüz süre kaydı raporun ve teşviklerin
+reddedilmesi nedenlerindendir ve aykırı faaliyet kapsamındadır.
+
+       • Girişimcinin, dijital takip sistemleri ile ilgili KVKK kapsamında personellerini aydınlatma
+yükümlülüğünü yerine getirmesi ve açık rıza beyanlarını temin etmesi zorunludur. Aksi takdirde tüm
+borç ve sorumluluk Girişimciye aittir.
+
+       • Girişimci herhangi bir nedenle çalışmasını geçici olarak durdurmuş ya da çalışmasına ara
+vermiş ise bunu, konuyu izah eden bir dilekçe ile Yönetici Şirkete bildirmelidir. Konunun özelinde
+Yönetici Şirket yetkilisi Kanuna göre müspet ya da menfi karar verme yetkisine sahiptir. Girişimcinin
+Yönetici Şirketin kararına itiraz hakkı yoktur.
+
+       • İlgili dönem içerisinde teslim edilmesi gereken aylık muafiyet raporları takip eden yıl
+içerisinde iletilemez. Veriler ilgili tarihlere ait olacak şekilde sisteme işlenebilir ancak üretilen rapor
+Yönetici Şirketin onayından geçmeyecektir.
+
+       Yıllık Faaliyet Raporlarının Kontrolü;
+       • Kendisine ve Bölgede bulunan Girişimcilerin faaliyetlerine ilişkin bilgilerin, Genel
+Müdürlükçe ve Yönetici Şirketçe belirlenen şekle uygun olarak elektronik ortamda günlük veya anlık
+tutulması, kendi serbest muhasebeci mali müşaviri veya yeminli mali müşavirince onaylı yıllık
+bilgilerin her yılın mayıs ayı sonuna kadar elektronik ortamda Yönetici Şirket denetiminde Genel
+Müdürlüğe iletilmesi, bu bende uygun hareket edilmemesi halinde Haziran ayından itibaren
+Girişimcilerin üç aylık muafiyet belgelerinin onaylanmaması, üçüncü ayın sonuna kadar bilgilerin
+iletilmemiş olması durumunda takip eden aydan itibaren aylık muafiyet belgelerinin onaylanmaması
+ve bu ay içerisinde ilgili Girişimcilerin ihracına ilişkin işlemlerin başlatılması, ayrıca Yönetici Şirket
+olarak kendisinin her türlü hesap ve işlemlerinin yıllık olarak 01/06/1989 tarihli ve 3568 sayılı Serbest
+Muhasebeci Mali Müşavirlik ve Yeminli Mali Müşavirlik Kanununa göre yetkilendirilmiş yeminli
+mali müşavire inceletilmesi, mali denetim raporunun birer örneğinin her yılın mayıs ayı sonuna kadar
+aynı süre içinde kendisine ve Bakanlığa iletilmesinin sağlanması gereklidir.
+       • Rapor, Yönetici Şirket yetkilisi tarafından Bakanlık verilerine göre kontrol edilir. Yönetici
+Şirket personeli bu verilerin güncellenmesini ve doğrulanmasını istemeye yetkilidir.
+       • Girişimciler, Yıllık Faaliyet Raporunu her yılın mayıs ayının sonunda Yönetici Şirkete teslim
+etmiş olmalıdır, ilgili dönemde raporunu teslim etmemiş Girişimciler için 4691 sayılı TGB
+Kanunu’nun 14. maddesinin J bendindeki hükümlere göre ihraç işlemleri uygulanır.
+
+       13.2. ÇALIŞAN PERSONEL BİLGİ FORMU
+       Girişimciler, çalışan personellerin Bakanlık ve Yönetici Şirket tarafından belirlenen tüm
+bilgilerini ve istenilen belgelerini belirtilen sistem üzerinden beyana yükümlüdür. Yönetici Şirket,
+çalışan personellerin ve belgelerinin denetimini yapar.
+
+       13.3. SGK BİLGİ FORMU
+       Girişimci, aylık muafiyet raporu ile SGK belgelerini Yönetici Şirkete teslim etmekle
+yükümlüdür. Yönetici Şirket Girişimci personellerinin istisnadan yararlanma durumunu
+denetlemekle yükümlüdür.
+
+       13.4. DIŞARIDA GEÇİRİLEN SÜRELER FORMU
+       Girişimci, aylık olarak kullandığı zorunlu Ar-Ge süreleri, kazanılmış uzaktan çalışma süreleri,
+lisansüstü eğitim istisnası süreleri ve mentörlük ile ilgili kullanılan süreleri, Yönetici Şirketin
+belirttiği sisteme eksiksiz ve doğru olarak tanımlamak ve bunlarla ilgili dokümanları aylık
+raporlamaları ile Yönetici Şirkete beyan etmekle yükümlüdür.
+       13.5. ÜCRETLİ YILLIK İZİN FORMU
+       Personellerin kullandığı ücretli yıllık izinler, Yönetici Şirketin belirttiği sistem üzerinden
+işlenmeli ve personelin ıslak imzası bulunan belge ile beyan edilmelidir.
+
+       13.6. KİŞİSEL VERİLERİN KORUNMASI
+       Yönetici Şirketin faaliyeti, görev ve sorumlulukları dolayısıyla Girişimcinin personellerinin
+verilerini elde etmesi sebebiyle Girişimcinin Kişisel Verilerin Korunması mevzuatı ve ilgili
+düzenlemeleri elde edilen verilere ilişkin personellerini aydınlatma yükümlülüğünü yerine getirmesi
+ve açık rıza beyanlarını temin etmesi zorunludur. Aksi takdirde tüm borç ve sorumluluk Girişimciye
+aittir.
+
+       14. GİRİŞİMCİLERİN BÖLGEDEKİ FAALİYETLERİNİN DENETLENMESİ
+       • Girişimci, Uygulama Yönetmeliğinin ve İşletme Yönergesinin Tanımlar ve Kısaltmalar
+bölümüne uygun olarak Bölgede çalışan araştırmacı, yazılımcı, tasarımcı, destek ve bilişim
+personelinin bu görevleri ile ilgili ücretlerinin her türlü vergiden istisna edilmesi için personel
+listesini, Ar-Ge projelerindeki görev tanımlarını, nitelik ve çalışma sürelerini içeren Ar-Ge ve yazılım
+projelerinde çalışan personel listesini Bölgede faaliyet göstermeye başladığı ilk 10 (on) gün içerisinde
+ve faaliyete devam ettiği sürece de her ayın ilk 20 (yirmi) günü içerisinde doldurarak Yönetici Şirkete
+teslim eder. Onaylanan rapor, inceleme ve denetimlerde ibraz edilmek üzere saklanır. DüzenliAylık
+Muafiyet Raporunu teslim etmeyen Girişimciler aykırı faaliyet göstermiş olur.
+       • Girişimci, personel bilgi formunda belirttiği Ar-Ge, yazılım ve tasarım projelerinde
+çalıştırdığını beyan ettiği personelin diploma fotokopilerini, yazılımcı olduğunu belgeleyen onaylı
+evraklarını veya hala üniversite öğrencisi konumunda olanların transkriptlerini Bölgede faaliyet
+göstermeye başladığı andan itibaren Yönetici Şirkete sunmakla yükümlüdür. Girişimci, aylık olarak
+beyan edeceği personel listesinde bir değişiklik olması durumunda ilgili aya ait değişiklikleri içeren
+diploma ve transkriptleri de Yönetici Şirkete beyan edecektir.
+       • Girişimci, Vergi Levhası, Şirket İmza Sirküleri, İşyeri İkametgâh Belgesi, Sanayi ve Ticaret
+Odası Kayıt Belgesi, İş Yeri Açma Ruhsatı belgelerini Bölgede faaliyete başladığı ilk 10 (on) gün
+içinde Yönetici Şirkete teslim edecektir. Yıl içerisinde bu belgelerde değişiklikler meydana gelmesi
+durumunda, belgelerin son halini değişikliği takiben ilk 10 (on) gün içerisinde teslim edecektir.
+
+       15. KULUÇKA GİRİŞİMCİSİ SÜREÇLERİ
+       15.1. ADAY KULUÇKA GİRİŞİMCİSİ KOMİSYON DEĞERLENDİRME SÜRECİ
+       • Kamu kurum ve kuruluşları tarafından Ar-Ge, teknolojik yenilik ve yazılım faaliyetlerine
+yönelik doğrudan desteklenen veya teknolojik iş fikri sahibi Girişimciler, 6102 sayılı Türk Ticaret
+Kanunu kapsamında bir ticaret şirketi olarak kuruluş sürecinde olması veya şirket olarak
+kuruluşundan itibaren 36 ay geçmemiş olması halinde kuluçka Girişimcisi olarak kabul edilirler.
+       • Kuluçka Girişimcisinin şirketinin kuruluş aşamasında olması veya şirketin kuruluşundan
+itibaren 30 aydan fazla süre geçmemiş olması halinde Kuluçka Merkezine başvurmaya hak kazanır.
+       • Kuluçka Girişimcisi Bölge Kuluçka Merkezine Yönetici Şirketin belirlediği peridolarla
+yapılan komisyonlar neticesinde kabul edilebilir.
+       • Resmi web sitesi üzerinden yapılan başvurular usul açısından herhangi bir bilgi ve belge
+eksikliği olup olmadığı konusunda ön değerlendirmeye alınır. Söz konusu incelemenin olumlu
+sonuçlanması halinde, Yönetici Şirket Aday Girişimci Değerlendirme Komisyonu başvuruyu iş fikri
+açısından inceler. İş fikrinin olumlu bulunması halinde, Girişimciler tarafından hazırlanan proje,
+Proje Değerlendirme Komisyonu değerlendirmesine sunulur.
+       • Başvurunun Proje Değerlendirme Komisyonu tarafından onaylanması durumunda şirket
+kuruluşu gerçekleştirmeyen Girişimciler şirket kuruluşunu gerçekleştirerek kuruluş belgelerini; şirket
+olarak faaliyet gösteren Girişimciler ise İstanbul Ticaret Odasından aldıkları faaliyet belgesini
+Yönetici Şirkete ibraz eder. Akabinde kira sözleşmesi için müzakereler başlatılır ve ortak kullanım
+alanlarında yer tahsisi sağlanır.
+       15.2. KULUÇKA MERKEZİ HİZMETLERİ
+       • Girişimciliğin başlangıç aşaması veya kuluçka süresi olarak adlandırılan dönemdeki
+Girişimciler için stratejik plan tasarımı, yenilikçilik, proje hazırlama ve yönetme, fikri ve sınai
+mülkiyet hakları, iş planı hazırlama gibi konularda ders, seminer, kurs, mentörlük, eğitim programları
+organize edilerek ve etkinlikler düzenlenmektedir. Girişimciden bu etkinliklere %70 aktif katılım
+sağlaması beklenir. Bu tip etkinliklere yeterli oranda katılmayan Girişimciler kendilerine sağlanan
+olanakları ve kaynakları doğru kullanmadığı için aykırı faaliyette kabul edilir ve sözleşme yenileme
+döneminde Girişimci Değerlendirme Komisyonundan olumlu görüş almaz.
+       • Yönetici Şirket uygunluk halinde Girişimciye ofis, mekân, altyapı, destek vb. hizmetleri
+bedelli veya bedelsiz olarak sağlar.
+       • Yönetici Şirket, Girişimcilerin iş planlarının geliştirilmesine ve ticarileştirilmesine destek
+olmak, yatırımcılar ile Girişimcileri bir araya getirmek üzere faaliyetler düzenler. Girişimcilerin
+fikirlerini geliştirmelerini sağlamak ve yol göstermek üzere mentörlük sağlar. Bu hizmetleri bedelli
+ya da bedelsiz olarak düzenleme inisiyatif ve yetkisi Yönetici Şirkete aittir.
+
+       15.3. PERFORMANS DEĞERLENDİRME
+       Kuluçka Girişimcilerinin gelişimi kapsamında; personel sayısı, ciro, akademik danışmanlık,
+stajyer istihdamı, destekli proje yürütme, patent başvuru ve tescili, ihracat gerçekleştirme, üniversite
+mensubu olma, alınan yatırımlar, alınan ödüller açısından çok yönlü olarak değerlendirilir. Teknoloji
+Geliştirme Bölgesi sorumluluklarının yerine getirilmesi beklenir. Girişimcinin projesinin amacından
+sapmalar var ise gerekli müdahaleler yapılarak sürecin kontrol altında yürütülmesi sağlanır ve
+değerlendirme neticesinde faaliyet raporları yetersiz bulunan ve Yönetici Şirketin yapıcı
+yönlendirmelerine kayıtsız kalan Girişimcilerin sözleşmesi Yönetici Şirket tarafından tek taraflı
+olarak feshedilir.
+
+       15.4. KAPALI VE AÇIK OFİSLER
+       • Açık ofisler, ortak çalışma alanları içerisinde 2 m2’den ibaret çalışma alanlarından
+oluşmaktadır. Kira sözleşmesi süresince kapalı ofise geçmek isteyen kuluçka Girişimcileri Kuluçka
+Merkezi yönetimine yazılı talepte bulunabilecek, duruma uygun olarak kuluçka Girişimcisinin
+talebine Yönetici Şirket tarafından olumlu/olumsuz cevap verilecektir.
+       • Girişimci, yeni personel istihdamında kiraladığı alanın metrekaresini göz önünde
+bulundurmalıdır. Açık ofis alanlarında 10 (on) personelden fazla istihdama izin verilmez. Kapalı
+ofisler için kuluçka Girişimcisinin personel çalıştırma üst sınırı 10 (on) kişi ile sınırlıdır. Girişimci
+buna göre istihdam sağlamaz ise Yönetici Şirket bu sayının düşürülmesini istemeye yetkilidir.
+Girişimcinin kendisine tahsis edilen alanda işbu belirlenen sayılardan daha fazla personel istihdam
+etmesinin tespitinde Yönetici Şirket yaptırım hakkını saklı tutar.
+
+       15.5. KULUÇKA SÜRECİNİN TAMAMLANMASI VE TAHSİS EDİLEN ALANIN
+           BOŞALTILMASI
+
+       • Girişimci, şirket kuruluşundan itibaren 3 seneyi doldurmuş, Proje Değerlendirme Komisyonu
+tarafından onaylanan projesini tamamlamış veya projesi için tanınan süresi dolmuş; bu sebeplerle
+Yönetici Şirket tarafından kuluçka sürecinden mezun edilmiş veya projesinin tamamlanması objektif
+olarak imkansız hale gelmiş ise kuluçka sürecini tamamlamış sayılır.
+
+       • Kuluçka sürecini tamamlayan Girişimciler, yeni bir proje başvurusunda bulunması ve Proje
+Değerlendirme Komisyonundan uygunluk alması şartı ve Yönetici Şirket ile anlaşması halinde
+Girişimci statüsünde kabul edilip Girişimci için uygulanan kurallara tabi olarak Bölgede faaliyette
+bulunmaya devam edebilir. Aksi takdirde kuluçka sürecini tamamlamış Girişimciler Kuluçka
+Merkezinde kendisine tahsis edilen alanı derhal boşaltacak ve teslim aldığı hali ile Yönetici Şirket
+yetkilisine teslim edecektir.
+
+       • Kuluçka Girişimcilerinin muafiyet raporlarını düzenli olarak ibraz etmemeleri, Yönetici
+Şirkete düzenli olarak ödemesi gereken bedelleri yatırmamaları ve cari borçlarının ortaya çıkması,
+dijital takip sistemlerini düzenli şekilde kullanmamaları, Bölge İşletme Yönergesine, sözleşmeye,
+faaliyet esaslarına uymamaları ve Proje Değerlendirme Komisyonu tarafından onaylanan projelerini
+yürütmemeleri, aykırı faaliyet kapsamında değerlendirilir. Yönetici Şirketin işbu hususlardan
+herhangi birisini tespit etmesi halinde, kuluçka Girişimcisinin sözleşmeleri derhal ve haklı nedenle
+feshedilir, Girişimci fesih tarihinden itibaren 10 (on) gün içerisinde Bölgeden tahliye edilir.
+
+       15.6. KULUÇKA GİRİŞİMCİLERİNİN YÜKÜMLÜLÜKLERİ
+       • Girişimlerin, işbu Yönergeye ve Kuluçka Merkezi yetkililerinin talimatlarına uygun olarak
+Kuluçka Merkezi başvuru formunda belirtilen faaliyetlerde bulunması esastır. Girişimciler, kendi
+alanındaki çalışmalarının devamı müddetince araştırma ve geliştirme, inovasyon ve tasarım
+faaliyetleriyle, bilim ve teknolojinin gelişmesini sağlayacak çalışmalar yapacak ve amacı dışındaki
+hizmet ve faaliyetlerde bulunmayacaktır.
+       • Girişimciler, ofiste yapılacak çalışmalarda ve ofis çevresinde her türlü güvenlik önlemlerini
+almak zorundadır. Girişimciler, herhangi bir nedenle, kendi personeline, üçüncü kişilere ya da
+çevreye verilebilecek hasar ve zararla ilgili her türlü cezai ve mali sorumluluğun kendisine ait
+olduğunu taahhüt eder.
+       • Girişimciler, kendilerine tahsis edilen alanları kullanırken sadece tahsis olduğu amaca uygun
+şekilde istifade etmeyi kabul ve taahhüt eder.
+       • İşbu Yönergeye uygun olarak Yönetici Şirketin öngöreceği, Kuluçka Merkezindeki faaliyeti
+engellemeyecek ve kullanım amacını zedelemeyecek bütün düzenlemelere aynen uyar.
+       • Tahsis edilen alanların, Kuluçka Merkezinin ve Bölgenin özünü, misyonunu, itibarını
+etkileyecek veya ona zarar verecek, varlığını tehlikeye düşürecek veya değer kaybettirecek
+hareketlerden kaçınmakta sorumludur.
+       • Tahsis edilen alanın iyi halde muhafazası için gereken özeni göstermek ve acil onarım
+yapılması gereken durumlarda Yönetici Şirketçe açıkça yetki verilmiş aracılara derhal müsaade
+vermek zorunluluğundadır.
+       • Tahsis edilen alanda Yönetici Şirketin Girişimciler için belirlediği tüm tadilat ve onarım
+prosedürlerine uymakla yükümlüdür.
+       • Donanımsal olarak çalışacak olan Girişimciler, YTÜ Innovation Hub Kullanım
+Taahhütnamesine uymakla yükümlüdürler.
+
+       16. ÜNİVERSİTE İLE OLAN İŞ BİRLİĞİ VE İLİŞKİLER
+       16.1. ÖĞRETİM ÜYELERİNİN BÖLGEDE ÇALIŞMASI
+       • Yönetmeliğin 18. maddesinde belirtildiği üzere öğretim elemanlarından Ar-Ge veya tasarım
+merkezlerinde gerçekleştirilen faaliyetlerde araştırmacı, tasarımcı ya da idari personel olarak
+hizmetine ihtiyaç duyulanlar, üniversite yönetim kurullarının izniyle tam zamanlı veya yarı zamanlı
+olarak görevlendirilebilirler. Tam zamanlı görevlendirme için herhangi bir üniversitede altı yıllık tam
+zamanlı olarak çalışmak gerekmekte olup, görevlendirme süresi her altı yıl sonrasında bir yıldır. Yarı
+zamanlı görev alan öğretim elemanlarının bu hizmetleri karşılığı elde edecekleri gelirler, üniversite
+döner sermaye kapsamı dışında tutulur. Tam zamanlı olarak görevlendirilecek personele
+kurumlarınca aylıksız izin verilir ve kadroları ile ilişkileri devam eder. Bu şekilde aylıksız izne
+ayrılanlardan, önceki görevleri sebebiyle 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel
+Sağlık Sigortası Kanununun 4. maddesinin birinci fıkrasının (c) bendi veya geçici 4. maddesi
+kapsamında sigortalı veyahut iştirakçi sayılanların aylıksız izne ayrıldığı tarihi takip eden 10 (on) gün
+içerisinde talepte bulunmaları halinde; aylıksız izinli sayıldıkları ve buralarda çalıştırıldıkları sürece
+aynı kapsamdaki sigortalılık veya iştirakçilik ilişkisi devam eder.
+       • Bölge içerisinde yer alan Girişimciler, akademisyen görevlendirmelerini TTO aracılığı ile
+gerçekleştirmeleri durumunda idari süreç TTO tarafından takip edilir.
+       • Akademisyen danışmanlığı alan Girişimciler, akademisyen görevlendirme yazısını Yönetici
+Şirket onayına sunar. Yönetici Şirketin onaylaması halinde akademisyen, projeye dahil edilir. Onay
+almayan akademisyen projelerde görevli gösterilemez.
+
+       16.2. EĞİTİM İŞ BİRLİĞİ
+       Yıldız Teknik Üniversitesi Sürekli Eğitim Merkezi (YTÜ SEM) ve Yıldız Teknik Üniversitesi
+Teknoloji Transfer Ofisi ile Yıldız TGB Teknopark A.Ş. Eğitim Koordinatörü önderliğinde; Bölgede
+yer alan Girişimcilere sektörel, proje faaliyetleri, ortak problemler, stratejik hedef ve temalara
+yönlendirme amaçlı eğitimler düzenlenebilir. Ayrıca Bölgede yer alan personellere ve YTÜ öğrencisi,
+akademisyenlere yönelik eğitimler organize edilebilir.
+
+       16.3. ARAŞTIRMA İŞ BİRLİĞİ
+       Üniversite bünyesinde görevli öğretim üyeleri; 4961 Sayılı Teknoloji Geliştirme Bölgeleri
+Kanunu’nun getirdiği avantajlardan faydalanarak gerek kendilerinin yürütücülüğünü yaptıkları
+projelerde gerekse Bilimsel/Akademik Danışman unvanı ile sanayi Girişimcilerince yürütülen
+projelerde yer alabilecek ve hizmetlerinin karşılığı olarak maddi kazanım sağlayabileceklerdir.
+Ayrıca Bölgede yer alan Girişimciler üniversitenin laboratuvar, prototip atölyesi vb.
+araştırma/geliştirme birimlerinden ve araştırma merkezlerinden yararlanabileceklerdir. Bu
+hizmetlerden alınacak olan ücretler Yıldız Teknik Üniversitesi ve YTÜ Yıldız Teknopark A.Ş
+tarafından belirlenir.
+
+       16.4. SOSYAL AMAÇLI İŞ BİRLİKLER
+       • Yönetici Şirket, sosyal amaçlı iş birliği amacıyla çeşitli kuruluşlarla iş birlikleri kurmak için
+görüşmeler yapabilir, Bölge sınırları içerisinde kampanyalar düzenleyebilir, düzenlettirebilir.
+       • Girişimciler, bu tür sosyal amaçlı iş birliği projelerini Bölge sınırları içerisinde
+gerçekleştirmek için Yönetici Şirketten yazılı izin talebinde bulunur. Onay verilmesi durumunda her
+türlü sorumluluğu kendisine ait olmak üzere çalışmasını yapabilir.
+       • Girişimci, Yıldız Teknik Üniversitesi ve iştiraklerinin belirlenmiş bazı hizmetlerinden özel
+şartlarla ve indirimlerle yararlanabilir. Girişimcilerin yararlanabileceği bu hizmetler ve şartları, Yıldız
+TGB Teknopark A.Ş. ve ilgili kuruluşlar arasında yapılacak görüşmelere göre belirlenecek ve alınan
+kararlar Yönetici Şirket tarafından Girişimcilere bildirilecektir. Girişimci bu imkanlardan
+yararlanabilmek için ilgili kuruluşun getirdiği her türlü sınırlamaya uyacaktır.
+       • Girişimci personeli, Yönetici Şirketin kullanımına izin verilen bazı akademik ve sosyal
+hizmetlerden (sosyal tesisler, kütüphane, kurs ve seminerler vb.) talep üzerine Yıldız Teknik
+Üniversitesi Rektörlüğünün izni ve bu hizmetlerden ücretli olanlar için belirleyeceği ücret karşılığı
+yararlandırılabilir.
+       • Yönetici Şirket, Girişimcilerin taleplerini belirleyerek Yıldız Teknik Üniversitesi’ne gerekli
+bilgi aktarımını yapar. Girişimci, sınırlı kapasite ve aşırı talep vb. nedenlerle Yıldız Teknik
+Üniversitesi’nin getirebileceği her türlü sınırlamaya uymak zorundadır.
+
+       16.5. ÜNİVERSİTE ALAN VE EKİPMANININ KULLANIMI
+       Yönetmelik’in 14/1-d bendi uyarınca Bölgede yer alan Girişimcilerin ihtiyaçları doğrultusunda
+Yıldız Teknik Üniversitesi’nin laboratuvar, araştırma merkezi, makine-teçhizat gibi ekipmanlarını,
+ekonomik, kültürel ve sosyal ihtiyaçlarının giderilmesi adına Üniversiteye ait alanlarını kullanabilir.
+Kullanım için öncelikli olarak Yönetici Şirket ile Üniversite arasında iş birliği veya sair bir
+anlaşmanın olup olmadığı incelenir. Bu hizmetleri Üniversite yönetimi bedelsiz ya da bedeli
+karşılığında kullandırabilir.
+       Tarafların anlaştığı doğrultuda Girişimci, Teknoloji Transfer Ofisi ya da ilgili üniversite
+alanının sorumlusu/akademisyeni ile iletişime geçmek zorundadır. Alan kullanımı için bizzat
+Yönetici Şirket ile iletişime geçilmesi gerekmektedir. Kullanımın uygunluğunun ilgili birim
+tarafından değerlendirilmesi sonucu Girişimciye müspet ya da menfi geri dönüş sağlanacaktır.
+Girişimcinin kullanımı için olumlu geri dönüş sağlanması durumunda hizmet bedeli veya sair ücret
+talep edilebilir. Girişimci, belirlenen kullanım koşulları dışına çıkamaz.
+
+       16.6. TEKNOLOJİ TRANSFER OFİSİ İLE İLGİLİ YÜKÜMLÜLÜKLER
+       Bölge içerisinde yer alan Girişimciler Yıldız Teknik Üniversitesi Teknoloji Transfer Ofisi
+faaliyetlerinden faydalanabilir. Bu faaliyetler; YTÜ akademisyenleri tarafından sağlanacak akademik
+danışmanlık hizmeti, ulusal ve uluslararası fon programlarına başvuru için danışmanlık hizmetleridir.
+Bu hizmeti alan Girişimci için Yıldız TTO tarafından fatura düzenlenerek ücret talep edilebilir.
+       17. AYKIRI FAALİYET UYGULAMA YETKİSİ
+       Girişimcilerin Kanuna, Yönetmeliğe, Bölge İşletme Yönergesine ve ilgili diğer mevzuata göre
+düzenleyici amaçlı denetlenmesi, denetleme sonucunda aykırı faaliyetlerin tespit edildiği tarihten
+itibaren aykırı faaliyetlerin düzeltilmesi için Girişimcilerin uyarılarak üç ayı geçmemek üzere belirli
+bir süre verilmesi, verilen süre sonunda aykırı faaliyetlerini düzeltmeyen Girişimcilerin mevcut kira
+sözleşmesi süresi dikkate alınmaksızın Bölgeden ihraç edilmesini temin edecek gerekli önlemlerin
+alınması yetkisi Yönetmelikle Yönetici Şirkete verilmiştir. Yönetici Şirket bu yetkiyi kullanma
+hakkını Aykırı Faaliyet Tespit ve Uygulama Kurulu ile sistemleştirir ve yürütür.
+       İşbu yönergede belirtilen düzenlemelere uymayan Girişimciye somut olayın özelliklerine göre
+3 (üç) ila 30 (otuz) gün arasında süre verilerek eksik ve aykırılıkları gidermesi talep edilir.
+Girişimcinin kendisine verilen sürede eksiklikleri gidermemesi halinde sözleşmeleri de dahil olmak
+kaydı ile süreç Aykırı Faaliyet Tespit ve Uygulama Kuruluna devredilir. Bu kurul, Yönetici Şirket
+tarafından belirlenen, asgari 5 (beş) kişiden oluşan, tarafsız ve objektif bir değerlendirme yaparak
+uzlaşmayı hedefe koyan bir kuruldur. Vuku bulan konuyu tekrarlanma sıklığına, verdiği ziyana, etki
+alanına, telafi edilebilirliğine göre değerlendirir ve kademeli olarak uyarı gerçekleştirir. Bu kapsamda
+kurul; mevzuat, işbu İşletme Yönergesi ve YTÜ ile Yönetici Şirket düzenlemelerinin ve kararlarının
+Bölgede uygulanması ve işleyişinin sağlanmasından sorumludur. Kurul tarafından verilen kararlar
+Yönetici Şirket adına uygulanır ve kesindir. Kurul kararına uymayan ve aykırılığını düzeltmeyen ve
+varsa vermiş olduğu ziyanı telafi etmeyen Girişimci hakkında kurul kararı doğrultusunda derhal
+hukuki süreç başlatılır.
+       Yönetici Şirket tarafından oluşturulan bu Aykırı Faaliyet Tespit ve Uygulama Kurulu, vuku
+bulan konuya göre, uyarı, savunma talebi, maddi yaptırım, muafiyetlerin reddedilmesi, tek taraflı
+fesih ile ihraç ve Bölgeden tahliye gibi kararlar alarak uygulamaya koyma yetkisine sahiptir.
+       Bölge içerisinde aykırı faaliyet olarak kabul edilen hususlar aşağıda belirtilmiştir. Bunların
+dışında düzeni ve işleyişi bozan, başka Girişimcilerin ya da Yönetici Şirketin haklarına saldırıda
+bulunan, genel kabul görmüş ahlak ve toplum düzeni davranışlarına muhalif olan tüm tavır ve
+tutumlar da şikayetçi olunması ya da şikayete gerek olmaksızın tespit edilmesi durumunda aykırı
+faaliyet kapsamında değerlendirilir ve yine Aykırı Faaliyet Tespit ve Uygulama Kurulunun
+değerlendirmesine sevk edilir. Girişimci kurulun kararına aynen uymakla yükümlüdür.
+
+       • Girişimciler, işbu İşletme Yönergesinde yer alan düzenlemelerin tamamına ve YTÜ ile
+Yönetici Şirket tarafından belirlenen kurallara, düzenlemelere ve sair tüm kararlara tam ve eksiksiz
+olarak uymakla yükümlüdür.
+
+       • Girişimciler, Kanunen de belirlendiği üzere aylık düzenli raporlamalarını yapmakla
+yükümlüdür. Kanuni yükümlülüğün dışında Yönetici Şirket, Girişimcinin faaliyetlerini takip amaçlı
+mali rapor ya da kanıtlayıcı evrak talebinde bulunabilir, bu evrakları düzenli bir raporlama olarak
+talep edebilir. Girişimci, Yönetici Şirketin belirlediği usul ve formatta kendisinden istenilen tüm
+raporları eksiksiz ve zamanında beyan etmekle yükümlüdür. Raporlamalarını yapmayan ya da
+zamanında teslim etmeyen Girişimciler aykırı faaliyette bulunmuş olurlar.
+
+       • Girişimciler çalıştırmış oldukları personelleri dijital takip sistemlerine kaydettirmek ve bu
+sistemleri doğru, zamanında ve vaat edilen şekliyle kullanması konusunda bilgilendirmekle
+yükümlüdür. Personeller dijital takip sistemi için kendisine tanımlanan materyali (kod, kart, çip,
+bandrol vd.) bizzat kendisi kullanmak ve mesai saatlerinin tespit edilebileceği şekilde
+okuyucularda/turnikelerde kullanmak zorundadır. Bir başkasının adına giriş yapmak ya da toplu
+olarak giriş göstermeye kalkışmak haksız vergi muafiyeti kullanmaya yeltenmek olduğundan aykırı
+faaliyet kapsamındadır. Bunun tespiti kurul kararına gerek olmaksızın Girişimcinin muafiyetlerinin
+sonlandırılmasına sebebiyet verir.
+
+       • Girişimciler, Bölgeye girerken Bölgede Ar-Ge yazılım ve tasarım faaliyeti göstereceğini
+taahhüt eden projeleri ile başvuruda bulunurlar. Bu faaliyetler ancak bu amaçla istihdam edilen
+personeller ile sağlanır. Girişimci faaliyet onayından itibaren 30 (otuz) gün süre ile personel
+istihdamında bulunmamış ya da kendisini sistemden Ar-Ge veya tasarım personeli olarak
+tanımlayarak Yönetici Şirket onayından geçirmemiş ise aykırı faaliyet göstermiş sayılmaktadır.
+       • Girişimcilerin Bölgedeki faaliyetlerinin en önemli çıktıları ve denetlenme yetkisi Yönetici
+Şirkette bulunan verileri mali verileridir. Ar-Ge faaliyeti kapsamında ya da dışında kalan, Bölgede
+faaliyeti kabul edilmiş unvanı üzerinden gerçekleştirdikleri tüm mali girdi ve çıktılarını düzenli olarak
+Yönetici Şirket tarafından belirtilen sisteme girmekle yükümlüdürler. Yönetici Şirket bu verileri
+KVKK kapsamında saklar ve denetimlerde Gelir İdaresine Başkanlığa sunmak üzere tutar.
+Girişimcinin mali verilerini Yönetici Şirketten gizleme, eksik ve zamanında beyan etmeme hakkı
+kesinlikle yoktur.
+
+       • Kuluçka Girişimcileri, kendilerine düzenlenen geliştirici faaliyet, etkinlik, seminer, eğitim,
+mentörlük vb. programlara katılmakla yükümlüdür. Girişimci Değerlendirme Komisyonu tarafından
+Kuluçka Girişimcisinin bu faaliyetlerin asgari %70’ine katılmamış olduğu tespit edilir ise bu aykırı
+faaliyet kapsamında değerlendirilir.
+
+       • Girişimciler, kendilerine sağlanan internet ağı kullanımında tüm dijital güvenlik önlemlerini
+almak ve Yönetici Şirketin belirlediği önlemlere uymak zorunluluğundadır. Zararlı ve lisanssız
+uygulamalar kullanmak, olası bir siber saldırının aleti olmak Girişimci için aykırı faaliyet kapsamında
+değerlendirilir.
+
+       • Girişimciler abonelikli ya da ortak kullanıma açık kapalı/açık otoparkları kullanırken Yönetici
+Şirketin yayınlamış olduğu Otopark Kullanım Prosedürüne aynen uymak zorunluluğundadır. Maddi
+ve manevi zarara yol açabilecek davranışlar sergilemek, otoparkı amacı dışında kullanmak ve süre
+sınırını aşarak yer işgal etmek, Otopark Kullanım Prosedürüne muhalif davranmak aykırı faaliyet
+kapsamındadır.
+
+       • Girişimciler, Bölgeye kabul edildikleri süreçten itibaren Yönetici Şirket tarafından kendilerine
+tanımlanan sistemleri, kendilerine ait bilgi ve belgelerle düzenli olarak doldurmalı ve bu profillerini
+güncel tutmalıdır. Ortaklık bilgileri, resmi kurum ilişikleri, imza yetkilileri, yatırımcı bilgileri ve
+yatırım belgeleri, iş birliği bilgileri, eğitim bilgileri, personel bilgileri, iletişim bilgileri, banka
+bilgileri, sermaye bilgileri ve buna benzer Yönetici Şirketin talep ettiği bilgileri doğru, eksiksiz ve
+güncel olarak sisteme kaydetmeli ve değişiklikleri azami 10 (on) gün içerisinde Yönetici Şirkete
+bildirmelidir. Bunlardan doğacak her nevden zarar Yönetici Şirketin sorumluluğu dışındadır ve
+Girişimcinin aykırı faaliyeti olarak kabul edilir.
+
+       • Girişimcilerin, atölye ve laboratuvarlarda mesleki yeterlilik belgesi olmadan çalışması aykırı
+faaliyet kapsamındadır. Girişimci, atölye ve laboratuvarlarda çalışma izni alırken, buralarda
+çalıştıracağı personelin yeterlilik belgelerini Yönetici Şirkete sunmakla yükümlüdür. Bu alanlarda
+yeterlilik belgesi olsa dahi Girişimci nezdinde çalışan personelin dışında bir kimsenin
+çalışması/çalıştırılması kesinlikle yasaktır. Bu alanlarda Girişimci ve nezdinde çalıştırdığı personeli
+Innovation Hub Kullanım Taahhütnamesi ve YTÜ Yıldız Teknopark Innovation Hub Hizmet
+Sözleşmesine aynen uymakla yükümlüdür.
+
+       • Atölye ve laboratuvarlarda görsel bütünlük ve taşınır/taşınmaz tasarımların bozulması, zarar
+verilmesi; çalışmak için tasarlanan koruyucu kıyafet/tulum ve giyilebilir ekipmanların çalışma
+esnasında giyilmemesi, çıkarılması, deforme edilmesi, değiştirilmesi kesinlikle yasaktır ve aykırı
+faaliyet kapsamında değerlendirilir.
+
+       • Girişimcilerin, ofis dışı kiralanabilir alan, toplantı salonu, ortak alanlar, konferans salonu,
+sosyal alanlar vb. yerlerde Yönetici Şirket izni olmadan etkinlik düzenlemesi, bildiri okuması/asması,
+davet tertip etmesi kesinlikle yasaktır. Bu gibi organizasyonlar için Yönetici Şirketten izin almalı ve
+Açık Ofis/Co-working Kullanım Prosedürüne aynen uymak zorunluluğundadır. Girişimci
+düzenleyeceği bu organizasyonların takvim, içerik, konuk listesi, program akışı gibi tüm detaylarını
+Yönetici Şirkete belge ile sunmak ve onaylatmak zorunluluğundadır. Bu bildirilen tüm konulardan
+herhangi birinde ya da birkaçında oluşacak değişiklikler de önceden bildirilmeli ve onay
+tekrarlanmalıdır. İçerikte ve konuklar arasında propagandaya yol açacak, spekülatif konu/konuklar
+var ise Yönetici Şirket bunların organizasyondan çıkarılmasını isteyebilir ya da doğrudan
+reddedebilir. Tüm bunların dışında yürütme yapan Girişimci, aykırı faaliyet kapsamında kurula sevk
+edilir.
+
+       • Girişimciler, Yönetici Şirket ve paydaşlarına ait tüm görsel ikonları kullanma konunda
+Yönetici Şirketle önceden anlaşmak yükümlülüğündedir. Doğrudan logo veya isimlerin kullanımı ya
+da kurumun resmi renk kodları gibi anımsatıcı ikonları Yönetici Şirket izni olmadan reklam aracı
+yapmak ya da kullanmak kesinlikle yasaktır. Yönetici Şirket ile arasında resmi bir anlaşma olmadan
+Girişimcinin bunları kullanması aykırı faaliyet kapsamındadır ve doğrudan hakkında resmi hukuk
+süreci başlatılır.
+
+       • Girişimci, kira dahil sözleşmeler ile bildirilen tüm bedelleri kendisine verilen süre içinde
+eksiksiz ve Yönetici Şirketin talep ettiği ödeme yöntemi ile ödemek ve bu ödemelere ait belgeleri
+saklamakla yükümlüdür. Zamanın ödenmeyen veya eksik ödenen tüm bedeller için Yönetici Şirket
+yasal faiz oranını işleterek Girişimciden tahsilde bulunur ve aykırı faaliyet kapsamında Girişimciyi
+gerekirse kurula sevk etmeden yasal süreci başlatır.
+
+       • Elektrikli araç şarj istasyonlarında, elektrikli olmayan araçların istasyonları zapt etmesi,
+istasyona hatalı park gibi nedenlerden zarar verilmesi durumları aykırı faaliyet kapsamında
+değerlendirilir. Şarj istasyonlarını kullanan Girişimci ve ziyaretçisi Otopark Alanı Kullanım
+Prosedürüne muhalif hareket eder ve ziyan oluşturursa Yönetici Şirket ziyanı telafi için Girişimcinin
+kendisini sorumlu tutar.
+
+       • Otoparklarda engelli park alanlarını ve motosikletler için ayrılan alanları amacı dışında zapt
+etmek aykırı faaliyet kapsamındadır. Yönetici Şirket bu alanları işgal edenlere caydırıcı ceza
+uygulama hakkına sahiptir.
+
+       18. YÖNETİCİ ŞİRKETİN DENETİM YETKİSİ
+       • Yönetici Şirket, Girişimcilerin ve üçüncü şahısların Kanun amacına aykırı faaliyetlerinin
+tespiti, aykırı faaliyetlerin düzeltilmesi için Girişimcilerin uyarılarak belirli bir süre verilmesi ve bu
+süre içinde aykırı faaliyetlerini düzeltmeyen Girişimcilerin Bölgeden ihraç edilmelerini temin edecek
+gerekli önlemlerin alınması ve şartnamelerin hazırlanması ile yetkili ve yükümlüdür.
+       • Yönetici Şirket, Bölgede istihdam edilen tüm araştırmacı, yazılımcı, tasarım ve destek
+personelinin listesinin, Ar-Ge projelerindeki görev tanımlarının, nitelik ve çalışma sürelerinin aylık
+olarak arşivlenmesi, istenildiğinde ilgililere bildirilmesi ile yetkili ve yükümlüdür.
+       • Yönetici Şirket, Ar-Ge çalışması kapsamında Bölge dışında geçirilecek sürelerin onay işlemi
+için Girişimcinin talep edilmesi halinde, yürüttüğü Ar-Ge projesi kapsamında çalışan Ar-Ge
+personelinin; Bölgede yürüttüğü görevle ilgili olarak Bölge dışında geçirilmesi gereken sürelerin,
+süre dışarıda geçirilmeden önce Ar-Ge projesi kapsamında dışarıda geçirilen fiili sürelere dair ilgili
+kurum ve kuruluştan temin edilen belgeler ve Ar-Ge personelinin bilgilerinin de yer aldığı belgelerle
+Proje Değerlendirme Komisyonundan görüş alınması, uygun bulunanların onaylanması ve onay
+belgelerinin arşivlenmesi ile yetkilidir.
+       • Bölgede yer alan işletmelerde çalışan Ar-Ge ve tasarım personelinin yüksek lisans yapanlar
+için bir buçuk yılı, doktora yapanlar için iki yılı geçmemek üzere Bölge dışında geçirdiği sürelere
+ilişkin uygunluğunun denetlenmesi ve üniversite onaylı ders programının arşivlenmesi ile yetkilidir.
+       • Bilişim Personellerinin bu statüde çalışıp çalışamayacağına karar vermeye, bu statüde
+çalışanların tüm evrak, bilgi ve belgelerini almaya ve gerektiğinde Bakanlığa sunmaya yetkilidir.
+       • Yönetici Şirket ve Bölgede faaliyet gösteren Girişimciler, Bölgede çalışan Ar-Ge ve destek
+personelinin yararlandıkları istisna ve muafiyetler yönünden Hazine ve Maliye Bakanlığınca
+denetlenir. Bu denetim, Yönetici Şirketin sorumluluğunu kaldırmaz.
+       • Yönetici Şirket işbu Bölge İşletme Yönergesini hazırlamaya ve uygulamaya yetkili ve
+yükümlüdür.
+
+       19. GENEL MÜDÜRLÜĞE VERİLECEK BİLGİLER
+       Genel Müdürlük tarafından Yönetici Şirketten veya Girişimcilerden talep edilen bilgiler,
+eksiksiz olarak verilen süre içerisinde Genel Müdürlüğe iletilir, aksi durumlarda Yönetici Şirket
+yaptırım uygulama hakkını saklı tutar.
+       Bakanlık portal bilgi girişleri Yönetici Şirketin onayına istinaden verilir. Eksik ve yanlış
+bilgilerden ve mevcut bilgilerin kontrolünden Girişimciler sorumludur. Herhangi bir hak kaybı veya
+cezai müeyyide uygulanması durumunda Yönetici Şirket sorumlu tutulamaz.
+       20. BAKANLIĞIN DENETİM YETKİSİ
+       Bakanlık, Yönetici Şirketin ve Girişimcilerin faaliyet ve uygulamalarını gerekli gördüğü
+durumlarda denetler. Gerektiğinde ilgili kurum ve kuruluşlarla iş birliği yapar. Denetim sürecinde
+Yönetici Şirket ve Girişimciler her türlü bilgi ve belgeyi denetim elemanlarına vermekle yükümlüdür.
+
+       21. YÖNERGENİN YÜRÜRLÜĞE GİRMESİ VE DEĞİŞİKLİKLER
+       Bu Yönerge; 06.07.2001 tarih ve 24454 sayılı Resmi Gazete’de yayımlanarak yürürlüğe giren
+4691 sayılı Teknoloji Geliştirme Bölgeleri Kanunu ve 10.08.2016 tarihli ve 29797 sayılı Resmi
+Gazete’de yayımlanarak 01.03.2016 tarihinde yürürlüğe giren Teknoloji Geliştirme Bölgeleri
+Uygulama Yönetmeliğinin 15. maddesi, (l) bendine uygun olarak, Yıldız TGB Teknopark A.Ş.
+tarafından hazırlanmıştır.
+       19/06/2002 tarihli ve 24790 sayılı Resmî Gazete’de yayımlanan Teknoloji Geliştirme Bölgeleri
+Uygulama Yönetmeliği ve 09.04.2018 tarihli Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş.
+İşletme Yönergesi yürürlükten kaldırılmıştır.
+       Bu yönerge, Yıldız Teknoloji Geliştirme Bölgesi Teknopark A.Ş. tarafından gerekli görülen
+durumlarda güncellenecek ve Sanayi ve Teknoloji Bakanlığının onayıyla yürürlüğe girecektir.
+
