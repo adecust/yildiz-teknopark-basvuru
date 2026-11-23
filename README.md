@@ -14,7 +14,7 @@ Bu depo, eğitim kurumumuzun YTÜ Yıldız Teknopark'a aday firma başvurusunu v
 
 | Dosya | Kullanım |
 |---|---|
-| `KAYNAK-YZ_Firma_Proje_Sunumu.pdf` | Başvuru formundaki "Firma / Proje Sunumu" alanına yüklenir (18 slayt) |
+| `KAYNAK-YZ_Firma_Proje_Sunumu.pdf` | Başvuru formundaki "Firma / Proje Sunumu" alanına yüklenir (19 slayt) |
 | `KAYNAK-YZ_Firma_Proje_Sunumu.pptx` | Sunumun düzenlenebilir hâli |
 | `KAYNAK-YZ_Proje_Ozeti.pdf` | Proje özeti (9 sayfa); ön görüşmede ve hakem sürecinde sunulur |
 | `KAYNAK-YZ_Proje_Ozeti.docx` | Özetin düzenlenebilir hâli |
@@ -29,6 +29,7 @@ Dosyalardaki sarı vurgulu ve köşeli ayraçlı (‹…›) alanlar kurum bilgi
 | [02 · Faz yapısı ve kabul analizi](docs/02-faz-yapisi-ve-kabul-analizi.md) | Faz 1 ve Faz 2'nin kabul değerlendirmesi ve puan simülasyonu |
 | [03 · Proje planı: sprintler ve kanban](docs/03-proje-plani-sprint-ve-kanban.md) | Makro plan, 33 sprint, 148 görev; her görevde tarih, sorumlu, teknoloji ve kabul kriteri |
 | [04 · Teknoloji kararları](docs/04-teknoloji-kararlari.md) | 20 teknoloji kararının alternatiflerle karşılaştırması ve gerekçeleri |
+| [05 · Bağımsız değerlendirme raporu](docs/05-degerlendirme-raporu.md) | Dosyanın hakem ölçütlerine göre değerlendirilmesi, yapılan düzeltmeler ve gönderim öncesi zorunlu işlemler |
 | [Proje dosyası (00–05)](docs/proje-dosyasi/00-ozet-ve-kunye.md) | Ayrıntılı proje dosyası: künye, pazar, Ar-Ge tasarımı, test planı, bütçe, risk ve hakem hazırlığı |
 | [Kaynak metinler](docs/kaynaklar/) | Yıldız Bölge İşletme Yönergesi 2025 ve karşılaştırma için İTÜ yönergesi |
 

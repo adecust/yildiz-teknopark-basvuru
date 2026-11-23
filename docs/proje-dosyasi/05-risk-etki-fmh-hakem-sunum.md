@@ -131,63 +131,31 @@ C: Pilot dönemindeki saha çalışmaları (kurum ziyaretleri, eğitmen eğitiml
 
 ---
 
-## 6. Zorunlu "Firma / Proje Sunumu": 13 slayt metni
+## 6. Zorunlu "Firma / Proje Sunumu"
 
-> Tasarım: sade, kurumsal renkler, slayt başına en fazla 5 madde; her slaytta tek bir mesaj. Konuşmacı notları italik.
+Güncel sunum `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (düzenlenebilir hâli `.pptx`) dosyasındadır; konuşmacı notları her slayta eklenmiştir. Slayt akışı:
 
-**Slayt 1 · Kapak**
-KAYNAK-YZ: Türkçe Eğitim İçeriği İçin Kaynağa Dayalı Üretken YZ · [Firma] · YTÜ Yıldız Teknopark Aday Başvurusu · Aralık 2026
-*Not: "Kendi kaynağına kilitlenen, uydurmayan, kopya verdirmeyen eğitim YZ'si" cümlesiyle açılış.*
-
-**Slayt 2 · Biz kimiz?**
-- [X] yıllık eğitim kurumu; yıllık ≈ 240 milyon TL gelir
-- Aylık 200–300 aktif öğrenci, [Y] eğitmen, [Z] program
-- Şirket içi yazılım ekibi; teknoparkta 7 kişilik Ar-Ge ekibi planı
-- Gerçek kullanıcı, içerik ve eğitmen puanı verisine sahibiz
-*Not: Ticari güç = gerçekleştirebilirlik kanıtı.*
-
-**Slayt 3 · Problem**
-- Öğrencinin sorusu ders dışında cevapsız kalıyor
-- Eğitmen haftada [anket: X saat] ödev okuyor
-- Genel YZ: kaynağa bağlı değil, uyduruyor, ödev cevabını veriyor, veri yurt dışında
-- RKÇ kanıtı: korumasız sohbet botu sınav başarısını düşürüyor (PNAS 2025)
-
-**Slayt 4 · Tekniğin bilinen durumu ve boşluk**
-Karşılaştırma matrisi (belge 01 §4.2, sadeleştirilmiş): Google Classroom+NotebookLM, Moodle/Canvas, ChatGPT Edu, yerli LMS'ler, KAYNAK-YZ
-*Not: "Kimse sadakati, reddetmeyi, sızıntıyı ve puan uyumunu ölçüp göstermiyor."*
-
-**Slayt 5 · Çözüm**
-Akış diyagramı: kaynak yükle → soru-cevap (atıflı, gerekirse ret) → Sokratik mod → rubrikle ön-değerlendirme → eğitmen onayı
-
-**Slayt 6 · Ar-Ge içeriği: 6 teknik belirsizlik**
-AR-1…AR-6 tablosu: temel çizgi → hedef (sadakat ≥ %95 · reddetme ≥ %90 · Recall@5 ≥ %90 · QWK ≥ 0,75 · sızıntı ≤ %2 · WER ≤ %10 · p50 ≤ 3 sn)
-*Not: "Bunlara ulaşılıp ulaşılamayacağı belirsiz; bu yüzden Ar-Ge."*
-
-**Slayt 7 · Mimari ve yöntem**
-Katmanlı mimari (belge 02 §3.1 sade sürüm); hibrit erişim → cevaplanabilirlik kapısı → iddia doğrulama; yurt içi açık model
-
-**Slayt 8 · (PoC yapıldıysa) İlk sonuçlar**
-n = 60 soru / 20 ödev: Recall@5 = X · sadakat = Y · reddetme = Z · QWK = W · ekran görüntüleri
-*Not: "Küçük örneklem; proje kapsamında 500+ soru ve 300+ ödevle doğrulanacak."*
-
-**Slayt 9 · İş planı**
-12 ay, 9 iş paketi, 7 kilometre taşı (Gantt); platform eforu %24; Faz 2 başvurusu 10. ayda
-
-**Slayt 10 · Ekip ve YTÜ iş birliği**
-Rol tablosu; YTÜ Bilgisayar Müh. (Türkçe dil modelleri) + Eğitim Fakültesi (ölçme-değerlendirme) danışmanları; 2 stajyer
-*Not: Varsa niyet mektuplarını göster.*
-
-**Slayt 11 · Pazar ve ticarileşme**
-TAM ≈ 2,2–2,45 milyar $ → SAM ≈ 180–250 milyon $; fiyatlama (B2B, B2C, lisans); 2028–2030 gelir projeksiyonu
-
-**Slayt 12 · İthal ikame, ihracat ve uyum**
-Döviz bazlı aboneliklerin ikamesi; Azerbaycan → Kazakistan/Özbekistan → AB; KVKK + AB YZ Yasası uyumlu tasarım
-
-**Slayt 13 · Yıldız Teknopark'a katkı ve yol haritası**
-KPI tablosu (şimdi → 12 ay → 36 ay); Faz 1 → Faz 2 (sanal sınıf) → Faz 3 (uyarlanabilir öğrenme)
-*Kapanış: "Yerli, güvenilir ve ölçülebilir eğitim YZ'sini Yıldız'da geliştirmek istiyoruz."*
-
----
+| # | Slayt | Ana mesaj |
+|---|---|---|
+| 1 | Kapak | Eğitimi güçlendiren, kaynağa dayalı Türkçe yapay zekâ |
+| 2 | Sunum akışı | Dokuz bölüm |
+| 3 | Kurum profili | Asıl faaliyet alanı eğitim; gelir, öğrenci ve ekip göstergeleri |
+| 4 | Projenin kurumumuz için anlamı | Pedagoji öncelikli; ilk kullanıcı kurumun kendisi; ardından sektör |
+| 5 | Sorun tanımı | Öğrenci, eğitmen ve kurum açısından ihtiyaç; randomize kontrollü çalışma kanıtı |
+| 6 | Genel amaçlı YZ araçlarının sınırlılıkları | Kaynağa bağlılık, öğrenme, veri ve puanlama sorunları |
+| 7 | Tekniğin bilinen durumu ve boşluk | Rakip karşılaştırma matrisi |
+| 8 | Önerilen çözüm | Beş adımlı akış ve test yatağı platformu |
+| 9 | Ar-Ge içeriği ve ölçülebilir hedefler | AR-1–AR-6: bugünkü durum ve hedef |
+| 10 | Sistem mimarisi | Katmanlar ve soru-cevap hattı |
+| 11 | Teknoloji altyapısı ve seçim gerekçeleri | Katman bazında seçim, gerekçe ve alternatif |
+| 12 | Doğrulama yaklaşımı | Test setleri ve yöntem |
+| 13 | Uygulama takvimi | Faz 1 Gantt şeması ve kilometre taşları |
+| 14 | Proje ekibi ve üniversite-sanayi iş birliği | Roller ve YTÜ danışmanları |
+| 15 | Pazar ve ticarileşme | Pazar büyüklüğü, fiyatlama, gelir projeksiyonu |
+| 16 | İthal ikame, ihracat ve mevzuata uyum | İkame edilen ürünler, ihracat yol haritası, KVKK ve AB YZ Yasası |
+| 17 | Riskler ve B planları | Altı temel risk, önlem ve B planı |
+| 18 | Bütçe ve finansman | ≈ 17,6 milyon TL; öz kaynak |
+| 19 | Sonuç | Faz zinciri ve Yıldız Teknopark'a katkı göstergeleri |
 
 ## 7. Başvuru günü son kontrol listesi
 - [ ] Form metinleri belge 00 §3'ten; özet ≥ 1200 karakter
@@ -195,5 +163,5 @@ KPI tablosu (şimdi → 12 ay → 36 ay); Faz 1 → Faz 2 (sanal sınıf) → Fa
 - [ ] Akademik iş birliği alanları güncel durumla dolduruldu
 - [ ] Rakamlar form, sunum ve proje dosyasında **birebir aynı** (personel 7, bütçe, tarihler)
 - [ ] 5 zorunlu evrak + sunum, OCR'lı PDF
-- [ ] Sunum ≤ 13 slayt, PDF; dosya boyutu makul
+- [ ] Sunum: `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (19 slayt); kırmızı ‹…› alanlar dolduruldu
 - [ ] Başvuru teyidi kaydedildi; D-01 issue'su "devam" durumuna alındı

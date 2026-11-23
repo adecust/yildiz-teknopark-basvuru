@@ -24,7 +24,7 @@
 | **Proje adı** | Türkçe Eğitim İçeriği İçin Kaynağa Dayalı Üretken Yapay Zekâ ile Soru-Cevap ve Rubrik Tabanlı Otomatik Ödev Değerlendirme Platformu |
 | **Kısa ad (çalışma adı)** | **KAYNAK-YZ** *(ürün markası ayrıca belirlenecek)* |
 | **Proje türü** | Ar-Ge + Yazılım (birlikte) |
-| **Başvuran** | [Firma unvanı] · eğitim hizmetleri; teknoparkta **şube** ile faaliyet |
+| **Başvuran** | ‹Kurum Unvanı› · eğitim hizmetleri; teknoparkta **şube** ile faaliyet |
 | **Hedef bölge** | YTÜ Yıldız Teknopark (yerleşke tercihi [TEYİT]: Davutpaşa / İkitelli / Maslak / Arnavutköy) |
 | **Süre** | 12 ay (tahmini başlangıç 01.04.2027) |
 | **Teknoloji hazırlık seviyesi (TRL)** | Başlangıç TRL 2–3 → hedef TRL 6–7 (gerçek kullanıcılarla pilot) |
@@ -84,9 +84,9 @@ Türkçe Eğitim İçeriği İçin Kaynağa Dayalı Üretken Yapay Zekâ ile Sor
 ### 3.2 "Faaliyet Alanınız" (çoklu seçim)
 ☑ Yapay Zeka · ☑ Yazılım Geliştirme · ☑ SaaS / Bulut Tabanlı Çözümler · ☑ EdTech · ☑ Veri / Analitik
 
-### 3.3 "Geliştirdiğiniz ürünü/projeyi özetleyiniz" (≥1200 karakter; aşağıdaki metin ≈ 1.900 karakter)
+### 3.3 "Geliştirdiğiniz ürünü/projeyi özetleyiniz" (≥1200 karakter; aşağıdaki metin 2.092 karakter)
 ```
-Projemiz, eğitmenin yüklediği ders kaynaklarına (ders notu, PDF, slayt, ders videosu transkripti) kilitlenen, Türkçe için optimize edilmiş bir eğitim yapay zekâsı ve bu yapay zekânın çalıştığı bir eğitim platformu geliştirmeyi amaçlamaktadır. Genel amaçlı sohbet botları ders kaynağına bağlı kalmadığı için bilgi uydurabilmekte (halüsinasyon), ödevin cevabını doğrudan vererek öğrenmeyi zayıflatabilmekte ve öğrenci verisini yurt dışında işlemektedir. Geliştireceğimiz sistem öğrencinin sorusunu yalnızca ilgili dersin kaynaklarından, sayfa/dakika atfı vererek yanıtlayacak; kaynakta bulunmayan sorularda uydurmak yerine bunu açıkça belirtecek; ödev sorularında cevabı vermek yerine kademeli ipuçlarıyla öğrenciyi yönlendirecek ve eğitmenin rubriğine göre ödevleri ön-değerlendirerek kanıtlı, gerekçeli geri bildirim üretecektir; nihai not kararı eğitmende kalacaktır.
+Kurumumuz bir eğitim kurumudur ve bu proje, eğitim hizmetimizi güçlendirmek amacıyla geliştirilmektedir. Projemiz, eğitmenin yüklediği ders kaynaklarına (ders notu, PDF, slayt, ders videosu transkripti) kilitlenen, Türkçe için optimize edilmiş bir eğitim yapay zekâsı ve bu yapay zekânın çalıştığı bir eğitim platformu geliştirmeyi amaçlamaktadır. Genel amaçlı sohbet botları ders kaynağına bağlı kalmadığı için bilgi uydurabilmekte (halüsinasyon), ödevin cevabını doğrudan vererek öğrenmeyi zayıflatabilmekte ve öğrenci verisini yurt dışında işlemektedir. Geliştireceğimiz sistem öğrencinin sorusunu yalnızca ilgili dersin kaynaklarından, sayfa/dakika atfı vererek yanıtlayacak; kaynakta bulunmayan sorularda uydurmak yerine bunu açıkça belirtecek; ödev sorularında cevabı vermek yerine kademeli ipuçlarıyla öğrenciyi yönlendirecek ve eğitmenin rubriğine göre ödevleri ön-değerlendirerek kanıtlı, gerekçeli geri bildirim üretecektir; nihai not kararı eğitmende kalacaktır.
 
 Projenin Ar-Ge çekirdeği altı teknik belirsizliğe dayanır: (1) Türkçe içerikte kaynağa sadakat ve doğru reddetme (hedef sadakat ≥%95, red doğruluğu ≥%90), (2) sondan eklemeli Türkçe için hibrit bilgi erişimi (Recall@5 ≥%90), (3) rubrik tabanlı puanlamada eğitmenle uyum (literatürde 0,4–0,7 olan ağırlıklı Kappa değerinin ≥0,75'e çıkarılması), (4) ödev cevabı sızıntısının ≤%2'ye indirilmesi, (5) PDF, slayt, görsel ve ders videosundan çok kipli bilgi tabanı oluşturma, (6) yurt içinde barındırılan açık ağırlıklı Türkçe dil modelleriyle düşük maliyetli ve KVKK uyumlu çalışma.
 
@@ -125,7 +125,7 @@ Sistem, kendi kurumumuzdaki aylık 200–300 öğrenci ve eğitmenlerle gerçek 
 - [ ] Son 3 yıl gelir tablosu ve bilanço (kurumlar vergisi beyannamesi)
 - [ ] Borç yoktur yazısı: vergi dairesi (güncel)
 - [ ] Borç yoktur yazısı: SGK (güncel)
-- [ ] Firma / proje sunumu (belge 05, §6'daki 13 slayt)
+- [ ] Firma / proje sunumu (`teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf`, 19 slayt)
 - [ ] Sertifika ve lisanslar (varsa: ISO, MEB kurum izinleri, ödüller)
 - [ ] **Tüm PDF'ler OCR'lı.** Taranmış görüntü PDF kabul edilmiyor.
 

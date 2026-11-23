@@ -174,7 +174,7 @@ ekle(H1("8. Yöntem ve Teknoloji Altyapısı"),
 
 // ---------------- 9. İş planı ----------------
 ekle(H1("9. İş Planı"),
-  P("Proje üç düzeyde planlanmıştır: fazlar, iş paketleri (epikler) ve iki haftalık sprintlere yerleştirilmiş görevler. Faz 0 (başvuru ve yerleşme) ile Faz 1 toplam 33 sprintte 136 görev olarak ayrıntılandırılmıştır; her görevde tarih, sorumlu, kullanılacak teknoloji ve kabul kriteri tanımlıdır."),
+  P("Proje üç düzeyde planlanmıştır: fazlar, iş paketleri (epikler) ve iki haftalık sprintlere yerleştirilmiş görevler. Faz 1, iki haftalık 26 sprintte 92 görev olarak ayrıntılandırılmıştır; her görevde tarih, sorumlu, kullanılacak teknoloji ve kabul kriteri tanımlıdır."),
   tablo(["İP", "İş paketi", "Ay", "Kişi-ay", "Ana çıktı"], [
     ["İP-0", "Proje yönetimi ve teknopark raporlaması", "1–12", "4,0", "Aylık muafiyet ve izleme raporları"],
     ["İP-1", "Gereksinim, literatür, Türkçe test setleri", "1–2", "4,5", "Test setleri ve değerlendirme protokolü"],

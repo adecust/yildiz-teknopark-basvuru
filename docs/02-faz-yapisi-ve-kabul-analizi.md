@@ -3,7 +3,7 @@
 **Tarih:** 23.11.2026
 **Dayanak:** `docs/01-yildiz-teknopark-arastirma-raporu.md` (değerlendirme ölçütleri, hakem formu ağırlıkları, Yıldız yönergesi kuralları)
 
-> **Varsayımlar** (henüz cevaplanmadı, cevaplara göre güncellenecek): mevcut yazılım ekibi yok ya da küçük; eğitimler çeşitli alanlarda; platform ileride başka kurumlara da satılabilir.
+> **Kurum bilgileri (güncel):** Kurumun asıl faaliyet alanı eğitimdir; aylık 200–300 aktif öğrenci; kurum içinde yazılım ekibi bulunmaktadır; ürün hem kurumlara hem bireysel eğitmenlere sunulacaktır; teknoparka mevcut şirketin şubesiyle girilecektir.
 
 ---
 
@@ -36,7 +36,7 @@ Başlıkta "platform" kelimesi en sonda yer alıyor. Hakem ilk olarak YZ'yi, yan
 ### 2.2 Kapsam: iki katman
 
 **A) Platform katmanı ("test yatağı")**
-Bu katman Ar-Ge değil, ama YZ'nin çalışacağı ve ölçüleceği zemin. Toplam iş yükünün **en fazla %25–30'u** olmalı ve dosyada kısa anlatılmalı.
+Bu katman Ar-Ge değil, ama YZ'nin çalışacağı ve ölçüleceği zemin. Toplam iş yükünün **%24'ü (en fazla %25)** olmalı ve dosyada kısa anlatılmalı.
 
 - Kullanıcı ve rol yönetimi: öğrenci, eğitmen, kurum yöneticisi; kurumlar birbirinden tamamen ayrı (çok kiracılı)
 - Ders alanları: her ders için ayrı bölüm, kayıt ve davet
@@ -98,7 +98,7 @@ Ayrıntılı kanban sonraki belgede çıkarılacak.
 | Backend geliştirici | 1–2 | Platform ve YZ servisleri |
 | Frontend / mobil geliştirici | 1 | |
 | DevOps / güvenlik (yarı zamanlı) | 0,5 | KVKK, barındırma |
-| Eğitim tasarımcısı / alan uzmanı | 1 | Destek personeli; rubrik ve test seti hazırlığı. Sizin eğitmenlerinizden biri olabilir |
+| Eğitim tasarımcısı / alan uzmanı | 1 | Kurum merkezinde (teknopark dışı) çalışır; rubrik ve test seti hazırlığını yürütür. Kurumun eğitmenlerinden biri olabilir |
 | **YTÜ akademik danışman** | 2 | Biri Bilgisayar Mühendisliği'nden (dil işleme/YZ), biri Eğitim Fakültesi'nden (ölçme-değerlendirme) |
 | Stajyer / tez öğrencisi | 1–2 | YTÜ'den. Hem KPI hem üniversite iş birliği puanı sağlar |
 

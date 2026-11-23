@@ -19,7 +19,7 @@
 7. **Aday komisyonunun açık eleme ölçütü:** "TGB misyonuna uygun bulunmayan, **Bölgeye ve milli sanayiye/teknolojiye katkısı** olduğu görüşünü sağlamayan girişimciler ön değerlendirmeden geçemez." Ayrıca "projenin **niteliği** ve **ticarileşme açısından niceliği**" de değerlendirme ölçütleri arasında. (Yönerge md. 10.1)
 8. **Formun kendisi neye puan verildiğini gösteriyor:** somut akademik işbirliği, akademisyen danışmanlığı, TÜBİTAK/KOSGEB/Horizon desteği, yatırım alınıp alınmadığı, gelir modeli, geçen yıl fatura kesilen müşteri sayısı, yurt dışı ofis ve planı, patent potansiyeli.
 9. **Yıldız'ın stratejik öncelikleri** (Yönerge md. 5.3): **8 dikey sektör** (Fintech, Insurtech, Mobility, Energytech, Gametech, Healthtech, Retailtech, Agritech); **savunma, biyoteknoloji, temiz enerji, dijital teknolojilerde yerli/milli projeler**; **sürdürülebilirlik/ESG** ("Sustainable Development Zone"); **globalleşme**; misyon olarak **"5 yıl içinde en az 1 girişimi 1 milyar $ değerine ulaştırmak"**.
-10. **20 milyon TL cirolu mevcut bir şirket için en büyük risk**, projenin "mevcut ticari işin vergi avantajı için teknoparka taşınması" gibi görünmesi. Yönerge girişimcinin "ticarileşme ve diğer faaliyetlerin Ar-Ge faaliyetlerine göre yoğunluk kazanmasına karşı önlem" almasını şart koşuyor (md. 7.1.5). Ar-Ge ile rutin iş net biçimde ayrılmalı.
+10. **Yıllık yaklaşık 240 milyon TL gelirli mevcut bir eğitim kurumu için en büyük risk**, projenin "mevcut ticari işin vergi avantajı için teknoparka taşınması" gibi görünmesi. Yönerge girişimcinin "ticarileşme ve diğer faaliyetlerin Ar-Ge faaliyetlerine göre yoğunluk kazanmasına karşı önlem" almasını şart koşuyor (md. 7.1.5). Ar-Ge ile rutin iş net biçimde ayrılmalı.
 11. **Personel kuralları Yıldız'a özgü ve sıkı:** kapsam dışı personel, Ar-Ge personelinin **en fazla %15'i** olabiliyor (md. 7.1.9). Personel kiralanan m² ile orantılı olmalı. Personel, işe başlama tarihinden önce sistemde onaylatılmalı.
 12. **Teknik ön koşullar:** yüklenen tüm PDF'ler **OCR'lı ve metni seçilebilir** olmalı (taranmış görsel PDF reddediliyor). Proje özeti **en az 1200 karakter**. Eksik ya da hatalı beyan tespit edilirse **başvuru yok sayılıyor**.
 
@@ -123,7 +123,7 @@ Güncel form (06.02.2026). Alanların ne işe yaradığını ve nasıl doldurulm
 - Kuruluş sermayesi
 - **Geçen yıl fatura kesilen müşteri sayısı**
 
-> **Strateji:** 20 milyon TL ciro ve müşteri sayısı en güçlü kozumuz. Komisyon ayrıca "ticarileşme açısından nicelik" bakıyor. Gelir modelinde **ürünleşmiş ve ölçeklenebilir modeller** (lisans, SaaS, API) "proje bazlı hizmet ve danışmanlık"tan daha güçlü bir Ar-Ge firması algısı yaratıyor. Teknopark kazanç istisnası da Ar-Ge çıktısının satışına uygulanıyor; eğitim ve danışmanlık geliri istisna dışı kalabiliyor (özelge örneği).
+> **Strateji:** Yıllık yaklaşık 240 milyon TL gelir ve müşteri sayısı en güçlü kozumuz. Komisyon ayrıca "ticarileşme açısından nicelik" bakıyor. Gelir modelinde **ürünleşmiş ve ölçeklenebilir modeller** (lisans, SaaS, API) "proje bazlı hizmet ve danışmanlık"tan daha güçlü bir Ar-Ge firması algısı yaratıyor. Teknopark kazanç istisnası da Ar-Ge çıktısının satışına uygulanıyor; eğitim ve danışmanlık geliri istisna dışı kalabiliyor (özelge örneği).
 
 ### Bölüm 6: Yurt dışı
 - Yurt dışı ofis var mı / kurma planı var mı, ülkeler
@@ -271,7 +271,7 @@ Mevzuat ve TÜBİTAK 1501 alışkanlıkları ile uyumlu, hakem sorularına bireb
 
 ---
 
-## 8. 20 milyon TL cirolu mevcut şirket için yapısal kararlar
+## 8. Mevcut eğitim kurumu (yıllık ≈ 240 milyon TL gelir) için yapısal kararlar
 
 | Konu | Bulgu | Öneri |
 |---|---|---|

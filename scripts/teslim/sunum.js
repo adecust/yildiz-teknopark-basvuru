@@ -82,13 +82,13 @@ async function ikon(ad, renk = "FFFFFF") {
     { text: "YTÜ Yıldız Teknopark Aday Firma Başvurusu · Aralık 2026", options: { fontSize: 16, color: C.background1 } },
   ], { placeholder: "body" });
   s.addImage({ data: await ikon("FaGraduationCap", HEX.accent1), x: 0.8, y: 0.8, w: 0.9, h: 0.9, altText: "Mezuniyet kepi" });
-  s.addText("‹Firma Unvanı›", { isTextBox: true, x: 0.8, y: 6.3, w: 8, h: 0.5, fontSize: 16, color: C.accent1, margin: 0, bold: true });
+  s.addText("‹Kurum Unvanı›", { isTextBox: true, x: 0.8, y: 6.3, w: 8, h: 0.5, fontSize: 16, color: C.accent1, margin: 0, bold: true });
   s.addNotes("Açılış: Kurumumuz bir eğitim kurumudur; bu projede eğitim hizmetimizi güçlendirecek, ders kaynağına bağlı kalan ve öğrenmeyi destekleyen bir yapay zekâ geliştirilmektedir.");
 
   // ---------- 2 · Sunum akışı ----------
   s = yeni("Giriş");
   baslik(s, "Sunum Akışı");
-  const gundem = ["Kurum profili ve projenin kurum için anlamı", "Sorun tanımı ve mevcut yaklaşımların sınırlılıkları", "Tekniğin bilinen durumu ve önerilen çözüm", "Ar-Ge içeriği ve ölçülebilir hedefler", "Sistem mimarisi ve teknoloji altyapısı", "Doğrulama yaklaşımı ve uygulama takvimi", "Proje ekibi ve üniversite-sanayi iş birliği", "Pazar, ticarileşme, ithal ikame ve ihracat", "Bütçe, finansman ve Yıldız Teknopark'a katkı"];
+  const gundem = ["Kurum profili ve projenin kurum için anlamı", "Sorun tanımı ve mevcut yaklaşımların sınırlılıkları", "Tekniğin bilinen durumu ve önerilen çözüm", "Ar-Ge içeriği ve ölçülebilir hedefler", "Sistem mimarisi ve teknoloji altyapısı", "Doğrulama yaklaşımı ve uygulama takvimi", "Proje ekibi ve üniversite-sanayi iş birliği", "Pazar, ticarileşme, ithal ikame ve ihracat", "Riskler, bütçe ve Yıldız Teknopark'a katkı"];
   gundem.forEach((g, i) => {
     const x = 0.6 + (i % 2) * 6.15, y = 1.55 + Math.floor(i / 2) * 1.05;
     kart(s, { x, y, w: 5.95, h: 0.85 });
@@ -101,7 +101,7 @@ async function ikon(ad, renk = "FFFFFF") {
   s = yeni("Giriş");
   baslik(s, "Kurum Profili");
   metin(s, [
-    { text: "‹Firma Unvanı›", options: { bold: true, color: PH } },
+    { text: "‹Kurum Unvanı›", options: { bold: true, color: PH } },
     { text: ", ‹kuruluş yılı› yılından bu yana ‹eğitim alanları› alanlarında bireylere eğitim hizmeti sunan bir eğitim kurumudur. Kurumun asıl faaliyet alanı eğitimdir; yapay zekâ, bu hizmetin kalitesini ve erişilebilirliğini artırmak amacıyla geliştirilmektedir." },
   ], { x: 0.6, y: 1.45, w: 12.1, h: 1.0, fontSize: 16 });
   const istat = [
@@ -345,12 +345,12 @@ async function ikon(ad, renk = "FFFFFF") {
     { text: "Model ya da istem değişikliği regresyon kapısından geçmeden canlıya çıkmaz", options: { bullet: true, breakLine: true } },
     { text: "İki aşamalı pilot: kendi kurumumuz + en az bir dış kurum", options: { bullet: true } },
   ], { x: 7.2, y: 2.0, w: 5.5, h: 2.8, fontSize: 15, paraSpaceAfter: 6 });
-  s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 7.2, y: 5.0, w: 5.5, h: 1.25, rectRadius: 0.1, fill: { color: "FBE9E5" }, line: { color: PH, width: 1 } });
+  s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 7.2, y: 5.0, w: 5.5, h: 1.25, rectRadius: 0.1, fill: { color: "FDF1DE" }, line: { color: HEX.accent1, width: 1 } });
   metin(s, [
-    { text: "Ön kavram kanıtı (n = 60 soru, 20 ödev): ", options: { bold: true, color: PH } },
-    { text: "‹Recall@5 = …, sadakat = …, reddetme = …, Kappa = …›. Küçük örneklem; proje kapsamında doğrulanacak.", options: { color: PH } },
+    { text: "Ön kavram kanıtı: ", options: { bold: true, color: C.text2 } },
+    { text: "Kurumun kendi ders içeriğiyle küçük ölçekli bir prototip hazırlanmaktadır; ilk ölçüm sonuçları hakem değerlendirmesinde sunulacaktır.", options: { color: C.text1 } },
   ], { x: 7.45, y: 5.1, w: 5.05, h: 1.05, fontSize: 13, valign: "middle" });
-  s.addNotes("Kavram kanıtı yapılmadıysa sağ alttaki kırmızı kutu silinmeli ve formda aşama 'Fikir aşaması' seçilmeli. Sonuç ne çıkarsa çıksın dürüstçe yazılmalı; düşük değer Ar-Ge belirsizliğinin kanıtıdır.");
+  s.addNotes("Prototip tamamlandığında sağ alttaki kutuya ölçüm sonuçları (Recall@5, sadakat, reddetme, Kappa) ve örneklem büyüklüğü yazılabilir. Sonuçlar ne olursa olsun dürüstçe raporlanmalıdır; düşük bir değer Ar-Ge belirsizliğinin kanıtıdır.");
 
   // ---------- 10 · İş planı (Gantt) ----------
   pres.addSection({ title: "Plan ve ekip" });
@@ -387,7 +387,7 @@ async function ikon(ad, renk = "FFFFFF") {
   });
   metin(s, [
     { text: "KT-6 (14.01.2028): Faz 2 başvurusu. ", options: { bold: true, color: C.accent4 } },
-    { text: "Ayrıntılı plan: 33 iki haftalık sprint ve 148 görev; her görevde tarih, sorumlu, teknoloji ve kabul kriteri tanımlıdır." },
+    { text: "Faz 1, iki haftalık 26 sprintte 92 göreve ayrılmıştır; her görevde tarih, sorumlu, teknoloji ve kabul kriteri tanımlıdır." },
   ], { x: 0.6, y: 6.5, w: 12.1, h: 0.4, fontSize: 13 });
   s.addNotes("Tahmini başlangıç 01.04.2027 (faaliyet onay yazısına bağlı). Her kilometre taşında devam/dur kriteri var: KT-3 Recall@5 ≥ %85, KT-4 sadakat ≥ %93, KT-5 Kappa ≥ 0,70 ara eşikleri. Ayrıntı: proje dosyası belge 04.");
 
@@ -482,6 +482,30 @@ async function ikon(ad, renk = "FFFFFF") {
     metin(s, [{ text: b, options: { bold: true, breakLine: true, color: C.text2 } }, { text: t, options: { fontSize: 12 } }], { x: 10.3, y: y + 0.08, w: 2.3, h: 1.05, fontSize: 14, valign: "middle" });
   }
   s.addNotes("AB YZ Yasası Ek III(3)(b): öğrenme çıktısını değerlendiren YZ yüksek riskli; yükümlülükler 02.12.2027 (Digital Omnibus ile ertelendi, teyit edilmeli). Not kararı eğitmende olduğu için tasarım uyumlu.");
+
+  // ---------- Riskler ----------
+  s = yeni("Ticarileşme");
+  baslik(s, "Riskler ve B Planları");
+  const rk = [
+    ["Ödev puanlamasında Kappa ≥ 0,75 hedefine ulaşılamaması", "Kanıt çıkarımı, eğitmen puanlı örnekler, kalibrasyon", "Asistan modu: kanıt ve taslak geri bildirim, not eğitmende"],
+    ["Sadakat ve reddetmenin birlikte sağlanamaması", "Ceza-duyarlı eşik, iddia düzeyinde doğrulama", "Kurum bazlı eşik, kısmi yanıt şablonu"],
+    ["Kıdemli YZ mühendisi istihdamının gecikmesi", "Erken ilan, teknopark ücret avantajı", "Sözleşmeli uzman ve akademik destek"],
+    ["Yerli açık model kalitesinin yetersiz kalması", "Birden çok aday model, ince ayar", "Anonimleştirilmiş veriyle hibrit model"],
+    ["Dış kurum pilotunun bulunamaması", "Hedef kurum listesi, Yıldız ağı, ücretsiz pilot", "Ortak kurslar ve sektör ağı"],
+    ["Faz 2 başvurusunun gecikmesi (90 gün kuralı)", "Ertelenemez kilometre taşı (KT-6)", "Faz 1 ek süre talebi ve erken başvuru"],
+  ];
+  const rkRows = [[hb("Risk"), hb("Önlem"), hb("B planı")]];
+  rk.forEach((r, i) => {
+    const z = i % 2 ? HEX.lt1 : HEX.lt2;
+    rkRows.push([
+      { text: r[0], options: { bold: true, color: HEX.dk2, fill: { color: z } } },
+      { text: r[1], options: { color: HEX.dk1, fill: { color: z } } },
+      { text: r[2], options: { color: HEX.dk2, fill: { color: "FDF1DE" } } },
+    ]);
+  });
+  s.addTable(rkRows, { x: 0.6, y: 1.45, w: 12.1, colW: [4.4, 3.9, 3.8], fontSize: 14, fontFace: "Calibri", rowH: 0.68, border: { type: "solid", color: "D9E2DF", pt: 0.75 }, valign: "middle" });
+  metin(s, "Her araştırma sorusu için B planı tanımlıdır; olumsuz sonuçlar da raporlanacak ve ürün B planıyla değer üretmeye devam edecektir.", { x: 0.6, y: 6.4, w: 12.1, h: 0.4, fontSize: 12, color: C.accent5 });
+  s.addNotes("En kritik risk ödev puanlamasındaki uyum hedefidir; ulaşılamazsa sistem eğitmen asistanı olarak değer üretmeye devam eder. AB YZ Yasası zaten notun eğitmende kalmasını gerektirmektedir.");
 
   // ---------- 14 · Bütçe ----------
   s = yeni("Ticarileşme");

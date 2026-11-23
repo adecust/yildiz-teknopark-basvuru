@@ -16,7 +16,7 @@ OECD Frascati Kılavuzu'na göre bir faaliyetin Ar-Ge sayılması için beş öl
 | **Sistematik (systematic)** | Her araştırma sorusu için hipotez, deney tasarımı, test seti, metrik ve istatistiksel analiz önceden tanımlandı (belge 03). |
 | **Aktarılabilir / tekrarlanabilir** | Test setleri, değerlendirme protokolü ve sonuçlar belgelenecek; YTÜ ile ortak yayın ve fikri mülkiyet başvurusu hedefleniyor. |
 
-**Ar-Ge olmayan kısım ve ayrımı:** Kayıt, rol yönetimi, takvim, bildirim, ödeme gibi platform işlevleri rutin yazılım geliştirme. Bunlar "test yatağı" olarak yapılıyor ve **toplam eforun ≈ %25–30'u** ile sınırlı tutuluyor. Bu efor proje raporlarında ayrı iş paketinde (İP-2) izleniyor.
+**Ar-Ge olmayan kısım ve ayrımı:** Kayıt, rol yönetimi, takvim, bildirim, ödeme gibi platform işlevleri rutin yazılım geliştirme. Bunlar "test yatağı" olarak yapılıyor ve **toplam eforun %24'ü** (78 kişi-ayın 18,5'i) ile sınırlı tutuluyor. Bu efor proje raporlarında ayrı iş paketinde (İP-2) izleniyor.
 
 ---
 
