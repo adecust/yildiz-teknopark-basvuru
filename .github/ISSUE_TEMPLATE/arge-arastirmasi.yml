@@ -1,0 +1,30 @@
+name: Ar-Ge araştırması
+description: Hipotez ve ölçütle tanımlanan deney veya araştırma
+title: "AR-XXX · "
+labels: ["tür: Ar-Ge araştırması", "durum: yapılacak"]
+body:
+  - type: input
+    id: epik
+    attributes:
+      label: Epik
+    validations:
+      required: true
+  - type: textarea
+    id: hedef
+    attributes:
+      label: Araştırma sorusu, hipotez ve ölçüt
+      description: "Ölçülecek metrik, hedef değer ve kullanılacak test seti"
+    validations:
+      required: true
+  - type: textarea
+    id: kabul
+    attributes:
+      label: Kabul kriterleri
+      value: |
+        - [ ] Sonuçlar %95 güven aralığıyla raporlandı
+    validations:
+      required: true
+  - type: input
+    id: teknoloji
+    attributes:
+      label: Kullanılacak teknolojiler

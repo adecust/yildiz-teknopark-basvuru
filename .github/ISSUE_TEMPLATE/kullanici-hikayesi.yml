@@ -1,0 +1,52 @@
+name: Kullanıcı hikâyesi
+description: Kullanıcıya değer sağlayan yeni bir işlev
+title: "US-XXX · "
+labels: ["tür: kullanıcı hikâyesi", "durum: yapılacak"]
+body:
+  - type: input
+    id: epik
+    attributes:
+      label: Epik
+      description: "Bağlı olduğu epik (ör. EP-01 · Kimlik doğrulama ve hesap yönetimi)"
+    validations:
+      required: true
+  - type: textarea
+    id: hikaye
+    attributes:
+      label: Kullanıcı hikâyesi
+      value: "Bir **<persona>** olarak, **<istek>** istiyorum; böylece <fayda>."
+    validations:
+      required: true
+  - type: textarea
+    id: gereksinim
+    attributes:
+      label: Fonksiyonel gereksinimler
+      value: |
+        - FR-XXX.1:
+        - FR-XXX.2:
+    validations:
+      required: true
+  - type: textarea
+    id: kabul
+    attributes:
+      label: Kabul kriterleri
+      value: |
+        - [ ] **Verilen** ..., **olduğunda** ..., **o zaman** ...
+    validations:
+      required: true
+  - type: input
+    id: teknoloji
+    attributes:
+      label: Kullanılacak teknolojiler
+  - type: dropdown
+    id: oncelik
+    attributes:
+      label: Öncelik
+      options: ["Olmazsa olmaz (P1)", "Olmalı (P2)", "Olabilir (P3)"]
+    validations:
+      required: true
+  - type: dropdown
+    id: puan
+    attributes:
+      label: Hikâye puanı
+      options: ["1", "2", "3", "5", "8", "13"]

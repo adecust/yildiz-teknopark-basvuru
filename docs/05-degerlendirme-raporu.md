@@ -26,7 +26,7 @@ Puanlar 1–5 ölçeğinde verilmiş, ağırlıkla 100 üzerinden ölçeklenmiş
 | # | Ölçüt | Ağırlık | Puan | Gerekçe |
 |---|---|---|---|---|
 | 4 | Yenilik | 10 | 4 | Kaynağa bağlı yanıt, ölçülmüş reddetme, sızıntı denetimi ve rubrik uyumunun tek sistemde birleşimi açıkça tanımlanmış; rakip matrisi Google'ın 2026 ürünlerini de kapsıyor. |
-| 5 | Uygulanabilirlik | 6 | 4 | Mimari, teknoloji seçimleri ve 92 görevlik Faz 1 planı somut. Prototip sonucu henüz yok. |
+| 5 | Uygulanabilirlik | 6 | 4 | Mimari, teknoloji seçimleri ve 85 öğelik (kullanıcı hikâyesi, Ar-Ge araştırması ve görev) Faz 1 backlog'u somut. Prototip sonucu henüz yok. |
 | 6 | Tekniğin bilinen durumunu aşma | 6 | 4 | Her araştırma sorusu için literatürdeki değer ve hedef yan yana verilmiş (ör. Kappa 0,4–0,7 → ≥ 0,75). |
 | 7 | Ticarileşme | 15 | 4 | Fiyatlama, segmentler ve gelir projeksiyonu var; kurumun kendi kullanımı güçlü bir başlangıç. Dış kurum niyet mektubu yok. |
 | 8 | İthal ikame / ihracat | 15 | 4 | İkame edilen ürünler ve ihracat yol haritası net; döviz etkisi rakamla gösterilmemiş. |

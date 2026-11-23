@@ -1,0 +1,24 @@
+name: Hata bildirimi
+description: Beklenen davranıştan sapma
+title: "Hata · "
+labels: ["tür: hata", "durum: yapılacak"]
+body:
+  - type: textarea
+    id: adimlar
+    attributes:
+      label: Yeniden üretme adımları
+      value: |
+        1.
+        2.
+    validations:
+      required: true
+  - type: textarea
+    id: beklenen
+    attributes:
+      label: Beklenen ve gerçekleşen davranış
+    validations:
+      required: true
+  - type: input
+    id: ortam
+    attributes:
+      label: Ortam (tarayıcı, cihaz, sürüm)

@@ -387,7 +387,7 @@ async function ikon(ad, renk = "FFFFFF") {
   });
   metin(s, [
     { text: "KT-6 (14.01.2028): Faz 2 başvurusu. ", options: { bold: true, color: C.accent4 } },
-    { text: "Faz 1, iki haftalık 26 sprintte 92 göreve ayrılmıştır; her görevde tarih, sorumlu, teknoloji ve kabul kriteri tanımlıdır." },
+    { text: "Faz 1: 26 sprint; 46 kullanıcı hikâyesi, 19 Ar-Ge araştırması ve 20 görev. Her öğede gereksinim, kabul kriteri ve teknoloji tanımlıdır." },
   ], { x: 0.6, y: 6.5, w: 12.1, h: 0.4, fontSize: 13 });
   s.addNotes("Tahmini başlangıç 01.04.2027 (faaliyet onay yazısına bağlı). Her kilometre taşında devam/dur kriteri var: KT-3 Recall@5 ≥ %85, KT-4 sadakat ≥ %93, KT-5 Kappa ≥ 0,70 ara eşikleri. Ayrıntı: proje dosyası belge 04.");
 

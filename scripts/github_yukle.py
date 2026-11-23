@@ -1,7 +1,9 @@
-"""plan/proje-plani.json içeriğini GitHub reposuna aktarır.
+"""plan/backlog.json içeriğini GitHub reposuna ürün backlog'u olarak aktarır.
 
-Oluşturulanlar: etiketler, sprint milestone'ları, epik issue'ları ve görev issue'ları
-(görevler epiklerin alt işi olarak bağlanır). Emoji kullanılmaz.
+Oluşturulanlar:
+  - Etiketler: tür, öncelik, hikâye puanı, faz, rol, durum
+  - Milestone'lar: hazırlık dönemi, Faz 1'in 26 sprinti, sürekli işler, Faz 2 ve Faz 3 yol haritası
+  - Epik issue'ları ve bunlara alt iş olarak bağlı kullanıcı hikâyeleri, Ar-Ge araştırmaları ve görevler
 
 Kullanım:
   python scripts/github_yukle.py OWNER/REPO [--bugun YYYY-MM-DD] [--sifirla]
@@ -17,23 +19,31 @@ from datetime import date, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from plan_olustur import yukle, sprintler, sprint_bul, sprint_ad, t, tr  # noqa: E402
+from plan_olustur import (yukle, hazirla, sprint_ad, hikaye_cumlesi, kk_satirlari, t, tr,  # noqa: E402
+                          TIP_AD, ONCELIK, M_BASVURU, M_DEGER, M_SUREKLI, M_F2, M_F3)
 
+TUR_ETIKET = {"epik": "tür: epik", "hikaye": "tür: kullanıcı hikâyesi", "arastirma": "tür: Ar-Ge araştırması", "gorev": "tür: görev"}
+ONC_ETIKET = {"P1": "öncelik: olmazsa olmaz", "P2": "öncelik: olmalı", "P3": "öncelik: olabilir"}
 RENK = {
-    "faz-0": "5B6770", "faz-1": "14786E", "faz-2": "2E5E8C", "faz-3": "8FC1B5",
-    "epik": "0B3D3A", "kritik": "B60205", "opsiyonel": "C5DEF5", "ar-ge": "D93F0B",
-    "platform": "0052CC", "kvkk": "E99695", "tekrarlayan": "BFD4F2", "akademik": "0E8A16",
-    "durum: yapılacak": "EDEDED", "durum: bu sprint": "FBCA04", "durum: devam ediyor": "1D76DB", "durum: incelemede": "D4C5F9",
+    "tür: epik": "0B3D3A", "tür: kullanıcı hikâyesi": "1D76DB", "tür: Ar-Ge araştırması": "D93F0B", "tür: görev": "5B6770",
+    "öncelik: olmazsa olmaz": "B60205", "öncelik: olmalı": "FBCA04", "öncelik: olabilir": "C5DEF5",
+    "faz-0": "BFD4F2", "faz-1": "14786E", "faz-2": "2E5E8C", "faz-3": "8FC1B5",
+    "durum: yapılacak": "EDEDED", "durum: bu sprint": "F2A541", "durum: devam ediyor": "0E8A16", "durum: incelemede": "D4C5F9",
 }
-ROL_RENK = "F2A541"
+DOD = {
+    "hikaye": ["Kod incelemesinden geçti", "Birim ve entegrasyon testleri yazıldı ve geçiyor", "Kabul kriterleri test ortamında doğrulandı",
+               "Güvenlik, KVKK ve erişilebilirlik kontrolleri yapıldı", "Kullanıcı ve teknik dokümantasyon güncellendi"],
+    "arastirma": ["Deney tasarımı ve kullanılan veri seti kayıt altına alındı", "Sonuçlar %95 güven aralığıyla raporlandı ve repoya eklendi",
+                  "Kararlar teknoloji kararları belgesine işlendi", "Gerekliyse değerlendirme düzeneğine regresyon testi eklendi"],
+    "gorev": ["Kabul kriterleri karşılandı", "Çıktılar ve belgeler repoya eklendi"],
+}
 
 
 def gh(method, path, body=None, izin_hata=False):
     cmd = ["gh", "api", "-X", method, path, "-H", "Accept: application/vnd.github+json"]
     if body is not None:
         cmd += ["--input", "-"]
-    r = subprocess.run(cmd, input=json.dumps(body) if body is not None else None,
-                       capture_output=True, text=True, encoding="utf-8")
+    r = subprocess.run(cmd, input=json.dumps(body) if body is not None else None, capture_output=True, text=True, encoding="utf-8")
     if r.returncode != 0:
         if izin_hata:
             return None
@@ -53,19 +63,13 @@ def hepsi(path):
 
 def sifirla(repo):
     for i in hepsi(f"repos/{repo}/issues?state=all"):
-        if "pull_request" in i:
-            continue
-        subprocess.run(["gh", "issue", "delete", str(i["number"]), "--repo", repo, "--yes"], capture_output=True)
-        print("silindi issue", i["number"])
+        if "pull_request" not in i:
+            subprocess.run(["gh", "issue", "delete", str(i["number"]), "--repo", repo, "--yes"], capture_output=True)
     for m in hepsi(f"repos/{repo}/milestones?state=all"):
         gh("DELETE", f"repos/{repo}/milestones/{m['number']}")
     for l in hepsi(f"repos/{repo}/labels"):
         gh("DELETE", f"repos/{repo}/labels/{urllib.parse.quote(l['name'], safe='')}")
     print("sıfırlama tamam")
-
-
-def rol_etiket(r):
-    return "rol: " + r.lower().replace("ı", "ı")
 
 
 def main():
@@ -76,133 +80,119 @@ def main():
     a = ap.parse_args()
     repo, bugun = a.repo, t(a.bugun)
     v = yukle()
-    sp = sprintler(v)
-    fazlar = {f["key"]: f for f in v["fazlar"]}
-    epikler = {e["id"]: e for e in v["epikler"]}
-    tek, gt = v["teknolojiler"], v["gorev_teknoloji"]
-    gorevler = v["gorevler"]
-    for g in gorevler:
-        g["_faz"] = epikler[g["epik"]]["faz"]
-        g["_sp"] = None if fazlar[g["_faz"]].get("makro") else sprint_bul(sp, t(g["s"]))
-
+    sp = hazirla(v)
+    tek = v["teknolojiler"]
+    ep = {e["id"]: e for e in v["epikler"]}
+    og = v["ogeler"]
     if a.sifirla:
         sifirla(repo)
 
     # Etiketler
     mevcut = {l["name"] for l in hepsi(f"repos/{repo}/labels")}
-    roller = sorted({g["r"] for g in gorevler})
-    for ad, renk in list(RENK.items()) + [(rol_etiket(r), ROL_RENK) for r in roller]:
+    etiketler = dict(RENK)
+    for r in sorted({o["r"] for o in og}):
+        etiketler["rol: " + r.lower()] = "F2A541"
+    for p in sorted({o.get("sp") for o in og if o.get("sp")}):
+        etiketler[f"puan: {p}"] = "EEF4F2"
+    for ad, renk in etiketler.items():
         if ad not in mevcut:
             gh("POST", f"repos/{repo}/labels", {"name": ad, "color": renk})
-    print("etiketler hazır")
+    print("etiketler hazır:", len(etiketler))
 
-    # Milestone'lar: görev içeren her sprint + makro fazlar
+    # Milestone'lar
     ms = {m["title"]: m["number"] for m in hepsi(f"repos/{repo}/milestones?state=all")}
 
     def milestone(baslik, aciklama, bitis):
         if baslik not in ms:
             ms[baslik] = gh("POST", f"repos/{repo}/milestones", {"title": baslik, "description": aciklama, "due_on": f"{bitis.isoformat()}T20:59:59Z"})["number"]
-        return ms[baslik]
 
+    milestone(M_BASVURU, "Teknopark başvurusunun hazırlanması ve gönderilmesi.", date(2026, 12, 11))
+    milestone(M_DEGER, "Aday komisyon ve hakem süreçleri; kira, şube tescili ve faaliyet onayı.", date(2027, 3, 31))
     for s in sp:
-        gs = [g for g in gorevler if g["_sp"] and g["_sp"]["no"] == s["no"]]
-        if gs:
-            kodlar = sorted({k for g in gs for k in gt[g["id"]]}, key=lambda k: list(tek).index(k))
-            aciklama = f"{len(gs)} görev. Teknolojiler: " + "; ".join(tek[k].split(" (")[0] for k in kodlar)
-            milestone(sprint_ad(s), aciklama[:250], s["bit"])
-    for k, f in fazlar.items():
-        if f.get("makro"):
-            milestone(f"{f['ad']} (makro plan)", "Sprint planlaması bir önceki fazın son çeyreğinde yapılacaktır.", t(f["bit"]))
-    print("milestone'lar hazır")
+        aktif = [o for o in og if o.get("spr") and o["spr"][0] <= s["no"] <= o["spr"][1]]
+        epk = sorted({o["epik"] for o in aktif})
+        kod = sorted({k for o in aktif for k in o["tek"]}, key=lambda k: list(tek).index(k))
+        acik = (f"Odak epikler: {', '.join(epk) or '—'}. Teknolojiler: " + ", ".join(tek[k].split(' (')[0] for k in kod))[:900]
+        milestone(sprint_ad(s), acik, s["bit"])
+    milestone(M_SUREKLI, "Faz 1 boyunca süren teknopark raporlaması ve çeyreklik gözden geçirmeler.", date(2028, 4, 20))
+    milestone(M_F2, "Faz 2 epikleri; sprint planlaması Faz 1'in son çeyreğinde yapılacaktır.", date(2029, 3, 31))
+    milestone(M_F3, "Faz 3 kapsamı; ayrıntılı backlog Faz 2 sonunda oluşturulacaktır.", date(2030, 3, 31))
+    print("milestone'lar hazır:", len(ms))
 
-    # Var olan issue'lar (yeniden çalıştırmada atlamak için)
-    var = {}
-    for i in hepsi(f"repos/{repo}/issues?state=all"):
-        if "pull_request" not in i:
-            var[i["title"].split(" · ")[0]] = i
-    time.sleep(1)
+    var = {i["title"].split(" · ")[0]: i for i in hepsi(f"repos/{repo}/issues?state=all") if "pull_request" not in i}
 
-    def durum(g):
-        if t(g["s"]) <= bugun <= t(g["e"]):
+    def durum(o):
+        if o["_bas"] <= bugun <= o["_bit"]:
             return "durum: devam ediyor"
-        akt = sprint_bul(sp, bugun)
-        if akt and g["_sp"] and g["_sp"]["no"] == akt["no"]:
+        if o["_bas"] <= bugun + timedelta(days=13):
             return "durum: bu sprint"
         return "durum: yapılacak"
 
     # Epikler
-    epik_no, epik_id = {}, {}
-    for e in epikler.values():
-        gs = [g for g in gorevler if g["epik"] == e["id"]]
-        b, s = min(t(g["s"]) for g in gs), max(t(g["e"]) for g in gs)
-        baslik = f"{e['id']} · {e['ad']}"
+    eno, eid = {}, {}
+    for e in v["epikler"]:
         if e["id"] in var:
-            epik_no[e["id"]], epik_id[e["id"]] = var[e["id"]]["number"], var[e["id"]]["id"]
+            eno[e["id"]], eid[e["id"]] = var[e["id"]]["number"], var[e["id"]]["id"]
             continue
-        yeni = gh("POST", f"repos/{repo}/issues", {
-            "title": baslik, "body": f"**Amaç:** {e['amac']}\n\n**Faz:** {fazlar[e['faz']]['ad']}\n\n**Tarih aralığı:** {tr(b)} – {tr(s)}\n\nGörev listesi oluşturuluyor.",
-            "labels": ["epik", fazlar[e["faz"]]["etiket"]]})
-        epik_no[e["id"]], epik_id[e["id"]] = yeni["number"], yeni["id"]
-        print("epik", baslik, "#", yeni["number"])
+        y = gh("POST", f"repos/{repo}/issues", {"title": f"{e['id']} · {e['ad']}", "body": f"**Amaç:** {e['amac']}\n\nKapsam listesi oluşturuluyor.",
+                                                "labels": [TUR_ETIKET["epik"], v["fazlar"][e["faz"]]["etiket"]]})
+        eno[e["id"]], eid[e["id"]] = y["number"], y["id"]
+        print("epik", e["id"], "#", y["number"])
         time.sleep(1)
 
-    # Görevler
-    gno = {}
-    for g in gorevler:
-        if g["id"] in var:
-            gno[g["id"]] = var[g["id"]]["number"]
+    # Hikâye, araştırma ve görevler
+    no = {}
+    for o in og:
+        if o["id"] in var:
+            no[o["id"]] = var[o["id"]]["number"]
             continue
-        f = fazlar[g["_faz"]]
-        mil = ms[sprint_ad(g["_sp"])] if g["_sp"] else ms[f"{f['ad']} (makro plan)"]
-        bag = ", ".join(f"#{gno[d]} ({d})" if d in gno else d for d in g["dep"]) or "Yok"
-        govde = "\n".join([
-            f"**Faz:** {f['ad']}",
-            f"**Epik:** #{epik_no[g['epik']]} {g['epik']} · {epikler[g['epik']]['ad']}",
-            f"**Sprint:** {sprint_ad(g['_sp']) if g['_sp'] else 'Makro plan (sprint planlaması sonra yapılacak)'}",
-            f"**Başlangıç:** {tr(t(g['s']))}",
-            f"**Bitiş:** {tr(t(g['e']))}",
-            f"**Sorumlu:** {g['r']}",
-            f"**Bağımlı olduğu görevler:** {bag}",
-            "",
-            "### Kullanılacak teknolojiler",
-            *[f"- {tek[k]}" for k in gt[g["id"]]],
-            "",
-            "### Kabul kriteri",
-            f"- [ ] {g['k']}",
-            "",
-            "Kabul kriteri sayısal ise ölçüm sonucu bu issue'ya yorum olarak eklenir.",
-            "",
-            f"Kaynak: `plan/proje-plani.json`, görev {g['id']}",
-        ])
-        yeni = gh("POST", f"repos/{repo}/issues", {
-            "title": f"{g['id']} · {g['t']} · bitiş {tr(t(g['e']))}", "body": govde, "milestone": mil,
-            "labels": [f["etiket"], rol_etiket(g["r"]), durum(g)] + g["l"]})
-        gno[g["id"]] = yeni["number"]
-        gh("POST", f"repos/{repo}/issues/{epik_no[g['epik']]}/sub_issues", {"sub_issue_id": yeni["id"]}, izin_hata=True)
-        print("görev", g["id"], "#", yeni["number"])
+        g = []
+        if o["tip"] == "hikaye":
+            g += ["## Kullanıcı hikâyesi", "", hikaye_cumlesi(o), "", "## Fonksiyonel gereksinimler", ""]
+            num = o["id"].split("-")[1]
+            g += [f"- **FR-{num}.{i}:** {x}" for i, x in enumerate(o["gr"], 1)] + [""]
+        elif o["tip"] == "arastirma":
+            g += ["## Araştırma sorusu ve hedef", "", o["hedef"], ""]
+        g += ["## Kabul kriterleri", ""] + [f"- [ ] {k}" for k in kk_satirlari(o)] + [""]
+        g += ["## Planlama", "", "| | |", "|---|---|",
+              f"| Epik | #{eno[o['epik']]} {o['epik']} · {ep[o['epik']]['ad']} |",
+              f"| Faz | {v['fazlar'][o['_faz']]['ad']} |",
+              f"| Sprint | {o['_sprint'] or o['_ms']} |",
+              f"| Başlangıç | {tr(o['_bas'])} |",
+              f"| Bitiş | {tr(o['_bit'])} |",
+              f"| Sorumlu | {o['r']} |",
+              f"| Öncelik | {ONCELIK[o['on']]} ({o['on']}) |",
+              f"| Hikâye puanı | {o.get('sp', '—')} |",
+              f"| Bağımlılıklar | {', '.join(f'#{no[d]} {d}' if d in no else d for d in o.get('dep', [])) or 'Yok'} |", ""]
+        g += ["## Kullanılacak teknolojiler", ""] + [f"- {tek[k]}" for k in o["tek"]] + [""]
+        g += ["## Tamamlanma tanımı", ""] + [f"- [ ] {d}" for d in DOD[o["tip"]]] + ["", f"Kaynak: `plan/backlog.json` · {o['id']}"]
+        etk = [TUR_ETIKET[o["tip"]], ONC_ETIKET[o["on"]], v["fazlar"][o["_faz"]]["etiket"], "rol: " + o["r"].lower(), durum(o)]
+        if o.get("sp"):
+            etk.append(f"puan: {o['sp']}")
+        y = gh("POST", f"repos/{repo}/issues", {"title": f"{o['id']} · {o['t']}", "body": "\n".join(g), "milestone": ms[o["_ms"]], "labels": etk})
+        no[o["id"]] = y["number"]
+        gh("POST", f"repos/{repo}/issues/{eno[o['epik']]}/sub_issues", {"sub_issue_id": y["id"]}, izin_hata=True)
+        print(o["id"], "#", y["number"])
         time.sleep(1)
 
-    # Epik gövdelerini görev listesiyle güncelle
-    for e in epikler.values():
-        gs = [g for g in gorevler if g["epik"] == e["id"]]
-        b, s = min(t(g["s"]) for g in gs), max(t(g["e"]) for g in gs)
-        sps = sorted({g["_sp"]["no"] for g in gs if g["_sp"]})
-        kodlar = sorted({k for g in gs for k in gt[g["id"]]}, key=lambda k: list(tek).index(k))
-        govde = "\n".join([
-            f"**Amaç:** {e['amac']}",
-            f"**Faz:** {fazlar[e['faz']]['ad']}",
-            f"**Tarih aralığı:** {tr(b)} – {tr(s)}",
-            f"**Sprintler:** {'Sprint %02d – Sprint %02d' % (sps[0], sps[-1]) if sps else 'Makro plan'}",
-            "",
-            "### Kullanılacak teknolojiler",
-            *[f"- {tek[k]}" for k in kodlar],
-            "",
-            "### Görevler",
-            *[f"- [ ] #{gno[g['id']]} {g['id']} · {g['t']} (bitiş {tr(t(g['e']))})" for g in gs],
-        ])
-        gh("PATCH", f"repos/{repo}/issues/{epik_no[e['id']]}", {"body": govde})
+    # Epik gövdeleri
+    for e in v["epikler"]:
+        gs = [o for o in og if o["epik"] == e["id"]]
+        b, s = min(o["_bas"] for o in gs), max(o["_bit"] for o in gs)
+        kod = sorted({k for o in gs for k in o["tek"]}, key=lambda k: list(tek).index(k))
+        sprs = sorted({n for o in gs if o.get("spr") for n in o["spr"]})
+        govde = [f"**Amaç:** {e['amac']}", "", "| | |", "|---|---|",
+                 f"| Faz | {v['fazlar'][e['faz']]['ad']} |",
+                 f"| Tarih aralığı | {tr(b)} – {tr(s)} |",
+                 f"| Sprintler | {'Sprint %02d – Sprint %02d' % (sprs[0], sprs[-1]) if sprs else 'Hazırlık dönemi / yol haritası'} |",
+                 f"| Kapsam | {sum(1 for o in gs if o['tip'] == 'hikaye')} kullanıcı hikâyesi, {sum(1 for o in gs if o['tip'] == 'arastirma')} Ar-Ge araştırması, {sum(1 for o in gs if o['tip'] == 'gorev')} görev |",
+                 f"| Toplam hikâye puanı | {sum(o.get('sp', 0) for o in gs) or '—'} |", "",
+                 "## Kapsamdaki işler", ""]
+        govde += [f"- [ ] #{no[o['id']]} {o['id']} · {o['t']} ({TIP_AD[o['tip']].lower()}, {o['_sprint'] or tr(o['_bit'])})" for o in gs]
+        govde += ["", "## Kullanılacak teknolojiler", ""] + [f"- {tek[k]}" for k in kod]
+        gh("PATCH", f"repos/{repo}/issues/{eno[e['id']]}", {"body": "\n".join(govde)})
         time.sleep(0.5)
-    print(f"tamam: {len(epikler)} epik, {len(gno)} görev")
+    print(f"tamam: {len(eno)} epik, {len(no)} öğe")
 
 
 if __name__ == "__main__":
