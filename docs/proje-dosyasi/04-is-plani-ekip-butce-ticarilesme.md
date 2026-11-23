@@ -1,6 +1,6 @@
 # PROJE DOSYASI · 04 · İş Planı, Ekip, Bütçe ve Ticarileşme
 
-Bu bölüm hakem formundaki şu ölçütleri besliyor: **süre uygunluğu (temel soru), ticarileşme (%15), ekip (%6), üniversite-sanayi iş birliği (%10), katma değer (%6)**. Görev düzeyindeki ayrıntılı plan ve tarihler [`docs/03-faz1-kanban-ve-zaman-plani.md`](../03-faz1-kanban-ve-zaman-plani.md) dosyasında ve GitHub issue'larında.
+Bu bölüm hakem formundaki şu ölçütleri besliyor: **süre uygunluğu (temel soru), ticarileşme (%15), ekip (%6), üniversite-sanayi iş birliği (%10), katma değer (%6)**. Görev düzeyindeki ayrıntılı plan ve tarihler [`docs/03-proje-plani-sprint-ve-kanban.md`](../03-proje-plani-sprint-ve-kanban.md) dosyasında ve GitHub issue'larında.
 
 ---
 

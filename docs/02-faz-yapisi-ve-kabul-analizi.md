@@ -112,12 +112,12 @@ Kurallar hatırlatması: destek personeli Ar-Ge personelinin yaklaşık %10'unu,
 
 | Ölçüt (Yönerge md. 10.1) | Durum | Açıklama |
 |---|---|---|
-| TGB misyonuna uygunluk | 🟢 | EdTech + üretken YZ; formda EdTech seçeneği var; Yıldız'ın YILDIZ TECH dizisinin ilki eğitim teknolojileriydi |
-| Milli sanayiye/teknolojiye katkı | 🟢 | Yerli LMS ve yerli eğitim YZ'si; veri egemenliği; yabancı lisansların (Canvas, Zoom, ChatGPT Edu) ikamesi |
-| Projenin niteliği | 🟡 → 🟢 | Ar-Ge çekirdeği öne çıkarılırsa güçlü. LMS ağırlıklı anlatılırsa zayıf |
-| Ticarileşme açısından nicelik | 🟢 | Aylık ~20 milyon TL gelir, hazır öğrenci kitlesi, pilot sahası |
-| Firmanın Ar-Ge kapasitesi | 🔴 → 🟡 | **En büyük soru işareti.** Bir eğitim firmasının yazılım ve YZ geliştirme yetkinliği sorgulanacak. Çözüm: ekip planı, işe alım takvimi, YTÜ danışmanları |
-| "Mevcut iş taşınıyor" algısı | 🟡 | Eğitim hizmeti teknopark dışında kalmalı; teknoparkta yalnızca yazılım ve Ar-Ge yapılacağı açık yazılmalı |
+| TGB misyonuna uygunluk | Güçlü | EdTech + üretken YZ; formda EdTech seçeneği var; Yıldız'ın YILDIZ TECH dizisinin ilki eğitim teknolojileriydi |
+| Milli sanayiye/teknolojiye katkı | Güçlü | Yerli LMS ve yerli eğitim YZ'si; veri egemenliği; yabancı lisansların (Canvas, Zoom, ChatGPT Edu) ikamesi |
+| Projenin niteliği | Orta → Güçlü | Ar-Ge çekirdeği öne çıkarılırsa güçlü. LMS ağırlıklı anlatılırsa zayıf |
+| Ticarileşme açısından nicelik | Güçlü | Aylık ~20 milyon TL gelir, hazır öğrenci kitlesi, pilot sahası |
+| Firmanın Ar-Ge kapasitesi | Zayıf → Orta | **En büyük soru işareti.** Bir eğitim firmasının yazılım ve YZ geliştirme yetkinliği sorgulanacak. Çözüm: ekip planı, işe alım takvimi, YTÜ danışmanları |
+| "Mevcut iş taşınıyor" algısı | Orta | Eğitim hizmeti teknopark dışında kalmalı; teknoparkta yalnızca yazılım ve Ar-Ge yapılacağı açık yazılmalı |
 
 ### 3.2 2. kapı: Hakem heyeti, puan simülasyonu
 
@@ -139,7 +139,7 @@ Puan = ağırlık × (verilen puan / 5)
 | 13 | Katma değer | 6 | 2 → 2,4 | 3 → 3,6 | 4 → 4,8 |
 | 14 | Üniversite-sanayi iş birliği | 10 | 1 → 2,0 | 1 → 2,0 | 5 → 10,0 |
 | 15 | Ekip uzmanlığı | 6 | 3 → 3,6 | 2 → 2,4 | 3 → 3,6 |
-| | **TOPLAM / 100** | | **≈ 43** ❌ | **≈ 52** ❌ | **≈ 84** ✅ |
+| | **TOPLAM / 100** | | **≈ 43** (ret) | **≈ 52** (ret) | **≈ 84** (kabul) |
 
 İTÜ'de eşik 70/100. Yıldız'da 3 hakemden 2'sinin olumlu oyu yeterli.
 
@@ -213,7 +213,7 @@ Faz 2'de teknoparka zaten kiracı olarak bakılacak, ama **proje yine aynı hake
 | 13 | Katma değer | 6 | 4 → 4,8 |
 | 14 | Üniversite-sanayi | 10 | 4 → 8,0 |
 | 15 | Ekip | 6 | 3–4 → 3,6–4,8 |
-| | **TOPLAM** | | **≈ 71–78** 🟡 |
+| | **TOPLAM** | | **≈ 71–78** Orta |
 
 **Değerlendirme: Orta–yüksek, sınırda.** Teknik yenilik güçlü, ama hakemler şunları soracak:
 - "Sanal sınıfı öğrenciler gerçekten kullanır mı?" Bunun cevabı **Faz 1 pilotundan gelen gerçek kullanım verisi** olacak.

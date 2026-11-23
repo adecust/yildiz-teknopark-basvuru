@@ -1,6 +1,7 @@
-"""plan/faz1-plan.json dosyasından docs/03-faz1-kanban-ve-zaman-plani.md belgesini üretir.
+"""plan/proje-plani.json dosyasından proje planı belgesini üretir.
 
-Kullanım:  python scripts/plan_olustur.py [--bugun YYYY-MM-DD]
+Çıktı: docs/03-proje-plani-sprint-ve-kanban.md
+Kullanım: python scripts/plan_olustur.py [--bugun YYYY-MM-DD]
 """
 import argparse
 import json
@@ -8,13 +9,11 @@ from datetime import date, timedelta
 from pathlib import Path
 
 KOK = Path(__file__).resolve().parent.parent
-PLAN = KOK / "plan" / "faz1-plan.json"
-CIKTI = KOK / "docs" / "03-faz1-kanban-ve-zaman-plani.md"
-
-AYLAR = ["Oca", "Şub", "Mar", "Nis", "May", "Haz", "Tem", "Ağu", "Eyl", "Eki", "Kas", "Ara"]
+PLAN = KOK / "plan" / "proje-plani.json"
+CIKTI = KOK / "docs" / "03-proje-plani-sprint-ve-kanban.md"
 
 
-def tarih(s):
+def t(s):
     return date.fromisoformat(s)
 
 
@@ -22,165 +21,188 @@ def tr(d):
     return d.strftime("%d.%m.%Y")
 
 
-def ay_listesi(bas, bit):
-    y, m = bas.year, bas.month
-    sonuc = []
-    while (y, m) <= (bit.year, bit.month):
-        sonuc.append((y, m))
-        m += 1
-        if m == 13:
-            y, m = y + 1, 1
-    return sonuc
+def yukle():
+    return json.loads(PLAN.read_text(encoding="utf-8"))
 
 
-def dogrula(gorevler):
-    idx = {g["id"]: g for g in gorevler}
-    uyarilar = []
-    for g in gorevler:
-        if tarih(g["e"]) < tarih(g["s"]):
-            uyarilar.append(f"{g['id']}: bitiş başlangıçtan önce")
+def sprintler(v):
+    bas, son, gun = t(v["sprint_baslangic"]), t(v["sprint_son"]), v["sprint_gun"]
+    liste, i = [], 1
+    while bas <= son:
+        liste.append({"no": i, "bas": bas, "bit": bas + timedelta(days=gun - 1)})
+        bas += timedelta(days=gun)
+        i += 1
+    return liste
+
+
+def sprint_bul(sp, gun):
+    for s in sp:
+        if s["bas"] <= gun <= s["bit"]:
+            return s
+    return None
+
+
+def sprint_ad(s):
+    return f"Sprint {s['no']:02d} · {tr(s['bas'])}–{tr(s['bit'])}"
+
+
+def dogrula(v):
+    idx = {g["id"]: g for g in v["gorevler"]}
+    uyari = []
+    for g in v["gorevler"]:
+        if t(g["e"]) < t(g["s"]):
+            uyari.append(f"{g['id']}: bitiş başlangıçtan önce")
         for d in g["dep"]:
             if d not in idx:
-                uyarilar.append(f"{g['id']}: bilinmeyen bağımlılık {d}")
-            elif tarih(idx[d]["e"]) > tarih(g["e"]):
-                uyarilar.append(f"{g['id']}: bağımlılık {d} bu görevden sonra bitiyor")
-    return uyarilar
-
-
-def kart(g):
-    etiket = " ".join(f"`{x}`" for x in g["l"])
-    return f"- **[{g['id']}]** {g['t']} — {tr(tarih(g['s']))} → {tr(tarih(g['e']))} · _{g['r']}_ {etiket}"
+                uyari.append(f"{g['id']}: bilinmeyen bağımlılık {d}")
+            elif t(idx[d]["e"]) > t(g["e"]):
+                uyari.append(f"{g['id']}: bağımlılık {d} bu görevden sonra bitiyor")
+    return uyari
 
 
 def uret(bugun):
-    veri = json.loads(PLAN.read_text(encoding="utf-8"))
-    gorevler = veri["gorevler"]
-    ms = {m["key"]: m for m in veri["milestones"]}
-    uyarilar = dogrula(gorevler)
-
-    hafta_sonu = bugun + timedelta(days=6)
-    otuz = bugun + timedelta(days=30)
-    devam = [g for g in gorevler if tarih(g["s"]) <= bugun <= tarih(g["e"])]
-    bu_hafta = [g for g in gorevler if bugun < tarih(g["s"]) <= hafta_sonu]
-    sirada = [g for g in gorevler if hafta_sonu < tarih(g["s"]) <= otuz]
-    backlog = [g for g in gorevler if tarih(g["s"]) > otuz]
+    v = yukle()
+    sp = sprintler(v)
+    fazlar = {f["key"]: f for f in v["fazlar"]}
+    epikler = {e["id"]: e for e in v["epikler"]}
+    tek = v["teknolojiler"]
+    gt = v["gorev_teknoloji"]
+    gorevler = v["gorevler"]
+    for g in gorevler:
+        g["_faz"] = epikler[g["epik"]]["faz"]
+        g["_sp"] = None if fazlar[g["_faz"]].get("makro") else sprint_bul(sp, t(g["s"]))
 
     L = []
-    L.append("# Faz 1 · Kanban ve Zaman Planı")
-    L.append("")
-    L.append(f"> Bu belge `plan/faz1-plan.json` dosyasından `scripts/plan_olustur.py` ile **otomatik üretilir**. "
-             f"Elle düzenlemeyin; JSON'u güncelleyip betiği yeniden çalıştırın. Son üretim: **{tr(bugun)}**.")
-    L.append("")
-    L.append(f"**Proje:** {veri['proje']}")
-    L.append("")
-    L.append(f"**Faz 1 tahmini süre:** {tr(tarih(veri['faz1_baslangic_tahmini']))} → {tr(tarih(veri['faz1_bitis_tahmini']))} (12 ay). "
-             "Başlangıç, Yıldız'ın değerlendirme sürelerine bağlı bir tahmindir; faaliyet onay yazısının tarihi gerçek başlangıç olur.")
-    L.append("")
-    L.append("## 1. Girdi: firmadan alınan cevaplar ve plana etkisi")
-    L.append("")
-    L.append("| Cevap | Plana etkisi |")
-    L.append("|---|---|")
-    L.append("| Aylık 200–300 öğrenci (sürekli değişen) | Pilot ve test verisi için yeterli. Ödev veri seti (≥300) 1–2 ayda toplanabilir. Ölçek küçük kaldığı için **dış kurum pilotu (7.3) ticarileşme puanı açısından kritik.** |")
-    L.append("| Şirket içinde yazılım ekibi var | Büyük artı; 'Ar-Ge kapasitesi' riski azalır. Yine de **YZ/dil işleme uzmanı** yoksa işe alım (H-07) gerekiyor. |")
-    L.append("| Hem bireysel hem kurumsal satış | Gelir modeli: kurumsal abonelik (SaaS) + bireysel abonelik. B2C altyapısı İP-2'ye eklendi (2.7). |")
-    L.append("| Mevcut şirketle (şube) girilecek | 3 yıllık bilanço avantajı korunur. **Ana sözleşmede yazılım/Ar-Ge faaliyeti yoksa tadil gerekir** (H-03, D-05); şube tescili kira sonrası (D-07). Eğitim geliri ile yazılım kazancının ayrıştırılması için mali müşavir görüşü şart (H-02). |")
-    L.append("| YTÜ'de tanıdık akademisyen yok | **Kritik yol.** Yönerge md. 16.6'ya göre Yıldız TTO, YTÜ akademisyenlerinden akademik danışmanlık hizmeti sağlıyor. Eşleştirme talebi ilk hafta yapılmalı (H-04). |")
-    L.append("| En kısa zamanda başvuru | Online başvuru hedefi **11.12.2026**. Detaylı proje dosyası aday komisyon sürecine paralel yazılır (D-02), çünkü hakeme ancak aday komisyon kabulünden sonra gidiyor. |")
-    L.append("")
+    a = L.append
+    a("# Proje Planı: Makro Plan, Sprintler ve Kanban")
+    a("")
+    a(f"> Bu belge `plan/proje-plani.json` dosyasından `scripts/plan_olustur.py` ile üretilir. Elle düzenlenmez; plan dosyası güncellenip betik yeniden çalıştırılır. Son üretim: {tr(bugun)}.")
+    a("")
+    a(f"**Proje:** {v['proje']}")
+    a("")
+    a(f"**Kurum notu:** {v['kurum_notu']}")
+    a("")
+    a("**Planlama yaklaşımı:** Proje üç düzeyde planlanmıştır. Makro düzeyde fazlar ve epikler (iş paketleri), mikro düzeyde iki haftalık sprintlere yerleştirilmiş görevler. Faz 0 ve Faz 1 sprint düzeyinde ayrıntılandırılmıştır. Faz 2 ve Faz 3 makro düzeyde planlanmış olup sprint planlaması bir önceki fazın son çeyreğinde yapılacaktır.")
+    a("")
 
-    L.append("## 2. Kritik tarihler")
-    L.append("")
-    L.append("| Tarih | Olay | Kural / not |")
-    L.append("|---|---|---|")
-    L.append("| 27.11.2026 | Yıldız ön görüşmesi + TTO akademisyen talebi | Kritik yolun başı |")
-    L.append("| **11.12.2026** | **Online aday firma başvurusu** | Eksik / hatalı beyan → başvuru yok sayılır |")
-    L.append("| ≤ 09.02.2027 | Aday komisyon sonucu | Yönerge: en geç 60 gün, itiraz yok |")
-    L.append("| ~12.03.2027 | Hakem heyeti sonucu (tahmini) | 21 + 21 gün; salt çoğunluk |")
-    L.append("| ~31.03.2027 | Faaliyet onay yazısı | Faaliyet başlangıcı bu yazının tarihi |")
-    L.append("| 01.04.2027 | **Faz 1 başlangıcı (tahmini)** | Proje süresi en fazla 12 ay |")
-    L.append("| Her ayın 20'si | Aylık muafiyet raporu | Gecikme = aykırı faaliyet |")
-    L.append("| **31.01.2028** | **Faz 2 başvurusu son tarihi** | Mevcut proje bitmeden ≥60 gün önce; hedef 14.01.2028 |")
-    L.append("| 29.02.2028 | Revizyon başvurusu için son gün | Bitişe <30 gün kala revizyon yapılamaz |")
-    L.append("| 31.03.2028 | Faz 1 bitişi | 90 gün projesiz kalan firma ihraç edilir |")
-    L.append("| 31.05.2028 | 2027 yıllık faaliyet raporu | SMMM/YMM onaylı |")
-    L.append("| 31.12.2028 | 4691 teşvik süresi sonu (mevcut mevzuat) | Faz 2 bu tarihi aşıyor; uzatma yapılıp yapılmadığı izlenmeli |")
-    L.append("")
+    a("## 1. Makro plan: fazlar")
+    a("")
+    a("| Faz | Başlangıç | Bitiş | Epik | Görev | Planlama düzeyi |")
+    a("|---|---|---|---|---|---|")
+    for k, f in fazlar.items():
+        ep = [e for e in epikler.values() if e["faz"] == k]
+        gs = [g for g in gorevler if g["_faz"] == k]
+        a(f"| {f['ad']} | {tr(t(f['bas']))} | {tr(t(f['bit']))} | {len(ep)} | {len(gs)} | {'Makro' if f.get('makro') else 'Sprint (mikro)'} |")
+    a("")
 
-    L.append("## 3. Kanban panosu")
-    L.append("")
-    L.append("### ✅ Tamamlandı")
-    for t in veri["tamamlanan"]:
-        L.append(f"- **[{t['id']}]** {t['t']} → `{t['doc']}`")
-    L.append("")
-    for baslik, grup in [("🔄 Devam ediyor", devam), ("🔥 Bu hafta başlayacak", bu_hafta), ("⏭ Sıradaki 30 gün", sirada)]:
-        L.append(f"### {baslik} ({len(grup)})")
-        if grup:
-            L.extend(kart(g) for g in grup)
-        else:
-            L.append("- —")
-        L.append("")
-    L.append(f"### 📋 Backlog ({len(backlog)})")
-    L.append("")
-    for key, m in ms.items():
-        grup = [g for g in backlog if g["m"] == key]
-        if grup:
-            L.append(f"<details><summary><b>{m['title']}</b> ({len(grup)} görev)</summary>")
-            L.append("")
-            L.extend(kart(g) for g in grup)
-            L.append("")
-            L.append("</details>")
-            L.append("")
+    a("## 2. Epikler (iş paketleri)")
+    a("")
+    a("| Epik | Faz | Tarih aralığı | Sprintler | Görev | Amaç |")
+    a("|---|---|---|---|---|---|")
+    for e in epikler.values():
+        gs = [g for g in gorevler if g["epik"] == e["id"]]
+        b, s = min(t(g["s"]) for g in gs), max(t(g["e"]) for g in gs)
+        sps = sorted({g["_sp"]["no"] for g in gs if g["_sp"]})
+        spt = f"S{sps[0]:02d}–S{sps[-1]:02d}" if sps else "Makro"
+        a(f"| {e['id']} · {e['ad']} | {fazlar[e['faz']]['ad'].split(' · ')[0]} | {tr(b)} – {tr(s)} | {spt} | {len(gs)} | {e['amac']} |")
+    a("")
 
-    L.append("## 4. Zaman çizelgesi (aylık)")
-    L.append("")
-    bas = min(tarih(g["s"]) for g in gorevler)
-    bit = max(tarih(g["e"]) for g in gorevler)
-    aylar = ay_listesi(bas, bit)
-    L.append("| İş paketi | " + " | ".join(f"{AYLAR[m-1]} {str(y)[2:]}" for y, m in aylar) + " |")
-    L.append("|---|" + "---|" * len(aylar))
-    for key, m in ms.items():
-        grup = [g for g in gorevler if g["m"] == key]
-        hucre = []
-        for y, a in aylar:
-            ay_bas = date(y, a, 1)
-            ay_bit = date(y + (a == 12), a % 12 + 1, 1) - timedelta(days=1)
-            aktif = any(tarih(g["s"]) <= ay_bit and tarih(g["e"]) >= ay_bas for g in grup)
-            hucre.append("█" if aktif else "")
-        L.append(f"| {m['title']} | " + " | ".join(hucre) + " |")
-    L.append("")
+    a("## 3. Kanban görünümü")
+    a("")
+    a(f"Görevlerin {tr(bugun)} tarihine göre durumu. GitHub'da aynı durumlar `durum:` etiketleriyle izlenir.")
+    a("")
+    aktif = sprint_bul(sp, bugun)
+    sonraki = sp[aktif["no"]] if aktif and aktif["no"] < len(sp) else None
+    devam = [g for g in gorevler if t(g["s"]) <= bugun <= t(g["e"])]
+    bu = [g for g in gorevler if aktif and g["_sp"] and g["_sp"]["no"] == aktif["no"] and g not in devam]
+    son = [g for g in gorevler if sonraki and g["_sp"] and g["_sp"]["no"] == sonraki["no"]]
+    a("| Sütun | Görevler |")
+    a("|---|---|")
+    a("| Tamamlandı | Araştırma raporu, faz yapısı ve kabul analizi, proje dosyası, sunum ve özet belgesi |")
+    a(f"| Devam ediyor | {', '.join(g['id'] for g in devam) or '—'} |")
+    a(f"| Bu sprint ({sprint_ad(aktif) if aktif else '—'}) | {', '.join(g['id'] for g in bu) or '—'} |")
+    a(f"| Sonraki sprint ({sprint_ad(sonraki) if sonraki else '—'}) | {', '.join(g['id'] for g in son) or '—'} |")
+    kalan = len(gorevler) - len(devam) - len(bu) - len(son)
+    a(f"| Yapılacak (sonraki sprintler ve makro fazlar) | {kalan} görev |")
+    a("")
 
-    L.append("## 5. Milestone bazında görev listesi")
-    L.append("")
-    for key, m in ms.items():
-        grup = [g for g in gorevler if g["m"] == key]
-        L.append(f"### {m['title']}")
-        L.append("")
-        L.append(f"_Son tarih: {tr(tarih(m['due']))} · {m['desc']}_")
-        L.append("")
-        L.append("| ID | Görev | Başlangıç | Bitiş | Rol | Bağımlılık | Kabul kriteri |")
-        L.append("|---|---|---|---|---|---|---|")
-        for g in grup:
-            L.append(f"| {g['id']} | {g['t']} | {tr(tarih(g['s']))} | {tr(tarih(g['e']))} | {g['r']} | "
-                     f"{', '.join(g['dep']) or '—'} | {g['k']} |")
-        L.append("")
+    a("## 4. Sprint planı (mikro düzey)")
+    a("")
+    for s in sp:
+        gs = [g for g in gorevler if g["_sp"] and g["_sp"]["no"] == s["no"]]
+        if not gs:
+            continue
+        kodlar = sorted({k for g in gs for k in gt[g["id"]]}, key=lambda k: list(tek).index(k))
+        a(f"### {sprint_ad(s)}")
+        a("")
+        a(f"**Başlayan görev:** {len(gs)} · **Kullanılacak teknolojiler:** {'; '.join(tek[k] for k in kodlar)}")
+        a("")
+        a("| Görev | Epik | Başlangıç | Bitiş | Sorumlu | Teknolojiler | Kabul kriteri |")
+        a("|---|---|---|---|---|---|---|")
+        for g in gs:
+            a(f"| **{g['id']}** {g['t']} | {g['epik']} | {tr(t(g['s']))} | {tr(t(g['e']))} | {g['r']} | {', '.join(tek[k].split(' (')[0] for k in gt[g['id']])} | {g['k']} |")
+        a("")
 
-    L.append("## 6. Kanban kuralları")
-    L.append("")
-    L.append("- Kolonlar: **Backlog → Bu hafta → Devam ediyor → İncelemede → Tamamlandı.** GitHub'da her görev bir issue; kolon durumu `durum:*` etiketiyle izlenir.")
-    L.append("- Bir görev ancak **kabul kriteri** sağlandığında kapatılır. Kriter rakamsa (ör. Recall@5 ≥ %90) ölçüm sonucu issue'ya yorum olarak eklenir. Bu kayıtlar ileride hakem ve Bakanlık denetimi için kanıt olur.")
-    L.append("- `kritik` etiketli görevlerdeki gecikme haftalık toplantıda ele alınır; kritik yol: **H-04 → H-05 → H-14 → D-01 → D-03 → D-04 → D-06 → D-08 → Faz 1 başlangıcı.**")
-    L.append("- Tarih değişirse önce `plan/faz1-plan.json` güncellenir, sonra belge yeniden üretilir ve issue tarihleri eşitlenir.")
-    L.append("")
+    a("## 5. Faz 2 ve Faz 3 makro görevleri")
+    a("")
+    a("| Görev | Epik | Başlangıç | Bitiş | Sorumlu | Teknolojiler | Kabul kriteri |")
+    a("|---|---|---|---|---|---|---|")
+    for g in gorevler:
+        if g["_sp"] is None:
+            a(f"| **{g['id']}** {g['t']} | {g['epik']} | {tr(t(g['s']))} | {tr(t(g['e']))} | {g['r']} | {', '.join(tek[k].split(' (')[0] for k in gt[g['id']])} | {g['k']} |")
+    a("")
 
+    a("## 6. Kritik tarihler")
+    a("")
+    a("| Tarih | Olay | Kural |")
+    a("|---|---|---|")
+    for satir in [
+        ("11.12.2026", "Online aday firma başvurusu", "Eksik veya hatalı beyan başvurunun yok sayılmasına yol açar"),
+        ("≤ 09.02.2027", "Aday komisyon sonucu", "En geç 60 gün; itiraz yolu yok"),
+        ("~12.03.2027", "Hakem heyeti sonucu (tahmini)", "21 + 21 gün; salt çoğunluk"),
+        ("01.04.2027", "Faz 1 başlangıcı (tahmini)", "Faaliyet onay yazısının tarihi esas alınır"),
+        ("Her ayın 20'si", "Aylık muafiyet raporu", "Gecikme aykırı faaliyet sayılır"),
+        ("31.01.2028", "Faz 2 başvurusu son tarihi", "Mevcut proje bitmeden en az 60 gün önce"),
+        ("29.02.2028", "Revizyon başvurusu için son gün", "Bitişe 30 günden az kala revizyon yapılamaz"),
+        ("31.03.2028", "Faz 1 bitişi", "90 gün projesiz kalan firma bölgeden çıkarılır"),
+        ("31.05.2028", "2027 yıllık faaliyet raporu", "Mali müşavir onaylı"),
+        ("31.12.2028", "4691 sayılı Kanun teşvik süresi sonu (mevcut mevzuat)", "Uzatma kararı izlenmelidir"),
+    ]:
+        a(f"| {satir[0]} | {satir[1]} | {satir[2]} |")
+    a("")
+
+    a("## 7. Teknoloji kataloğu ve kullanım yoğunluğu")
+    a("")
+    a("Teknoloji seçimlerinin alternatiflerle karşılaştırması ve gerekçeleri: [`docs/04-teknoloji-kararlari.md`](04-teknoloji-kararlari.md).")
+    a("")
+    a("| Kod | Teknoloji | Görev sayısı | Kullanıldığı ilk sprint |")
+    a("|---|---|---|---|")
+    for k, ad in tek.items():
+        gs = [g for g in gorevler if k in gt[g["id"]]]
+        ilk = min((g["_sp"]["no"] for g in gs if g["_sp"]), default=None)
+        a(f"| {k} | {ad} | {len(gs)} | {'S%02d' % ilk if ilk else 'Faz 2'} |")
+    a("")
+
+    a("## 8. Çalışma kuralları")
+    a("")
+    for m in [
+        "Her görev GitHub'da bir issue'dur; her issue bir epiğe (alt iş olarak) ve bir sprint milestone'una bağlıdır.",
+        "Durum etiketleri: `durum: yapılacak` → `durum: bu sprint` → `durum: devam ediyor` → `durum: incelemede` → kapalı.",
+        "Bir görev ancak kabul kriteri sağlandığında kapatılır. Sayısal kriterlerde ölçüm sonucu issue'ya yorum olarak eklenir; bu kayıtlar hakem ve denetim için kanıttır.",
+        "Sprint başında sprint planlama, sprint sonunda gözden geçirme yapılır; kayan görev bir sonraki sprinte taşınır ve plan dosyası güncellenir.",
+        "Kritik yol: ön görüşme ve TTO talebi → başvuru → aday komisyon → hakem → kira → faaliyet onayı → Faz 1 → Faz 2 başvurusu.",
+    ]:
+        a(f"- {m}")
+    a("")
     CIKTI.write_text("\n".join(L) + "\n", encoding="utf-8")
-    return len(gorevler), uyarilar
+    return len(gorevler), dogrula(v)
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--bugun", default=date.today().isoformat())
     a = ap.parse_args()
-    n, uyarilar = uret(tarih(a.bugun))
+    n, uyari = uret(t(a.bugun))
     print(f"{n} görev yazıldı -> {CIKTI}")
-    for u in uyarilar:
+    for u in uyari:
         print("UYARI:", u)

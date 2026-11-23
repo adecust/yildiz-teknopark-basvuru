@@ -333,8 +333,8 @@ Mevzuat ve TÜBİTAK 1501 alışkanlıkları ile uyumlu, hakem sorularına bireb
 
 ## 11. Sonraki adımlar (önerilen sıralama)
 
-1. ✅ Araştırma (bu belge)
-2. ⏭ Projenin ve fazların anlatılması → bu rapordaki puanlama modeline göre yeniden çerçeveleme
+1. (kabul) Araştırma (bu belge)
+2. Projenin ve fazların anlatılması → bu rapordaki puanlama modeline göre yeniden çerçeveleme
 3. Faz 1'in ≤12 aylık iş paketlerine bölünmesi; kanban tahtası ve zaman planı belgesi
 4. GitHub reposu: milestone'lar (başvuru hazırlığı + Faz 1 İP'leri), tarihli issue'lar, etiketler
 5. Başvuru öncesi hazırlık iş paketi (ayrı bir milestone):

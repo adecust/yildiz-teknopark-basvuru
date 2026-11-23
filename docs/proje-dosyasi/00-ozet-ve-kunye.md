@@ -40,6 +40,8 @@
 
 ## 2. Yönetici özeti (1 sayfa)
 
+**Başvuran kurum.** Kurumumuzun asıl faaliyet alanı eğitimdir. Yapay zekâ, eğitmenin yerini almak için değil; eğitim hizmetimizi güçlendirmek, eğitmenin öğrenciye ayırdığı zamanı artırmak ve öğrenciye ders dışında güvenilir destek sağlamak için geliştirilmektedir. Sistemin ilk kullanıcısı kurumumuz olacak; gerçek ortamda doğrulandıktan sonra aynı ihtiyacı yaşayan kurumlara sunulacaktır. Teknopark şubesinde yalnızca Ar-Ge ve yazılım faaliyeti yürütülecek, eğitim hizmeti kurum merkezinde sürdürülecektir.
+
 **Problem.** Türkiye'de kurs, dershane-etüt merkezi, özel okul, üniversite sürekli eğitim merkezi ve kurumsal akademi gibi binlerce eğitim kurumu dijital derslerini dağınık araçlarla (video konferans + dosya paylaşımı + mesajlaşma) yürütüyor. Öğrenciler dersten sonra sorularına anında, **o dersin kendi içeriğine uygun** cevap bulamıyor. Eğitmenler ise zamanlarının önemli kısmını tekrar eden soruları yanıtlamaya ve ödev okumaya harcıyor. Genel amaçlı yapay zekâ sohbet araçları bu boşluğu dolduramıyor: **dersin kaynağına bağlı kalmıyor, uydurabiliyor (halüsinasyon), ödevin cevabını doğrudan verip öğrenmeyi baltalayabiliyor** ve verileri yurt dışında işliyor.
 
 **Çözüm.** Eğitmenin yüklediği ders kaynaklarına (ders notu, PDF, slayt, ders videosu transkripti) **kilitlenen**, Türkçe için optimize edilmiş bir eğitim YZ'si. Bu YZ üç şey yapıyor:
