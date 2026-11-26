@@ -3,3 +3,5 @@ __pycache__/
 .env
 .claude/
 node_modules/
+prototip/veri/
+prototip/sonuclar/ayrinti/

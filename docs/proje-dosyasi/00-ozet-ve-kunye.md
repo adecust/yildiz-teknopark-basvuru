@@ -64,7 +64,7 @@ Her biri ölçülebilir hedef ve deney protokolüyle tanımlandı (belge 02 ve 0
 **Neden biz?**
 - Aylık 200–300 aktif öğrencisi olan, yıllık ≈ 240 milyon TL gelirli bir eğitim kurumuyuz. **Gerçek kullanıcı, gerçek içerik ve gerçek eğitmen puanı** verisine ilk günden sahibiz.
 - Şirket içinde yazılım ekibimiz var; YZ/dil işleme uzmanlığı işe alım ve YTÜ akademik iş birliğiyle güçlendiriliyor.
-- Hedef akademik ortaklık YTÜ Bilgisayar Mühendisliği'nin Türkçe büyük dil modeli çalışmaları (COSMOS) ve YTÜ Eğitim Fakültesi'nin ölçme-değerlendirme uzmanlığı **[TEYİT: görüşmeler sürüyor]**.
+- Hedef akademik ortaklık: YTÜ Bilgisayar Mühendisliği'nde Prof. Dr. Mehmet Fatih Amasyalı liderliğindeki COSMOS YZ Araştırma Grubu (Cosmos T1 ve turkish-e5-large modellerini geliştiren ekip; prototipimizde bu modeller kullanılıyor) ve YTÜ Eğitim Fakültesi'nde ölçme-değerlendirme veya öğretim teknolojileri alanında bir öğretim üyesi **[TEYİT: Yıldız TTO üzerinden görüşme yapılacak; henüz temas kurulmadı]**.
 
 **Ticarileşme.** Ürün, kurumlara öğrenci başı aylık abonelikle (SaaS), bireysel eğitmenlere aylık planla satılacak. Kurumlara isterlerse kendi sunucularında çalışan lisans seçeneği sunulacak.
 - **Pazar:** Türkiye eğitim teknolojileri pazarı 2024'te ≈ 2,2 milyar $ olarak tahmin ediliyor ve 2033'e kadar 6 milyar $'ı aşması bekleniyor **[LİTERATÜR: IMARC, Ekonomist]**.
@@ -94,8 +94,7 @@ Sistem, kendi kurumumuzdaki aylık 200–300 öğrenci ve eğitmenlerle gerçek 
 ```
 
 ### 3.4 "Ürün/proje hangi aşamadadır?"
-- Başvuru öncesinde **2 haftalık kavram kanıtı (PoC)** yapılırsa (belge 03, §7): **"Prototip"**
-- Yapılmazsa: **"Fikir aşaması"**. Gerçeğe aykırı beyan başvurunun yok sayılmasına yol açar (Yönerge md. 10.1).
+- **"Prototip"**. Kavram kanıtı Kasım 2026'da tamamlandı ve gerçek ders içeriğiyle ölçüldü (docs/07; kod `prototip/`). Platformun kendisi henüz geliştirilmediği için "Beta" veya üstü seçilmemelidir; gerçeğe aykırı beyan başvurunun yok sayılmasına yol açar (Yönerge md. 10.1).
 
 ### 3.5 Akademik iş birliği soruları
 | Soru | Cevap |
@@ -125,7 +124,7 @@ Sistem, kendi kurumumuzdaki aylık 200–300 öğrenci ve eğitmenlerle gerçek 
 - [ ] Son 3 yıl gelir tablosu ve bilanço (kurumlar vergisi beyannamesi)
 - [ ] Borç yoktur yazısı: vergi dairesi (güncel)
 - [ ] Borç yoktur yazısı: SGK (güncel)
-- [ ] Firma / proje sunumu (`teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf`, 19 slayt)
+- [ ] Firma / proje sunumu (`teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf`, 20 slayt)
 - [ ] Sertifika ve lisanslar (varsa: ISO, MEB kurum izinleri, ödüller)
 - [ ] **Tüm PDF'ler OCR'lı.** Taranmış görüntü PDF kabul edilmiyor.
 

@@ -189,6 +189,8 @@ O = olasılık, E = etki, T = tespit edilebilirlik zorluğu (1–5; yüksek = k�
 
 ## 7. Başvuru öncesi 2 haftalık kavram kanıtı (PoC)
 
+> **Durum (26.11.2026): tamamlandı.** Erişim, cevaplanabilirlik kapısı, uçtan uca cevap/ret ve sızıntı deneyleri yapıldı; sonuçlar ve sınırlılıklar [`docs/07-arastirma-ve-kavram-kaniti.md`](../07-arastirma-ve-kavram-kaniti.md) belgesinde, kod `prototip/` klasöründedir. AR-3 (rubrikle puanlama) eğitmen puanlı ödev verisi gerektirdiği için ölçülmedi.
+
 **Amaç:** Formda "aşama" sorusuna dürüstçe **"Prototip"** diyebilmek, sunuma gerçek ekran görüntüsü ve **küçük örneklemli ilk ölçümler** koyabilmek. Mevcut yazılım ekibiyle yapılabilir.
 
 | Gün | İş | Çıktı |

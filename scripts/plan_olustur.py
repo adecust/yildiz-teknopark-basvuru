@@ -7,6 +7,7 @@ Kullanım: python scripts/plan_olustur.py [--bugun YYYY-MM-DD]
 """
 import argparse
 import json
+import sys
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -286,6 +287,7 @@ def uret(bugun):
 
 
 if __name__ == "__main__":
+    sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("--bugun", default=date.today().isoformat())
     a = ap.parse_args()

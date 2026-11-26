@@ -52,7 +52,7 @@ Bu bölüm hakem formundaki şu ölçütleri besliyor: **süre uygunluğu (temel
 
 **Personel kuralı kontrolü:** Teknoparkta 7 kişi Ar-Ge personeli. Destek personeli 0 (eğitim tasarımcısı ana şirkette). Kapsam dışı personel 0. Yıldız sınırları (destek ≈ %10, kapsam dışı ≤ %15) içinde.
 
-**Mevcut ekip ve işe alım:** Backend, frontend ve DevOps rolleri **mevcut yazılım ekibinden** karşılanır **[VARSAYIM: H-06 envanteriyle doğrulanacak]**. **Kıdemli YZ mühendisi işe alınacak** (H-07, 29.01.2027'ye kadar). İkinci YZ mühendisi mevcut ekipten yetiştirilebilir ya da işe alınır.
+**Mevcut ekip ve işe alım:** Backend, frontend ve DevOps rolleri **mevcut yazılım ekibinden** karşılanır **[VARSAYIM: mevcut ekip envanteriyle doğrulanacak]**. **Kıdemli YZ mühendisi işe alınacak** (G-005, 29.01.2027'ye kadar). İkinci YZ mühendisi mevcut ekipten yetiştirilebilir ya da işe alınır.
 
 ### 3.2 Kişi-ay dağılımı (personel × iş paketi)
 
@@ -130,7 +130,7 @@ Bu bölüm hakem formundaki şu ölçütleri besliyor: **süre uygunluğu (temel
 ### 4.4 Ek finansman seçenekleri
 | Program | Özet | Uygunluk |
 |---|---|---|
-| TÜBİTAK 1507 KOBİ Ar-Ge Başlangıç | 2026 çağrılarında proje bütçe üst sınırı 3,5 milyon TL (ikincil kaynak), destek oranı %75, süre ≤ 18 ay | **[TEYİT]** Firmanın KOBİ tanımına uyup uymadığı (çalışan sayısı ve net satış hasılatı eşikleri) ve daha önce 1501/1507 desteği alıp almadığı |
+| TÜBİTAK 1507 KOBİ Ar-Ge Başlangıç | Yılda iki çağrı (Ocak ve Temmuz). 2026-2 çağrısı 25.11.2026'da kapandı; **bir sonraki çağrı Ocak 2027**. Bütçe üst sınırı ve destek oranı çağrı metnine göre değişir (TÜBİTAK SSS: 3,5 milyon TL, %75) **[TEYİT: 2027-1 çağrı metni]** | KOBİ tanımı Ağustos 2025'te güncellendi: 250'den az çalışan ve net satış hasılatı ya da bilançodan biri ≤ 1 milyar TL. Yıllık ≈ 240 milyon TL gelirle firma, çalışan sayısı 250'nin altındaysa KOBİ'dir. Daha önce 1507 desteği alınmamış olmalı **[TEYİT: mali müşavir]** |
 | TÜBİTAK 1501 Sanayi Ar-Ge | Daha büyük bütçeler; KOBİ'ler için daha yüksek destek oranı | KOBİ değilse veya bütçe 1507 sınırını aşıyorsa |
 | KOSGEB Ar-Ge, Ür-Ge ve İnovasyon | Hibe + geri ödemeli destek | KOBİ ise **[TEYİT]** |
 
@@ -194,6 +194,6 @@ Bir kamu programından destek alınırsa, Yıldız yönergesine göre proje baş
 ## 6. Kurumsal ve mali yapı
 
 - **Şube modeli:** Mevcut şirket Yıldız Teknopark'ta şube açıyor. Teknoparkta **yalnızca yazılım ve Ar-Ge** yürütülür. Eğitim hizmeti ana merkezde kalır.
-- **Kazanç ayrıştırma:** Teknopark kazanç istisnası yalnızca bölgede yürütülen yazılım ve Ar-Ge faaliyetinden doğan kazanca uygulanır. Eğitim hizmeti geliri istisna dışıdır (özelge örneği). Ayrıştırma yöntemi (şube hesapları, ana şirketin platformu kullanımına emsal bedel) **mali müşavirce kurulmalı (H-02)**.
-- **Ana sözleşme:** Amaç ve konu maddesinde yazılım geliştirme ve Ar-Ge faaliyeti yer almalı (H-03, D-05).
+- **Kazanç ayrıştırma:** Teknopark kazanç istisnası yalnızca bölgede yürütülen yazılım ve Ar-Ge faaliyetinden doğan kazanca uygulanır. Eğitim hizmeti geliri istisna dışıdır (özelge örneği). Ayrıştırma yöntemi (şube hesapları, ana şirketin platformu kullanımına emsal bedel) **mali müşavirce kurulmalı (G-002)**.
+- **Ana sözleşme:** Amaç ve konu maddesinde yazılım geliştirme ve Ar-Ge faaliyeti yer almalı (G-002).
 - **Faaliyet konusu değişmez:** Yıldız yönergesine göre sözleşme süresince faaliyet konusu değiştirilemez. NACE kodları baştan doğru seçilmeli.

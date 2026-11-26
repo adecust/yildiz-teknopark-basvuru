@@ -117,7 +117,7 @@ ekle(H1("4. Sorun ve İhtiyaç"),
   B("Kurum: ", "Çoğu döviz bazlı 3–5 ayrı araç kullanılmakta; öğrenme kalitesi ölçülememekte ve yurt dışı veri aktarımı KVKK yükümlülüğü doğurmaktadır."),
   P("Genel amaçlı yapay zekâ araçlarının temel sınırlılıkları şunlardır:", { bold: true, after: 60 }),
   M("Kaynağa bağlılık yoktur. Kaynağa dayalı ticari ürünlerde dahi reddetme davranışı %0,2 ile %11,1 arasında değişmekte ve en büyük kalite farkını oluşturmaktadır [1]."),
-  M("Öğrenmeyi zayıflatabilir. Yaklaşık 1.000 öğrenciyle yapılan randomize kontrollü çalışmada korumasız sohbet botu kullanan öğrencilerin sonraki sınavda daha düşük puan aldığı, Sokratik korumalı sürümün ise bu kaybı ortadan kaldırdığı gösterilmiştir [2]."),
+  M("Öğrenmeyi zayıflatabilir. Türkiye'de yaklaşık 1.000 lise öğrencisiyle yapılan randomize kontrollü saha deneyinde, korumasız sohbet botu kullanan öğrenciler yapay zekâ kaldırıldıktan sonraki sınavda kontrol grubuna göre %17 daha düşük puan almış; öğrenmeyi koruyacak şekilde tasarlanmış sürüm bu kaybı büyük ölçüde önlemiştir [2]."),
   M("Veri yurt dışında işlenir. KVKK md. 9 (7499 sayılı Kanun ile değişik) kapsamında standart sözleşme ve Kurul'a bildirim yükümlülüğü doğar [3]."),
   M("Ödev puanlamasında güvenilir değildir. Hazır büyük dil modellerinin insan puanıyla uyumu ağırlıklı Kappa ile yaklaşık 0,4–0,7 aralığındadır ve veri setine göre büyük ölçüde değişmektedir [4][5]."));
 
@@ -172,8 +172,23 @@ ekle(H1("8. Yöntem ve Teknoloji Altyapısı"),
   NOT("Her teknoloji seçimi alternatifleriyle karşılaştırılmış ve ilgili sprintte deneyle kesinleşecek şekilde planlanmıştır (20 karar)."),
   B("Mevzuata uyum: ", "Veri ve modeller yurt içinde; açık rıza ve 18 yaş altı için veli onayı; öğrenci verisi varsayılan olarak model eğitiminde kullanılmaz. Öğrenme çıktısını değerlendiren yapay zekâ AB YZ Yasası'nda yüksek riskli kabul edildiğinden [12] insan gözetimi, kayıt tutma ve şeffaflık tasarımın parçasıdır."));
 
-// ---------------- 9. İş planı ----------------
-ekle(H1("9. İş Planı"),
+// ---------------- 9. Kavram kanıtı ----------------
+ekle(H1("9. Kavram Kanıtı: İlk Ölçümler (Kasım 2026)"),
+  P("Başvuru öncesinde Ar-Ge çekirdeği, tamamen yerel ve açık modellerle çalışan bir prototiple iki gerçek ders içeriğinde (gerontoloji ve matematik; 100 kaynak parçası) ölçülmüştür. Kullanılan modeller: Cosmos T1 ve turkish-e5-large (YTÜ COSMOS), bge-m3, bge-reranker-v2-m3 ve çok dilli bir NLI modeli."),
+  tablo(["Ölçüm", "Sonuç", "Proje hedefi"], [
+    ["Doğru kaynağın ilk 5 sonuçta bulunması (Recall@5, 83 soru)", "%100 (Recall@1 %78)", "≥ %90"],
+    ["Türkçe kök bulmanın katkısı (BM25)", "%88 → %94", "—"],
+    ["Hibrit arama ve yeniden sıralamanın katkısı", "+4,8 puan (GA +1,2 … +9,6)", "≥ +8 puan"],
+    ["Kaynak dışı soruyu doğru reddetme (47 soru, uçtan uca)", "Kapı olmadan %74 → kapıyla %98", "≥ %90"],
+    ["Uydurma cevap sayısı (47 kaynak dışı soru)", "12 → 1", "—"],
+    ["Cevaplanan sorularda doğruluk", "%97 (35/36)", "—"],
+    ["Ödev cevabı sızıntısı (40 saldırı istemi)", "Tarayıcı olmadan %67,5 → tarayıcıyla %2,5", "≤ %2"],
+  ], [5, 3, 2], 1),
+  P("Deneyler aynı zamanda hazır bileşenlerle çözülemeyen teknik belirsizlikleri somut olarak göstermiştir: konusu eşleşip ayrıntısı eşleşmeyen sorular (örneğin kaynakta olmayan bir yılın verisi) alaka kapısını geçebilmekte; hazır çok dilli doğal dil çıkarımı modeli Türkçe sayısal cümlelerde ve matematik içeriğinde güvenilir iddia doğrulaması yapamamaktadır. Bu bulgular projenin AR-1 ve AR-4 kapsamındaki araştırma sorularını doğrudan desteklemektedir."),
+  NOT("Küçük örneklemli bir kavram kanıtıdır; sorular proje ekibince yazılmıştır ve gerçek öğrenci sorularının yerini tutmaz. Gecikme dizüstü bilgisayarda ölçülmüştür. Ayrıntılı rapor ve kod talep hâlinde sunulacaktır."));
+
+// ---------------- 10. İş planı ----------------
+ekle(H1("10. İş Planı"),
   P("Proje üç düzeyde planlanmıştır: fazlar, iş paketleri (epikler) ve iki haftalık sprintlere yerleştirilmiş görevler. Faz 1, iki haftalık 26 sprintte 46 kullanıcı hikâyesi, 19 Ar-Ge araştırması ve 20 görev olarak ayrıntılandırılmıştır; her öğede fonksiyonel gereksinimler, kabul kriterleri, sorumlu, öncelik ve kullanılacak teknolojiler tanımlıdır."),
   tablo(["İP", "İş paketi", "Ay", "Kişi-ay", "Ana çıktı"], [
     ["İP-0", "Proje yönetimi ve teknopark raporlaması", "1–12", "4,0", "Aylık muafiyet ve izleme raporları"],
@@ -199,7 +214,7 @@ ekle(H1("9. İş Planı"),
   ], [3, 1.6, 5.4]));
 
 // ---------------- 10. Ekip ----------------
-ekle(H1("10. Proje Ekibi ve Üniversite-Sanayi İş Birliği"),
+ekle(H1("11. Proje Ekibi ve Üniversite-Sanayi İş Birliği"),
   tablo(["Rol", "Kişi / TZE", "Sorumluluk"], [
     ["Proje yöneticisi", "1 / 1,0", "Planlama, teknopark raporlaması, pilot, paydaş yönetimi"],
     ["Kıdemli yapay zekâ / dil işleme mühendisi (teknik lider)", "1 / 1,0", "AR-1, AR-2, AR-6; deney tasarımı (istihdam süreci devam etmektedir)"],
@@ -214,7 +229,7 @@ ekle(H1("10. Proje Ekibi ve Üniversite-Sanayi İş Birliği"),
   P("Kurumun eğitmenleri, test setlerinin hazırlanması, rubrik tasarımı ve pilot uygulamada alan uzmanı olarak yer alacaktır. Akademik danışmanlık Yıldız TTO aracılığıyla yürütülecek; danışmanlar çeyreklik deney değerlendirmelerine katılacak ve ortak yayın hedeflenmektedir."));
 
 // ---------------- 11. Ticarileşme ----------------
-ekle(H1("11. Ticarileşme Planı"),
+ekle(H1("12. Ticarileşme Planı"),
   P("Yaygınlaştırma sırası şöyledir: önce kurumun kendi eğitimleri, ardından sektördeki kurslar ve okullar, Yıldız ekosistemi ve YTÜ Sürekli Eğitim Merkezi, bireysel eğitmenler ve API ortakları."),
   tablo(["Katman", "Büyüklük", "Dayanak"], [
     ["TAM: Türkiye eğitim teknolojileri pazarı", "≈ 2,2 milyar $ (2024); 2033'te > 6 milyar $", "IMARC, Ekonomist [13]"],
@@ -236,12 +251,12 @@ ekle(H1("11. Ticarileşme Planı"),
   ], [1.5, 2.5, 3, 3], 3));
 
 // ---------------- 12. İthal ikame ve ihracat ----------------
-ekle(H1("12. İthal İkame ve İhracat"),
+ekle(H1("13. İthal İkame ve İhracat"),
   B("İthal ikame: ", "Kurumların döviz bazlı ödediği video konferans hizmetleri, yabancı öğrenme yönetim sistemleri, kurumsal yapay zekâ abonelikleri ve API'leri ile yabancı değerlendirme araçlarının yerine yerli ve yurt içinde barındırılan tek bir platform sunulacaktır."),
   B("İhracat: ", "2028'de Azerbaycan ve KKTC; 2028–2029'da Kazakistan ve Özbekistan; 2029'dan itibaren AB YZ Yasası uyumlu tasarımla Almanya ve AB pazarı. Dil bağımsız mimari ve çok dilli modeller Faz 1'de kurulacaktır."));
 
 // ---------------- 13. Etkiler ----------------
-ekle(H1("13. Beklenen Etkiler"),
+ekle(H1("14. Beklenen Etkiler"),
   tablo(["Alan", "Beklenen etki", "Ölçüm"], [
     ["Eğitim kalitesi", "Öğrenciye ders dışında kaynağa dayalı destek; Sokratik tasarımla öğrenmenin korunması", "Pilot kullanım ve memnuniyet"],
     ["Verimlilik", "Eğitmenin ödev değerlendirme süresinde en az %40 azalma (hedef)", "Pilotta denek içi süre ölçümü"],
@@ -252,7 +267,7 @@ ekle(H1("13. Beklenen Etkiler"),
   ], [2, 5, 3]));
 
 // ---------------- 14. Bütçe ----------------
-ekle(H1("14. Bütçe ve Finansman"),
+ekle(H1("15. Bütçe ve Finansman"),
   tablo(["Kalem", "Tutar (TL, 12 ay)"], [
     ["Ar-Ge personeli (78 kişi-ay, teşvik sonrası tahmini) ve stajyerler", "≈ 10.400.000"],
     ["Altyapı: yurt içi GPU, uygulama bulutu, karşılaştırma amaçlı API", "2.260.000"],
@@ -265,7 +280,7 @@ ekle(H1("14. Bütçe ve Finansman"),
   NOT("Teşvik öncesi toplam ≈ 21,2 milyon TL. Tutarlar 2027 fiyatlarıyla tahmindir. Proje, kurumun yıllık gelirinin (≈ 240 milyon TL) yaklaşık %7–9'u olup öz kaynakla finanse edilecektir; TÜBİTAK 1507/1501 başvurusu planlanmaktadır."));
 
 // ---------------- 15. Riskler ----------------
-ekle(H1("15. Başlıca Riskler ve B Planları"),
+ekle(H1("16. Başlıca Riskler ve B Planları"),
   tablo(["Risk", "Önlem", "B planı"], [
     ["Kappa ≥ 0,75 hedefine ulaşılamaması", "Kanıt çıkarımı, eğitmen puanlı örnekler, kalibrasyon, rubrik iyileştirme", "Asistan modu; eğitmen süresindeki kazanç korunur"],
     ["Sadakat ve reddetmenin birlikte sağlanamaması", "Ceza-duyarlı eşik, iddia doğrulama", "Kurum bazlı eşik, kısmi yanıt"],
@@ -276,13 +291,13 @@ ekle(H1("15. Başlıca Riskler ve B Planları"),
   ], [3.2, 3.6, 3.2]));
 
 // ---------------- 16. FMH ----------------
-ekle(H1("16. Fikri Mülkiyet"),
+ekle(H1("17. Fikri Mülkiyet"),
   M("Teknik yöntemler için Yıldız TTO ve patent vekiliyle patentlenebilirlik değerlendirmesi yapılacaktır: (1) ceza-duyarlı cevaplanabilirlik kapısı ve iddia düzeyinde atıf doğrulama, (2) örneklerle karşılaştırmalı rubrik değerlendirme ve seçici eğitmen yönlendirmesi, (3) konuşma düzeyinde birikimli pedagojik sızıntı takibi."),
   M("Kaynak kod FSEK kapsamında korunacak; model ağırlıkları, istemler ve kalibrasyon verisi ticari sır olarak saklanacak; ürün adı için marka tescili yapılacaktır."),
   M("Yayın politikası: önce başvuru, ardından YTÜ ile ortak akademik yayın."));
 
 // ---------------- 17. Katkı ----------------
-ekle(H1("17. Yıldız Teknopark'a Katkı"),
+ekle(H1("18. Yıldız Teknopark'a Katkı"),
   tablo(["Gösterge", "Faz 1 sonu (12 ay)", "36 ay"], [
     ["Teknoparktaki Ar-Ge personeli", "7", "15+"],
     ["YTÜ akademik danışman", "2", "3+"],
@@ -296,15 +311,15 @@ ekle(H1("17. Yıldız Teknopark'a Katkı"),
 // ---------------- Kaynakça ----------------
 ekle(H1("Kaynakça"),
   ...[
-    "[1] Why RAGs Hallucinate: Penalty-Aware Evaluation of RAG Systems with Knowledge-Gap Canaries, arXiv:2608.26385 (2026).",
-    "[2] Bastani ve ark., Generative AI without guardrails can harm learning, PNAS (2025).",
+    "[1] Do Rosario, Younes, Pires. Why RAGs Hallucinate: Penalty-Aware Evaluation of Retrieval-Augmented Generation Systems with Knowledge-Gap Canaries, arXiv:2608.26385 (2026).",
+    "[2] Bastani, Bastani, Sungu, Ge, Kabakcı, Mariman. Generative AI without guardrails can harm learning: Evidence from high school mathematics, PNAS 122(26) (2025).",
     "[3] KVKK, Kişisel Verilerin Yurt Dışına Aktarılması Rehberi; 7499 sayılı Kanun ile değişik KVKK md. 9.",
     "[4] Assessing the Reliability and Validity of LLMs for Automated Assessment of Student Essays in Higher Education, arXiv:2508.02442 (2025).",
     "[5] Exploring potential of large language models for automated essay scoring in education, Discover Artificial Intelligence, Springer (2026).",
     "[6] Google Workspace Updates: NotebookLM in Google Classroom (Nisan 2026); Gemini in Classroom (Ağustos 2026).",
     "[7] TR-MTEB: A Comprehensive Benchmark and Embedding Model for Turkish, Findings of EMNLP (2025).",
     "[8] TR-TEB: Turkish Text Embedding Benchmark (2025–2026).",
-    "[9] Automated Refinement of Essay Scoring Rubrics for Language Models via Reflect-and-Revise, arXiv:2510.09030 (2025).",
+    "[9] Harada ve ark. Automated Refinement of Essay Scoring Rubrics for Language Models via Reflect-and-Revise, arXiv:2510.09030 (CoNLL 2026).",
     "[10] ufakzeka-kulak: Building and Evaluating a Turkish Speech Recognizer, arXiv:2611.03605 (2026).",
     "[11] YTÜ COSMOS Araştırma Grubu, Hugging Face model kartları (Cosmos T1 / Turkish-Gemma-9b-T1, Turkish-Llama-8b, turkish-e5-large).",
     "[12] AB Yapay Zekâ Yasası (Regulation (EU) 2024/1689), Ek III(3).",

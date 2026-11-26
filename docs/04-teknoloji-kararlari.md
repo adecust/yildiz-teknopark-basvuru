@@ -25,7 +25,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Django (Python) | Hazır yönetim paneli, olgun ORM | Asenkron ve API odaklı kullanımda daha ağır | Alternatif |
 | NestJS (TypeScript) | Güçlü yapı | YZ servisleri için ikinci dil gerektirir | Elendi |
 
-**Gerekçe:** Platform ve YZ servisleri aynı dilde yazılarak ekip ve bakım yükü azaltılır. **Kesinleşme:** Sprint 10 (görev 1201).
+**Gerekçe:** Platform ve YZ servisleri aynı dilde yazılarak ekip ve bakım yükü azaltılır. **Kesinleşme:** Sprint 01 (G-1501).
 
 ## K-02 · Ön yüz
 
@@ -35,7 +35,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Nuxt (Vue) | Sade öğrenme eğrisi | Daha küçük ekosistem | Alternatif |
 | SvelteKit | Yüksek performans | İşe alım havuzu dar | Elendi |
 
-**Kesinleşme:** Sprint 10.
+**Kesinleşme:** Sprint 01 (G-1501).
 
 ## K-03 · Veritabanı ve vektör arama
 
@@ -46,7 +46,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Weaviate | Yerleşik hibrit arama | İkinci veri sistemi | Alternatif |
 | Milvus | Çok büyük ölçek | etcd, MinIO ve çok sayıda servis; küçük ölçekte gereksiz | Elendi |
 
-**Gerekçe:** 2026 karşılaştırmalarında küçük-orta ölçekte motorların erişim doğruluğu eşit bulunmuştur; fark işletme kolaylığındadır. Projenin ilk yıllardaki hacmi (milyonun altında parça) pgvector için uygundur. **Geçiş eşiği:** 10 milyon vektör veya p95 arama süresinin 300 ms'yi aşması. **Kesinleşme:** Sprint 15 (görev 1306).
+**Gerekçe:** 2026 karşılaştırmalarında küçük-orta ölçekte motorların erişim doğruluğu eşit bulunmuştur; fark işletme kolaylığındadır. Projenin ilk yıllardaki hacmi (milyonun altında parça) pgvector için uygundur. **Geçiş eşiği:** 10 milyon vektör veya p95 arama süresinin 300 ms'yi aşması. **Kesinleşme:** Sprint 09 (AR-806, AR-807).
 
 ## K-04 · Türkçe tam metin arama ve kök bulma
 
@@ -56,7 +56,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | **Zemberek-NLP** | Türkçe biçimbirim çözümlemesi | Java tabanlı; ayrı servis | **Deney kolu** |
 | OpenSearch (Türkçe analizör) | Güçlü arama motoru | Ek altyapı | Gerekirse |
 
-**Kesinleşme:** Sprint 16 (görev 1307), E-2 deneyiyle.
+**Ön bulgu (PoC, 26.11.2026):** BM25'te Snowball Türkçe kök bulma Recall@5'i ham sözcüğe göre %88,0'dan %94,0'a çıkardı; 5 harflik önek %92,8 verdi (docs/07). **Kesinleşme:** Sprint 06 (AR-803), E-2 deneyiyle.
 
 ## K-05 · Belge ayrıştırma
 
@@ -66,11 +66,11 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Marker | GPL-3.0 | Satır içi formüllerde güçlü | GPL lisansı kurum içi kurulum paketinde dağıtılamaz; GPU gerektirir | **Yalnızca karşılaştırma kolu** |
 | Unstructured (açık kaynak) | Apache-2.0 | Güvenilirlik ve çok biçim desteği | Tablo yapısında daha zayıf | Yedek seçenek |
 
-**Gerekçe:** Bağımsız ve üretici karşılaştırmalarında Docling ile Marker basit tablolarda yakın, iç içe tablolarda Docling daha güçlü bulunmuştur. Lisans, kurum içi kurulum satışı için belirleyicidir. **Kesinleşme:** Sprint 12 (görev 1301).
+**Gerekçe:** Bağımsız ve üretici karşılaştırmalarında Docling ile Marker basit tablolarda yakın, iç içe tablolarda Docling daha güçlü bulunmuştur. Lisans, kurum içi kurulum satışı için belirleyicidir. **Kesinleşme:** Sprint 06 (AR-801).
 
 ## K-06 · Optik karakter tanıma
 
-**Seçim:** Tesseract (Türkçe dil paketi) temel çizgi; PaddleOCR deney kolu. Taranmış ders notlarında karakter doğruluğu ölçülerek seçilir. **Kesinleşme:** Sprint 12.
+**Seçim:** Tesseract (Türkçe dil paketi) temel çizgi; PaddleOCR deney kolu. Taranmış ders notlarında karakter doğruluğu ölçülerek seçilir. **Kesinleşme:** Sprint 06 (AR-801).
 
 ## K-07 · Konuşma tanıma (ders kayıtları)
 
@@ -80,7 +80,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Whisper large-v3-turbo | Daha hızlı | Türkçe ince ayarlı sürümde daha yüksek hata raporlanmış | Hız kolu |
 | Ticari konuşma tanıma API'leri | Kurulum gerektirmez | Ses verisi yurt dışına çıkar | Elendi |
 
-**Kesinleşme:** Sprint 12–14 (görev 1304), en az 5 saatlik gerçek ders kaydıyla.
+**Kesinleşme:** Sprint 06–08 (AR-804), en az 5 saatlik gerçek ders kaydıyla.
 
 ## K-08 · Gömme (embedding) modeli
 
@@ -91,11 +91,11 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | multilingual-e5-large / base | MIT | TR-MTEB'de en tutarlı model (base) | Güçlü temel çizgi |
 | embeddinggemma-300m | Gemma | Bir 2026 çalışmasında Türkçe MTEB'de 65,42 | Küçük ve hızlı |
 
-**Gerekçe:** Türkçe karşılaştırmalarda sıralama çalışmaya göre değişmektedir; eğitim içeriği için en iyisi bilinmemektedir. Seçim, projenin kendi Türkçe test setinde yapılacaktır. **Kesinleşme:** Sprint 15 (görev 1306).
+**Gerekçe:** Türkçe karşılaştırmalarda sıralama çalışmaya göre değişmektedir; eğitim içeriği için en iyisi bilinmemektedir. Seçim, projenin kendi Türkçe test setinde yapılacaktır. **Ön bulgu (PoC, 26.11.2026):** tek başına bge-m3 (Recall@1 0,71) turkish-e5-large'dan (0,61) iyi; BM25 ile hibritte turkish-e5-large daha yüksek Recall@5 verdi (0,976'ya karşı 0,964). Model seçimi yöntemle etkileşimli (docs/07). **Kesinleşme:** Sprint 09 (AR-806).
 
 ## K-09 · Yeniden sıralama
 
-**Seçim:** bge-reranker-v2-m3 (çok dilli çapraz kodlayıcı). Gerekirse kendi verimizle Türkçe ince ayar yapılır. **Kesinleşme:** Sprint 17 (görev 1308).
+**Seçim:** bge-reranker-v2-m3 (çok dilli çapraz kodlayıcı). Gerekirse kendi verimizle Türkçe ince ayar yapılır. **Kesinleşme:** Sprint 11 (AR-807).
 
 ## K-10 · Üretim (dil) modeli
 
@@ -106,7 +106,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Qwen ailesi | Çoğunlukla Apache-2.0 | Güçlü çok dilli başarım | Boyut seçenekleri geniş |
 | Ticari model API'si | Ticari | En yüksek genel başarım | Yalnızca karşılaştırma ve anonim veriyle |
 
-**Gerekçe:** Veri egemenliği ve maliyet hedefi (AR-6) nedeniyle varsayılan seçenek yurt içinde barındırılan açık ağırlıklı modeldir. Kalite farkı (hedef ≤ %5) deneyle ölçülür. **Kesinleşme:** Sprint 16 (görev 1401) ve Sprint 26 (görev 1605).
+**Gerekçe:** Veri egemenliği ve maliyet hedefi (AR-6) nedeniyle varsayılan seçenek yurt içinde barındırılan açık ağırlıklı modeldir. Kalite farkı (hedef ≤ %5) deneyle ölçülür. **Kesinleşme:** Sprint 16 (AR-1506) ve Sprint 18 (AR-1507).
 
 ## K-11 · Model servis sunucusu
 
@@ -117,7 +117,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Hugging Face TGI | Bakım modunda | Düşük tek kullanıcı gecikmesi | Yeni kurulum için önerilmiyor |
 | Ollama / llama.cpp | Aktif | Kolay yerel kullanım | Çok kullanıcılı üretim için uygun değil |
 
-**Kesinleşme:** Sprint 22 (görev 1603) ve Sprint 27 (görev 1606).
+**Kesinleşme:** Sprint 16 (AR-1506) ve Sprint 18 (AR-1507).
 
 ## K-12 · YZ orkestrasyon katmanı
 
@@ -142,7 +142,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Jitsi Meet | Genel amaçlı; uçtan uca şifreleme | Eğitim araçları zayıf | Alternatif |
 | **LiveKit** | Geliştiriciye yönelik gerçek zamanlı altyapı; özel deneyim kurulabilir | Hazır sınıf uygulaması değildir | **Faz 2 (sanal sınıf) için seçildi** |
 
-**Kesinleşme:** Sprint 15 (görev 1208).
+**Kesinleşme:** Sprint 07 (US-501).
 
 ## K-15 · Kimlik yönetimi
 
@@ -154,14 +154,14 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 
 ## K-16 · Ödeme (bireysel abonelik)
 
-**Seçim:** iyzico (abonelik API'si, yerli ödeme kuruluşu). **Alternatif:** PayTR. Yurt dışı bireysel satış başladığında uluslararası ödeme sağlayıcısı değerlendirilecektir. **Kesinleşme:** Sprint 17 (görev 1211).
+**Seçim:** iyzico (abonelik API'si, yerli ödeme kuruluşu). **Alternatif:** PayTR. Yurt dışı bireysel satış başladığında uluslararası ödeme sağlayıcısı değerlendirilecektir. **Kesinleşme:** Sprint 08 (US-1302).
 
 ## K-17 · Altyapı ve barındırma
 
 | Seçenek | Güçlü yön | Zayıf yön | Değerlendirme |
 |---|---|---|---|
 | **Yurt içi GPU bulutu (kiralama)** | Hızlı başlangıç; veri yurt içinde; ihtiyaca göre ölçek | Uzun vadede maliyet | **Faz 1 için seçildi** |
-| GPU sunucusu satın alma | 24+ ayda daha düşük maliyet; 4691 kapsamında makine-teçhizat KDV istisnası | Peşin yatırım; bakım | Sprint 28'de yeniden değerlendirilecek |
+| GPU sunucusu satın alma | 24+ ayda daha düşük maliyet; 4691 kapsamında makine-teçhizat KDV istisnası | Peşin yatırım; bakım | Faz 1 sonunda AR-1507 maliyet raporuyla yeniden değerlendirilecek |
 | Yurt dışı büyük bulut | Geniş hizmet yelpazesi | KVKK yurt dışı aktarım yükü | Elendi |
 
 **Sağlayıcı adayları:** Türkiye veri merkezlerinden L40S ve H100 sunan sağlayıcılar (ör. Cloud4U Türkiye, vMind) ve diğer yerli bulut sağlayıcıları; teklif alınarak seçilecektir. **Orkestrasyon:** Docker, Kubernetes (k3s/RKE2), Helm ve Terraform; kurum içi kurulum paketi de aynı yapıyla hazırlanır.
@@ -192,7 +192,7 @@ Seçimlerde aşağıdaki ölçütler sırasıyla gözetilmiştir:
 | Ortak beyaz tahta | Yjs (CRDT) | — | Çevrimdışı uyumlu |
 | Avatar | Açık VRM/GLB formatı (VRoid Studio, Avatar SDK değerlendirmesi) | — | Ready Player Me 31.01.2026 itibarıyla hizmetlerini sonlandırmıştır; kapalı bir platforma bağımlılıktan kaçınılır |
 
-**Kesinleşme:** Faz 2 başlangıcı (görev 2001).
+**Kesinleşme:** Faz 2 başlangıcı (US-2001).
 
 ---
 

@@ -208,7 +208,7 @@ Yıldız kendi formunu yayımlamıyor. Ancak **İTÜ Teknopark'ın Bakanlık ona
 **İTÜ eşikleri [VEKİL]:** 1. turda ortalama 65 puan ve üzeri sözlü sunuma geçiyor; nihai puan 70/100 ve üzeri olunca kabul ediliyor. Yer tahsisinde **puan sırası öncelik veriyor**. Yıldız'da karar salt çoğunlukla veriliyor (puan eşiği yayımlanmamış).
 
 **Çıkarımlar:**
-- **Ticari ve stratejik boyut (soru 7, 8, 13 ve kısmen 10, 11) toplamda yaklaşık %50 ağırlık taşıyor.** Teknik olarak parlak ama pazarı zayıf bir dosya kaybeder. 20 milyon TL ciromuz burada çok değerli.
+- **Ticari ve stratejik boyut (soru 7, 8, 13 ve kısmen 10, 11) toplamda yaklaşık %50 ağırlık taşıyor.** Teknik olarak parlak ama pazarı zayıf bir dosya kaybeder. Yıllık ≈ 240 milyon TL gelirimiz burada çok değerli.
 - **Üniversite-sanayi iş birliği tek başına %10.** Formda "Hayır" demek bu puanı doğrudan sıfırlar.
 - **Yenilik ve know-how toplamı %26.** "Yeni bir şey öğrenilecek mi?" sorusunun cevabı net olmalı. Teknik belirsizlik ve risk açıkça yazılmalı, çünkü Ar-Ge'nin tanımı belirsizlik barındırmasını gerektiriyor (Frascati yaklaşımı).
 

@@ -73,6 +73,7 @@ def sifirla(repo):
 
 
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("repo")
     ap.add_argument("--bugun", default=date.today().isoformat())

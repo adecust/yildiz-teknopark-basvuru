@@ -1,6 +1,6 @@
 # Proje Planı: Makro Plan, Sprintler ve Kanban
 
-> Bu belge `plan/backlog.json` dosyasından `scripts/plan_olustur.py` ile üretilir; elle düzenlenmez. Son üretim: 23.11.2026.
+> Bu belge `plan/backlog.json` dosyasından `scripts/plan_olustur.py` ile üretilir; elle düzenlenmez. Son üretim: 26.11.2026.
 
 **Proje:** KAYNAK-YZ: Türkçe Eğitim İçeriği İçin Kaynağa Dayalı Üretken Yapay Zekâ ile Soru-Cevap ve Rubrik Tabanlı Otomatik Ödev Değerlendirme Platformu
 
@@ -51,12 +51,12 @@
 
 ## 4. Kanban görünümü
 
-23.11.2026 itibarıyla:
+26.11.2026 itibarıyla:
 
 | Sütun | Öğeler |
 |---|---|
-| Devam ediyor | — |
-| Önümüzdeki 14 gün | G-001, G-002, G-003, G-004, G-005, G-006, G-007, G-008 |
+| Devam ediyor | G-001, G-002, G-003, G-004, G-006 |
+| Önümüzdeki 14 gün | G-005, G-007, G-008 |
 | Yapılacak | 101 öğe |
 
 GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → devam ediyor → incelemede → kapalı.
@@ -96,7 +96,7 @@ GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → 
 
 ### Sprint 02 · 15.04–28.04.2027
 
-**Başlayan öğe:** 7 · **Hikâye puanı:** 15 · **Teknolojiler:** Label Studio, Python 3.12, Jupyter ve pandas, SciPy ve scikit-learn, FastAPI, Next.js, PostgreSQL 16, MinIO / yurt içi S3 uyumlu nesne deposu, Keycloak, Kubernetes, Terraform
+**Başlayan öğe:** 7 · **Hikâye puanı:** 15 · **Teknolojiler:** Label Studio, Python 3.12, Jupyter ve pandas, SciPy ve scikit-learn, FastAPI, Next.js, PostgreSQL 16, Yurt içi S3 uyumlu nesne deposu, Keycloak, Kubernetes, Terraform
 
 | Öğe | Tür | Başlık | Epik | Süre | Sorumlu | Öncelik | Puan |
 |---|---|---|---|---|---|---|---|
@@ -120,7 +120,7 @@ GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → 
 
 ### Sprint 04 · 13.05–26.05.2027
 
-**Başlayan öğe:** 4 · **Hikâye puanı:** 16 · **Teknolojiler:** GitHub Actions, FastAPI, Next.js, Redis ve Arq, MinIO / yurt içi S3 uyumlu nesne deposu, Langfuse, Değerlendirme düzeneği
+**Başlayan öğe:** 4 · **Hikâye puanı:** 16 · **Teknolojiler:** GitHub Actions, FastAPI, Next.js, Redis ve Arq, Yurt içi S3 uyumlu nesne deposu, Langfuse, Değerlendirme düzeneği
 
 | Öğe | Tür | Başlık | Epik | Süre | Sorumlu | Öncelik | Puan |
 |---|---|---|---|---|---|---|---|
@@ -131,7 +131,7 @@ GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → 
 
 ### Sprint 05 · 27.05–09.06.2027
 
-**Başlayan öğe:** 6 · **Hikâye puanı:** 28 · **Teknolojiler:** Python 3.12, FastAPI, Next.js, PostgreSQL 16, Redis ve Arq, MinIO / yurt içi S3 uyumlu nesne deposu, Docling, Marker, Tesseract OCR, Langfuse, Prometheus ve Grafana
+**Başlayan öğe:** 6 · **Hikâye puanı:** 28 · **Teknolojiler:** Python 3.12, FastAPI, Next.js, PostgreSQL 16, Redis ve Arq, Yurt içi S3 uyumlu nesne deposu, Docling, Marker, Tesseract OCR, Langfuse, Prometheus ve Grafana
 
 | Öğe | Tür | Başlık | Epik | Süre | Sorumlu | Öncelik | Puan |
 |---|---|---|---|---|---|---|---|
@@ -144,7 +144,7 @@ GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → 
 
 ### Sprint 06 · 10.06–23.06.2027
 
-**Başlayan öğe:** 8 · **Hikâye puanı:** 42 · **Teknolojiler:** SciPy ve scikit-learn, FastAPI, Next.js, PostgreSQL tam metin arama, Zemberek-NLP, Redis ve Arq, MinIO / yurt içi S3 uyumlu nesne deposu, python-pptx, Görsel-dil modeli, faster-whisper, vLLM, BigBlueButton, Yurt içi GPU bulutu, pytest
+**Başlayan öğe:** 8 · **Hikâye puanı:** 42 · **Teknolojiler:** SciPy ve scikit-learn, FastAPI, Next.js, PostgreSQL tam metin arama, Zemberek-NLP, Redis ve Arq, Yurt içi S3 uyumlu nesne deposu, python-pptx, Görsel-dil modeli, faster-whisper, vLLM, BigBlueButton, Yurt içi GPU bulutu, pytest
 
 | Öğe | Tür | Başlık | Epik | Süre | Sorumlu | Öncelik | Puan |
 |---|---|---|---|---|---|---|---|
@@ -171,7 +171,7 @@ GitHub'da durumlar `durum:` etiketleriyle izlenir: yapılacak → bu sprint → 
 
 ### Sprint 08 · 08.07–21.07.2027
 
-**Başlayan öğe:** 9 · **Hikâye puanı:** 45 · **Teknolojiler:** SciPy ve scikit-learn, FastAPI, Next.js, pgvector, Redis ve Arq, MinIO / yurt içi S3 uyumlu nesne deposu, faster-whisper, Gömme modeli adayları: bge-m3, turkish-e5-large, bge-reranker-v2-m3, Açık ağırlıklı üretim modeli adayları: Cosmos T1 / Turkish-Gemma-9b-T1, Turkish-Llama-8b, Qwen ailesi, vLLM, Langfuse, Değerlendirme düzeneği, BigBlueButton, iyzico, Playwright, axe-core
+**Başlayan öğe:** 9 · **Hikâye puanı:** 45 · **Teknolojiler:** SciPy ve scikit-learn, FastAPI, Next.js, pgvector, Redis ve Arq, Yurt içi S3 uyumlu nesne deposu, faster-whisper, Gömme modeli adayları: bge-m3, turkish-e5-large, bge-reranker-v2-m3, Açık ağırlıklı üretim modeli adayları: Cosmos T1 / Turkish-Gemma-9b-T1, Turkish-Llama-8b, Qwen ailesi, vLLM, Langfuse, Değerlendirme düzeneği, BigBlueButton, iyzico, Playwright, axe-core
 
 | Öğe | Tür | Başlık | Epik | Süre | Sorumlu | Öncelik | Puan |
 |---|---|---|---|---|---|---|---|
@@ -371,7 +371,7 @@ Seçim gerekçeleri: [`04-teknoloji-kararlari.md`](04-teknoloji-kararlari.md).
 | PostgreSQL tam metin arama ('turkish' sözlüğü) | 2 | Sprint 06 |
 | Zemberek-NLP (Türkçe biçimbirim çözümleme) | 1 | Sprint 06 |
 | Redis ve Arq (iş kuyruğu, önbellek) | 9 | Sprint 04 |
-| MinIO / yurt içi S3 uyumlu nesne deposu | 5 | Sprint 02 |
+| Yurt içi S3 uyumlu nesne deposu (kurum içi pakette SeaweedFS, Apache-2.0) | 5 | Sprint 02 |
 | Docling (PDF/DOCX ayrıştırma, MIT lisansı) | 2 | Sprint 05 |
 | Marker (karşılaştırma kolu, GPL-3.0) | 1 | Sprint 05 |
 | Tesseract OCR (Türkçe dil paketi) | 1 | Sprint 05 |

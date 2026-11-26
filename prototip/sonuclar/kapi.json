@@ -1,0 +1,872 @@
+{
+ "ozet": {
+  "tümü": {
+   "auc": 0.9843629838502947,
+   "cv_esikler": [
+    0.48482975363731384,
+    0.48482975363731384,
+    0.3901272416114807,
+    0.48482975363731384,
+    0.48482975363731384
+   ],
+   "tum_veri_esigi": 0.48482975363731384,
+   "red_dogrulugu": 0.9361702127659575,
+   "red_ga": [
+    0.828371220656221,
+    0.9780550129792271
+   ],
+   "n_kaynak_disi": 47,
+   "gereksiz_red": 0.024096385542168676,
+   "gereksiz_ga": [
+    0.006633027079790216,
+    0.08366471041007639
+   ],
+   "n_cevapli": 83
+  },
+  "A": {
+   "auc": 0.9895833333333333,
+   "cv_esikler": [
+    0.9757161140441895,
+    0.7861306667327881,
+    0.9757161140441895,
+    0.12656909227371216,
+    0.7861306667327881
+   ],
+   "tum_veri_esigi": 0.7861306667327881,
+   "red_dogrulugu": 0.875,
+   "red_ga": [
+    0.6899571185214243,
+    0.9565574496068442
+   ],
+   "n_kaynak_disi": 24,
+   "gereksiz_red": 0.16666666666666666,
+   "gereksiz_ga": [
+    0.06678568000728924,
+    0.3585347038786943
+   ],
+   "n_cevapli": 24
+  }
+ },
+ "puanlar": {
+  "cevapli": [
+   {
+    "id": "C01",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9930423498153687,
+    "bulundu": 1
+   },
+   {
+    "id": "C02",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9757161140441895,
+    "bulundu": 1
+   },
+   {
+    "id": "C03",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9702399373054504,
+    "bulundu": 1
+   },
+   {
+    "id": "C04",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9310875535011292,
+    "bulundu": 1
+   },
+   {
+    "id": "C05",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9963500499725342,
+    "bulundu": 1
+   },
+   {
+    "id": "C06",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9994493126869202,
+    "bulundu": 1
+   },
+   {
+    "id": "C07",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9988707900047302,
+    "bulundu": 1
+   },
+   {
+    "id": "C08",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9998452663421631,
+    "bulundu": 1
+   },
+   {
+    "id": "C09",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.999045193195343,
+    "bulundu": 1
+   },
+   {
+    "id": "C10",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9953181147575378,
+    "bulundu": 1
+   },
+   {
+    "id": "C11",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9949983358383179,
+    "bulundu": 1
+   },
+   {
+    "id": "C12",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9989474415779114,
+    "bulundu": 1
+   },
+   {
+    "id": "C13",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9937587976455688,
+    "bulundu": 1
+   },
+   {
+    "id": "C14",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9968396425247192,
+    "bulundu": 1
+   },
+   {
+    "id": "C15",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9809855818748474,
+    "bulundu": 1
+   },
+   {
+    "id": "C16",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9985449314117432,
+    "bulundu": 1
+   },
+   {
+    "id": "C17",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9817357659339905,
+    "bulundu": 1
+   },
+   {
+    "id": "C18",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.28497380018234253,
+    "bulundu": 1
+   },
+   {
+    "id": "C19",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9981470108032227,
+    "bulundu": 1
+   },
+   {
+    "id": "C20",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9777138829231262,
+    "bulundu": 1
+   },
+   {
+    "id": "C21",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.9952816367149353,
+    "bulundu": 1
+   },
+   {
+    "id": "C22",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.8333246111869812,
+    "bulundu": 1
+   },
+   {
+    "id": "C23",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.999180018901825,
+    "bulundu": 1
+   },
+   {
+    "id": "C24",
+    "ders": "gerontoloji",
+    "kaynakli": "A",
+    "kapi": 0.7861306667327881,
+    "bulundu": 1
+   },
+   {
+    "id": "G01",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.48482975363731384,
+    "bulundu": 1
+   },
+   {
+    "id": "G02",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9819446802139282,
+    "bulundu": 1
+   },
+   {
+    "id": "G03",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9118099808692932,
+    "bulundu": 1
+   },
+   {
+    "id": "G04",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.939581573009491,
+    "bulundu": 1
+   },
+   {
+    "id": "G05",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9977656602859497,
+    "bulundu": 1
+   },
+   {
+    "id": "G06",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.837221086025238,
+    "bulundu": 1
+   },
+   {
+    "id": "G07",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.8735387921333313,
+    "bulundu": 1
+   },
+   {
+    "id": "G08",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9927672147750854,
+    "bulundu": 1
+   },
+   {
+    "id": "G09",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9991306662559509,
+    "bulundu": 1
+   },
+   {
+    "id": "G10",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.995075523853302,
+    "bulundu": 1
+   },
+   {
+    "id": "G11",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9990600943565369,
+    "bulundu": 1
+   },
+   {
+    "id": "G12",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9986006617546082,
+    "bulundu": 1
+   },
+   {
+    "id": "G13",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9489172697067261,
+    "bulundu": 1
+   },
+   {
+    "id": "G14",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.991455614566803,
+    "bulundu": 1
+   },
+   {
+    "id": "G15",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9461008310317993,
+    "bulundu": 1
+   },
+   {
+    "id": "G16",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9326989054679871,
+    "bulundu": 1
+   },
+   {
+    "id": "G17",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9983707070350647,
+    "bulundu": 1
+   },
+   {
+    "id": "G18",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9930693507194519,
+    "bulundu": 1
+   },
+   {
+    "id": "G19",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9994826316833496,
+    "bulundu": 1
+   },
+   {
+    "id": "G20",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9963924288749695,
+    "bulundu": 1
+   },
+   {
+    "id": "G21",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.5799357891082764,
+    "bulundu": 1
+   },
+   {
+    "id": "G22",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.8539127111434937,
+    "bulundu": 1
+   },
+   {
+    "id": "G23",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9133679866790771,
+    "bulundu": 1
+   },
+   {
+    "id": "G24",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9644556045532227,
+    "bulundu": 1
+   },
+   {
+    "id": "G25",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9447912573814392,
+    "bulundu": 1
+   },
+   {
+    "id": "G26",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9959771037101746,
+    "bulundu": 1
+   },
+   {
+    "id": "G27",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9540517926216125,
+    "bulundu": 1
+   },
+   {
+    "id": "G28",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9989266991615295,
+    "bulundu": 1
+   },
+   {
+    "id": "G29",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.8316905498504639,
+    "bulundu": 1
+   },
+   {
+    "id": "G30",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.3901272416114807,
+    "bulundu": 1
+   },
+   {
+    "id": "G31",
+    "ders": "gerontoloji",
+    "kaynakli": "B",
+    "kapi": 0.9908389449119568,
+    "bulundu": 1
+   },
+   {
+    "id": "T01",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.8633915781974792,
+    "bulundu": 1
+   },
+   {
+    "id": "T02",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9885361194610596,
+    "bulundu": 1
+   },
+   {
+    "id": "T03",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.993854820728302,
+    "bulundu": 1
+   },
+   {
+    "id": "T04",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9980276226997375,
+    "bulundu": 1
+   },
+   {
+    "id": "T05",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9961305856704712,
+    "bulundu": 1
+   },
+   {
+    "id": "T06",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9929881691932678,
+    "bulundu": 1
+   },
+   {
+    "id": "T07",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9887554049491882,
+    "bulundu": 1
+   },
+   {
+    "id": "T08",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.767863929271698,
+    "bulundu": 1
+   },
+   {
+    "id": "T09",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9629528522491455,
+    "bulundu": 1
+   },
+   {
+    "id": "T10",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.8940516710281372,
+    "bulundu": 1
+   },
+   {
+    "id": "T11",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9122800230979919,
+    "bulundu": 1
+   },
+   {
+    "id": "T12",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9935117363929749,
+    "bulundu": 1
+   },
+   {
+    "id": "T13",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9644556045532227,
+    "bulundu": 1
+   },
+   {
+    "id": "T14",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9973374009132385,
+    "bulundu": 1
+   },
+   {
+    "id": "T15",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9954261183738708,
+    "bulundu": 1
+   },
+   {
+    "id": "T16",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9645224213600159,
+    "bulundu": 1
+   },
+   {
+    "id": "T17",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.8925625681877136,
+    "bulundu": 1
+   },
+   {
+    "id": "T18",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9925682544708252,
+    "bulundu": 1
+   },
+   {
+    "id": "T19",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.920074462890625,
+    "bulundu": 1
+   },
+   {
+    "id": "T20",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.7750945687294006,
+    "bulundu": 1
+   },
+   {
+    "id": "T21",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9001793265342712,
+    "bulundu": 1
+   },
+   {
+    "id": "T22",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9995253086090088,
+    "bulundu": 1
+   },
+   {
+    "id": "T23",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.997285008430481,
+    "bulundu": 1
+   },
+   {
+    "id": "T24",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9007046222686768,
+    "bulundu": 1
+   },
+   {
+    "id": "T25",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9537942409515381,
+    "bulundu": 1
+   },
+   {
+    "id": "T26",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.28826844692230225,
+    "bulundu": 1
+   },
+   {
+    "id": "T27",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.7521946430206299,
+    "bulundu": 1
+   },
+   {
+    "id": "T28",
+    "ders": "matematik",
+    "kaynakli": "B",
+    "kapi": 0.9964756369590759,
+    "bulundu": 1
+   }
+  ],
+  "disarida": [
+   {
+    "id": "D01",
+    "ders": "gerontoloji",
+    "kapi": 0.002378123812377453
+   },
+   {
+    "id": "D02",
+    "ders": "gerontoloji",
+    "kapi": 0.32863715291023254
+   },
+   {
+    "id": "D03",
+    "ders": "gerontoloji",
+    "kapi": 0.003285833168774843
+   },
+   {
+    "id": "D04",
+    "ders": "gerontoloji",
+    "kapi": 0.9729852676391602
+   },
+   {
+    "id": "D05",
+    "ders": "gerontoloji",
+    "kapi": 0.0003625900426413864
+   },
+   {
+    "id": "D06",
+    "ders": "gerontoloji",
+    "kapi": 0.03527754917740822
+   },
+   {
+    "id": "D07",
+    "ders": "gerontoloji",
+    "kapi": 0.06176270917057991
+   },
+   {
+    "id": "D08",
+    "ders": "gerontoloji",
+    "kapi": 0.002992665395140648
+   },
+   {
+    "id": "D09",
+    "ders": "gerontoloji",
+    "kapi": 0.0003654328465927392
+   },
+   {
+    "id": "D10",
+    "ders": "gerontoloji",
+    "kapi": 0.00013982206291984767
+   },
+   {
+    "id": "D11",
+    "ders": "gerontoloji",
+    "kapi": 0.02595735713839531
+   },
+   {
+    "id": "D12",
+    "ders": "gerontoloji",
+    "kapi": 0.004591683857142925
+   },
+   {
+    "id": "D13",
+    "ders": "gerontoloji",
+    "kapi": 0.02108483947813511
+   },
+   {
+    "id": "D14",
+    "ders": "gerontoloji",
+    "kapi": 0.12656909227371216
+   },
+   {
+    "id": "D15",
+    "ders": "gerontoloji",
+    "kapi": 0.005281333811581135
+   },
+   {
+    "id": "D16",
+    "ders": "gerontoloji",
+    "kapi": 0.0001442598586436361
+   },
+   {
+    "id": "D17",
+    "ders": "gerontoloji",
+    "kapi": 0.07343005388975143
+   },
+   {
+    "id": "D18",
+    "ders": "gerontoloji",
+    "kapi": 0.12400069087743759
+   },
+   {
+    "id": "D19",
+    "ders": "gerontoloji",
+    "kapi": 0.00011412239109631628
+   },
+   {
+    "id": "D20",
+    "ders": "gerontoloji",
+    "kapi": 0.0006719278171658516
+   },
+   {
+    "id": "D22",
+    "ders": "gerontoloji",
+    "kapi": 0.003960787784308195
+   },
+   {
+    "id": "D23",
+    "ders": "gerontoloji",
+    "kapi": 0.0055333878844976425
+   },
+   {
+    "id": "D24",
+    "ders": "gerontoloji",
+    "kapi": 0.004520817659795284
+   },
+   {
+    "id": "D25",
+    "ders": "gerontoloji",
+    "kapi": 0.015247589908540249
+   },
+   {
+    "id": "D26",
+    "ders": "matematik",
+    "kapi": 0.00021995337738189846
+   },
+   {
+    "id": "D27",
+    "ders": "matematik",
+    "kapi": 0.0006190416170284152
+   },
+   {
+    "id": "D28",
+    "ders": "matematik",
+    "kapi": 0.0031603530514985323
+   },
+   {
+    "id": "D29",
+    "ders": "matematik",
+    "kapi": 0.002099273493513465
+   },
+   {
+    "id": "D30",
+    "ders": "matematik",
+    "kapi": 0.0012065897462889552
+   },
+   {
+    "id": "D31",
+    "ders": "matematik",
+    "kapi": 0.006589771714061499
+   },
+   {
+    "id": "D32",
+    "ders": "matematik",
+    "kapi": 0.01678548939526081
+   },
+   {
+    "id": "D33",
+    "ders": "matematik",
+    "kapi": 0.3412531316280365
+   },
+   {
+    "id": "D34",
+    "ders": "matematik",
+    "kapi": 0.849846601486206
+   },
+   {
+    "id": "D35",
+    "ders": "matematik",
+    "kapi": 0.4434799253940582
+   },
+   {
+    "id": "D36",
+    "ders": "matematik",
+    "kapi": 0.0004821761976927519
+   },
+   {
+    "id": "D37",
+    "ders": "matematik",
+    "kapi": 0.08021324872970581
+   },
+   {
+    "id": "D38",
+    "ders": "matematik",
+    "kapi": 0.07850097864866257
+   },
+   {
+    "id": "D39",
+    "ders": "matematik",
+    "kapi": 0.006692850962281227
+   },
+   {
+    "id": "D40",
+    "ders": "matematik",
+    "kapi": 0.019794780761003494
+   },
+   {
+    "id": "D41",
+    "ders": "matematik",
+    "kapi": 0.34191203117370605
+   },
+   {
+    "id": "D42",
+    "ders": "matematik",
+    "kapi": 0.16079244017601013
+   },
+   {
+    "id": "D43",
+    "ders": "matematik",
+    "kapi": 0.0012843081494793296
+   },
+   {
+    "id": "D44",
+    "ders": "matematik",
+    "kapi": 0.0028560124337673187
+   },
+   {
+    "id": "D45",
+    "ders": "matematik",
+    "kapi": 0.31384021043777466
+   },
+   {
+    "id": "D46",
+    "ders": "matematik",
+    "kapi": 0.002251847181469202
+   },
+   {
+    "id": "D47",
+    "ders": "matematik",
+    "kapi": 0.0005053045460954309
+   },
+   {
+    "id": "D48",
+    "ders": "matematik",
+    "kapi": 0.3432316780090332
+   }
+  ]
+ }
+}

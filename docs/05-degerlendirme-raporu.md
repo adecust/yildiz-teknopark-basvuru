@@ -26,7 +26,7 @@ Puanlar 1–5 ölçeğinde verilmiş, ağırlıkla 100 üzerinden ölçeklenmiş
 | # | Ölçüt | Ağırlık | Puan | Gerekçe |
 |---|---|---|---|---|
 | 4 | Yenilik | 10 | 4 | Kaynağa bağlı yanıt, ölçülmüş reddetme, sızıntı denetimi ve rubrik uyumunun tek sistemde birleşimi açıkça tanımlanmış; rakip matrisi Google'ın 2026 ürünlerini de kapsıyor. |
-| 5 | Uygulanabilirlik | 6 | 4 | Mimari, teknoloji seçimleri ve 85 öğelik (kullanıcı hikâyesi, Ar-Ge araştırması ve görev) Faz 1 backlog'u somut. Prototip sonucu henüz yok. |
+| 5 | Uygulanabilirlik | 6 | **5** | Mimari, teknoloji seçimleri ve 85 öğelik Faz 1 backlog'u somut. **Kavram kanıtı gerçek ders içeriğinde ölçüldü** (26.11.2026; docs/07): Recall@5 %100, kapıyla doğru ret %98. |
 | 6 | Tekniğin bilinen durumunu aşma | 6 | 4 | Her araştırma sorusu için literatürdeki değer ve hedef yan yana verilmiş (ör. Kappa 0,4–0,7 → ≥ 0,75). |
 | 7 | Ticarileşme | 15 | 4 | Fiyatlama, segmentler ve gelir projeksiyonu var; kurumun kendi kullanımı güçlü bir başlangıç. Dış kurum niyet mektubu yok. |
 | 8 | İthal ikame / ihracat | 15 | 4 | İkame edilen ürünler ve ihracat yol haritası net; döviz etkisi rakamla gösterilmemiş. |
@@ -37,7 +37,7 @@ Puanlar 1–5 ölçeğinde verilmiş, ağırlıkla 100 üzerinden ölçeklenmiş
 | 13 | Katma değer | 6 | 4 | Nitelikli istihdam, YTÜ modellerinin ticari kullanımı, ihracat. |
 | 14 | Üniversite-sanayi iş birliği | 10 | **2 → 5** | Danışman adları boş. Niyet mektubu alınırsa en yüksek puanı alır. **En büyük kaldıraç.** |
 | 15 | Ekip | 6 | **3 → 4** | Roller net; teknik liderin (kıdemli YZ mühendisi) adı ve özgeçmişi eklenirse artar. |
-| | **Toplam** | 100 | **≈ 74 → ≈ 84** | Sol değer: bugünkü hâl. Sağ değer: 14 ve 15 numaralı kalemler tamamlandığında. |
+| | **Toplam** | 100 | **≈ 75 → ≈ 85** | Sol değer: bugünkü hâl (kavram kanıtı dahil). Sağ değer: 14 ve 15 numaralı kalemler tamamlandığında. |
 
 ---
 
@@ -54,7 +54,7 @@ Puanlar 1–5 ölçeğinde verilmiş, ağırlıkla 100 üzerinden ölçeklenmiş
 
 1. **Akademik iş birliği henüz kâğıt üzerindedir.** İki danışmanın adı boştur. Hakem puanının yaklaşık 8 puanı buna bağlıdır.
 2. **Sorun tanımı kurum verisine dayanmamaktadır.** Sunumdaki "haftada ‹X saat›" alanı anketle doldurulmazsa sorun genel kalır.
-3. **Prototip kutusu bir taahhüt içermektedir.** Sunumdaki (slayt 12) "prototip hazırlanmaktadır" ifadesi, prototip çalışması yapılmazsa doğru olmaz. Prototip yapılmayacaksa bu kutu sunumdan çıkarılmalıdır.
+3. ~~Prototip kutusu bir taahhüt içermektedir.~~ **Giderildi (26.11.2026):** kavram kanıtı yapıldı ve ölçüldü; sonuçlar sunumun 13. slaytında ve docs/07'de.
 4. **Teknik liderin adı yoktur.** Kıdemli YZ mühendisi işe alınana kadar "eğitim kurumunun YZ kapasitesi" sorusu açık kalır.
 5. **Dış talep kanıtı yoktur.** En az bir kurumdan niyet mektubu, ticarileşme puanını güçlendirir.
 6. **Tahminler doğrulanmamıştır.** Kira bedeli, başvuru ücreti, maaş varsayımları ve TÜBİTAK uygunluğu ön görüşme ve mali müşavirle teyit edilmelidir.
@@ -66,21 +66,21 @@ Puanlar 1–5 ölçeğinde verilmiş, ağırlıkla 100 üzerinden ölçeklenmiş
 
 | # | İşlem | Dosya / alan | GitHub görevi |
 |---|---|---|---|
-| 1 | Kurum bilgilerinin doldurulması: unvan, kuruluş yılı, eğitim alanları, eğitmen sayısı | Sunum slayt 1 ve 3; özet kapak ve bölüm 1 | 0603, 0604 |
-| 2 | Başvuru sahibi ve iletişim bilgileri; vergi dairesi ve numarası | Özet kapak tablosu | 0604 |
-| 3 | Eğitmen anketinin yapılması ve ‹X saat› değerinin yazılması | Sunum slayt 5; özet bölüm 4 | 0305–0307 |
-| 4 | Akademik danışman adlarının yazılması (alınamadıysa satırlar "görüşmeler sürmektedir" olarak değiştirilmeli) | Sunum slayt 14; özet bölüm 10 | 0201–0204 |
-| 5 | Prototip kararı: yapılırsa sonuçlar slayt 12'ye eklenir; yapılmazsa slayt 12'deki kutu silinir ve formda aşama "Fikir aşaması" seçilir | Sunum slayt 12; form | E05 |
-| 6 | PDF'lerin yeniden üretilmesi ve son okuma | `teslim/` | 0605 |
+| 1 | Kurum bilgilerinin doldurulması: unvan, kuruluş yılı, eğitim alanları, eğitmen sayısı | Sunum slayt 1 ve 3; özet kapak ve bölüm 1 | G-008 |
+| 2 | Başvuru sahibi ve iletişim bilgileri; vergi dairesi ve numarası | Özet kapak tablosu | G-008 |
+| 3 | Eğitmen anketinin yapılması ve ‹X saat› değerinin yazılması | Sunum slayt 5; özet bölüm 4 | G-004 |
+| 4 | Akademik danışman adlarının yazılması (alınamadıysa satırlar "görüşmeler sürmektedir" olarak değiştirilmeli) | Sunum slayt 15; özet bölüm 11 | G-003 |
+| 5 | ~~Prototip kararı~~ **Tamamlandı:** prototip yapıldı, sonuçlar slayt 13'te; formda aşama "Prototip" seçilir | Sunum slayt 13; form | G-007 |
+| 6 | PDF'lerin yeniden üretilmesi ve son okuma | `teslim/` | G-008 |
 
-Doldurulacak alanların tamamı belgelerde sarı vurgulu ve ‹…› işaretlidir (sunumda 8, özette 14 alan).
+Doldurulacak alanların tamamı belgelerde ‹…› işaretli ve renkli vurgulu (sunumda kırmızı, özette kırmızı ve sarı) yazılmıştır (sunumda 8, özette 14 alan).
 
 ## 6. Bu değerlendirmede yapılan düzeltmeler
 
 | Dosya | Düzeltme |
 |---|---|
 | Form özeti (proje dosyası 00, §3.3) | Eğitim kurumu çerçevesi metnin başına eklendi (2.092 karakter). |
-| Sunum | Doldurulmamış prototip sonuç kutusu, gönderilebilir tarafsız bir metne çevrildi. Takvim slaytındaki sayılar Faz 1'e göre düzeltildi (26 sprint, 92 görev). "Riskler ve B Planları" slaytı eklendi; gündem güncellendi (toplam 19 slayt). |
+| Sunum | Doldurulmamış prototip sonuç kutusu, gönderilebilir tarafsız bir metne çevrildi. Takvim slaytındaki sayılar Faz 1'e göre düzeltildi (26 sprint; 46 kullanıcı hikâyesi, 19 Ar-Ge araştırması, 20 görev). "Riskler ve B Planları" slaytı eklendi; gündem güncellendi (toplam 19 slayt). |
 | Proje özeti | İş planı bölümündeki sayılar Faz 1'e göre düzeltildi. |
 | Araştırma raporu (01) | Hatalı "20 milyon TL ciro" ifadeleri "yıllık ≈ 240 milyon TL gelir" olarak düzeltildi. |
 | Faz analizi (02) | Güncelliğini yitirmiş varsayımlar kurum bilgileriyle değiştirildi; eğitim tasarımcısının statüsü (kurum merkezinde) diğer belgelerle uyumlu hâle getirildi; platform efor oranı %24 olarak eşitlendi. |
@@ -92,3 +92,10 @@ Doldurulacak alanların tamamı belgelerde sarı vurgulu ve ‹…› işaretlid
 2. Kurumun yıllık döviz bazlı yazılım ve lisans harcamasının rakamla yazılması (ithal ikame puanı).
 3. Kıdemli YZ mühendisi seçildiğinde özgeçmişinin özet belgeye eklenmesi (ekip puanı).
 4. TÜBİTAK 1507/1501 başvurusunun Faz 1 sırasında yapılması (destekli proje göstergesi; Faz 2 başvurusunu kolaylaştırır).
+
+## 8. Güncelleme (26.11.2026): araştırma doğrulaması ve kavram kanıtı
+
+- Dosyadaki dış iddialar birincil kaynaklardan doğrulandı; güncel olmayan veya doğrulanamayan bilgiler düzeltildi (KVKK 2026 ceza tutarları, Perculus bedeli, rubrik iyileştirme etkisi, AB YZ Yasası tarihi, TÜBİTAK 1507 çağrı takvimi, KOBİ tanımı). Ayrıntı: [07 · Araştırma doğrulaması ve kavram kanıtı](07-arastirma-ve-kavram-kaniti.md), bölüm 2.
+- Ar-Ge çekirdeği, yerel ve açık modellerle (Cosmos T1, turkish-e5-large, bge-m3) gerçek ders içeriğinde ölçüldü. Sunuma 13. slayt olarak "Kavram Kanıtı" eklendi (toplam 20 slayt); özete 9. bölüm eklendi.
+- Önceki turdan kalan tutarsızlıklar giderildi: eski görev kimlikleri yeni backlog kimlikleriyle değiştirildi, teknoloji kararlarındaki "kesinleşme" satırları gerçek sprint ve öğelere bağlandı, kurum içi kurulum paketindeki AGPL çelişkisi (MinIO) giderildi, Faz 2 başvuru tarihi KT-6 (14.01.2028) olarak birleştirildi.
+- Bu güncellemeyle puan tablosunda uygulanabilirlik 4'ten 5'e çıkarıldı (bölüm 2). En büyük kaldıraç değişmedi: **isimli YTÜ akademik danışman** (ölçüt 14) ve **isimli teknik lider** (ölçüt 15).

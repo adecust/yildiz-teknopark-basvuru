@@ -1,0 +1,139 @@
+{
+ "esik": 0.48482975363731384,
+ "kollar": {
+  "A · yalnız talimat": {
+   "dogru": 37,
+   "yanlis": 1,
+   "yanlis_red": 0,
+   "dogru_red": 35,
+   "uydurma": 12,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": -0.17647058823529413,
+   "red_dogrulugu": 0.7446808510638298,
+   "red_ga": [
+    0.604915508600796,
+    0.8474699395361627
+   ],
+   "dogruluk": 0.9736842105263158,
+   "dogruluk_ga": [
+    0.8650482156319974,
+    0.9953395324464698
+   ],
+   "gereksiz_red": 0.0
+  },
+  "B · + NLI doğrulama (v1)": {
+   "dogru": 35,
+   "yanlis": 1,
+   "yanlis_red": 2,
+   "dogru_red": 37,
+   "uydurma": 10,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": -0.10588235294117647,
+   "red_dogrulugu": 0.7872340425531915,
+   "red_ga": [
+    0.6509569794902073,
+    0.8801041987575269
+   ],
+   "dogruluk": 0.9210526315789473,
+   "dogruluk_ga": [
+    0.792003210797347,
+    0.972785898605735
+   ],
+   "gereksiz_red": 0.05263157894736842
+  },
+  "C · kapı + talimat": {
+   "dogru": 35,
+   "yanlis": 1,
+   "yanlis_red": 2,
+   "dogru_red": 46,
+   "uydurma": 1,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": 0.3176470588235294,
+   "red_dogrulugu": 0.9787234042553191,
+   "red_ga": [
+    0.8888676347566887,
+    0.9962343289895351
+   ],
+   "dogruluk": 0.9210526315789473,
+   "dogruluk_ga": [
+    0.792003210797347,
+    0.972785898605735
+   ],
+   "gereksiz_red": 0.05263157894736842
+  },
+  "D · kapı + NLI (v1, önceden belirlenen)": {
+   "dogru": 33,
+   "yanlis": 1,
+   "yanlis_red": 4,
+   "dogru_red": 45,
+   "uydurma": 2,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": 0.24705882352941178,
+   "red_dogrulugu": 0.9574468085106383,
+   "red_ga": [
+    0.8575121280614056,
+    0.9882519706294303
+   ],
+   "dogruluk": 0.868421052631579,
+   "dogruluk_ga": [
+    0.7267282994850112,
+    0.9424621712426856
+   ],
+   "gereksiz_red": 0.10526315789473684
+  },
+  "B2 · + NLI doğrulama (v2, deney sonrası)": {
+   "dogru": 33,
+   "yanlis": 5,
+   "yanlis_red": 0,
+   "dogru_red": 36,
+   "uydurma": 11,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": -0.36470588235294116,
+   "red_dogrulugu": 0.7659574468085106,
+   "red_ga": [
+    0.6277546774315923,
+    0.8639686357607541
+   ],
+   "dogruluk": 0.868421052631579,
+   "dogruluk_ga": [
+    0.7267282994850112,
+    0.9424621712426856
+   ],
+   "gereksiz_red": 0.0
+  },
+  "D2 · kapı + NLI (v2, deney sonrası)": {
+   "dogru": 32,
+   "yanlis": 4,
+   "yanlis_red": 2,
+   "dogru_red": 46,
+   "uydurma": 1,
+   "n_cevapli": 38,
+   "n_kaynak_disi": 47,
+   "ceza_duyarli_puan": 0.1411764705882353,
+   "red_dogrulugu": 0.9787234042553191,
+   "red_ga": [
+    0.8888676347566887,
+    0.9962343289895351
+   ],
+   "dogruluk": 0.8421052631578947,
+   "dogruluk_ga": [
+    0.6958287736272311,
+    0.9255623777627731
+   ],
+   "gereksiz_red": 0.05263157894736842
+  }
+ },
+ "not": "Kaynak dışı: cevapta açık ret ifadesi varsa doğru ret. Cevaplanabilir: elle değerlendirme.",
+ "sure": {
+  "toplam_p50": 17.66,
+  "toplam_p95": 34.6,
+  "uretim_p50": 16.83,
+  "erisim_p50": 0.37,
+  "dogrulama_p50": 0.12
+ }
+}

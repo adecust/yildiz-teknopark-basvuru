@@ -21,7 +21,7 @@
  "FTS": "PostgreSQL tam metin arama ('turkish' sözlüğü)",
  "ZEM": "Zemberek-NLP (Türkçe biçimbirim çözümleme)",
  "RD": "Redis ve Arq (iş kuyruğu, önbellek)",
- "S3": "MinIO / yurt içi S3 uyumlu nesne deposu",
+ "S3": "Yurt içi S3 uyumlu nesne deposu (kurum içi pakette SeaweedFS, Apache-2.0)",
  "DOC": "Docling (PDF/DOCX ayrıştırma, MIT lisansı)",
  "MRK": "Marker (karşılaştırma kolu, GPL-3.0)",
  "TES": "Tesseract OCR (Türkçe dil paketi)",

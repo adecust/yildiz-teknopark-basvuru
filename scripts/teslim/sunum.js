@@ -8,8 +8,9 @@ const ReactDOMServer = require("react-dom/server");
 const sharp = require("sharp");
 const fa = require("react-icons/fa6");
 
+// Tema uygulaması isteğe bağlıdır: PPTX_SKILL_DIR tanımlı değilse sunum tema dosyası uygulanmadan üretilir.
 const SKILL = process.env.PPTX_SKILL_DIR;
-const { applyTheme } = require(path.join(SKILL, "scripts", "apply_theme.js"));
+const applyTheme = SKILL ? require(path.join(SKILL, "scripts", "apply_theme.js")).applyTheme : async () => console.warn("uyarı: PPTX_SKILL_DIR tanımlı değil, tema uygulanmadı");
 const OUT = path.resolve(__dirname, "..", "..", "teslim", "KAYNAK-YZ_Firma_Proje_Sunumu.pptx");
 
 const THEME = {
@@ -88,7 +89,7 @@ async function ikon(ad, renk = "FFFFFF") {
   // ---------- 2 · Sunum akışı ----------
   s = yeni("Giriş");
   baslik(s, "Sunum Akışı");
-  const gundem = ["Kurum profili ve projenin kurum için anlamı", "Sorun tanımı ve mevcut yaklaşımların sınırlılıkları", "Tekniğin bilinen durumu ve önerilen çözüm", "Ar-Ge içeriği ve ölçülebilir hedefler", "Sistem mimarisi ve teknoloji altyapısı", "Doğrulama yaklaşımı ve uygulama takvimi", "Proje ekibi ve üniversite-sanayi iş birliği", "Pazar, ticarileşme, ithal ikame ve ihracat", "Riskler, bütçe ve Yıldız Teknopark'a katkı"];
+  const gundem = ["Kurum profili ve projenin kurum için anlamı", "Sorun tanımı ve mevcut yaklaşımların sınırlılıkları", "Tekniğin bilinen durumu ve önerilen çözüm", "Ar-Ge içeriği ve ölçülebilir hedefler", "Sistem mimarisi ve teknoloji altyapısı", "Doğrulama, kavram kanıtı sonuçları ve takvim", "Proje ekibi ve üniversite-sanayi iş birliği", "Pazar, ticarileşme, ithal ikame ve ihracat", "Riskler, bütçe ve Yıldız Teknopark'a katkı"];
   gundem.forEach((g, i) => {
     const x = 0.6 + (i % 2) * 6.15, y = 1.55 + Math.floor(i / 2) * 1.05;
     kart(s, { x, y, w: 5.95, h: 0.85 });
@@ -163,7 +164,7 @@ async function ikon(ad, renk = "FFFFFF") {
   s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 0.6, y: 5.15, w: 12.1, h: 1.45, rectRadius: 0.12, fill: { color: C.text2 }, line: { color: C.text2 } });
   metin(s, [
     { text: "Kanıt: ", options: { bold: true, color: C.accent1 } },
-    { text: "Yaklaşık 1.000 lise öğrencisiyle yapılan randomize kontrollü çalışmada, korumasız sohbet botu kullanan öğrencilerin sonraki sınavda daha düşük puan aldığı; Sokratik korumalı sürümün bu kaybı ortadan kaldırdığı gösterilmiştir.", options: { color: C.background1 } },
+    { text: "Türkiye'de yaklaşık 1.000 lise öğrencisiyle yapılan randomize kontrollü saha deneyinde, korumasız sohbet botu kullanan öğrenciler yapay zekâ kaldırıldıktan sonraki sınavda kontrol grubuna göre %17 daha düşük puan almış; öğrenmeyi koruyacak şekilde tasarlanmış sürüm bu kaybı büyük ölçüde önlemiştir.", options: { color: C.background1 } },
     { text: "  (Bastani ve ark., PNAS 2025)", options: { color: C.accent3, fontSize: 12 } },
   ], { x: 0.95, y: 5.3, w: 11.4, h: 1.15, fontSize: 16, valign: "middle" });
   s.addNotes("Eğitmen saat değeri, başvuru öncesi yapılacak eğitmen anketinden gelecek (proje dosyası belge 01 §1.3). RKÇ kanıtı: cevap sızıntısını önlemek bir özellik değil, pedagojik zorunluluk.");
@@ -348,9 +349,38 @@ async function ikon(ad, renk = "FFFFFF") {
   s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 7.2, y: 5.0, w: 5.5, h: 1.25, rectRadius: 0.1, fill: { color: "FDF1DE" }, line: { color: HEX.accent1, width: 1 } });
   metin(s, [
     { text: "Ön kavram kanıtı: ", options: { bold: true, color: C.text2 } },
-    { text: "Kurumun kendi ders içeriğiyle küçük ölçekli bir prototip hazırlanmaktadır; ilk ölçüm sonuçları hakem değerlendirmesinde sunulacaktır.", options: { color: C.text1 } },
+    { text: "Tamamen yerel ve açık modellerle çalışan prototip, gerçek ders içeriğiyle ölçüldü (Kasım 2026); sonuçlar bir sonraki slayttadır.", options: { color: C.text1 } },
   ], { x: 7.45, y: 5.1, w: 5.05, h: 1.05, fontSize: 13, valign: "middle" });
-  s.addNotes("Prototip tamamlandığında sağ alttaki kutuya ölçüm sonuçları (Recall@5, sadakat, reddetme, Kappa) ve örneklem büyüklüğü yazılabilir. Sonuçlar ne olursa olsun dürüstçe raporlanmalıdır; düşük bir değer Ar-Ge belirsizliğinin kanıtıdır.");
+  s.addNotes("Proje kapsamındaki test setleri gerçek ve anonimleştirilmiş öğrenci sorularıyla kurulacaktır. Başvuru öncesi kavram kanıtının sonuçları bir sonraki slayttadır; olumsuz bulgular da raporlanmıştır.");
+
+  // ---------- Kavram kanıtı ----------
+  // Sonuçlar: docs/07-arastirma-ve-kavram-kaniti.md ve prototip/sonuclar/*.json (26.11.2026)
+  const POC = { sizintiTarayicili: "%2,5", sizintiTarayicisiz: "%67,5", saldiri: "40" };
+  s = yeni("Ar-Ge ve yöntem");
+  baslik(s, "Kavram Kanıtı: Gerçek Ders İçeriğiyle İlk Ölçümler");
+  metin(s, "Kasım 2026 · 2 ders (gerontoloji, matematik), 100 kaynak parçası · tamamen yerel ve açık modeller: Cosmos T1 ve turkish-e5-large (YTÜ COSMOS), bge-m3, bge-reranker", { x: 0.6, y: 1.2, w: 12.1, h: 0.35, fontSize: 13, color: C.accent5 });
+  const kpi2 = [
+    ["%100", "Recall@5 · doğru kaynak ilk 5'te (83 soru)", "Türkçe kök bulma +6 puan; hibrit arama ve yeniden sıralama +4,8 puan"],
+    ["%98", "kaynak dışı soruyu doğru reddetme (46/47)", "Kapı olmadan %74; gereksiz ret %5"],
+    ["12 → 1", "uydurma cevap (47 kaynak dışı soru)", "Cevaplanabilirlik kapısıyla; cevaplananlarda doğruluk %97"],
+    [POC.sizintiTarayicili, "ödev cevabı sızıntısı (" + POC.saldiri + " saldırı istemi)", "Tarayıcı olmadan " + POC.sizintiTarayicisiz + "; deterministik sızıntı tarayıcısıyla"],
+  ];
+  kpi2.forEach(([n, b, a], i) => {
+    const x = 0.6 + (i % 2) * 3.55, y = 1.7 + Math.floor(i / 2) * 2.25;
+    kart(s, { x, y, w: 3.35, h: 2.05 });
+    metin(s, n, { x: x + 0.2, y: y + 0.12, w: 3.0, h: 0.75, fontSize: 32, bold: true, color: C.accent2, fontFace: "Cambria" });
+    metin(s, [{ text: b, options: { bold: true, color: C.text2, breakLine: true } }, { text: a, options: { fontSize: 11, color: C.accent5 } }], { x: x + 0.2, y: y + 0.9, w: 3.0, h: 1.1, fontSize: 13 });
+  });
+  s.addShape(pres.shapes.ROUNDED_RECTANGLE, { x: 7.85, y: 1.7, w: 4.85, h: 4.3, rectRadius: 0.12, fill: { color: C.text2 }, line: { color: C.text2 } });
+  metin(s, "Ar-Ge için ne öğrendik", { x: 8.1, y: 1.85, w: 4.4, h: 0.45, fontSize: 18, bold: true, color: C.accent1 });
+  metin(s, [
+    { text: "Konusu eşleşip ayrıntısı eşleşmeyen sorular (\"2023 verisi\") alaka kapısını geçiyor; çözüm iddia ve sayı düzeyinde doğrulama.", options: { bullet: true, breakLine: true } },
+    { text: "Hazır çok dilli NLI modeli Türkçe sayısal cümlelerde ve matematikte başarısız: Türkçe iddia doğrulama projenin araştırma sorusudur (AR-904).", options: { bullet: true, breakLine: true } },
+    { text: "Otomatik Türkçe soru üretimi yetersiz (çıktıların %58'i elendi): test seti üretimi de Ar-Ge işidir.", options: { bullet: true, breakLine: true } },
+    { text: "Rubrikle puanlama (AR-3) için eğitmen puanlı gerçek ödev verisi gerekiyor; bu veri kurumumuzda var.", options: { bullet: true } },
+  ], { x: 8.1, y: 2.35, w: 4.4, h: 3.55, fontSize: 13, color: C.background1, paraSpaceAfter: 6 });
+  metin(s, "Küçük örneklem; sorular proje ekibince yazıldı ve gerçek öğrenci sorularının yerini tutmaz. Gecikme dizüstü GPU'da ölçüldü (p50 17,7 sn); 3 sn hedefi sunucu GPU'sunda sınanacak. Ayrıntı ve kod: docs/07, prototip/.", { x: 0.6, y: 6.25, w: 12.1, h: 0.55, fontSize: 11, color: C.accent5 });
+  s.addNotes("Bu slayt başvuru öncesinde yapılan kavram kanıtının gerçek ölçümleridir. Ana mesaj: Ar-Ge çekirdeğindeki yöntemler çalışıyor ve ölçülebilir katkı sağlıyor; aynı zamanda deneyler hazır bileşenlerle çözülemeyen somut teknik belirsizlikleri gösterdi. Tüm modeller yurt içinde barındırılabilen açık modellerdir; YTÜ COSMOS grubunun iki modeli kullanıldı.");
 
   // ---------- 10 · İş planı (Gantt) ----------
   pres.addSection({ title: "Plan ve ekip" });
@@ -481,7 +511,7 @@ async function ikon(ad, renk = "FFFFFF") {
     await ikonDaire(s, ic, 9.55, y + 0.25, 0.65, C.text2);
     metin(s, [{ text: b, options: { bold: true, breakLine: true, color: C.text2 } }, { text: t, options: { fontSize: 12 } }], { x: 10.3, y: y + 0.08, w: 2.3, h: 1.05, fontSize: 14, valign: "middle" });
   }
-  s.addNotes("AB YZ Yasası Ek III(3)(b): öğrenme çıktısını değerlendiren YZ yüksek riskli; yükümlülükler 02.12.2027 (Digital Omnibus ile ertelendi, teyit edilmeli). Not kararı eğitmende olduğu için tasarım uyumlu.");
+  s.addNotes("AB YZ Yasası Ek III(3)(b): öğrenme çıktısını değerlendiren YZ yüksek riskli; yükümlülükler 02.12.2027 (Temmuz 2026'da kabul edilen Dijital Omnibus ile ertelendi). Not kararı eğitmende olduğu için tasarım uyumlu.");
 
   // ---------- Riskler ----------
   s = yeni("Ticarileşme");

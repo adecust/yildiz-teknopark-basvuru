@@ -14,12 +14,12 @@ Bu depo, eğitim kurumumuzun YTÜ Yıldız Teknopark'a aday firma başvurusunu v
 
 | Dosya | Kullanım |
 |---|---|
-| `KAYNAK-YZ_Firma_Proje_Sunumu.pdf` | Başvuru formundaki "Firma / Proje Sunumu" alanına yüklenir (19 slayt) |
+| `KAYNAK-YZ_Firma_Proje_Sunumu.pdf` | Başvuru formundaki "Firma / Proje Sunumu" alanına yüklenir (20 slayt) |
 | `KAYNAK-YZ_Firma_Proje_Sunumu.pptx` | Sunumun düzenlenebilir hâli |
 | `KAYNAK-YZ_Proje_Ozeti.pdf` | Proje özeti (9 sayfa); ön görüşmede ve hakem sürecinde sunulur |
 | `KAYNAK-YZ_Proje_Ozeti.docx` | Özetin düzenlenebilir hâli |
 
-Dosyalardaki sarı vurgulu ve köşeli ayraçlı (‹…›) alanlar kurum bilgileriyle doldurulmalıdır.
+Dosyalardaki köşeli ayraçlı (‹…›) alanlar kurum bilgileriyle doldurulmalıdır (sunumda kırmızı, özette kırmızı ve sarı vurgulu).
 
 ## Belgeler
 
@@ -30,6 +30,8 @@ Dosyalardaki sarı vurgulu ve köşeli ayraçlı (‹…›) alanlar kurum bilgi
 | [03 · Proje planı: sprintler ve kanban](docs/03-proje-plani-sprint-ve-kanban.md) | Fazlar, epikler, hazırlık dönemi, Faz 1'in 26 sprinti ve Faz 2–3 yol haritası |
 | [04 · Teknoloji kararları](docs/04-teknoloji-kararlari.md) | 20 teknoloji kararının alternatiflerle karşılaştırması ve gerekçeleri |
 | [06 · Ürün gereksinimleri](docs/06-urun-gereksinimleri.md) | Personalar, fonksiyonel olmayan gereksinimler (NFR) ve her kullanıcı hikâyesinin fonksiyonel gereksinimleri (FR) ile kabul kriterleri |
+| [07 · Araştırma doğrulaması ve kavram kanıtı](docs/07-arastirma-ve-kavram-kaniti.md) | Dış iddiaların birincil kaynaklardan doğrulanması; Ar-Ge çekirdeğinin yerel açık modellerle gerçek ders içeriğinde ölçülmesi |
+| [Prototip kodu](prototip/) | Kavram kanıtının kodu, deney betikleri ve toplu sonuçlar (ders verisi lisans nedeniyle repoda değildir) |
 | [05 · Bağımsız değerlendirme raporu](docs/05-degerlendirme-raporu.md) | Dosyanın hakem ölçütlerine göre değerlendirilmesi, yapılan düzeltmeler ve gönderim öncesi zorunlu işlemler |
 | [Proje dosyası (00–05)](docs/proje-dosyasi/00-ozet-ve-kunye.md) | Ayrıntılı proje dosyası: künye, pazar, Ar-Ge tasarımı, test planı, bütçe, risk ve hakem hazırlığı |
 | [Kaynak metinler](docs/kaynaklar/) | Yıldız Bölge İşletme Yönergesi 2025 ve karşılaştırma için İTÜ yönergesi |

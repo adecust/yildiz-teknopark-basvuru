@@ -20,8 +20,8 @@ O = olasılık, E = etki (1–5).
 | R8 | KVKK ihlali / veri sızıntısı | Hukuki | 1 | 5 | Satır düzeyi güvenlik, şifreleme, sızma testi, yurt içi barındırma | Olay müdahale planı, 72 saat bildirim prosedürü | DevOps + hukuk |
 | R9 | AB YZ Yasası takvimi veya yorumu değişir | Regülasyon | 3 | 2 | Tasarım zaten insan gözetimli ve kayıt tutuyor | AB girişini erteleme; Türk dilli pazarlara öncelik | Yönetim |
 | R10 | Google ve benzerleri Türkiye'de agresif fiyatlar | Ticari | 4 | 3 | Segment odağı (kurs, kurumsal, kurum içi kurulum); yurt içi veri; ölçülmüş kalite | Kurum içi kurulum ve API kanalına ağırlık | Yönetim |
-| R11 | Dış kurum pilotu bulunamaz | Ticari | 2 | 4 | İlk 3 hedef kurum listesi (H-10); Yıldız ağı; ücretsiz pilot teklifi | Kendi şubelerimiz veya ortak kurslar | Yönetim |
-| R12 | Faz 2 başvurusu gecikir → 90 gün kuralı | Takvim | 2 | 5 | KT-6 kaydırılamaz; 8.1 Kasım'da başlar | Faz 1 ek süre talebi (en fazla %30, bir kez) **ve** Faz 2 erken başvuru | Proje yöneticisi |
+| R11 | Dış kurum pilotu bulunamaz | Ticari | 2 | 4 | İlk 3 hedef kurum listesi (G-006); Yıldız ağı; ücretsiz pilot teklifi | Kendi şubelerimiz veya ortak kurslar | Yönetim |
+| R12 | Faz 2 başvurusu gecikir → 90 gün kuralı | Takvim | 2 | 5 | KT-6 kaydırılamaz; G-014 Kasım 2027'de başlar | Faz 1 ek süre talebi (en fazla %30, bir kez) **ve** Faz 2 erken başvuru | Proje yöneticisi |
 | R13 | Eğitim geliri ile Ar-Ge kazancı karışır (vergi denetimi) | Mali | 2 | 4 | Şube muhasebesi, ayrıştırma yöntemi, mali müşavir | YMM görüşü; gerekirse ayrı Ar-Ge şirketi | Mali müşavir |
 | R14 | Öğrenci veya eğitmen benimsemesi düşük | Ticari | 2 | 3 | Eğitmen eğitimi; ders içi tanıtım; geri bildirim döngüsü | Özellik önceliklerini pilot verisine göre değiştirme | Proje yöneticisi |
 | R15 | 31.12.2028 teşvik süresi uzatılmaz | Mevzuat | 2 | 3 | Mevzuat takibi | Faz 2 iş modeli teşviksiz senaryoya göre de kârlı kurgulanır | Mali müşavir |
@@ -65,7 +65,7 @@ O = olasılık, E = etki (1–5).
 ## 4. Hakem soru-cevap provası (en olası 15 soru)
 
 **S1. "Bu bir RAG uygulaması; ChatGPT'ye belge yükleyip soru sormaktan farkı ne? Ar-Ge nerede?"**
-C: Ar-Ge, modelin kendisinde değil, **güvenilirlik katmanında**. Hazır sistemlerin ölçülmemiş üç sorunu var: kaynak dışı soruda uydurma, ödev cevabını sızdırma ve insanla uyumsuz puanlama. Bizim hedeflerimiz literatürdeki temel çizginin ötesinde ve ölçülebilir: sadakat ≥ %95 + reddetme ≥ %90 aynı anda; sızıntı ≤ %2; QWK ≥ 0,75 (literatür 0,4–0,7). Bunlara hangi yöntemle ulaşılacağı belirsiz. Bu yüzden altı deney koluyla (E-1…E-6) sistematik olarak araştırıyoruz. Sonuçlar, Türkçe eğitim için daha önce olmayan test setleriyle ölçülecek.
+C: Ar-Ge, modelin kendisinde değil, **güvenilirlik katmanında**. Hazır sistemlerin ölçülmemiş üç sorunu var: kaynak dışı soruda uydurma, ödev cevabını sızdırma ve insanla uyumsuz puanlama. Bizim hedeflerimiz literatürdeki temel çizginin ötesinde ve ölçülebilir: sadakat ≥ %95 + reddetme ≥ %90 aynı anda; sızıntı ≤ %2; QWK ≥ 0,75 (literatür 0,4–0,7). Bunlara hangi yöntemle ulaşılacağı belirsiz. Bu yüzden altı deney koluyla (E-1…E-6) sistematik olarak araştırıyoruz. Sonuçlar, Türkçe eğitim için daha önce olmayan test setleriyle ölçülecek. Başvuru öncesi kavram kanıtımız bunu somutlaştırdı: cevaplanabilirlik kapısı kaynak dışı sorulardaki uydurmayı 47 soruda 12'den 1'e indirdi; buna karşılık hazır çok dilli doğrulama modeli Türkçe sayısal cümlelerde başarısız oldu. Yani sorun gerçek ve hazır bileşenlerle çözülmüyor (docs/07).
 
 **S2. "Google artık Classroom'da NotebookLM ve Gemini'yi veriyor. Neden sizi seçsinler?"**
 C: (1) Veri yurt içinde ya da kurumun kendi sunucusunda. Kamu, banka ve savunma akademileri için zorunlu; KVKK md. 9 aktarım yükünü kaldırıyor. (2) Segmentimiz Workspace okulları değil; kurslar, SEM'ler, kurumsal akademiler ve bireysel eğitmenler. Bunların kayıt, ödeme ve canlı ders ihtiyacını da karşılıyoruz. (3) Ölçülmüş güvenilirlik: sadakat, reddetme, sızıntı ve puan uyumunu kuruma şeffaf panoda gösteriyoruz. (4) Türkçe derinlik ve yerli model. (5) AB YZ Yasası uyumlu insan gözetimli değerlendirme.
@@ -74,7 +74,7 @@ C: (1) Veri yurt içinde ya da kurumun kendi sunucusunda. Kamu, banka ve savunma
 C: Şirket içinde yazılım ekibimiz var (platform kısmını o yürütüyor). YZ çekirdeği için kıdemli bir YZ/dil işleme mühendisi işe alıyoruz [durum]. YTÜ'den iki akademik danışmanla çalışıyoruz [isimler]. En önemlisi, rakiplerin sahip olmadığı şeye sahibiz: **gerçek öğrenciler, gerçek ders içeriği ve gerçek eğitmen puanları**. Değerlendirme Ar-Ge'si bu veri olmadan yapılamaz.
 
 **S4. "QWK 0,75 gerçekçi mi?"**
-C: Bilmiyoruz; Ar-Ge'nin konusu bu. Literatürde hazır modellerle 0,4–0,7 raporlanıyor. Rubrik iyileştirmeyle +0,19 ile +0,47 arası artış gösteren çalışmalar var. Biz kriter başına kanıt çıkarımı, çapa örnekleri, çoklu örnekleme ve ders bazında kalibrasyonla hedefliyoruz. Ulaşılamazsa B planımız hazır: sistem asistan modunda kalır ve eğitmen süresini yine ≥ %40 azaltır. Bu da ürün değerini korur.
+C: Bilmiyoruz; Ar-Ge'nin konusu bu. Literatürde hazır modellerle 0,4–0,7 raporlanıyor. Rubriğin yinelemeli iyileştirilmesiyle QWK'de 0,40'a varan artış gösteren çalışmalar var (arXiv 2510.09030). Biz kriter başına kanıt çıkarımı, çapa örnekleri, çoklu örnekleme ve ders bazında kalibrasyonla hedefliyoruz. Ulaşılamazsa B planımız hazır: sistem asistan modunda kalır ve eğitmen süresini yine ≥ %40 azaltır. Bu da ürün değerini korur.
 
 **S5. "12 ay yeter mi?"**
 C: Platform hazır bileşenlerle (canlı ders için BigBlueButton, PostgreSQL) kuruluyor ve efor payı %24. Ar-Ge iş paketleri paralel ilerliyor. 7 kilometre taşı ve her birinde devam/dur kriteri var. Opsiyonel kapsam (YZ metni tespiti) baştan ayrıldı.
@@ -116,7 +116,7 @@ C: Pilot dönemindeki saha çalışmaları (kurum ziyaretleri, eğitmen eğitiml
 | # | Ölçüt | Ağırlık | Kanıt (belge) | Öz puan (1–5) |
 |---|---|---|---|---|
 | 4 | Yenilik | 10 | 01 §4.2, 02 §1–2 | 4 |
-| 5 | Uygulanabilirlik | 6 | 02 §3–5, 04 §2–3, 03 §7 (PoC) | 4 |
+| 5 | Uygulanabilirlik | 6 | 02 §3–5, 04 §2–3, docs/07 (ölçülmüş PoC) | 5 |
 | 6 | Tekniğin bilinen durumunu aşma | 6 | 02 §2 temel çizgi ↔ hedef | 4 |
 | 7 | Ticarileşme | 15 | 04 §5, 01 §3, §5 | 4–5 |
 | 8 | İthal ikame / ihracat | 15 | 01 §6 | 4 |
@@ -149,13 +149,14 @@ Güncel sunum `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (düzenlenebilir hâli `
 | 10 | Sistem mimarisi | Katmanlar ve soru-cevap hattı |
 | 11 | Teknoloji altyapısı ve seçim gerekçeleri | Katman bazında seçim, gerekçe ve alternatif |
 | 12 | Doğrulama yaklaşımı | Test setleri ve yöntem |
-| 13 | Uygulama takvimi | Faz 1 Gantt şeması ve kilometre taşları |
-| 14 | Proje ekibi ve üniversite-sanayi iş birliği | Roller ve YTÜ danışmanları |
-| 15 | Pazar ve ticarileşme | Pazar büyüklüğü, fiyatlama, gelir projeksiyonu |
-| 16 | İthal ikame, ihracat ve mevzuata uyum | İkame edilen ürünler, ihracat yol haritası, KVKK ve AB YZ Yasası |
-| 17 | Riskler ve B planları | Altı temel risk, önlem ve B planı |
-| 18 | Bütçe ve finansman | ≈ 17,6 milyon TL; öz kaynak |
-| 19 | Sonuç | Faz zinciri ve Yıldız Teknopark'a katkı göstergeleri |
+| 13 | **Kavram kanıtı: ilk ölçümler** | Gerçek ders içeriğinde ölçülen sonuçlar ve Ar-Ge için öğrenilenler (docs/07) |
+| 14 | Uygulama takvimi | Faz 1 Gantt şeması ve kilometre taşları |
+| 15 | Proje ekibi ve üniversite-sanayi iş birliği | Roller ve YTÜ danışmanları |
+| 16 | Pazar ve ticarileşme | Pazar büyüklüğü, fiyatlama, gelir projeksiyonu |
+| 17 | İthal ikame, ihracat ve mevzuata uyum | İkame edilen ürünler, ihracat yol haritası, KVKK ve AB YZ Yasası |
+| 18 | Riskler ve B planları | Altı temel risk, önlem ve B planı |
+| 19 | Bütçe ve finansman | ≈ 17,6 milyon TL; öz kaynak |
+| 20 | Sonuç | Faz zinciri ve Yıldız Teknopark'a katkı göstergeleri |
 
 ## 7. Başvuru günü son kontrol listesi
 - [ ] Form metinleri belge 00 §3'ten; özet ≥ 1200 karakter
@@ -163,5 +164,5 @@ Güncel sunum `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (düzenlenebilir hâli `
 - [ ] Akademik iş birliği alanları güncel durumla dolduruldu
 - [ ] Rakamlar form, sunum ve proje dosyasında **birebir aynı** (personel 7, bütçe, tarihler)
 - [ ] 5 zorunlu evrak + sunum, OCR'lı PDF
-- [ ] Sunum: `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (19 slayt); kırmızı ‹…› alanlar dolduruldu
-- [ ] Başvuru teyidi kaydedildi; D-01 issue'su "devam" durumuna alındı
+- [ ] Sunum: `teslim/KAYNAK-YZ_Firma_Proje_Sunumu.pdf` (20 slayt); ‹…› ile işaretli tüm alanlar dolduruldu
+- [ ] Başvuru teyidi kaydedildi; G-009 issue'su kapatıldı
